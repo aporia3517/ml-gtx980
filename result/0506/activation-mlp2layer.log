@@ -1,0 +1,13 @@
+Using gpu device 0: GeForce GTX 980
+... loading data
+... building the model
+model: 2layermodel.dat has been loaded
+----activation1----
+0.0471676886082
+0.682166934013
+----activation2----
+0.126590877771
+0.501842081547
+----activation3----
+0.27955698967
+0.315733343363

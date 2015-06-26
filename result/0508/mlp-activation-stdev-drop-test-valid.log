@@ -1,0 +1,97 @@
+Using gpu device 0: GeForce GTX 980
+... loading data
+... building the model
+model: ../model/2layermodel.dat has been loaded
+original model: 0.898800 %
+----activation1----
+0.0462220869958
+0.668377220631
+modified model: 1.760 % with threshold 0.047 (dropped off 1 nodes) in layer 1
+modified model: 1.760 % with threshold 0.048 (dropped off 1 nodes) in layer 1
+modified model: 1.770 % with threshold 0.049 (dropped off 2 nodes) in layer 1
+modified model: 1.770 % with threshold 0.050 (dropped off 2 nodes) in layer 1
+modified model: 1.770 % with threshold 0.051 (dropped off 2 nodes) in layer 1
+modified model: 1.780 % with threshold 0.052 (dropped off 3 nodes) in layer 1
+modified model: 1.780 % with threshold 0.053 (dropped off 3 nodes) in layer 1
+modified model: 1.780 % with threshold 0.054 (dropped off 3 nodes) in layer 1
+modified model: 1.770 % with threshold 0.055 (dropped off 4 nodes) in layer 1
+modified model: 1.780 % with threshold 0.056 (dropped off 7 nodes) in layer 1
+modified model: 1.780 % with threshold 0.057 (dropped off 7 nodes) in layer 1
+modified model: 1.770 % with threshold 0.058 (dropped off 8 nodes) in layer 1
+modified model: 1.770 % with threshold 0.059 (dropped off 8 nodes) in layer 1
+modified model: 1.770 % with threshold 0.060 (dropped off 9 nodes) in layer 1
+modified model: 1.710 % with threshold 0.061 (dropped off 13 nodes) in layer 1
+modified model: 1.710 % with threshold 0.062 (dropped off 16 nodes) in layer 1
+modified model: 1.700 % with threshold 0.063 (dropped off 19 nodes) in layer 1
+modified model: 1.700 % with threshold 0.064 (dropped off 19 nodes) in layer 1
+modified model: 1.730 % with threshold 0.065 (dropped off 20 nodes) in layer 1
+modified model: 1.750 % with threshold 0.066 (dropped off 22 nodes) in layer 1
+modified model: 1.790 % with threshold 0.067 (dropped off 27 nodes) in layer 1
+modified model: 1.820 % with threshold 0.068 (dropped off 29 nodes) in layer 1
+modified model: 1.820 % with threshold 0.069 (dropped off 29 nodes) in layer 1
+modified model: 1.840 % with threshold 0.070 (dropped off 32 nodes) in layer 1
+modified model: 1.850 % with threshold 0.071 (dropped off 34 nodes) in layer 1
+modified model: 1.860 % with threshold 0.072 (dropped off 37 nodes) in layer 1
+modified model: 1.860 % with threshold 0.073 (dropped off 37 nodes) in layer 1
+modified model: 1.880 % with threshold 0.074 (dropped off 40 nodes) in layer 1
+modified model: 2.000 % with threshold 0.075 (dropped off 45 nodes) in layer 1
+modified model: 1.990 % with threshold 0.076 (dropped off 48 nodes) in layer 1
+modified model: 1.990 % with threshold 0.077 (dropped off 50 nodes) in layer 1
+modified model: 2.050 % with threshold 0.078 (dropped off 56 nodes) in layer 1
+modified model: 2.080 % with threshold 0.079 (dropped off 59 nodes) in layer 1
+modified model: 2.060 % with threshold 0.080 (dropped off 61 nodes) in layer 1
+modified model: 2.090 % with threshold 0.081 (dropped off 65 nodes) in layer 1
+modified model: 2.110 % with threshold 0.082 (dropped off 68 nodes) in layer 1
+modified model: 2.170 % with threshold 0.083 (dropped off 70 nodes) in layer 1
+modified model: 2.210 % with threshold 0.084 (dropped off 73 nodes) in layer 1
+modified model: 2.330 % with threshold 0.085 (dropped off 78 nodes) in layer 1
+modified model: 2.340 % with threshold 0.086 (dropped off 79 nodes) in layer 1
+modified model: 2.370 % with threshold 0.087 (dropped off 83 nodes) in layer 1
+modified model: 2.380 % with threshold 0.088 (dropped off 84 nodes) in layer 1
+modified model: 2.390 % with threshold 0.089 (dropped off 86 nodes) in layer 1
+modified model: 2.440 % with threshold 0.090 (dropped off 89 nodes) in layer 1
+----activation2----
+0.127036213875
+0.501403212547
+modified model: 1.750 % with threshold 0.136 (dropped off 2 nodes) in layer 1
+modified model: 1.750 % with threshold 0.139 (dropped off 2 nodes) in layer 1
+modified model: 1.730 % with threshold 0.142 (dropped off 3 nodes) in layer 1
+modified model: 1.750 % with threshold 0.145 (dropped off 4 nodes) in layer 1
+modified model: 1.750 % with threshold 0.148 (dropped off 6 nodes) in layer 1
+modified model: 1.750 % with threshold 0.151 (dropped off 7 nodes) in layer 1
+modified model: 1.760 % with threshold 0.154 (dropped off 9 nodes) in layer 1
+modified model: 1.760 % with threshold 0.157 (dropped off 9 nodes) in layer 1
+modified model: 1.780 % with threshold 0.160 (dropped off 11 nodes) in layer 1
+modified model: 1.770 % with threshold 0.163 (dropped off 14 nodes) in layer 1
+modified model: 1.770 % with threshold 0.166 (dropped off 15 nodes) in layer 1
+modified model: 1.770 % with threshold 0.169 (dropped off 19 nodes) in layer 1
+modified model: 1.770 % with threshold 0.172 (dropped off 21 nodes) in layer 1
+modified model: 1.760 % with threshold 0.175 (dropped off 25 nodes) in layer 1
+modified model: 1.750 % with threshold 0.178 (dropped off 30 nodes) in layer 1
+modified model: 1.750 % with threshold 0.181 (dropped off 32 nodes) in layer 1
+modified model: 1.770 % with threshold 0.184 (dropped off 36 nodes) in layer 1
+modified model: 1.740 % with threshold 0.187 (dropped off 42 nodes) in layer 1
+modified model: 1.720 % with threshold 0.190 (dropped off 52 nodes) in layer 1
+modified model: 1.730 % with threshold 0.193 (dropped off 56 nodes) in layer 1
+modified model: 1.740 % with threshold 0.196 (dropped off 64 nodes) in layer 1
+modified model: 1.720 % with threshold 0.199 (dropped off 72 nodes) in layer 1
+modified model: 1.740 % with threshold 0.202 (dropped off 77 nodes) in layer 1
+modified model: 1.710 % with threshold 0.205 (dropped off 87 nodes) in layer 1
+modified model: 1.720 % with threshold 0.208 (dropped off 94 nodes) in layer 1
+modified model: 1.730 % with threshold 0.211 (dropped off 102 nodes) in layer 1
+modified model: 1.760 % with threshold 0.214 (dropped off 110 nodes) in layer 1
+modified model: 1.780 % with threshold 0.217 (dropped off 118 nodes) in layer 1
+modified model: 1.790 % with threshold 0.220 (dropped off 127 nodes) in layer 1
+modified model: 1.800 % with threshold 0.223 (dropped off 138 nodes) in layer 1
+modified model: 1.810 % with threshold 0.226 (dropped off 144 nodes) in layer 1
+modified model: 1.820 % with threshold 0.229 (dropped off 155 nodes) in layer 1
+modified model: 1.790 % with threshold 0.232 (dropped off 171 nodes) in layer 1
+modified model: 1.850 % with threshold 0.235 (dropped off 183 nodes) in layer 1
+modified model: 1.860 % with threshold 0.238 (dropped off 195 nodes) in layer 1
+modified model: 1.840 % with threshold 0.241 (dropped off 205 nodes) in layer 1
+modified model: 1.870 % with threshold 0.244 (dropped off 216 nodes) in layer 1
+modified model: 1.910 % with threshold 0.247 (dropped off 236 nodes) in layer 1
+modified model: 2.010 % with threshold 0.250 (dropped off 255 nodes) in layer 1
+----activation3----
+0.281249940395
+0.307299464941
