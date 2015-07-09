@@ -21,10 +21,12 @@ References:
 __docformat__ = 'restructedtext en'
 
 
-import os,sys,time
-import cPickle
+import os
+import sys
+import time
 
 import numpy
+import cPickle
 
 import theano
 import theano.tensor as T
@@ -117,7 +119,7 @@ class MLP(object):
     class).
     """
 
-    def __init__(self, rng, input, n_in, n_hidden, n_out):
+    def __init__(self, rng, input, n_in, hidden_layer_sizes, n_out):
         """Initialize the parameters for the multilayer perceptron
 
         :type rng: numpy.random.RandomState
@@ -131,8 +133,8 @@ class MLP(object):
         :param n_in: number of input units, the dimension of the space in
         which the datapoints lie
 
-        :type n_hidden: int
-        :param n_hidden: number of hidden units
+        :type hidden_layer_sizes: list of int
+        :param hidden_layer_sizes: list of number of hidden units
 
         :type n_out: int
         :param n_out: number of output units, the dimension of the space in
@@ -141,36 +143,52 @@ class MLP(object):
         """
 
         # Since we are dealing with a one hidden layer MLP, this will translate
-        # into a HiddenLayer with a tanh activation function connected to the
+        # into a HiddenLayers with a tanh activation function connected to the
         # LogisticRegression layer; the activation function can be replaced by
         # sigmoid or any other nonlinear function
-        self.hiddenLayer = HiddenLayer(
+        self.hiddenLayers = []
+        self.hiddenLayers.append( HiddenLayer(
             rng=rng,
             input=input,
             n_in=n_in,
-            n_out=n_hidden,
+            n_out=hidden_layer_sizes[0],
             activation=T.tanh
         )
+        )
+
+        if len(hidden_layer_sizes) > 1:
+            for idx, size in enumerate(hidden_layer_sizes):
+                self.hiddenLayers.append( HiddenLayer(
+                        rng=rng,
+                        input=self.hiddenLayers[idx].output,
+                        n_in=hidden_layer_sizes[idx],
+                        n_out=hidden_layer_sizes[idx+1],
+                        activation=T.tanh
+                    )
+                )
+                if idx+1 == len(hidden_layer_sizes)-1:
+                    break
+
 
         # The logistic regression layer gets as input the hidden units
         # of the hidden layer
         self.logRegressionLayer = LogisticRegression(
-            input=self.hiddenLayer.output,
-            n_in=n_hidden,
+            input=self.hiddenLayers[-1].output,
+            n_in=hidden_layer_sizes[-1],
             n_out=n_out
         )
         # end-snippet-2 start-snippet-3
         # L1 norm ; one regularization option is to enforce L1 norm to
         # be small
         self.L1 = (
-            abs(self.hiddenLayer.W).sum()
+            sum([abs(x.W).sum() for x in self.hiddenLayers])
             + abs(self.logRegressionLayer.W).sum()
         )
 
         # square of L2 norm ; one regularization option is to enforce
         # square of L2 norm to be small
         self.L2_sqr = (
-            (self.hiddenLayer.W ** 2).sum()
+            sum([(x.W **2).sum() for x in self.hiddenLayers])
             + (self.logRegressionLayer.W ** 2).sum()
         )
 
@@ -185,39 +203,14 @@ class MLP(object):
 
         # the parameters of the model are the parameters of the two layer it is
         # made out of
-        self.params = self.hiddenLayer.params + self.logRegressionLayer.params
+        #self.params = self.hiddenLayer.params + self.logRegressionLayer.params
+        self.params = self.logRegressionLayer.params
+        for layer in self.hiddenLayers:
+            self.params += layer.params
         # end-snippet-3
 
 
-def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, model='special_mlp.dat',
-             dataset='mnist.pkl.gz', batch_size=20, n_hidden=500, seed=1234):
-    """
-    Demonstrate stochastic gradient descent optimization for a multilayer
-    perceptron
-
-    This is demonstrated on MNIST.
-
-    :type learning_rate: float
-    :param learning_rate: learning rate used (factor for the stochastic
-    gradient
-
-    :type L1_reg: float
-    :param L1_reg: L1-norm's weight when added to the cost (see
-    regularization)
-
-    :type L2_reg: float
-    :param L2_reg: L2-norm's weight when added to the cost (see
-    regularization)
-
-    :type n_epochs: int
-    :param n_epochs: maximal number of epochs to run the optimizer
-
-    :type dataset: string
-    :param dataset: the path of the MNIST dataset file from
-                 http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz
-
-
-   """
+def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=5000, dataset='mnist.pkl.gz', batch_size=20, hidden_layer_sizes=[500,500,500], seed=1234, model='../model/model.dat'):
     datasets = load_data(dataset)
 
     train_set_x, train_set_y = datasets[0]
@@ -247,9 +240,13 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, mode
         rng=rng,
         input=x,
         n_in=28 * 28,
-        n_hidden=n_hidden,
+        hidden_layer_sizes=hidden_layer_sizes,
         n_out=10
     )
+
+    #with open(model, 'r') as f:
+    #    for i, param in enumerate(classifier.params):
+    #        classifier.params[i].set_value(cPickle.load(f), borrow=True)
 
     # start-snippet-4
     # the cost we minimize during training is the negative log likelihood of
@@ -261,10 +258,6 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, mode
         + L2_reg * classifier.L2_sqr
     )
     # end-snippet-4
-
-    #with open(model, 'r') as f:
-    #    for i, param in enumerate(classifier.params):
-    #        classifier.params[i].set_value(cPickle.load(f), borrow=True)
 
     # compiling a Theano function that computes the mistakes that are made
     # by the model on a minibatch
@@ -398,20 +391,24 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, mode
                 break
 
     end_time = time.clock()
+    print(('Optimization complete. (with seed: %d) Best validation score of %f %% '
+           'obtained at iteration %i, with test performance %f %%') %
+          (seed, best_validation_loss * 100., best_iter + 1, test_score * 100.))
+    print >> sys.stderr, ('The code for file ' + os.path.split(__file__)[1] + ' ran for %.2fm' % ((end_time - start_time) / 60.))
 
     with open(model, 'wb') as f:
         for param in best_model_params:
             cPickle.dump(param, f, -1)
+            print(len(param))
     print(('weight model is saved as %s') % model)
 
-    print(('Optimization complete. (with seed: %d) Best validation score of %f %% '
-           'obtained at iteration %i, with test performance %f %%') %
-          (seed, best_validation_loss * 100., best_iter + 1, test_score * 100.))
-    print >> sys.stderr, ('The code for file ' +
-                          os.path.split(__file__)[1] +
-                          ' ran for %.2fm' % ((end_time - start_time) / 60.))
-
-
 if __name__ == '__main__':
-    seed=42
-    test_mlp(seed=seed, model='../model/special_mlp-h500-s42-general.dat')
+    #test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=5000, batch_size=20, hidden_layer_sizes=[500,500,500], seed=1234, model='../model/3layermodel-500-500.dat')
+    test_mlp(hidden_layer_sizes=[10], model='../model/abs-model-10.dat', seed=24)
+    test_mlp(hidden_layer_sizes=[10,10], model='../model/abs-model-10-10.dat', seed=24)
+    test_mlp(hidden_layer_sizes=[10,10,10], model='../model/abs-model-10-10-10.dat', seed=24)
+    test_mlp(hidden_layer_sizes=[10,10,10,10], model='../model/abs-model-10-10-10-10.dat', seed=24)
+
+    test_mlp(hidden_layer_sizes=[30,30], model='../model/abs-model-30-30.dat', seed=24)
+    test_mlp(hidden_layer_sizes=[50,50], model='../model/abs-model-50-50.dat', seed=24)
+    test_mlp(hidden_layer_sizes=[100,100], model='../model/abs-model-100-100.dat', seed=24)

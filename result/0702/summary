@@ -1,0 +1,14 @@
+10
+Optimization complete. (with seed: 24) Best validation score of 5.880000 % obtained at iteration 420000, with test performance 6.400000 %
+10,10
+Optimization complete. (with seed: 24) Best validation score of 5.940000 % obtained at iteration 307500, with test performance 6.340000 %
+10,10,10
+Optimization complete. (with seed: 24) Best validation score of 5.580000 % obtained at iteration 240000, with test performance 6.650000 %
+10,10,10,10
+Optimization complete. (with seed: 24) Best validation score of 5.660000 % obtained at iteration 242500, with test performance 6.360000 %
+30,30
+Optimization complete. (with seed: 24) Best validation score of 3.060000 % obtained at iteration 55000, with test performance 3.500000 %
+50,50
+Optimization complete. (with seed: 24) Best validation score of 2.110000 % obtained at iteration 1007500, with test performance 2.290000 %
+100,100
+Optimization complete. (with seed: 24) Best validation score of 1.650000 % obtained at iteration 6462500, with test performance 1.830000 %
