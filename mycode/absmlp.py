@@ -33,10 +33,13 @@ import theano.tensor as T
 
 from logistic_sgd import LogisticRegression, load_data
 
+def ReLU(X):
+    return T.maximum(X, 0.)
+
 # start-snippet-1
 class HiddenLayer(object):
     def __init__(self, rng, input, n_in, n_out, W=None, b=None,
-                 activation=T.tanh):
+                 activation=ReLU):
         """
         Typical hidden layer of a MLP: units are fully-connected and have
         sigmoidal activation function. Weight matrix W is of shape (n_in,n_out)
@@ -152,7 +155,7 @@ class MLP(object):
             input=input,
             n_in=n_in,
             n_out=hidden_layer_sizes[0],
-            activation=T.tanh
+            activation=ReLU
         )
         )
 
@@ -163,7 +166,7 @@ class MLP(object):
                         input=self.hiddenLayers[idx].output,
                         n_in=hidden_layer_sizes[idx],
                         n_out=hidden_layer_sizes[idx+1],
-                        activation=T.tanh
+                        activation=ReLU
                     )
                 )
                 if idx+1 == len(hidden_layer_sizes)-1:
@@ -411,4 +414,5 @@ if __name__ == '__main__':
 
     test_mlp(hidden_layer_sizes=[30,30], model='../model/abs-model-30-30.dat', seed=24)
     test_mlp(hidden_layer_sizes=[50,50], model='../model/abs-model-50-50.dat', seed=24)
+    test_mlp(hidden_layer_sizes=[75,75], model='../model/abs-model-75-75.dat', seed=24)
     test_mlp(hidden_layer_sizes=[100,100], model='../model/abs-model-100-100.dat', seed=24)
