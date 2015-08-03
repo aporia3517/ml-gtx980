@@ -24,6 +24,7 @@ __docformat__ = 'restructedtext en'
 import os
 import sys
 import time
+import gzip, cPickle
 
 import numpy
 
@@ -31,13 +32,111 @@ import theano
 import theano.tensor as T
 
 
-from logistic_sgd import LogisticRegression, load_data
+from logistic_sgd import LogisticRegression
 
+def ReLU(X):
+    return T.maximum(X, 0.)
+
+def load_data(dataset):
+    ''' Loads the dataset
+
+    :type dataset: string
+    :param dataset: the path to the dataset (here MNIST)
+    '''
+
+    #############
+    # LOAD DATA #
+    #############
+
+    # Download the MNIST dataset if it is not present
+    data_dir, data_file = os.path.split(dataset)
+    if data_dir == "" and not os.path.isfile(dataset):
+        # Check if dataset is in the data directory.
+        new_path = os.path.join(
+            os.path.split(__file__)[0],
+            "..",
+            "data",
+            dataset
+        )
+        if os.path.isfile(new_path) or data_file == 'mnist.pkl.gz':
+            dataset = new_path
+
+    if (not os.path.isfile(dataset)) and data_file == 'mnist.pkl.gz':
+        import urllib
+        origin = (
+            'http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz'
+        )
+        print 'Downloading data from %s' % origin
+        urllib.urlretrieve(origin, dataset)
+
+    print '... loading data'
+
+    # Load the dataset
+    f = gzip.open(dataset, 'rb')
+    train_set, valid_set, test_set = cPickle.load(f)
+    f.close()
+    #train_set, valid_set, test_set format: tuple(input, target)
+    #input is an numpy.ndarray of 2 dimensions (a matrix)
+    #witch row's correspond to an example. target is a
+    #numpy.ndarray of 1 dimensions (vector)) that have the same length as
+    #the number of rows in the input. It should give the target
+    #target to the example with the same index in the input.
+
+    def shared_dataset(data_xy, borrow=True):
+        """ Function that loads the dataset into shared variables
+
+        The reason we store our dataset in shared variables is to allow
+        Theano to copy it into the GPU memory (when code is run on GPU).
+        Since copying data into the GPU is slow, copying a minibatch everytime
+        is needed (the default behaviour if the data is not in a shared
+        variable) would lead to a large decrease in performance.
+        """
+        data_x, data_y = data_xy
+        shared_x = theano.shared(numpy.asarray(data_x, dtype=theano.config.floatX), borrow=borrow)
+        shared_y = theano.shared(numpy.asarray(data_y, dtype=theano.config.floatX), borrow=borrow)
+        # When storing data on the GPU it has to be stored as floats
+        # therefore we will store the labels as ``floatX`` as well
+        # (``shared_y`` does exactly that). But during our computations
+        # we need them as ints (we use labels as index, and if they are
+        # floats it doesn't make sense) therefore instead of returning
+        # ``shared_y`` we will have to cast it to int. This little hack
+        # lets ous get around this issue
+        return shared_x, T.cast(shared_y, 'int32')
+
+    # standardization
+    mean = train_set[0].mean(axis=0)
+    std = train_set[0].std(axis=0)
+    std[std == 0.0] = std = 1.0
+
+    train_set2 = train_set = (train_set[0] - mean, train_set[1])
+    train_set2 = train_set = (train_set[0] / std, train_set[1])
+    valid_set2 = valid_set = (valid_set[0] - mean, valid_set[1])
+    valid_set2 = valid_set = (valid_set[0] / std, valid_set[1])
+    test_set2 = test_set = (test_set[0] - mean, test_set[1])
+    test_set2 = test_set = (test_set[0] / std, test_set[1])
+
+    test_set2[0][test_set2[0] < 0] = -numpy.power(test_set2[0][test_set2[0] < 0], 2)
+    test_set2[0][test_set2[0] > 0] = numpy.power(test_set2[0][test_set2[0] > 0], 2)
+    valid_set2[0][valid_set2[0] < 0] = -numpy.power(valid_set2[0][valid_set2[0] < 0], 2)
+    valid_set2[0][valid_set2[0] > 0] = numpy.power(valid_set2[0][valid_set2[0] > 0], 2)
+    train_set2[0][train_set2[0] < 0] = -numpy.power(train_set2[0][train_set2[0] < 0], 2)
+    train_set2[0][train_set2[0] > 0] = numpy.power(train_set2[0][train_set2[0] > 0], 2)
+
+    test_set = (numpy.concatenate( (test_set[0] , test_set2[0]) , axis=1 ) , test_set[1])
+    valid_set = (numpy.concatenate( (valid_set[0] , valid_set2[0]) , axis=1 ) , valid_set[1])
+    train_set = (numpy.concatenate( (train_set[0] , train_set2[0]) , axis=1 ) , train_set[1])
+    test_set_x, test_set_y = shared_dataset(test_set)
+    valid_set_x, valid_set_y = shared_dataset(valid_set)
+    train_set_x, train_set_y = shared_dataset(train_set)
+
+    rval = [(train_set_x, train_set_y), (valid_set_x, valid_set_y),
+            (test_set_x, test_set_y)]
+    return rval
 
 # start-snippet-1
 class HiddenLayer(object):
     def __init__(self, rng, input, n_in, n_out, W=None, b=None,
-                 activation=T.tanh):
+                 activation=ReLU):
         """
         Typical hidden layer of a MLP: units are fully-connected and have
         sigmoidal activation function. Weight matrix W is of shape (n_in,n_out)
@@ -152,7 +251,7 @@ class MLP(object):
             input=input,
             n_in=n_in,
             n_out=n_hidden,
-            activation=T.tanh
+            activation=ReLU
         )
 
         # The logistic regression layer gets as input the hidden units
@@ -248,7 +347,7 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, data
     classifier = MLP(
         rng=rng,
         input=x,
-        n_in=28 * 28,
+        n_in=28 * 28 * 2,
         n_hidden=n_hidden,
         n_out=10
     )
@@ -401,4 +500,4 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, data
 
 if __name__ == '__main__':
     for seed in range(100,120):
-	test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=5000, dataset='mnist.pkl.gz', batch_size=20, n_hidden=500, seed=seed)
+        test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, dataset='mnist.pkl.gz', batch_size=20, n_hidden=50, seed=seed)

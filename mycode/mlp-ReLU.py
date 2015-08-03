@@ -33,11 +33,13 @@ import theano.tensor as T
 
 from logistic_sgd import LogisticRegression, load_data
 
+def ReLU(X):
+    return T.maximum(X, 0.)
 
 # start-snippet-1
 class HiddenLayer(object):
     def __init__(self, rng, input, n_in, n_out, W=None, b=None,
-                 activation=T.tanh):
+                 activation=ReLU):
         """
         Typical hidden layer of a MLP: units are fully-connected and have
         sigmoidal activation function. Weight matrix W is of shape (n_in,n_out)
@@ -152,7 +154,7 @@ class MLP(object):
             input=input,
             n_in=n_in,
             n_out=n_hidden,
-            activation=T.tanh
+            activation=ReLU
         )
 
         # The logistic regression layer gets as input the hidden units
@@ -401,4 +403,4 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, data
 
 if __name__ == '__main__':
     for seed in range(100,120):
-	test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=5000, dataset='mnist.pkl.gz', batch_size=20, n_hidden=500, seed=seed)
+	test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, dataset='mnist.pkl.gz', batch_size=20, n_hidden=50, seed=seed)
