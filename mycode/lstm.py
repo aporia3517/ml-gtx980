@@ -441,8 +441,7 @@ def train_lstm(
     tparams = init_tparams(params)
 
     # use_noise is for dropout
-    (use_noise, x, mask,
-     y, f_pred_prob, f_pred, cost) = build_model(tparams, model_options)
+    (use_noise, x, mask, y, f_pred_prob, f_pred, cost) = build_model(tparams, model_options)
 
     if decay_c > 0.:
         decay_c = theano.shared(numpy_floatX(decay_c), name='decay_c')
@@ -457,8 +456,7 @@ def train_lstm(
     f_grad = theano.function([x, mask, y], grads, name='f_grad')
 
     lr = tensor.scalar(name='lr')
-    f_grad_shared, f_update = optimizer(lr, tparams, grads,
-                                        x, mask, y, cost)
+    f_grad_shared, f_update = optimizer(lr, tparams, grads, x, mask, y, cost)
 
     print 'Optimization'
 
