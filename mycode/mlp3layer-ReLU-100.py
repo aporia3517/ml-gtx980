@@ -24,113 +24,17 @@ __docformat__ = 'restructedtext en'
 import os
 import sys
 import time
-import gzip, cPickle
 
 import numpy
+import cPickle
 
 import theano
 import theano.tensor as T
 
-from logistic_sgd import LogisticRegression
+from logistic_sgd import LogisticRegression, load_data
 
 def ReLU(X):
     return T.maximum(X, 0.)
-
-def load_data(dataset):
-    ''' Loads the dataset
-
-    :type dataset: string
-    :param dataset: the path to the dataset (here MNIST)
-    '''
-
-    #############
-    # LOAD DATA #
-    #############
-
-    # Download the MNIST dataset if it is not present
-    data_dir, data_file = os.path.split(dataset)
-    if data_dir == "" and not os.path.isfile(dataset):
-        # Check if dataset is in the data directory.
-        new_path = os.path.join(
-            os.path.split(__file__)[0],
-            "..",
-            "data",
-            dataset
-        )
-        if os.path.isfile(new_path) or data_file == 'mnist.pkl.gz':
-            dataset = new_path
-
-    if (not os.path.isfile(dataset)) and data_file == 'mnist.pkl.gz':
-        import urllib
-        origin = (
-            'http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz'
-        )
-        print 'Downloading data from %s' % origin
-        urllib.urlretrieve(origin, dataset)
-
-    print '... loading data'
-
-    # Load the dataset
-    f = gzip.open(dataset, 'rb')
-    train_set, valid_set, test_set = cPickle.load(f)
-    f.close()
-    #train_set, valid_set, test_set format: tuple(input, target)
-    #input is an numpy.ndarray of 2 dimensions (a matrix)
-    #witch row's correspond to an example. target is a
-    #numpy.ndarray of 1 dimensions (vector)) that have the same length as
-    #the number of rows in the input. It should give the target
-    #target to the example with the same index in the input.
-
-    def shared_dataset(data_xy, borrow=True):
-        """ Function that loads the dataset into shared variables
-
-        The reason we store our dataset in shared variables is to allow
-        Theano to copy it into the GPU memory (when code is run on GPU).
-        Since copying data into the GPU is slow, copying a minibatch everytime
-        is needed (the default behaviour if the data is not in a shared
-        variable) would lead to a large decrease in performance.
-        """
-        data_x, data_y = data_xy
-        shared_x = theano.shared(numpy.asarray(data_x, dtype=theano.config.floatX), borrow=borrow)
-        shared_y = theano.shared(numpy.asarray(data_y, dtype=theano.config.floatX), borrow=borrow)
-        # When storing data on the GPU it has to be stored as floats
-        # therefore we will store the labels as ``floatX`` as well
-        # (``shared_y`` does exactly that). But during our computations
-        # we need them as ints (we use labels as index, and if they are
-        # floats it doesn't make sense) therefore instead of returning
-        # ``shared_y`` we will have to cast it to int. This little hack
-        # lets ous get around this issue
-        return shared_x, T.cast(shared_y, 'int32')
-
-    # standardization
-    mean = train_set[0].mean(axis=0)
-    std = train_set[0].std(axis=0)
-    std[std == 0.0] = std = 1.0
-
-    train_set2 = train_set = (train_set[0] - mean, train_set[1])
-    train_set2 = train_set = (train_set[0] / std, train_set[1])
-    valid_set2 = valid_set = (valid_set[0] - mean, valid_set[1])
-    valid_set2 = valid_set = (valid_set[0] / std, valid_set[1])
-    test_set2 = test_set = (test_set[0] - mean, test_set[1])
-    test_set2 = test_set = (test_set[0] / std, test_set[1])
-
-    test_set2[0][test_set2[0] < 0] = -numpy.power(test_set2[0][test_set2[0] < 0], 2)
-    test_set2[0][test_set2[0] > 0] = numpy.power(test_set2[0][test_set2[0] > 0], 2)
-    valid_set2[0][valid_set2[0] < 0] = -numpy.power(valid_set2[0][valid_set2[0] < 0], 2)
-    valid_set2[0][valid_set2[0] > 0] = numpy.power(valid_set2[0][valid_set2[0] > 0], 2)
-    train_set2[0][train_set2[0] < 0] = -numpy.power(train_set2[0][train_set2[0] < 0], 2)
-    train_set2[0][train_set2[0] > 0] = numpy.power(train_set2[0][train_set2[0] > 0], 2)
-
-    test_set = (numpy.concatenate( (test_set[0] , test_set2[0], numpy.power(test_set[0], 3)) , axis=1 ) , test_set[1])
-    valid_set = (numpy.concatenate( (valid_set[0] , valid_set2[0], numpy.power(valid_set[0], 3)) , axis=1 ) , valid_set[1])
-    train_set = (numpy.concatenate( (train_set[0] , train_set2[0], numpy.power(train_set[0], 3)) , axis=1 ) , train_set[1])
-    test_set_x, test_set_y = shared_dataset(test_set)
-    valid_set_x, valid_set_y = shared_dataset(valid_set)
-    train_set_x, train_set_y = shared_dataset(train_set)
-
-    rval = [(train_set_x, train_set_y), (valid_set_x, valid_set_y),
-            (test_set_x, test_set_y)]
-    return rval
 
 # start-snippet-1
 class HiddenLayer(object):
@@ -218,7 +122,7 @@ class MLP(object):
     class).
     """
 
-    def __init__(self, rng, input, n_in, n_hidden, n_out):
+    def __init__(self, rng, input, n_in, hidden_layer_sizes, n_out):
         """Initialize the parameters for the multilayer perceptron
 
         :type rng: numpy.random.RandomState
@@ -232,8 +136,8 @@ class MLP(object):
         :param n_in: number of input units, the dimension of the space in
         which the datapoints lie
 
-        :type n_hidden: int
-        :param n_hidden: number of hidden units
+        :type hidden_layer_sizes: list of int
+        :param hidden_layer_sizes: list of number of hidden units
 
         :type n_out: int
         :param n_out: number of output units, the dimension of the space in
@@ -242,36 +146,51 @@ class MLP(object):
         """
 
         # Since we are dealing with a one hidden layer MLP, this will translate
-        # into a HiddenLayer with a tanh activation function connected to the
+        # into a HiddenLayers with a tanh activation function connected to the
         # LogisticRegression layer; the activation function can be replaced by
         # sigmoid or any other nonlinear function
-        self.hiddenLayer = HiddenLayer(
+        self.hiddenLayers = []
+        self.hiddenLayers.append( HiddenLayer(
             rng=rng,
             input=input,
             n_in=n_in,
-            n_out=n_hidden,
+            n_out=hidden_layer_sizes[0],
             activation=ReLU
         )
+        )
+
+        for idx, size in enumerate(hidden_layer_sizes):
+            self.hiddenLayers.append( HiddenLayer(
+                    rng=rng,
+                    input=self.hiddenLayers[idx].output,
+                    n_in=hidden_layer_sizes[idx],
+                    n_out=hidden_layer_sizes[idx+1],
+                    activation=ReLU
+                )
+            )
+            if idx+1 == len(hidden_layer_sizes)-1:
+                break
+
 
         # The logistic regression layer gets as input the hidden units
         # of the hidden layer
         self.logRegressionLayer = LogisticRegression(
-            input=self.hiddenLayer.output,
-            n_in=n_hidden,
+            input=self.hiddenLayers[-1].output,
+            n_in=hidden_layer_sizes[-1],
             n_out=n_out
         )
         # end-snippet-2 start-snippet-3
         # L1 norm ; one regularization option is to enforce L1 norm to
         # be small
         self.L1 = (
-            abs(self.hiddenLayer.W).sum()
+            sum([abs(x.W).sum() for x in self.hiddenLayers])
             + abs(self.logRegressionLayer.W).sum()
         )
 
         # square of L2 norm ; one regularization option is to enforce
         # square of L2 norm to be small
         self.L2_sqr = (
-            (self.hiddenLayer.W ** 2).sum()
+            sum([(x.W **2).sum() for x in self.hiddenLayers])
             + (self.logRegressionLayer.W ** 2).sum()
         )
 
@@ -286,11 +205,15 @@ class MLP(object):
 
         # the parameters of the model are the parameters of the two layer it is
         # made out of
-        self.params = self.hiddenLayer.params + self.logRegressionLayer.params
+        #self.params = self.hiddenLayer.params + self.logRegressionLayer.params
+        self.params = self.logRegressionLayer.params
+        for layer in self.hiddenLayers:
+            self.params += layer.params
         # end-snippet-3
 
 
-def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, dataset='mnist.pkl.gz', batch_size=20, n_hidden=500, seed=1234):
+def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000,
+             dataset='mnist.pkl.gz', batch_size=20, hidden_layer_sizes=[100,100,100], seed=1234, model='../model/3layermodel-100-100-100.dat'):
     """
     Demonstrate stochastic gradient descent optimization for a multilayer
     perceptron
@@ -315,9 +238,8 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, data
     :type dataset: string
     :param dataset: the path of the MNIST dataset file from
                  http://www.iro.umontreal.ca/~lisa/deep/data/mnist/mnist.pkl.gz
-
-
    """
+    model = '../model/3layermodel-100-100-100-seed-' + str(seed) + '.dat'
     datasets = load_data(dataset)
 
     train_set_x, train_set_y = datasets[0]
@@ -346,10 +268,14 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, data
     classifier = MLP(
         rng=rng,
         input=x,
-        n_in=28 * 28 * 3,
-        n_hidden=n_hidden,
+        n_in=28 * 28,
+        hidden_layer_sizes=hidden_layer_sizes,
         n_out=10
     )
+
+    #with open(model, 'r') as f:
+    #    for i, param in enumerate(classifier.params):
+    #        classifier.params[i].set_value(cPickle.load(f), borrow=True)
 
     # start-snippet-4
     # the cost we minimize during training is the negative log likelihood of
@@ -430,6 +356,7 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, data
                                   # on the validation set; in this case we
                                   # check every epoch
 
+    best_model_params = None
     best_validation_loss = numpy.inf
     best_iter = 0
     test_score = 0.
@@ -474,6 +401,10 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, data
                     best_validation_loss = this_validation_loss
                     best_iter = iter
 
+                    best_model_params = []
+                    for param in classifier.params:
+                        best_model_params.append(param.get_value(borrow=False))
+
                     # test it on the test set
                     test_losses = [test_model(i) for i
                                    in xrange(n_test_batches)]
@@ -496,7 +427,12 @@ def test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, data
                           os.path.split(__file__)[1] +
                           ' ran for %.2fm' % ((end_time - start_time) / 60.))
 
+    with open(model, 'wb') as f:
+        for param in best_model_params:
+            cPickle.dump(param, f, -1)
+            print(len(param))
+    print(('weight model is saved as %s') % model)
 
 if __name__ == '__main__':
-    for seed in range(100,120):
-        test_mlp(learning_rate=0.01, L1_reg=0.00, L2_reg=0.0001, n_epochs=1000, dataset='mnist.pkl.gz', batch_size=20, n_hidden=50, seed=seed)
+    for i in range(3,23):
+        test_mlp(seed=i)

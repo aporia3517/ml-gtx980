@@ -82,8 +82,7 @@ def load_pkl_to_jpg(dataset='mnist.pkl.gz'):
     valid_set_x, valid_set_y = shared_dataset(valid_set)
     train_set_x, train_set_y = shared_dataset(train_set)
 
-    rval = [(train_set_x, train_set_y), (valid_set_x, valid_set_y),
-            (test_set_x, test_set_y)]
+    rval = [(train_set_x, train_set_y), (valid_set_x, valid_set_y), (test_set_x, test_set_y)]
     return rval
 
 datasets = load_pkl_to_jpg()
@@ -92,8 +91,8 @@ valid_set_x, valid_set_y = datasets[1]
 test_set_x, test_set_y = datasets[2]
 
 for idx, (img,t) in enumerate(zip(train_set_x.get_value(), train_set_y.eval())):
-	filename = 'train-' + ('%05d' % idx) + '-' + str(t) + '.jpg'
-	img_path = os.path.join(os.path.split(__file__)[0], "..", "resource", filename)
-        print('saving ' + img_path)
-	img_array = img.reshape(28,28)
-	scipy.misc.imsave(img_path, img_array)
+    filename = 'train-' + ('%05d' % idx) + '-' + str(t) + '.jpg'
+    img_path = os.path.join(os.path.split(__file__)[0], "..", "resource", filename)
+    print('saving ' + img_path)
+    img_array = img.reshape(28,28)
+    scipy.misc.imsave(img_path, img_array)

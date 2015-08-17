@@ -76,6 +76,7 @@ class LeNetConvPoolLayer(object):
                    numpy.prod(poolsize))
         # initialize weights with random weights
         W_bound = numpy.sqrt(6. / (fan_in + fan_out))
+
         self.W = theano.shared(
             numpy.asarray(
                 rng.uniform(low=-W_bound, high=W_bound, size=filter_shape),
@@ -83,7 +84,6 @@ class LeNetConvPoolLayer(object):
             ),
             borrow=True
         )
-
         # the bias is a 1D tensor -- one bias per output feature map
         b_values = numpy.zeros((filter_shape[0],), dtype=theano.config.floatX)
         self.b = theano.shared(value=b_values, borrow=True)
@@ -337,8 +337,7 @@ def evaluate_lenet5(learning_rate=0.1, n_epochs=200, dataset='mnist.pkl.gz', nke
 
 if __name__ == '__main__':
     for i in range(100,120):
-        evaluate_lenet5(seed=i, nkerns=[20,50], activation=ReLU)
-
+        evaluate_lenet5(seed=i, nkerns=[1,1], activation=ReLU)
 
 def experiment(state, channel):
     evaluate_lenet5(state.learning_rate, dataset=state.dataset)
