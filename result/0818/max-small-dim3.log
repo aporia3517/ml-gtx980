@@ -1,0 +1,2812 @@
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 26.680000 %
+     epoch 1, minibatch 5000/7000, test error of best model 26.773333 %
+epoch 2, minibatch 3000/7000, validation error 31.426667 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 0) Best validation score of 26.680000 % obtained at iteration 5000, with test performance 26.773333 %
+seed: 0, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 46.746667 %
+     epoch 1, minibatch 5000/7000, test error of best model 47.973333 %
+epoch 2, minibatch 3000/7000, validation error 45.506667 %
+     epoch 2, minibatch 3000/7000, test error of best model 46.813333 %
+epoch 3, minibatch 1000/7000, validation error 40.680000 %
+     epoch 3, minibatch 1000/7000, test error of best model 41.840000 %
+epoch 3, minibatch 6000/7000, validation error 40.920000 %
+epoch 4, minibatch 4000/7000, validation error 40.906667 %
+epoch 5, minibatch 2000/7000, validation error 42.240000 %
+epoch 5, minibatch 7000/7000, validation error 45.613333 %
+epoch 6, minibatch 5000/7000, validation error 50.266667 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 0) Best validation score of 40.680000 % obtained at iteration 15000, with test performance 41.840000 %
+seed: 0, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 65.920000 %
+     epoch 1, minibatch 5000/7000, test error of best model 66.826667 %
+epoch 2, minibatch 3000/7000, validation error 67.400000 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 0) Best validation score of 65.920000 % obtained at iteration 5000, with test performance 66.826667 %
+seed: 0, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 61.933333 %
+     epoch 1, minibatch 5000/7000, test error of best model 62.013333 %
+epoch 2, minibatch 3000/7000, validation error 67.333333 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 0) Best validation score of 61.933333 % obtained at iteration 5000, with test performance 62.013333 %
+seed: 0, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 22.560000 %
+     epoch 1, minibatch 5000/7000, test error of best model 23.293333 %
+epoch 2, minibatch 3000/7000, validation error 40.733333 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 0) Best validation score of 22.560000 % obtained at iteration 5000, with test performance 23.293333 %
+seed: 0, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 40.026667 %
+     epoch 1, minibatch 5000/7000, test error of best model 41.053333 %
+epoch 2, minibatch 3000/7000, validation error 67.400000 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 0) Best validation score of 40.026667 % obtained at iteration 5000, with test performance 41.053333 %
+seed: 0, n_hidden: 8
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 65.920000 %
+     epoch 1, minibatch 5000/7000, test error of best model 66.826667 %
+epoch 2, minibatch 3000/7000, validation error 67.400000 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 1) Best validation score of 65.920000 % obtained at iteration 5000, with test performance 66.826667 %
+seed: 1, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 43.733333 %
+     epoch 1, minibatch 5000/7000, test error of best model 42.853333 %
+epoch 2, minibatch 3000/7000, validation error 43.200000 %
+     epoch 2, minibatch 3000/7000, test error of best model 43.280000 %
+epoch 3, minibatch 1000/7000, validation error 18.293333 %
+     epoch 3, minibatch 1000/7000, test error of best model 17.440000 %
+epoch 3, minibatch 6000/7000, validation error 22.306667 %
+epoch 4, minibatch 4000/7000, validation error 41.413333 %
+epoch 5, minibatch 2000/7000, validation error 25.786667 %
+epoch 5, minibatch 7000/7000, validation error 29.893333 %
+epoch 6, minibatch 5000/7000, validation error 22.213333 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 1) Best validation score of 18.293333 % obtained at iteration 15000, with test performance 17.440000 %
+seed: 1, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 39.266667 %
+     epoch 1, minibatch 5000/7000, test error of best model 40.253333 %
+epoch 2, minibatch 3000/7000, validation error 19.933333 %
+     epoch 2, minibatch 3000/7000, test error of best model 19.666667 %
+epoch 3, minibatch 1000/7000, validation error 25.720000 %
+epoch 3, minibatch 6000/7000, validation error 27.680000 %
+epoch 4, minibatch 4000/7000, validation error 14.240000 %
+     epoch 4, minibatch 4000/7000, test error of best model 13.626667 %
+epoch 5, minibatch 2000/7000, validation error 13.706667 %
+     epoch 5, minibatch 2000/7000, test error of best model 13.733333 %
+epoch 5, minibatch 7000/7000, validation error 29.506667 %
+epoch 6, minibatch 5000/7000, validation error 35.653333 %
+epoch 7, minibatch 3000/7000, validation error 29.466667 %
+epoch 8, minibatch 1000/7000, validation error 19.546667 %
+epoch 8, minibatch 6000/7000, validation error 15.333333 %
+epoch 9, minibatch 4000/7000, validation error 23.040000 %
+epoch 10, minibatch 2000/7000, validation error 13.760000 %
+epoch 10, minibatch 7000/7000, validation error 33.266667 %
+epoch 11, minibatch 5000/7000, validation error 20.933333 %
+epoch 12, minibatch 3000/7000, validation error 20.720000 %
+epoch 13, minibatch 1000/7000, validation error 11.600000 %
+     epoch 13, minibatch 1000/7000, test error of best model 11.426667 %
+epoch 13, minibatch 6000/7000, validation error 20.053333 %
+epoch 14, minibatch 4000/7000, validation error 26.680000 %
+epoch 15, minibatch 2000/7000, validation error 27.240000 %
+epoch 15, minibatch 7000/7000, validation error 22.173333 %
+epoch 16, minibatch 5000/7000, validation error 17.560000 %
+epoch 17, minibatch 3000/7000, validation error 13.440000 %
+epoch 18, minibatch 1000/7000, validation error 15.853333 %
+epoch 18, minibatch 6000/7000, validation error 24.880000 %
+epoch 19, minibatch 4000/7000, validation error 19.133333 %
+epoch 20, minibatch 2000/7000, validation error 27.413333 %
+epoch 20, minibatch 7000/7000, validation error 19.346667 %
+epoch 21, minibatch 5000/7000, validation error 20.546667 %
+epoch 22, minibatch 3000/7000, validation error 19.786667 %
+epoch 23, minibatch 1000/7000, validation error 30.106667 %
+epoch 23, minibatch 6000/7000, validation error 24.560000 %
+epoch 24, minibatch 4000/7000, validation error 15.346667 %
+epoch 25, minibatch 2000/7000, validation error 15.013333 %
+epoch 25, minibatch 7000/7000, validation error 20.880000 %
+epoch 26, minibatch 5000/7000, validation error 28.173333 %
+epoch 27, minibatch 3000/7000, validation error 25.346667 %
+epoch 28, minibatch 1000/7000, validation error 21.666667 %
+epoch 28, minibatch 6000/7000, validation error 18.080000 %
+epoch 29, minibatch 4000/7000, validation error 37.466667 %
+epoch 30, minibatch 2000/7000, validation error 31.560000 %
+epoch 30, minibatch 7000/7000, validation error 24.866667 %
+epoch 31, minibatch 5000/7000, validation error 19.946667 %
+epoch 32, minibatch 3000/7000, validation error 15.773333 %
+epoch 33, minibatch 1000/7000, validation error 32.920000 %
+epoch 33, minibatch 6000/7000, validation error 22.773333 %
+epoch 34, minibatch 4000/7000, validation error 24.853333 %
+epoch 35, minibatch 2000/7000, validation error 16.800000 %
+epoch 35, minibatch 7000/7000, validation error 25.293333 %
+epoch 36, minibatch 5000/7000, validation error 14.773333 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 1) Best validation score of 11.600000 % obtained at iteration 85000, with test performance 11.426667 %
+seed: 1, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 30.640000 %
+     epoch 1, minibatch 5000/7000, test error of best model 30.666667 %
+epoch 2, minibatch 3000/7000, validation error 25.720000 %
+     epoch 2, minibatch 3000/7000, test error of best model 25.866667 %
+epoch 3, minibatch 1000/7000, validation error 23.386667 %
+     epoch 3, minibatch 1000/7000, test error of best model 23.560000 %
+epoch 3, minibatch 6000/7000, validation error 49.506667 %
+epoch 4, minibatch 4000/7000, validation error 30.213333 %
+epoch 5, minibatch 2000/7000, validation error 25.000000 %
+epoch 5, minibatch 7000/7000, validation error 25.053333 %
+epoch 6, minibatch 5000/7000, validation error 18.480000 %
+     epoch 6, minibatch 5000/7000, test error of best model 19.026667 %
+epoch 7, minibatch 3000/7000, validation error 25.066667 %
+epoch 8, minibatch 1000/7000, validation error 11.986667 %
+     epoch 8, minibatch 1000/7000, test error of best model 12.026667 %
+epoch 8, minibatch 6000/7000, validation error 18.826667 %
+epoch 9, minibatch 4000/7000, validation error 12.373333 %
+epoch 10, minibatch 2000/7000, validation error 27.440000 %
+epoch 10, minibatch 7000/7000, validation error 22.493333 %
+epoch 11, minibatch 5000/7000, validation error 23.906667 %
+epoch 12, minibatch 3000/7000, validation error 18.386667 %
+epoch 13, minibatch 1000/7000, validation error 19.173333 %
+epoch 13, minibatch 6000/7000, validation error 12.213333 %
+epoch 14, minibatch 4000/7000, validation error 13.706667 %
+epoch 15, minibatch 2000/7000, validation error 14.800000 %
+epoch 15, minibatch 7000/7000, validation error 16.266667 %
+epoch 16, minibatch 5000/7000, validation error 15.706667 %
+epoch 17, minibatch 3000/7000, validation error 14.066667 %
+epoch 18, minibatch 1000/7000, validation error 12.586667 %
+epoch 18, minibatch 6000/7000, validation error 13.453333 %
+epoch 19, minibatch 4000/7000, validation error 17.120000 %
+epoch 20, minibatch 2000/7000, validation error 14.746667 %
+epoch 20, minibatch 7000/7000, validation error 18.840000 %
+epoch 21, minibatch 5000/7000, validation error 19.920000 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 1) Best validation score of 11.986667 % obtained at iteration 50000, with test performance 12.026667 %
+seed: 1, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 37.906667 %
+     epoch 1, minibatch 5000/7000, test error of best model 37.520000 %
+epoch 2, minibatch 3000/7000, validation error 23.093333 %
+     epoch 2, minibatch 3000/7000, test error of best model 23.373333 %
+epoch 3, minibatch 1000/7000, validation error 16.146667 %
+     epoch 3, minibatch 1000/7000, test error of best model 15.800000 %
+epoch 3, minibatch 6000/7000, validation error 59.840000 %
+epoch 4, minibatch 4000/7000, validation error 34.853333 %
+epoch 5, minibatch 2000/7000, validation error 26.413333 %
+epoch 5, minibatch 7000/7000, validation error 45.000000 %
+epoch 6, minibatch 5000/7000, validation error 33.346667 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 1) Best validation score of 16.146667 % obtained at iteration 15000, with test performance 15.800000 %
+seed: 1, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 64.880000 %
+     epoch 1, minibatch 5000/7000, test error of best model 65.920000 %
+epoch 2, minibatch 3000/7000, validation error 46.493333 %
+     epoch 2, minibatch 3000/7000, test error of best model 47.306667 %
+epoch 3, minibatch 1000/7000, validation error 60.493333 %
+epoch 3, minibatch 6000/7000, validation error 34.000000 %
+     epoch 3, minibatch 6000/7000, test error of best model 35.186667 %
+epoch 4, minibatch 4000/7000, validation error 35.226667 %
+epoch 5, minibatch 2000/7000, validation error 43.520000 %
+epoch 5, minibatch 7000/7000, validation error 53.373333 %
+epoch 6, minibatch 5000/7000, validation error 49.666667 %
+epoch 7, minibatch 3000/7000, validation error 46.680000 %
+epoch 8, minibatch 1000/7000, validation error 36.120000 %
+epoch 8, minibatch 6000/7000, validation error 46.066667 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 1) Best validation score of 34.000000 % obtained at iteration 20000, with test performance 35.186667 %
+seed: 1, n_hidden: 8
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 64.813333 %
+     epoch 1, minibatch 5000/7000, test error of best model 65.693333 %
+epoch 2, minibatch 3000/7000, validation error 36.933333 %
+     epoch 2, minibatch 3000/7000, test error of best model 36.413333 %
+epoch 3, minibatch 1000/7000, validation error 54.346667 %
+epoch 3, minibatch 6000/7000, validation error 39.106667 %
+epoch 4, minibatch 4000/7000, validation error 58.053333 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 2) Best validation score of 36.933333 % obtained at iteration 10000, with test performance 36.413333 %
+seed: 2, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 42.693333 %
+     epoch 1, minibatch 5000/7000, test error of best model 41.280000 %
+epoch 2, minibatch 3000/7000, validation error 46.866667 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 2) Best validation score of 42.693333 % obtained at iteration 5000, with test performance 41.280000 %
+seed: 2, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 17.706667 %
+     epoch 1, minibatch 5000/7000, test error of best model 18.773333 %
+epoch 2, minibatch 3000/7000, validation error 13.626667 %
+     epoch 2, minibatch 3000/7000, test error of best model 14.680000 %
+epoch 3, minibatch 1000/7000, validation error 43.186667 %
+epoch 3, minibatch 6000/7000, validation error 48.960000 %
+epoch 4, minibatch 4000/7000, validation error 18.373333 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 2) Best validation score of 13.626667 % obtained at iteration 10000, with test performance 14.680000 %
+seed: 2, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 24.986667 %
+     epoch 1, minibatch 5000/7000, test error of best model 25.266667 %
+epoch 2, minibatch 3000/7000, validation error 25.133333 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 2) Best validation score of 24.986667 % obtained at iteration 5000, with test performance 25.266667 %
+seed: 2, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 12.973333 %
+     epoch 1, minibatch 5000/7000, test error of best model 13.760000 %
+epoch 2, minibatch 3000/7000, validation error 36.133333 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 2) Best validation score of 12.973333 % obtained at iteration 5000, with test performance 13.760000 %
+seed: 2, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 53.640000 %
+     epoch 1, minibatch 5000/7000, test error of best model 52.480000 %
+epoch 2, minibatch 3000/7000, validation error 27.693333 %
+     epoch 2, minibatch 3000/7000, test error of best model 27.786667 %
+epoch 3, minibatch 1000/7000, validation error 50.440000 %
+epoch 3, minibatch 6000/7000, validation error 48.933333 %
+epoch 4, minibatch 4000/7000, validation error 36.600000 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 2) Best validation score of 27.693333 % obtained at iteration 10000, with test performance 27.786667 %
+seed: 2, n_hidden: 8
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 40.306667 %
+     epoch 1, minibatch 5000/7000, test error of best model 40.920000 %
+epoch 2, minibatch 3000/7000, validation error 45.320000 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 3) Best validation score of 40.306667 % obtained at iteration 5000, with test performance 40.920000 %
+seed: 3, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 65.920000 %
+     epoch 1, minibatch 5000/7000, test error of best model 66.826667 %
+epoch 2, minibatch 3000/7000, validation error 67.400000 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 3) Best validation score of 65.920000 % obtained at iteration 5000, with test performance 66.826667 %
+seed: 3, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 24.506667 %
+     epoch 1, minibatch 5000/7000, test error of best model 24.480000 %
+epoch 2, minibatch 3000/7000, validation error 38.933333 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 3) Best validation score of 24.506667 % obtained at iteration 5000, with test performance 24.480000 %
+seed: 3, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 25.640000 %
+     epoch 1, minibatch 5000/7000, test error of best model 26.080000 %
+epoch 2, minibatch 3000/7000, validation error 34.573333 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 3) Best validation score of 25.640000 % obtained at iteration 5000, with test performance 26.080000 %
+seed: 3, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 26.040000 %
+     epoch 1, minibatch 5000/7000, test error of best model 26.586667 %
+epoch 2, minibatch 3000/7000, validation error 27.426667 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 3) Best validation score of 26.040000 % obtained at iteration 5000, with test performance 26.586667 %
+seed: 3, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 36.600000 %
+     epoch 1, minibatch 5000/7000, test error of best model 37.346667 %
+epoch 2, minibatch 3000/7000, validation error 43.906667 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 3) Best validation score of 36.600000 % obtained at iteration 5000, with test performance 37.346667 %
+seed: 3, n_hidden: 8
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 58.986667 %
+     epoch 1, minibatch 5000/7000, test error of best model 59.613333 %
+epoch 2, minibatch 3000/7000, validation error 56.786667 %
+     epoch 2, minibatch 3000/7000, test error of best model 56.213333 %
+epoch 3, minibatch 1000/7000, validation error 48.626667 %
+     epoch 3, minibatch 1000/7000, test error of best model 48.493333 %
+epoch 3, minibatch 6000/7000, validation error 40.866667 %
+     epoch 3, minibatch 6000/7000, test error of best model 40.720000 %
+epoch 4, minibatch 4000/7000, validation error 44.000000 %
+epoch 5, minibatch 2000/7000, validation error 44.893333 %
+epoch 5, minibatch 7000/7000, validation error 47.080000 %
+epoch 6, minibatch 5000/7000, validation error 45.000000 %
+epoch 7, minibatch 3000/7000, validation error 36.040000 %
+     epoch 7, minibatch 3000/7000, test error of best model 35.720000 %
+epoch 8, minibatch 1000/7000, validation error 43.826667 %
+epoch 8, minibatch 6000/7000, validation error 42.986667 %
+epoch 9, minibatch 4000/7000, validation error 40.066667 %
+epoch 10, minibatch 2000/7000, validation error 38.626667 %
+epoch 10, minibatch 7000/7000, validation error 46.093333 %
+epoch 11, minibatch 5000/7000, validation error 44.146667 %
+epoch 12, minibatch 3000/7000, validation error 42.213333 %
+epoch 13, minibatch 1000/7000, validation error 38.693333 %
+epoch 13, minibatch 6000/7000, validation error 38.506667 %
+epoch 14, minibatch 4000/7000, validation error 39.026667 %
+epoch 15, minibatch 2000/7000, validation error 39.773333 %
+epoch 15, minibatch 7000/7000, validation error 39.080000 %
+epoch 16, minibatch 5000/7000, validation error 40.320000 %
+epoch 17, minibatch 3000/7000, validation error 52.120000 %
+epoch 18, minibatch 1000/7000, validation error 45.520000 %
+epoch 18, minibatch 6000/7000, validation error 53.866667 %
+epoch 19, minibatch 4000/7000, validation error 55.560000 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 4) Best validation score of 36.040000 % obtained at iteration 45000, with test performance 35.720000 %
+seed: 4, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 27.160000 %
+     epoch 1, minibatch 5000/7000, test error of best model 27.453333 %
+epoch 2, minibatch 3000/7000, validation error 47.920000 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 4) Best validation score of 27.160000 % obtained at iteration 5000, with test performance 27.453333 %
+seed: 4, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 38.653333 %
+     epoch 1, minibatch 5000/7000, test error of best model 38.640000 %
+epoch 2, minibatch 3000/7000, validation error 11.533333 %
+     epoch 2, minibatch 3000/7000, test error of best model 12.640000 %
+epoch 3, minibatch 1000/7000, validation error 26.280000 %
+epoch 3, minibatch 6000/7000, validation error 24.680000 %
+epoch 4, minibatch 4000/7000, validation error 26.573333 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 4) Best validation score of 11.533333 % obtained at iteration 10000, with test performance 12.640000 %
+seed: 4, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 36.240000 %
+     epoch 1, minibatch 5000/7000, test error of best model 35.600000 %
+epoch 2, minibatch 3000/7000, validation error 17.373333 %
+     epoch 2, minibatch 3000/7000, test error of best model 17.906667 %
+epoch 3, minibatch 1000/7000, validation error 27.186667 %
+epoch 3, minibatch 6000/7000, validation error 39.066667 %
+epoch 4, minibatch 4000/7000, validation error 16.266667 %
+     epoch 4, minibatch 4000/7000, test error of best model 15.853333 %
+epoch 5, minibatch 2000/7000, validation error 20.546667 %
+epoch 5, minibatch 7000/7000, validation error 24.893333 %
+epoch 6, minibatch 5000/7000, validation error 17.386667 %
+epoch 7, minibatch 3000/7000, validation error 19.493333 %
+epoch 8, minibatch 1000/7000, validation error 14.880000 %
+     epoch 8, minibatch 1000/7000, test error of best model 14.960000 %
+epoch 8, minibatch 6000/7000, validation error 21.440000 %
+epoch 9, minibatch 4000/7000, validation error 11.960000 %
+     epoch 9, minibatch 4000/7000, test error of best model 12.093333 %
+epoch 10, minibatch 2000/7000, validation error 35.626667 %
+epoch 10, minibatch 7000/7000, validation error 26.586667 %
+epoch 11, minibatch 5000/7000, validation error 19.106667 %
+epoch 12, minibatch 3000/7000, validation error 15.293333 %
+epoch 13, minibatch 1000/7000, validation error 15.213333 %
+epoch 13, minibatch 6000/7000, validation error 15.013333 %
+epoch 14, minibatch 4000/7000, validation error 32.760000 %
+epoch 15, minibatch 2000/7000, validation error 31.253333 %
+epoch 15, minibatch 7000/7000, validation error 17.626667 %
+epoch 16, minibatch 5000/7000, validation error 22.440000 %
+epoch 17, minibatch 3000/7000, validation error 13.000000 %
+epoch 18, minibatch 1000/7000, validation error 28.333333 %
+epoch 18, minibatch 6000/7000, validation error 24.333333 %
+epoch 19, minibatch 4000/7000, validation error 27.560000 %
+epoch 20, minibatch 2000/7000, validation error 18.026667 %
+epoch 20, minibatch 7000/7000, validation error 29.546667 %
+epoch 21, minibatch 5000/7000, validation error 26.480000 %
+epoch 22, minibatch 3000/7000, validation error 13.053333 %
+epoch 23, minibatch 1000/7000, validation error 20.160000 %
+epoch 23, minibatch 6000/7000, validation error 22.946667 %
+epoch 24, minibatch 4000/7000, validation error 23.360000 %
+epoch 25, minibatch 2000/7000, validation error 11.093333 %
+     epoch 25, minibatch 2000/7000, test error of best model 11.613333 %
+epoch 25, minibatch 7000/7000, validation error 10.333333 %
+     epoch 25, minibatch 7000/7000, test error of best model 10.906667 %
+epoch 26, minibatch 5000/7000, validation error 16.320000 %
+epoch 27, minibatch 3000/7000, validation error 16.280000 %
+epoch 28, minibatch 1000/7000, validation error 17.600000 %
+epoch 28, minibatch 6000/7000, validation error 30.133333 %
+epoch 29, minibatch 4000/7000, validation error 26.520000 %
+epoch 30, minibatch 2000/7000, validation error 17.560000 %
+epoch 30, minibatch 7000/7000, validation error 11.666667 %
+epoch 31, minibatch 5000/7000, validation error 15.426667 %
+epoch 32, minibatch 3000/7000, validation error 11.160000 %
+epoch 33, minibatch 1000/7000, validation error 25.146667 %
+epoch 33, minibatch 6000/7000, validation error 28.946667 %
+epoch 34, minibatch 4000/7000, validation error 16.800000 %
+epoch 35, minibatch 2000/7000, validation error 17.720000 %
+epoch 35, minibatch 7000/7000, validation error 19.840000 %
+epoch 36, minibatch 5000/7000, validation error 29.586667 %
+epoch 37, minibatch 3000/7000, validation error 25.960000 %
+epoch 38, minibatch 1000/7000, validation error 16.293333 %
+epoch 38, minibatch 6000/7000, validation error 16.893333 %
+epoch 39, minibatch 4000/7000, validation error 17.453333 %
+epoch 40, minibatch 2000/7000, validation error 15.240000 %
+epoch 40, minibatch 7000/7000, validation error 11.706667 %
+epoch 41, minibatch 5000/7000, validation error 13.386667 %
+epoch 42, minibatch 3000/7000, validation error 14.506667 %
+epoch 43, minibatch 1000/7000, validation error 22.213333 %
+epoch 43, minibatch 6000/7000, validation error 15.786667 %
+epoch 44, minibatch 4000/7000, validation error 12.146667 %
+epoch 45, minibatch 2000/7000, validation error 17.853333 %
+epoch 45, minibatch 7000/7000, validation error 12.800000 %
+epoch 46, minibatch 5000/7000, validation error 16.026667 %
+epoch 47, minibatch 3000/7000, validation error 14.800000 %
+epoch 48, minibatch 1000/7000, validation error 13.866667 %
+epoch 48, minibatch 6000/7000, validation error 15.573333 %
+epoch 49, minibatch 4000/7000, validation error 13.746667 %
+epoch 50, minibatch 2000/7000, validation error 16.706667 %
+epoch 50, minibatch 7000/7000, validation error 15.080000 %
+epoch 51, minibatch 5000/7000, validation error 20.520000 %
+epoch 52, minibatch 3000/7000, validation error 25.560000 %
+epoch 53, minibatch 1000/7000, validation error 33.653333 %
+epoch 53, minibatch 6000/7000, validation error 28.826667 %
+epoch 54, minibatch 4000/7000, validation error 19.800000 %
+epoch 55, minibatch 2000/7000, validation error 13.253333 %
+epoch 55, minibatch 7000/7000, validation error 30.040000 %
+epoch 56, minibatch 5000/7000, validation error 13.066667 %
+epoch 57, minibatch 3000/7000, validation error 22.053333 %
+epoch 58, minibatch 1000/7000, validation error 24.720000 %
+epoch 58, minibatch 6000/7000, validation error 29.306667 %
+epoch 59, minibatch 4000/7000, validation error 22.466667 %
+epoch 60, minibatch 2000/7000, validation error 17.480000 %
+epoch 60, minibatch 7000/7000, validation error 20.360000 %
+epoch 61, minibatch 5000/7000, validation error 14.053333 %
+epoch 62, minibatch 3000/7000, validation error 20.760000 %
+epoch 63, minibatch 1000/7000, validation error 15.146667 %
+epoch 63, minibatch 6000/7000, validation error 21.880000 %
+epoch 64, minibatch 4000/7000, validation error 20.546667 %
+epoch 65, minibatch 2000/7000, validation error 20.026667 %
+epoch 65, minibatch 7000/7000, validation error 15.386667 %
+epoch 66, minibatch 5000/7000, validation error 15.093333 %
+epoch 67, minibatch 3000/7000, validation error 14.786667 %
+epoch 68, minibatch 1000/7000, validation error 17.213333 %
+epoch 68, minibatch 6000/7000, validation error 17.440000 %
+epoch 69, minibatch 4000/7000, validation error 12.080000 %
+epoch 70, minibatch 2000/7000, validation error 15.760000 %
+epoch 70, minibatch 7000/7000, validation error 13.266667 %
+epoch 71, minibatch 5000/7000, validation error 10.306667 %
+     epoch 71, minibatch 5000/7000, test error of best model 10.800000 %
+epoch 72, minibatch 3000/7000, validation error 22.813333 %
+epoch 73, minibatch 1000/7000, validation error 23.226667 %
+epoch 73, minibatch 6000/7000, validation error 17.600000 %
+epoch 74, minibatch 4000/7000, validation error 21.080000 %
+epoch 75, minibatch 2000/7000, validation error 17.506667 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 4) Best validation score of 10.306667 % obtained at iteration 495000, with test performance 10.800000 %
+seed: 4, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 54.320000 %
+     epoch 1, minibatch 5000/7000, test error of best model 53.613333 %
+epoch 2, minibatch 3000/7000, validation error 16.826667 %
+     epoch 2, minibatch 3000/7000, test error of best model 17.706667 %
+epoch 3, minibatch 1000/7000, validation error 48.573333 %
+epoch 3, minibatch 6000/7000, validation error 22.586667 %
+epoch 4, minibatch 4000/7000, validation error 15.280000 %
+     epoch 4, minibatch 4000/7000, test error of best model 15.933333 %
+epoch 5, minibatch 2000/7000, validation error 48.146667 %
+epoch 5, minibatch 7000/7000, validation error 38.040000 %
+epoch 6, minibatch 5000/7000, validation error 30.960000 %
+epoch 7, minibatch 3000/7000, validation error 21.240000 %
+epoch 8, minibatch 1000/7000, validation error 35.066667 %
+epoch 8, minibatch 6000/7000, validation error 30.253333 %
+epoch 9, minibatch 4000/7000, validation error 22.266667 %
+epoch 10, minibatch 2000/7000, validation error 23.760000 %
+epoch 10, minibatch 7000/7000, validation error 24.173333 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 4) Best validation score of 15.280000 % obtained at iteration 25000, with test performance 15.933333 %
+seed: 4, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 27.213333 %
+     epoch 1, minibatch 5000/7000, test error of best model 28.373333 %
+epoch 2, minibatch 3000/7000, validation error 29.280000 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 4) Best validation score of 27.213333 % obtained at iteration 5000, with test performance 28.373333 %
+seed: 4, n_hidden: 8
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 36.893333 %
+     epoch 1, minibatch 5000/7000, test error of best model 36.426667 %
+epoch 2, minibatch 3000/7000, validation error 28.266667 %
+     epoch 2, minibatch 3000/7000, test error of best model 27.920000 %
+epoch 3, minibatch 1000/7000, validation error 13.253333 %
+     epoch 3, minibatch 1000/7000, test error of best model 13.000000 %
+epoch 3, minibatch 6000/7000, validation error 39.133333 %
+epoch 4, minibatch 4000/7000, validation error 27.146667 %
+epoch 5, minibatch 2000/7000, validation error 21.013333 %
+epoch 5, minibatch 7000/7000, validation error 27.346667 %
+epoch 6, minibatch 5000/7000, validation error 19.920000 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 5) Best validation score of 13.253333 % obtained at iteration 15000, with test performance 13.000000 %
+seed: 5, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 36.840000 %
+     epoch 1, minibatch 5000/7000, test error of best model 36.933333 %
+epoch 2, minibatch 3000/7000, validation error 33.160000 %
+     epoch 2, minibatch 3000/7000, test error of best model 33.173333 %
+epoch 3, minibatch 1000/7000, validation error 20.373333 %
+     epoch 3, minibatch 1000/7000, test error of best model 19.720000 %
+epoch 3, minibatch 6000/7000, validation error 25.413333 %
+epoch 4, minibatch 4000/7000, validation error 39.106667 %
+epoch 5, minibatch 2000/7000, validation error 37.386667 %
+epoch 5, minibatch 7000/7000, validation error 40.666667 %
+epoch 6, minibatch 5000/7000, validation error 32.133333 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 5) Best validation score of 20.373333 % obtained at iteration 15000, with test performance 19.720000 %
+seed: 5, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 26.693333 %
+     epoch 1, minibatch 5000/7000, test error of best model 26.453333 %
+epoch 2, minibatch 3000/7000, validation error 12.373333 %
+     epoch 2, minibatch 3000/7000, test error of best model 12.386667 %
+epoch 3, minibatch 1000/7000, validation error 14.133333 %
+epoch 3, minibatch 6000/7000, validation error 25.880000 %
+epoch 4, minibatch 4000/7000, validation error 24.106667 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 5) Best validation score of 12.373333 % obtained at iteration 10000, with test performance 12.386667 %
+seed: 5, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 17.640000 %
+     epoch 1, minibatch 5000/7000, test error of best model 17.600000 %
+epoch 2, minibatch 3000/7000, validation error 11.866667 %
+     epoch 2, minibatch 3000/7000, test error of best model 11.600000 %
+epoch 3, minibatch 1000/7000, validation error 18.266667 %
+epoch 3, minibatch 6000/7000, validation error 21.400000 %
+epoch 4, minibatch 4000/7000, validation error 13.560000 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 5) Best validation score of 11.866667 % obtained at iteration 10000, with test performance 11.600000 %
+seed: 5, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 15.453333 %
+     epoch 1, minibatch 5000/7000, test error of best model 16.360000 %
+epoch 2, minibatch 3000/7000, validation error 28.973333 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 5) Best validation score of 15.453333 % obtained at iteration 5000, with test performance 16.360000 %
+seed: 5, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 27.640000 %
+     epoch 1, minibatch 5000/7000, test error of best model 27.880000 %
+epoch 2, minibatch 3000/7000, validation error 28.480000 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 5) Best validation score of 27.640000 % obtained at iteration 5000, with test performance 27.880000 %
+seed: 5, n_hidden: 8
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 46.786667 %
+     epoch 1, minibatch 5000/7000, test error of best model 47.093333 %
+epoch 2, minibatch 3000/7000, validation error 48.293333 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 6) Best validation score of 46.786667 % obtained at iteration 5000, with test performance 47.093333 %
+seed: 6, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 47.506667 %
+     epoch 1, minibatch 5000/7000, test error of best model 46.786667 %
+epoch 2, minibatch 3000/7000, validation error 28.173333 %
+     epoch 2, minibatch 3000/7000, test error of best model 28.013333 %
+epoch 3, minibatch 1000/7000, validation error 55.933333 %
+epoch 3, minibatch 6000/7000, validation error 38.986667 %
+epoch 4, minibatch 4000/7000, validation error 31.213333 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 6) Best validation score of 28.173333 % obtained at iteration 10000, with test performance 28.013333 %
+seed: 6, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 34.826667 %
+     epoch 1, minibatch 5000/7000, test error of best model 34.493333 %
+epoch 2, minibatch 3000/7000, validation error 32.720000 %
+     epoch 2, minibatch 3000/7000, test error of best model 34.866667 %
+epoch 3, minibatch 1000/7000, validation error 14.080000 %
+     epoch 3, minibatch 1000/7000, test error of best model 14.386667 %
+epoch 3, minibatch 6000/7000, validation error 34.386667 %
+epoch 4, minibatch 4000/7000, validation error 26.960000 %
+epoch 5, minibatch 2000/7000, validation error 19.173333 %
+epoch 5, minibatch 7000/7000, validation error 34.346667 %
+epoch 6, minibatch 5000/7000, validation error 28.613333 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 6) Best validation score of 14.080000 % obtained at iteration 15000, with test performance 14.386667 %
+seed: 6, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 39.626667 %
+     epoch 1, minibatch 5000/7000, test error of best model 38.546667 %
+epoch 2, minibatch 3000/7000, validation error 27.040000 %
+     epoch 2, minibatch 3000/7000, test error of best model 27.320000 %
+epoch 3, minibatch 1000/7000, validation error 28.386667 %
+epoch 3, minibatch 6000/7000, validation error 35.226667 %
+epoch 4, minibatch 4000/7000, validation error 17.320000 %
+     epoch 4, minibatch 4000/7000, test error of best model 17.173333 %
+epoch 5, minibatch 2000/7000, validation error 29.453333 %
+epoch 5, minibatch 7000/7000, validation error 20.173333 %
+epoch 6, minibatch 5000/7000, validation error 21.066667 %
+epoch 7, minibatch 3000/7000, validation error 11.560000 %
+     epoch 7, minibatch 3000/7000, test error of best model 11.480000 %
+epoch 8, minibatch 1000/7000, validation error 17.426667 %
+epoch 8, minibatch 6000/7000, validation error 27.133333 %
+epoch 9, minibatch 4000/7000, validation error 18.413333 %
+epoch 10, minibatch 2000/7000, validation error 14.466667 %
+epoch 10, minibatch 7000/7000, validation error 20.813333 %
+epoch 11, minibatch 5000/7000, validation error 11.040000 %
+     epoch 11, minibatch 5000/7000, test error of best model 11.813333 %
+epoch 12, minibatch 3000/7000, validation error 22.906667 %
+epoch 13, minibatch 1000/7000, validation error 17.093333 %
+epoch 13, minibatch 6000/7000, validation error 29.773333 %
+epoch 14, minibatch 4000/7000, validation error 15.626667 %
+epoch 15, minibatch 2000/7000, validation error 27.853333 %
+epoch 15, minibatch 7000/7000, validation error 15.320000 %
+epoch 16, minibatch 5000/7000, validation error 18.013333 %
+epoch 17, minibatch 3000/7000, validation error 27.360000 %
+epoch 18, minibatch 1000/7000, validation error 15.546667 %
+epoch 18, minibatch 6000/7000, validation error 18.266667 %
+epoch 19, minibatch 4000/7000, validation error 14.333333 %
+epoch 20, minibatch 2000/7000, validation error 14.680000 %
+epoch 20, minibatch 7000/7000, validation error 19.360000 %
+epoch 21, minibatch 5000/7000, validation error 20.626667 %
+epoch 22, minibatch 3000/7000, validation error 13.826667 %
+epoch 23, minibatch 1000/7000, validation error 11.266667 %
+epoch 23, minibatch 6000/7000, validation error 20.826667 %
+epoch 24, minibatch 4000/7000, validation error 13.533333 %
+epoch 25, minibatch 2000/7000, validation error 24.120000 %
+epoch 25, minibatch 7000/7000, validation error 17.813333 %
+epoch 26, minibatch 5000/7000, validation error 23.653333 %
+epoch 27, minibatch 3000/7000, validation error 7.800000 %
+     epoch 27, minibatch 3000/7000, test error of best model 7.933333 %
+epoch 28, minibatch 1000/7000, validation error 21.773333 %
+epoch 28, minibatch 6000/7000, validation error 19.320000 %
+epoch 29, minibatch 4000/7000, validation error 12.946667 %
+epoch 30, minibatch 2000/7000, validation error 13.893333 %
+epoch 30, minibatch 7000/7000, validation error 16.200000 %
+epoch 31, minibatch 5000/7000, validation error 15.253333 %
+epoch 32, minibatch 3000/7000, validation error 16.213333 %
+epoch 33, minibatch 1000/7000, validation error 19.213333 %
+epoch 33, minibatch 6000/7000, validation error 20.280000 %
+epoch 34, minibatch 4000/7000, validation error 22.440000 %
+epoch 35, minibatch 2000/7000, validation error 23.640000 %
+epoch 35, minibatch 7000/7000, validation error 18.306667 %
+epoch 36, minibatch 5000/7000, validation error 25.413333 %
+epoch 37, minibatch 3000/7000, validation error 11.106667 %
+epoch 38, minibatch 1000/7000, validation error 25.653333 %
+epoch 38, minibatch 6000/7000, validation error 29.173333 %
+epoch 39, minibatch 4000/7000, validation error 11.813333 %
+epoch 40, minibatch 2000/7000, validation error 11.866667 %
+epoch 40, minibatch 7000/7000, validation error 17.653333 %
+epoch 41, minibatch 5000/7000, validation error 18.826667 %
+epoch 42, minibatch 3000/7000, validation error 25.906667 %
+epoch 43, minibatch 1000/7000, validation error 20.546667 %
+epoch 43, minibatch 6000/7000, validation error 17.986667 %
+epoch 44, minibatch 4000/7000, validation error 21.600000 %
+epoch 45, minibatch 2000/7000, validation error 11.386667 %
+epoch 45, minibatch 7000/7000, validation error 16.506667 %
+epoch 46, minibatch 5000/7000, validation error 23.653333 %
+epoch 47, minibatch 3000/7000, validation error 14.320000 %
+epoch 48, minibatch 1000/7000, validation error 13.213333 %
+epoch 48, minibatch 6000/7000, validation error 19.066667 %
+epoch 49, minibatch 4000/7000, validation error 18.826667 %
+epoch 50, minibatch 2000/7000, validation error 15.893333 %
+epoch 50, minibatch 7000/7000, validation error 23.466667 %
+epoch 51, minibatch 5000/7000, validation error 14.866667 %
+epoch 52, minibatch 3000/7000, validation error 21.293333 %
+epoch 53, minibatch 1000/7000, validation error 19.040000 %
+epoch 53, minibatch 6000/7000, validation error 13.466667 %
+epoch 54, minibatch 4000/7000, validation error 11.093333 %
+epoch 55, minibatch 2000/7000, validation error 10.466667 %
+epoch 55, minibatch 7000/7000, validation error 12.693333 %
+epoch 56, minibatch 5000/7000, validation error 26.173333 %
+epoch 57, minibatch 3000/7000, validation error 11.600000 %
+epoch 58, minibatch 1000/7000, validation error 28.453333 %
+epoch 58, minibatch 6000/7000, validation error 26.466667 %
+epoch 59, minibatch 4000/7000, validation error 20.386667 %
+epoch 60, minibatch 2000/7000, validation error 14.560000 %
+epoch 60, minibatch 7000/7000, validation error 23.053333 %
+epoch 61, minibatch 5000/7000, validation error 18.746667 %
+epoch 62, minibatch 3000/7000, validation error 8.413333 %
+epoch 63, minibatch 1000/7000, validation error 8.186667 %
+epoch 63, minibatch 6000/7000, validation error 25.600000 %
+epoch 64, minibatch 4000/7000, validation error 26.226667 %
+epoch 65, minibatch 2000/7000, validation error 16.213333 %
+epoch 65, minibatch 7000/7000, validation error 23.813333 %
+epoch 66, minibatch 5000/7000, validation error 19.026667 %
+epoch 67, minibatch 3000/7000, validation error 24.400000 %
+epoch 68, minibatch 1000/7000, validation error 18.413333 %
+epoch 68, minibatch 6000/7000, validation error 11.200000 %
+epoch 69, minibatch 4000/7000, validation error 13.893333 %
+epoch 70, minibatch 2000/7000, validation error 13.720000 %
+epoch 70, minibatch 7000/7000, validation error 11.413333 %
+epoch 71, minibatch 5000/7000, validation error 18.373333 %
+epoch 72, minibatch 3000/7000, validation error 15.346667 %
+epoch 73, minibatch 1000/7000, validation error 12.440000 %
+epoch 73, minibatch 6000/7000, validation error 15.573333 %
+epoch 74, minibatch 4000/7000, validation error 17.386667 %
+epoch 75, minibatch 2000/7000, validation error 24.360000 %
+epoch 75, minibatch 7000/7000, validation error 17.693333 %
+epoch 76, minibatch 5000/7000, validation error 20.160000 %
+epoch 77, minibatch 3000/7000, validation error 22.466667 %
+epoch 78, minibatch 1000/7000, validation error 14.786667 %
+epoch 78, minibatch 6000/7000, validation error 25.333333 %
+epoch 79, minibatch 4000/7000, validation error 21.306667 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 6) Best validation score of 7.800000 % obtained at iteration 185000, with test performance 7.933333 %
+seed: 6, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 57.493333 %
+     epoch 1, minibatch 5000/7000, test error of best model 57.200000 %
+epoch 2, minibatch 3000/7000, validation error 38.200000 %
+     epoch 2, minibatch 3000/7000, test error of best model 37.800000 %
+epoch 3, minibatch 1000/7000, validation error 27.840000 %
+     epoch 3, minibatch 1000/7000, test error of best model 27.893333 %
+epoch 3, minibatch 6000/7000, validation error 36.733333 %
+epoch 4, minibatch 4000/7000, validation error 40.800000 %
+epoch 5, minibatch 2000/7000, validation error 22.120000 %
+     epoch 5, minibatch 2000/7000, test error of best model 22.346667 %
+epoch 5, minibatch 7000/7000, validation error 39.773333 %
+epoch 6, minibatch 5000/7000, validation error 17.360000 %
+     epoch 6, minibatch 5000/7000, test error of best model 17.106667 %
+epoch 7, minibatch 3000/7000, validation error 31.653333 %
+epoch 8, minibatch 1000/7000, validation error 22.866667 %
+epoch 8, minibatch 6000/7000, validation error 46.280000 %
+epoch 9, minibatch 4000/7000, validation error 28.346667 %
+epoch 10, minibatch 2000/7000, validation error 26.986667 %
+epoch 10, minibatch 7000/7000, validation error 37.760000 %
+epoch 11, minibatch 5000/7000, validation error 14.866667 %
+     epoch 11, minibatch 5000/7000, test error of best model 15.386667 %
+epoch 12, minibatch 3000/7000, validation error 17.586667 %
+epoch 13, minibatch 1000/7000, validation error 37.826667 %
+epoch 13, minibatch 6000/7000, validation error 20.280000 %
+epoch 14, minibatch 4000/7000, validation error 14.440000 %
+     epoch 14, minibatch 4000/7000, test error of best model 14.466667 %
+epoch 15, minibatch 2000/7000, validation error 31.986667 %
+epoch 15, minibatch 7000/7000, validation error 19.626667 %
+epoch 16, minibatch 5000/7000, validation error 18.893333 %
+epoch 17, minibatch 3000/7000, validation error 15.360000 %
+epoch 18, minibatch 1000/7000, validation error 23.186667 %
+epoch 18, minibatch 6000/7000, validation error 18.186667 %
+epoch 19, minibatch 4000/7000, validation error 16.200000 %
+epoch 20, minibatch 2000/7000, validation error 19.400000 %
+epoch 20, minibatch 7000/7000, validation error 25.013333 %
+epoch 21, minibatch 5000/7000, validation error 24.586667 %
+epoch 22, minibatch 3000/7000, validation error 17.000000 %
+epoch 23, minibatch 1000/7000, validation error 13.226667 %
+     epoch 23, minibatch 1000/7000, test error of best model 13.613333 %
+epoch 23, minibatch 6000/7000, validation error 32.413333 %
+epoch 24, minibatch 4000/7000, validation error 14.466667 %
+epoch 25, minibatch 2000/7000, validation error 21.320000 %
+epoch 25, minibatch 7000/7000, validation error 27.360000 %
+epoch 26, minibatch 5000/7000, validation error 23.760000 %
+epoch 27, minibatch 3000/7000, validation error 29.226667 %
+epoch 28, minibatch 1000/7000, validation error 14.000000 %
+epoch 28, minibatch 6000/7000, validation error 11.360000 %
+     epoch 28, minibatch 6000/7000, test error of best model 11.493333 %
+epoch 29, minibatch 4000/7000, validation error 18.280000 %
+epoch 30, minibatch 2000/7000, validation error 22.506667 %
+epoch 30, minibatch 7000/7000, validation error 25.640000 %
+epoch 31, minibatch 5000/7000, validation error 15.693333 %
+epoch 32, minibatch 3000/7000, validation error 18.333333 %
+epoch 33, minibatch 1000/7000, validation error 11.760000 %
+epoch 33, minibatch 6000/7000, validation error 27.760000 %
+epoch 34, minibatch 4000/7000, validation error 27.880000 %
+epoch 35, minibatch 2000/7000, validation error 18.866667 %
+epoch 35, minibatch 7000/7000, validation error 11.746667 %
+epoch 36, minibatch 5000/7000, validation error 11.933333 %
+epoch 37, minibatch 3000/7000, validation error 18.840000 %
+epoch 38, minibatch 1000/7000, validation error 14.226667 %
+epoch 38, minibatch 6000/7000, validation error 35.466667 %
+epoch 39, minibatch 4000/7000, validation error 20.493333 %
+epoch 40, minibatch 2000/7000, validation error 16.773333 %
+epoch 40, minibatch 7000/7000, validation error 22.306667 %
+epoch 41, minibatch 5000/7000, validation error 26.760000 %
+epoch 42, minibatch 3000/7000, validation error 35.586667 %
+epoch 43, minibatch 1000/7000, validation error 27.320000 %
+epoch 43, minibatch 6000/7000, validation error 33.493333 %
+epoch 44, minibatch 4000/7000, validation error 30.906667 %
+epoch 45, minibatch 2000/7000, validation error 31.493333 %
+epoch 45, minibatch 7000/7000, validation error 22.013333 %
+epoch 46, minibatch 5000/7000, validation error 31.600000 %
+epoch 47, minibatch 3000/7000, validation error 22.066667 %
+epoch 48, minibatch 1000/7000, validation error 12.640000 %
+epoch 48, minibatch 6000/7000, validation error 29.613333 %
+epoch 49, minibatch 4000/7000, validation error 26.226667 %
+epoch 50, minibatch 2000/7000, validation error 18.746667 %
+epoch 50, minibatch 7000/7000, validation error 23.720000 %
+epoch 51, minibatch 5000/7000, validation error 13.533333 %
+epoch 52, minibatch 3000/7000, validation error 42.266667 %
+epoch 53, minibatch 1000/7000, validation error 32.933333 %
+epoch 53, minibatch 6000/7000, validation error 24.600000 %
+epoch 54, minibatch 4000/7000, validation error 24.640000 %
+epoch 55, minibatch 2000/7000, validation error 19.146667 %
+epoch 55, minibatch 7000/7000, validation error 25.426667 %
+epoch 56, minibatch 5000/7000, validation error 18.226667 %
+epoch 57, minibatch 3000/7000, validation error 14.920000 %
+epoch 58, minibatch 1000/7000, validation error 28.240000 %
+epoch 58, minibatch 6000/7000, validation error 24.160000 %
+epoch 59, minibatch 4000/7000, validation error 24.440000 %
+epoch 60, minibatch 2000/7000, validation error 14.080000 %
+epoch 60, minibatch 7000/7000, validation error 21.133333 %
+epoch 61, minibatch 5000/7000, validation error 14.933333 %
+epoch 62, minibatch 3000/7000, validation error 30.093333 %
+epoch 63, minibatch 1000/7000, validation error 17.800000 %
+epoch 63, minibatch 6000/7000, validation error 19.146667 %
+epoch 64, minibatch 4000/7000, validation error 35.733333 %
+epoch 65, minibatch 2000/7000, validation error 34.266667 %
+epoch 65, minibatch 7000/7000, validation error 30.466667 %
+epoch 66, minibatch 5000/7000, validation error 31.386667 %
+epoch 67, minibatch 3000/7000, validation error 27.133333 %
+epoch 68, minibatch 1000/7000, validation error 15.786667 %
+epoch 68, minibatch 6000/7000, validation error 21.520000 %
+epoch 69, minibatch 4000/7000, validation error 21.920000 %
+epoch 70, minibatch 2000/7000, validation error 18.880000 %
+epoch 70, minibatch 7000/7000, validation error 22.093333 %
+epoch 71, minibatch 5000/7000, validation error 30.266667 %
+epoch 72, minibatch 3000/7000, validation error 27.600000 %
+epoch 73, minibatch 1000/7000, validation error 28.746667 %
+epoch 73, minibatch 6000/7000, validation error 34.720000 %
+epoch 74, minibatch 4000/7000, validation error 27.573333 %
+epoch 75, minibatch 2000/7000, validation error 23.426667 %
+epoch 75, minibatch 7000/7000, validation error 17.800000 %
+epoch 76, minibatch 5000/7000, validation error 17.760000 %
+epoch 77, minibatch 3000/7000, validation error 18.600000 %
+epoch 78, minibatch 1000/7000, validation error 24.986667 %
+epoch 78, minibatch 6000/7000, validation error 13.346667 %
+epoch 79, minibatch 4000/7000, validation error 23.306667 %
+epoch 80, minibatch 2000/7000, validation error 34.320000 %
+epoch 80, minibatch 7000/7000, validation error 27.293333 %
+epoch 81, minibatch 5000/7000, validation error 28.640000 %
+epoch 82, minibatch 3000/7000, validation error 19.346667 %
+epoch 83, minibatch 1000/7000, validation error 12.666667 %
+epoch 83, minibatch 6000/7000, validation error 18.480000 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 6) Best validation score of 11.360000 % obtained at iteration 195000, with test performance 11.493333 %
+seed: 6, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 45.680000 %
+     epoch 1, minibatch 5000/7000, test error of best model 46.040000 %
+epoch 2, minibatch 3000/7000, validation error 51.426667 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 6) Best validation score of 45.680000 % obtained at iteration 5000, with test performance 46.040000 %
+seed: 6, n_hidden: 8
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 12.933333 %
+     epoch 1, minibatch 5000/7000, test error of best model 12.653333 %
+epoch 2, minibatch 3000/7000, validation error 30.053333 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 7) Best validation score of 12.933333 % obtained at iteration 5000, with test performance 12.653333 %
+seed: 7, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 65.853333 %
+     epoch 1, minibatch 5000/7000, test error of best model 66.800000 %
+epoch 2, minibatch 3000/7000, validation error 45.426667 %
+     epoch 2, minibatch 3000/7000, test error of best model 45.266667 %
+epoch 3, minibatch 1000/7000, validation error 40.786667 %
+     epoch 3, minibatch 1000/7000, test error of best model 40.586667 %
+epoch 3, minibatch 6000/7000, validation error 60.920000 %
+epoch 4, minibatch 4000/7000, validation error 47.253333 %
+epoch 5, minibatch 2000/7000, validation error 42.280000 %
+epoch 5, minibatch 7000/7000, validation error 43.800000 %
+epoch 6, minibatch 5000/7000, validation error 53.853333 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 7) Best validation score of 40.786667 % obtained at iteration 15000, with test performance 40.586667 %
+seed: 7, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 38.826667 %
+     epoch 1, minibatch 5000/7000, test error of best model 38.493333 %
+epoch 2, minibatch 3000/7000, validation error 52.000000 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 7) Best validation score of 38.826667 % obtained at iteration 5000, with test performance 38.493333 %
+seed: 7, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 65.920000 %
+     epoch 1, minibatch 5000/7000, test error of best model 66.826667 %
+epoch 2, minibatch 3000/7000, validation error 67.400000 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 7) Best validation score of 65.920000 % obtained at iteration 5000, with test performance 66.826667 %
+seed: 7, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 47.653333 %
+     epoch 1, minibatch 5000/7000, test error of best model 46.000000 %
+epoch 2, minibatch 3000/7000, validation error 28.840000 %
+     epoch 2, minibatch 3000/7000, test error of best model 29.093333 %
+epoch 3, minibatch 1000/7000, validation error 20.146667 %
+     epoch 3, minibatch 1000/7000, test error of best model 20.600000 %
+epoch 3, minibatch 6000/7000, validation error 17.546667 %
+     epoch 3, minibatch 6000/7000, test error of best model 17.946667 %
+epoch 4, minibatch 4000/7000, validation error 25.173333 %
+epoch 5, minibatch 2000/7000, validation error 15.866667 %
+     epoch 5, minibatch 2000/7000, test error of best model 15.520000 %
+epoch 5, minibatch 7000/7000, validation error 16.853333 %
+epoch 6, minibatch 5000/7000, validation error 19.333333 %
+epoch 7, minibatch 3000/7000, validation error 35.613333 %
+epoch 8, minibatch 1000/7000, validation error 31.800000 %
+epoch 8, minibatch 6000/7000, validation error 18.040000 %
+epoch 9, minibatch 4000/7000, validation error 13.173333 %
+     epoch 9, minibatch 4000/7000, test error of best model 13.693333 %
+epoch 10, minibatch 2000/7000, validation error 23.306667 %
+epoch 10, minibatch 7000/7000, validation error 9.613333 %
+     epoch 10, minibatch 7000/7000, test error of best model 10.373333 %
+epoch 11, minibatch 5000/7000, validation error 36.186667 %
+epoch 12, minibatch 3000/7000, validation error 16.226667 %
+epoch 13, minibatch 1000/7000, validation error 32.986667 %
+epoch 13, minibatch 6000/7000, validation error 10.160000 %
+epoch 14, minibatch 4000/7000, validation error 31.200000 %
+epoch 15, minibatch 2000/7000, validation error 34.466667 %
+epoch 15, minibatch 7000/7000, validation error 28.840000 %
+epoch 16, minibatch 5000/7000, validation error 25.693333 %
+epoch 17, minibatch 3000/7000, validation error 25.706667 %
+epoch 18, minibatch 1000/7000, validation error 16.293333 %
+epoch 18, minibatch 6000/7000, validation error 31.573333 %
+epoch 19, minibatch 4000/7000, validation error 27.213333 %
+epoch 20, minibatch 2000/7000, validation error 17.106667 %
+epoch 20, minibatch 7000/7000, validation error 26.373333 %
+epoch 21, minibatch 5000/7000, validation error 16.080000 %
+epoch 22, minibatch 3000/7000, validation error 18.586667 %
+epoch 23, minibatch 1000/7000, validation error 17.666667 %
+epoch 23, minibatch 6000/7000, validation error 22.506667 %
+epoch 24, minibatch 4000/7000, validation error 23.280000 %
+epoch 25, minibatch 2000/7000, validation error 13.186667 %
+epoch 25, minibatch 7000/7000, validation error 14.186667 %
+epoch 26, minibatch 5000/7000, validation error 7.480000 %
+     epoch 26, minibatch 5000/7000, test error of best model 8.066667 %
+epoch 27, minibatch 3000/7000, validation error 18.520000 %
+epoch 28, minibatch 1000/7000, validation error 16.666667 %
+epoch 28, minibatch 6000/7000, validation error 25.400000 %
+epoch 29, minibatch 4000/7000, validation error 16.853333 %
+epoch 30, minibatch 2000/7000, validation error 21.266667 %
+epoch 30, minibatch 7000/7000, validation error 18.546667 %
+epoch 31, minibatch 5000/7000, validation error 17.373333 %
+epoch 32, minibatch 3000/7000, validation error 18.933333 %
+epoch 33, minibatch 1000/7000, validation error 19.666667 %
+epoch 33, minibatch 6000/7000, validation error 17.413333 %
+epoch 34, minibatch 4000/7000, validation error 24.573333 %
+epoch 35, minibatch 2000/7000, validation error 20.120000 %
+epoch 35, minibatch 7000/7000, validation error 15.306667 %
+epoch 36, minibatch 5000/7000, validation error 14.906667 %
+epoch 37, minibatch 3000/7000, validation error 22.080000 %
+epoch 38, minibatch 1000/7000, validation error 23.826667 %
+epoch 38, minibatch 6000/7000, validation error 13.240000 %
+epoch 39, minibatch 4000/7000, validation error 9.706667 %
+epoch 40, minibatch 2000/7000, validation error 17.680000 %
+epoch 40, minibatch 7000/7000, validation error 33.720000 %
+epoch 41, minibatch 5000/7000, validation error 20.466667 %
+epoch 42, minibatch 3000/7000, validation error 13.400000 %
+epoch 43, minibatch 1000/7000, validation error 28.933333 %
+epoch 43, minibatch 6000/7000, validation error 17.920000 %
+epoch 44, minibatch 4000/7000, validation error 19.640000 %
+epoch 45, minibatch 2000/7000, validation error 20.506667 %
+epoch 45, minibatch 7000/7000, validation error 15.026667 %
+epoch 46, minibatch 5000/7000, validation error 18.813333 %
+epoch 47, minibatch 3000/7000, validation error 11.613333 %
+epoch 48, minibatch 1000/7000, validation error 13.000000 %
+epoch 48, minibatch 6000/7000, validation error 15.146667 %
+epoch 49, minibatch 4000/7000, validation error 15.160000 %
+epoch 50, minibatch 2000/7000, validation error 22.760000 %
+epoch 50, minibatch 7000/7000, validation error 29.666667 %
+epoch 51, minibatch 5000/7000, validation error 29.186667 %
+epoch 52, minibatch 3000/7000, validation error 29.786667 %
+epoch 53, minibatch 1000/7000, validation error 25.906667 %
+epoch 53, minibatch 6000/7000, validation error 14.586667 %
+epoch 54, minibatch 4000/7000, validation error 23.773333 %
+epoch 55, minibatch 2000/7000, validation error 16.613333 %
+epoch 55, minibatch 7000/7000, validation error 17.253333 %
+epoch 56, minibatch 5000/7000, validation error 17.546667 %
+epoch 57, minibatch 3000/7000, validation error 14.346667 %
+epoch 58, minibatch 1000/7000, validation error 19.240000 %
+epoch 58, minibatch 6000/7000, validation error 29.226667 %
+epoch 59, minibatch 4000/7000, validation error 24.066667 %
+epoch 60, minibatch 2000/7000, validation error 31.466667 %
+epoch 60, minibatch 7000/7000, validation error 21.226667 %
+epoch 61, minibatch 5000/7000, validation error 17.986667 %
+epoch 62, minibatch 3000/7000, validation error 15.973333 %
+epoch 63, minibatch 1000/7000, validation error 18.733333 %
+epoch 63, minibatch 6000/7000, validation error 18.600000 %
+epoch 64, minibatch 4000/7000, validation error 13.986667 %
+epoch 65, minibatch 2000/7000, validation error 14.160000 %
+epoch 65, minibatch 7000/7000, validation error 28.160000 %
+epoch 66, minibatch 5000/7000, validation error 21.266667 %
+epoch 67, minibatch 3000/7000, validation error 28.533333 %
+epoch 68, minibatch 1000/7000, validation error 28.986667 %
+epoch 68, minibatch 6000/7000, validation error 27.760000 %
+epoch 69, minibatch 4000/7000, validation error 26.653333 %
+epoch 70, minibatch 2000/7000, validation error 19.920000 %
+epoch 70, minibatch 7000/7000, validation error 36.346667 %
+epoch 71, minibatch 5000/7000, validation error 37.213333 %
+epoch 72, minibatch 3000/7000, validation error 22.613333 %
+epoch 73, minibatch 1000/7000, validation error 18.453333 %
+epoch 73, minibatch 6000/7000, validation error 28.533333 %
+epoch 74, minibatch 4000/7000, validation error 20.573333 %
+epoch 75, minibatch 2000/7000, validation error 26.866667 %
+epoch 75, minibatch 7000/7000, validation error 23.906667 %
+epoch 76, minibatch 5000/7000, validation error 13.920000 %
+epoch 77, minibatch 3000/7000, validation error 17.333333 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 7) Best validation score of 7.480000 % obtained at iteration 180000, with test performance 8.066667 %
+seed: 7, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 17.840000 %
+     epoch 1, minibatch 5000/7000, test error of best model 18.333333 %
+epoch 2, minibatch 3000/7000, validation error 41.426667 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 7) Best validation score of 17.840000 % obtained at iteration 5000, with test performance 18.333333 %
+seed: 7, n_hidden: 8
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 42.666667 %
+     epoch 1, minibatch 5000/7000, test error of best model 43.466667 %
+epoch 2, minibatch 3000/7000, validation error 13.920000 %
+     epoch 2, minibatch 3000/7000, test error of best model 13.773333 %
+epoch 3, minibatch 1000/7000, validation error 22.506667 %
+epoch 3, minibatch 6000/7000, validation error 44.013333 %
+epoch 4, minibatch 4000/7000, validation error 48.120000 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 8) Best validation score of 13.920000 % obtained at iteration 10000, with test performance 13.773333 %
+seed: 8, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 51.973333 %
+     epoch 1, minibatch 5000/7000, test error of best model 51.546667 %
+epoch 2, minibatch 3000/7000, validation error 25.360000 %
+     epoch 2, minibatch 3000/7000, test error of best model 24.786667 %
+epoch 3, minibatch 1000/7000, validation error 33.826667 %
+epoch 3, minibatch 6000/7000, validation error 41.746667 %
+epoch 4, minibatch 4000/7000, validation error 27.013333 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 8) Best validation score of 25.360000 % obtained at iteration 10000, with test performance 24.786667 %
+seed: 8, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 35.240000 %
+     epoch 1, minibatch 5000/7000, test error of best model 35.520000 %
+epoch 2, minibatch 3000/7000, validation error 27.800000 %
+     epoch 2, minibatch 3000/7000, test error of best model 28.333333 %
+epoch 3, minibatch 1000/7000, validation error 46.920000 %
+epoch 3, minibatch 6000/7000, validation error 43.466667 %
+epoch 4, minibatch 4000/7000, validation error 25.346667 %
+     epoch 4, minibatch 4000/7000, test error of best model 25.746667 %
+epoch 5, minibatch 2000/7000, validation error 29.000000 %
+epoch 5, minibatch 7000/7000, validation error 26.560000 %
+epoch 6, minibatch 5000/7000, validation error 19.426667 %
+     epoch 6, minibatch 5000/7000, test error of best model 19.906667 %
+epoch 7, minibatch 3000/7000, validation error 33.906667 %
+epoch 8, minibatch 1000/7000, validation error 24.626667 %
+epoch 8, minibatch 6000/7000, validation error 16.853333 %
+     epoch 8, minibatch 6000/7000, test error of best model 17.546667 %
+epoch 9, minibatch 4000/7000, validation error 25.893333 %
+epoch 10, minibatch 2000/7000, validation error 22.986667 %
+epoch 10, minibatch 7000/7000, validation error 16.733333 %
+     epoch 10, minibatch 7000/7000, test error of best model 16.880000 %
+epoch 11, minibatch 5000/7000, validation error 24.826667 %
+epoch 12, minibatch 3000/7000, validation error 23.186667 %
+epoch 13, minibatch 1000/7000, validation error 16.200000 %
+     epoch 13, minibatch 1000/7000, test error of best model 16.400000 %
+epoch 13, minibatch 6000/7000, validation error 13.506667 %
+     epoch 13, minibatch 6000/7000, test error of best model 14.200000 %
+epoch 14, minibatch 4000/7000, validation error 12.000000 %
+     epoch 14, minibatch 4000/7000, test error of best model 12.520000 %
+epoch 15, minibatch 2000/7000, validation error 16.880000 %
+epoch 15, minibatch 7000/7000, validation error 23.440000 %
+epoch 16, minibatch 5000/7000, validation error 22.013333 %
+epoch 17, minibatch 3000/7000, validation error 14.186667 %
+epoch 18, minibatch 1000/7000, validation error 13.786667 %
+epoch 18, minibatch 6000/7000, validation error 14.133333 %
+epoch 19, minibatch 4000/7000, validation error 25.826667 %
+epoch 20, minibatch 2000/7000, validation error 11.053333 %
+     epoch 20, minibatch 2000/7000, test error of best model 12.253333 %
+epoch 20, minibatch 7000/7000, validation error 14.493333 %
+epoch 21, minibatch 5000/7000, validation error 19.586667 %
+epoch 22, minibatch 3000/7000, validation error 20.706667 %
+epoch 23, minibatch 1000/7000, validation error 17.240000 %
+epoch 23, minibatch 6000/7000, validation error 12.160000 %
+epoch 24, minibatch 4000/7000, validation error 16.333333 %
+epoch 25, minibatch 2000/7000, validation error 15.613333 %
+epoch 25, minibatch 7000/7000, validation error 14.146667 %
+epoch 26, minibatch 5000/7000, validation error 17.306667 %
+epoch 27, minibatch 3000/7000, validation error 23.440000 %
+epoch 28, minibatch 1000/7000, validation error 17.733333 %
+epoch 28, minibatch 6000/7000, validation error 12.493333 %
+epoch 29, minibatch 4000/7000, validation error 10.826667 %
+     epoch 29, minibatch 4000/7000, test error of best model 11.533333 %
+epoch 30, minibatch 2000/7000, validation error 10.973333 %
+epoch 30, minibatch 7000/7000, validation error 19.920000 %
+epoch 31, minibatch 5000/7000, validation error 20.320000 %
+epoch 32, minibatch 3000/7000, validation error 25.946667 %
+epoch 33, minibatch 1000/7000, validation error 31.146667 %
+epoch 33, minibatch 6000/7000, validation error 12.426667 %
+epoch 34, minibatch 4000/7000, validation error 21.066667 %
+epoch 35, minibatch 2000/7000, validation error 21.720000 %
+epoch 35, minibatch 7000/7000, validation error 23.653333 %
+epoch 36, minibatch 5000/7000, validation error 23.826667 %
+epoch 37, minibatch 3000/7000, validation error 16.080000 %
+epoch 38, minibatch 1000/7000, validation error 14.106667 %
+epoch 38, minibatch 6000/7000, validation error 15.080000 %
+epoch 39, minibatch 4000/7000, validation error 27.733333 %
+epoch 40, minibatch 2000/7000, validation error 24.573333 %
+epoch 40, minibatch 7000/7000, validation error 18.213333 %
+epoch 41, minibatch 5000/7000, validation error 17.746667 %
+epoch 42, minibatch 3000/7000, validation error 27.386667 %
+epoch 43, minibatch 1000/7000, validation error 24.933333 %
+epoch 43, minibatch 6000/7000, validation error 32.693333 %
+epoch 44, minibatch 4000/7000, validation error 29.320000 %
+epoch 45, minibatch 2000/7000, validation error 18.733333 %
+epoch 45, minibatch 7000/7000, validation error 15.866667 %
+epoch 46, minibatch 5000/7000, validation error 20.440000 %
+epoch 47, minibatch 3000/7000, validation error 13.800000 %
+epoch 48, minibatch 1000/7000, validation error 14.360000 %
+epoch 48, minibatch 6000/7000, validation error 16.626667 %
+epoch 49, minibatch 4000/7000, validation error 24.880000 %
+epoch 50, minibatch 2000/7000, validation error 12.800000 %
+epoch 50, minibatch 7000/7000, validation error 18.960000 %
+epoch 51, minibatch 5000/7000, validation error 14.280000 %
+epoch 52, minibatch 3000/7000, validation error 21.200000 %
+epoch 53, minibatch 1000/7000, validation error 13.346667 %
+epoch 53, minibatch 6000/7000, validation error 19.200000 %
+epoch 54, minibatch 4000/7000, validation error 20.173333 %
+epoch 55, minibatch 2000/7000, validation error 15.760000 %
+epoch 55, minibatch 7000/7000, validation error 14.906667 %
+epoch 56, minibatch 5000/7000, validation error 16.573333 %
+epoch 57, minibatch 3000/7000, validation error 9.066667 %
+     epoch 57, minibatch 3000/7000, test error of best model 10.040000 %
+epoch 58, minibatch 1000/7000, validation error 20.413333 %
+epoch 58, minibatch 6000/7000, validation error 28.960000 %
+epoch 59, minibatch 4000/7000, validation error 16.386667 %
+epoch 60, minibatch 2000/7000, validation error 21.093333 %
+epoch 60, minibatch 7000/7000, validation error 16.280000 %
+epoch 61, minibatch 5000/7000, validation error 13.546667 %
+epoch 62, minibatch 3000/7000, validation error 14.866667 %
+epoch 63, minibatch 1000/7000, validation error 12.906667 %
+epoch 63, minibatch 6000/7000, validation error 16.613333 %
+epoch 64, minibatch 4000/7000, validation error 30.186667 %
+epoch 65, minibatch 2000/7000, validation error 20.386667 %
+epoch 65, minibatch 7000/7000, validation error 20.760000 %
+epoch 66, minibatch 5000/7000, validation error 18.720000 %
+epoch 67, minibatch 3000/7000, validation error 16.133333 %
+epoch 68, minibatch 1000/7000, validation error 14.186667 %
+epoch 68, minibatch 6000/7000, validation error 13.413333 %
+epoch 69, minibatch 4000/7000, validation error 17.053333 %
+epoch 70, minibatch 2000/7000, validation error 15.040000 %
+epoch 70, minibatch 7000/7000, validation error 15.320000 %
+epoch 71, minibatch 5000/7000, validation error 10.746667 %
+epoch 72, minibatch 3000/7000, validation error 18.413333 %
+epoch 73, minibatch 1000/7000, validation error 21.026667 %
+epoch 73, minibatch 6000/7000, validation error 22.000000 %
+epoch 74, minibatch 4000/7000, validation error 21.946667 %
+epoch 75, minibatch 2000/7000, validation error 18.226667 %
+epoch 75, minibatch 7000/7000, validation error 27.773333 %
+epoch 76, minibatch 5000/7000, validation error 15.546667 %
+epoch 77, minibatch 3000/7000, validation error 23.893333 %
+epoch 78, minibatch 1000/7000, validation error 20.040000 %
+epoch 78, minibatch 6000/7000, validation error 33.720000 %
+epoch 79, minibatch 4000/7000, validation error 31.333333 %
+epoch 80, minibatch 2000/7000, validation error 27.893333 %
+epoch 80, minibatch 7000/7000, validation error 19.586667 %
+epoch 81, minibatch 5000/7000, validation error 25.466667 %
+epoch 82, minibatch 3000/7000, validation error 18.013333 %
+epoch 83, minibatch 1000/7000, validation error 16.133333 %
+epoch 83, minibatch 6000/7000, validation error 13.360000 %
+epoch 84, minibatch 4000/7000, validation error 19.560000 %
+epoch 85, minibatch 2000/7000, validation error 13.773333 %
+epoch 85, minibatch 7000/7000, validation error 10.066667 %
+epoch 86, minibatch 5000/7000, validation error 11.760000 %
+epoch 87, minibatch 3000/7000, validation error 21.360000 %
+epoch 88, minibatch 1000/7000, validation error 15.466667 %
+epoch 88, minibatch 6000/7000, validation error 17.386667 %
+epoch 89, minibatch 4000/7000, validation error 15.080000 %
+epoch 90, minibatch 2000/7000, validation error 25.906667 %
+epoch 90, minibatch 7000/7000, validation error 30.400000 %
+epoch 91, minibatch 5000/7000, validation error 27.306667 %
+epoch 92, minibatch 3000/7000, validation error 14.946667 %
+epoch 93, minibatch 1000/7000, validation error 15.066667 %
+epoch 93, minibatch 6000/7000, validation error 22.386667 %
+epoch 94, minibatch 4000/7000, validation error 10.306667 %
+epoch 95, minibatch 2000/7000, validation error 22.733333 %
+epoch 95, minibatch 7000/7000, validation error 15.933333 %
+epoch 96, minibatch 5000/7000, validation error 15.240000 %
+epoch 97, minibatch 3000/7000, validation error 26.706667 %
+epoch 98, minibatch 1000/7000, validation error 25.160000 %
+epoch 98, minibatch 6000/7000, validation error 15.626667 %
+epoch 99, minibatch 4000/7000, validation error 21.440000 %
+epoch 100, minibatch 2000/7000, validation error 12.706667 %
+epoch 100, minibatch 7000/7000, validation error 15.480000 %
+epoch 101, minibatch 5000/7000, validation error 23.626667 %
+epoch 102, minibatch 3000/7000, validation error 17.840000 %
+epoch 103, minibatch 1000/7000, validation error 19.026667 %
+epoch 103, minibatch 6000/7000, validation error 15.586667 %
+epoch 104, minibatch 4000/7000, validation error 12.213333 %
+epoch 105, minibatch 2000/7000, validation error 20.720000 %
+epoch 105, minibatch 7000/7000, validation error 17.306667 %
+epoch 106, minibatch 5000/7000, validation error 20.840000 %
+epoch 107, minibatch 3000/7000, validation error 11.813333 %
+epoch 108, minibatch 1000/7000, validation error 18.213333 %
+epoch 108, minibatch 6000/7000, validation error 23.346667 %
+epoch 109, minibatch 4000/7000, validation error 19.120000 %
+epoch 110, minibatch 2000/7000, validation error 25.026667 %
+epoch 110, minibatch 7000/7000, validation error 20.000000 %
+epoch 111, minibatch 5000/7000, validation error 13.733333 %
+epoch 112, minibatch 3000/7000, validation error 28.706667 %
+epoch 113, minibatch 1000/7000, validation error 23.000000 %
+epoch 113, minibatch 6000/7000, validation error 19.626667 %
+epoch 114, minibatch 4000/7000, validation error 22.533333 %
+epoch 115, minibatch 2000/7000, validation error 12.120000 %
+epoch 115, minibatch 7000/7000, validation error 17.200000 %
+epoch 116, minibatch 5000/7000, validation error 19.600000 %
+epoch 117, minibatch 3000/7000, validation error 16.693333 %
+epoch 118, minibatch 1000/7000, validation error 14.573333 %
+epoch 118, minibatch 6000/7000, validation error 20.186667 %
+epoch 119, minibatch 4000/7000, validation error 23.453333 %
+epoch 120, minibatch 2000/7000, validation error 19.080000 %
+epoch 120, minibatch 7000/7000, validation error 16.240000 %
+epoch 121, minibatch 5000/7000, validation error 29.840000 %
+epoch 122, minibatch 3000/7000, validation error 28.106667 %
+epoch 123, minibatch 1000/7000, validation error 19.133333 %
+epoch 123, minibatch 6000/7000, validation error 21.880000 %
+epoch 124, minibatch 4000/7000, validation error 21.320000 %
+epoch 125, minibatch 2000/7000, validation error 21.773333 %
+epoch 125, minibatch 7000/7000, validation error 20.693333 %
+epoch 126, minibatch 5000/7000, validation error 14.386667 %
+epoch 127, minibatch 3000/7000, validation error 14.346667 %
+epoch 128, minibatch 1000/7000, validation error 13.546667 %
+epoch 128, minibatch 6000/7000, validation error 8.066667 %
+     epoch 128, minibatch 6000/7000, test error of best model 8.520000 %
+epoch 129, minibatch 4000/7000, validation error 18.213333 %
+epoch 130, minibatch 2000/7000, validation error 12.706667 %
+epoch 130, minibatch 7000/7000, validation error 7.480000 %
+     epoch 130, minibatch 7000/7000, test error of best model 7.853333 %
+epoch 131, minibatch 5000/7000, validation error 20.693333 %
+epoch 132, minibatch 3000/7000, validation error 12.346667 %
+epoch 133, minibatch 1000/7000, validation error 14.440000 %
+epoch 133, minibatch 6000/7000, validation error 14.880000 %
+epoch 134, minibatch 4000/7000, validation error 11.320000 %
+epoch 135, minibatch 2000/7000, validation error 11.173333 %
+epoch 135, minibatch 7000/7000, validation error 12.626667 %
+epoch 136, minibatch 5000/7000, validation error 7.760000 %
+epoch 137, minibatch 3000/7000, validation error 27.293333 %
+epoch 138, minibatch 1000/7000, validation error 21.200000 %
+epoch 138, minibatch 6000/7000, validation error 15.106667 %
+epoch 139, minibatch 4000/7000, validation error 16.000000 %
+epoch 140, minibatch 2000/7000, validation error 10.613333 %
+epoch 140, minibatch 7000/7000, validation error 10.640000 %
+epoch 141, minibatch 5000/7000, validation error 25.680000 %
+epoch 142, minibatch 3000/7000, validation error 26.306667 %
+epoch 143, minibatch 1000/7000, validation error 10.186667 %
+epoch 143, minibatch 6000/7000, validation error 13.666667 %
+epoch 144, minibatch 4000/7000, validation error 7.200000 %
+     epoch 144, minibatch 4000/7000, test error of best model 7.906667 %
+epoch 145, minibatch 2000/7000, validation error 14.866667 %
+epoch 145, minibatch 7000/7000, validation error 15.200000 %
+epoch 146, minibatch 5000/7000, validation error 13.546667 %
+epoch 147, minibatch 3000/7000, validation error 15.120000 %
+epoch 148, minibatch 1000/7000, validation error 16.053333 %
+epoch 148, minibatch 6000/7000, validation error 13.386667 %
+epoch 149, minibatch 4000/7000, validation error 14.293333 %
+epoch 150, minibatch 2000/7000, validation error 8.360000 %
+epoch 150, minibatch 7000/7000, validation error 18.480000 %
+epoch 151, minibatch 5000/7000, validation error 14.680000 %
+epoch 152, minibatch 3000/7000, validation error 11.320000 %
+epoch 153, minibatch 1000/7000, validation error 14.106667 %
+epoch 153, minibatch 6000/7000, validation error 11.866667 %
+epoch 154, minibatch 4000/7000, validation error 21.280000 %
+epoch 155, minibatch 2000/7000, validation error 15.800000 %
+epoch 155, minibatch 7000/7000, validation error 20.373333 %
+epoch 156, minibatch 5000/7000, validation error 29.280000 %
+epoch 157, minibatch 3000/7000, validation error 18.573333 %
+epoch 158, minibatch 1000/7000, validation error 26.360000 %
+epoch 158, minibatch 6000/7000, validation error 22.426667 %
+epoch 159, minibatch 4000/7000, validation error 16.653333 %
+epoch 160, minibatch 2000/7000, validation error 12.200000 %
+epoch 160, minibatch 7000/7000, validation error 13.666667 %
+epoch 161, minibatch 5000/7000, validation error 22.053333 %
+epoch 162, minibatch 3000/7000, validation error 16.093333 %
+epoch 163, minibatch 1000/7000, validation error 21.360000 %
+epoch 163, minibatch 6000/7000, validation error 15.480000 %
+epoch 164, minibatch 4000/7000, validation error 16.600000 %
+epoch 165, minibatch 2000/7000, validation error 12.746667 %
+epoch 165, minibatch 7000/7000, validation error 16.840000 %
+epoch 166, minibatch 5000/7000, validation error 17.293333 %
+epoch 167, minibatch 3000/7000, validation error 20.426667 %
+epoch 168, minibatch 1000/7000, validation error 13.226667 %
+epoch 168, minibatch 6000/7000, validation error 10.466667 %
+epoch 169, minibatch 4000/7000, validation error 13.080000 %
+epoch 170, minibatch 2000/7000, validation error 22.093333 %
+epoch 170, minibatch 7000/7000, validation error 14.093333 %
+epoch 171, minibatch 5000/7000, validation error 14.853333 %
+epoch 172, minibatch 3000/7000, validation error 24.653333 %
+epoch 173, minibatch 1000/7000, validation error 18.520000 %
+epoch 173, minibatch 6000/7000, validation error 14.226667 %
+epoch 174, minibatch 4000/7000, validation error 11.826667 %
+epoch 175, minibatch 2000/7000, validation error 6.733333 %
+     epoch 175, minibatch 2000/7000, test error of best model 7.546667 %
+epoch 175, minibatch 7000/7000, validation error 10.333333 %
+epoch 176, minibatch 5000/7000, validation error 6.053333 %
+     epoch 176, minibatch 5000/7000, test error of best model 6.386667 %
+epoch 177, minibatch 3000/7000, validation error 7.493333 %
+epoch 178, minibatch 1000/7000, validation error 11.480000 %
+epoch 178, minibatch 6000/7000, validation error 20.106667 %
+epoch 179, minibatch 4000/7000, validation error 14.320000 %
+epoch 180, minibatch 2000/7000, validation error 9.533333 %
+epoch 180, minibatch 7000/7000, validation error 15.053333 %
+epoch 181, minibatch 5000/7000, validation error 14.026667 %
+epoch 182, minibatch 3000/7000, validation error 10.866667 %
+epoch 183, minibatch 1000/7000, validation error 20.466667 %
+epoch 183, minibatch 6000/7000, validation error 19.693333 %
+epoch 184, minibatch 4000/7000, validation error 29.440000 %
+epoch 185, minibatch 2000/7000, validation error 30.066667 %
+epoch 185, minibatch 7000/7000, validation error 28.493333 %
+epoch 186, minibatch 5000/7000, validation error 17.480000 %
+epoch 187, minibatch 3000/7000, validation error 23.493333 %
+epoch 188, minibatch 1000/7000, validation error 14.386667 %
+epoch 188, minibatch 6000/7000, validation error 16.880000 %
+epoch 189, minibatch 4000/7000, validation error 12.653333 %
+epoch 190, minibatch 2000/7000, validation error 13.653333 %
+epoch 190, minibatch 7000/7000, validation error 16.293333 %
+epoch 191, minibatch 5000/7000, validation error 20.133333 %
+epoch 192, minibatch 3000/7000, validation error 16.626667 %
+epoch 193, minibatch 1000/7000, validation error 24.120000 %
+epoch 193, minibatch 6000/7000, validation error 22.986667 %
+epoch 194, minibatch 4000/7000, validation error 21.946667 %
+epoch 195, minibatch 2000/7000, validation error 18.653333 %
+epoch 195, minibatch 7000/7000, validation error 9.706667 %
+epoch 196, minibatch 5000/7000, validation error 15.080000 %
+epoch 197, minibatch 3000/7000, validation error 9.946667 %
+epoch 198, minibatch 1000/7000, validation error 16.693333 %
+epoch 198, minibatch 6000/7000, validation error 30.266667 %
+epoch 199, minibatch 4000/7000, validation error 23.586667 %
+epoch 200, minibatch 2000/7000, validation error 14.693333 %
+epoch 200, minibatch 7000/7000, validation error 13.093333 %
+epoch 201, minibatch 5000/7000, validation error 17.653333 %
+epoch 202, minibatch 3000/7000, validation error 13.280000 %
+epoch 203, minibatch 1000/7000, validation error 6.240000 %
+epoch 203, minibatch 6000/7000, validation error 11.386667 %
+epoch 204, minibatch 4000/7000, validation error 11.120000 %
+epoch 205, minibatch 2000/7000, validation error 18.293333 %
+epoch 205, minibatch 7000/7000, validation error 17.880000 %
+epoch 206, minibatch 5000/7000, validation error 4.106667 %
+     epoch 206, minibatch 5000/7000, test error of best model 4.373333 %
+epoch 207, minibatch 3000/7000, validation error 24.200000 %
+epoch 208, minibatch 1000/7000, validation error 18.706667 %
+epoch 208, minibatch 6000/7000, validation error 19.480000 %
+epoch 209, minibatch 4000/7000, validation error 24.826667 %
+epoch 210, minibatch 2000/7000, validation error 25.666667 %
+epoch 210, minibatch 7000/7000, validation error 39.280000 %
+epoch 211, minibatch 5000/7000, validation error 37.760000 %
+epoch 212, minibatch 3000/7000, validation error 39.320000 %
+epoch 213, minibatch 1000/7000, validation error 31.533333 %
+epoch 213, minibatch 6000/7000, validation error 21.720000 %
+epoch 214, minibatch 4000/7000, validation error 24.600000 %
+epoch 215, minibatch 2000/7000, validation error 21.573333 %
+epoch 215, minibatch 7000/7000, validation error 17.586667 %
+epoch 216, minibatch 5000/7000, validation error 22.973333 %
+epoch 217, minibatch 3000/7000, validation error 19.786667 %
+epoch 218, minibatch 1000/7000, validation error 13.373333 %
+epoch 218, minibatch 6000/7000, validation error 16.560000 %
+epoch 219, minibatch 4000/7000, validation error 21.173333 %
+epoch 220, minibatch 2000/7000, validation error 18.906667 %
+epoch 220, minibatch 7000/7000, validation error 11.040000 %
+epoch 221, minibatch 5000/7000, validation error 19.440000 %
+epoch 222, minibatch 3000/7000, validation error 14.066667 %
+epoch 223, minibatch 1000/7000, validation error 16.226667 %
+epoch 223, minibatch 6000/7000, validation error 6.640000 %
+epoch 224, minibatch 4000/7000, validation error 10.160000 %
+epoch 225, minibatch 2000/7000, validation error 15.160000 %
+epoch 225, minibatch 7000/7000, validation error 24.053333 %
+epoch 226, minibatch 5000/7000, validation error 13.960000 %
+epoch 227, minibatch 3000/7000, validation error 13.906667 %
+epoch 228, minibatch 1000/7000, validation error 10.173333 %
+epoch 228, minibatch 6000/7000, validation error 19.826667 %
+epoch 229, minibatch 4000/7000, validation error 28.253333 %
+epoch 230, minibatch 2000/7000, validation error 19.146667 %
+epoch 230, minibatch 7000/7000, validation error 16.960000 %
+epoch 231, minibatch 5000/7000, validation error 17.760000 %
+epoch 232, minibatch 3000/7000, validation error 31.533333 %
+epoch 233, minibatch 1000/7000, validation error 32.346667 %
+epoch 233, minibatch 6000/7000, validation error 27.946667 %
+epoch 234, minibatch 4000/7000, validation error 10.240000 %
+epoch 235, minibatch 2000/7000, validation error 7.826667 %
+epoch 235, minibatch 7000/7000, validation error 17.146667 %
+epoch 236, minibatch 5000/7000, validation error 12.080000 %
+epoch 237, minibatch 3000/7000, validation error 12.360000 %
+epoch 238, minibatch 1000/7000, validation error 12.280000 %
+epoch 238, minibatch 6000/7000, validation error 8.226667 %
+epoch 239, minibatch 4000/7000, validation error 18.266667 %
+epoch 240, minibatch 2000/7000, validation error 20.160000 %
+epoch 240, minibatch 7000/7000, validation error 7.973333 %
+epoch 241, minibatch 5000/7000, validation error 22.146667 %
+epoch 242, minibatch 3000/7000, validation error 19.613333 %
+epoch 243, minibatch 1000/7000, validation error 15.266667 %
+epoch 243, minibatch 6000/7000, validation error 9.853333 %
+epoch 244, minibatch 4000/7000, validation error 20.773333 %
+epoch 245, minibatch 2000/7000, validation error 7.413333 %
+epoch 245, minibatch 7000/7000, validation error 11.280000 %
+epoch 246, minibatch 5000/7000, validation error 22.013333 %
+epoch 247, minibatch 3000/7000, validation error 15.053333 %
+epoch 248, minibatch 1000/7000, validation error 18.266667 %
+epoch 248, minibatch 6000/7000, validation error 12.706667 %
+epoch 249, minibatch 4000/7000, validation error 12.853333 %
+epoch 250, minibatch 2000/7000, validation error 30.360000 %
+epoch 250, minibatch 7000/7000, validation error 27.560000 %
+epoch 251, minibatch 5000/7000, validation error 22.293333 %
+epoch 252, minibatch 3000/7000, validation error 21.773333 %
+epoch 253, minibatch 1000/7000, validation error 31.360000 %
+epoch 253, minibatch 6000/7000, validation error 21.506667 %
+epoch 254, minibatch 4000/7000, validation error 7.880000 %
+epoch 255, minibatch 2000/7000, validation error 6.933333 %
+epoch 255, minibatch 7000/7000, validation error 21.186667 %
+epoch 256, minibatch 5000/7000, validation error 22.600000 %
+epoch 257, minibatch 3000/7000, validation error 12.853333 %
+epoch 258, minibatch 1000/7000, validation error 11.520000 %
+epoch 258, minibatch 6000/7000, validation error 17.320000 %
+epoch 259, minibatch 4000/7000, validation error 14.960000 %
+epoch 260, minibatch 2000/7000, validation error 17.746667 %
+epoch 260, minibatch 7000/7000, validation error 15.146667 %
+epoch 261, minibatch 5000/7000, validation error 24.146667 %
+epoch 262, minibatch 3000/7000, validation error 18.186667 %
+epoch 263, minibatch 1000/7000, validation error 22.400000 %
+epoch 263, minibatch 6000/7000, validation error 16.533333 %
+epoch 264, minibatch 4000/7000, validation error 15.653333 %
+epoch 265, minibatch 2000/7000, validation error 9.480000 %
+epoch 265, minibatch 7000/7000, validation error 7.973333 %
+epoch 266, minibatch 5000/7000, validation error 16.413333 %
+epoch 267, minibatch 3000/7000, validation error 14.973333 %
+epoch 268, minibatch 1000/7000, validation error 17.440000 %
+epoch 268, minibatch 6000/7000, validation error 11.040000 %
+epoch 269, minibatch 4000/7000, validation error 15.173333 %
+epoch 270, minibatch 2000/7000, validation error 18.933333 %
+epoch 270, minibatch 7000/7000, validation error 22.800000 %
+epoch 271, minibatch 5000/7000, validation error 10.173333 %
+epoch 272, minibatch 3000/7000, validation error 8.666667 %
+epoch 273, minibatch 1000/7000, validation error 17.893333 %
+epoch 273, minibatch 6000/7000, validation error 16.013333 %
+epoch 274, minibatch 4000/7000, validation error 22.520000 %
+epoch 275, minibatch 2000/7000, validation error 17.386667 %
+epoch 275, minibatch 7000/7000, validation error 9.746667 %
+epoch 276, minibatch 5000/7000, validation error 17.426667 %
+epoch 277, minibatch 3000/7000, validation error 11.560000 %
+epoch 278, minibatch 1000/7000, validation error 13.133333 %
+epoch 278, minibatch 6000/7000, validation error 13.640000 %
+epoch 279, minibatch 4000/7000, validation error 23.120000 %
+epoch 280, minibatch 2000/7000, validation error 18.066667 %
+epoch 280, minibatch 7000/7000, validation error 11.840000 %
+epoch 281, minibatch 5000/7000, validation error 13.346667 %
+epoch 282, minibatch 3000/7000, validation error 10.920000 %
+epoch 283, minibatch 1000/7000, validation error 8.146667 %
+epoch 283, minibatch 6000/7000, validation error 7.613333 %
+epoch 284, minibatch 4000/7000, validation error 5.320000 %
+epoch 285, minibatch 2000/7000, validation error 9.533333 %
+epoch 285, minibatch 7000/7000, validation error 10.653333 %
+epoch 286, minibatch 5000/7000, validation error 9.413333 %
+epoch 287, minibatch 3000/7000, validation error 14.573333 %
+epoch 288, minibatch 1000/7000, validation error 7.106667 %
+epoch 288, minibatch 6000/7000, validation error 10.693333 %
+epoch 289, minibatch 4000/7000, validation error 19.173333 %
+epoch 290, minibatch 2000/7000, validation error 17.866667 %
+epoch 290, minibatch 7000/7000, validation error 9.666667 %
+epoch 291, minibatch 5000/7000, validation error 18.373333 %
+epoch 292, minibatch 3000/7000, validation error 15.680000 %
+epoch 293, minibatch 1000/7000, validation error 8.266667 %
+epoch 293, minibatch 6000/7000, validation error 4.453333 %
+epoch 294, minibatch 4000/7000, validation error 27.413333 %
+epoch 295, minibatch 2000/7000, validation error 34.080000 %
+epoch 295, minibatch 7000/7000, validation error 26.413333 %
+epoch 296, minibatch 5000/7000, validation error 23.093333 %
+epoch 297, minibatch 3000/7000, validation error 26.880000 %
+epoch 298, minibatch 1000/7000, validation error 22.306667 %
+epoch 298, minibatch 6000/7000, validation error 15.453333 %
+epoch 299, minibatch 4000/7000, validation error 18.960000 %
+epoch 300, minibatch 2000/7000, validation error 24.653333 %
+epoch 300, minibatch 7000/7000, validation error 23.360000 %
+epoch 301, minibatch 5000/7000, validation error 15.573333 %
+epoch 302, minibatch 3000/7000, validation error 22.346667 %
+epoch 303, minibatch 1000/7000, validation error 14.706667 %
+epoch 303, minibatch 6000/7000, validation error 6.093333 %
+epoch 304, minibatch 4000/7000, validation error 23.040000 %
+epoch 305, minibatch 2000/7000, validation error 35.866667 %
+epoch 305, minibatch 7000/7000, validation error 23.400000 %
+epoch 306, minibatch 5000/7000, validation error 22.773333 %
+epoch 307, minibatch 3000/7000, validation error 22.573333 %
+epoch 308, minibatch 1000/7000, validation error 19.053333 %
+epoch 308, minibatch 6000/7000, validation error 25.773333 %
+epoch 309, minibatch 4000/7000, validation error 13.893333 %
+epoch 310, minibatch 2000/7000, validation error 9.333333 %
+epoch 310, minibatch 7000/7000, validation error 13.306667 %
+epoch 311, minibatch 5000/7000, validation error 21.426667 %
+epoch 312, minibatch 3000/7000, validation error 17.226667 %
+epoch 313, minibatch 1000/7000, validation error 20.973333 %
+epoch 313, minibatch 6000/7000, validation error 24.320000 %
+epoch 314, minibatch 4000/7000, validation error 9.346667 %
+epoch 315, minibatch 2000/7000, validation error 20.480000 %
+epoch 315, minibatch 7000/7000, validation error 20.546667 %
+epoch 316, minibatch 5000/7000, validation error 15.600000 %
+epoch 317, minibatch 3000/7000, validation error 13.866667 %
+epoch 318, minibatch 1000/7000, validation error 11.386667 %
+epoch 318, minibatch 6000/7000, validation error 20.653333 %
+epoch 319, minibatch 4000/7000, validation error 24.226667 %
+epoch 320, minibatch 2000/7000, validation error 20.840000 %
+epoch 320, minibatch 7000/7000, validation error 20.946667 %
+epoch 321, minibatch 5000/7000, validation error 20.013333 %
+epoch 322, minibatch 3000/7000, validation error 12.240000 %
+epoch 323, minibatch 1000/7000, validation error 12.186667 %
+epoch 323, minibatch 6000/7000, validation error 9.560000 %
+epoch 324, minibatch 4000/7000, validation error 12.773333 %
+epoch 325, minibatch 2000/7000, validation error 11.546667 %
+epoch 325, minibatch 7000/7000, validation error 7.706667 %
+epoch 326, minibatch 5000/7000, validation error 15.986667 %
+epoch 327, minibatch 3000/7000, validation error 35.080000 %
+epoch 328, minibatch 1000/7000, validation error 38.306667 %
+epoch 328, minibatch 6000/7000, validation error 33.013333 %
+epoch 329, minibatch 4000/7000, validation error 33.746667 %
+epoch 330, minibatch 2000/7000, validation error 32.480000 %
+epoch 330, minibatch 7000/7000, validation error 35.186667 %
+epoch 331, minibatch 5000/7000, validation error 35.226667 %
+epoch 332, minibatch 3000/7000, validation error 33.746667 %
+epoch 333, minibatch 1000/7000, validation error 17.200000 %
+epoch 333, minibatch 6000/7000, validation error 12.773333 %
+epoch 334, minibatch 4000/7000, validation error 17.706667 %
+epoch 335, minibatch 2000/7000, validation error 29.493333 %
+epoch 335, minibatch 7000/7000, validation error 27.933333 %
+epoch 336, minibatch 5000/7000, validation error 27.880000 %
+epoch 337, minibatch 3000/7000, validation error 23.000000 %
+epoch 338, minibatch 1000/7000, validation error 18.053333 %
+epoch 338, minibatch 6000/7000, validation error 18.560000 %
+epoch 339, minibatch 4000/7000, validation error 22.533333 %
+epoch 340, minibatch 2000/7000, validation error 15.520000 %
+epoch 340, minibatch 7000/7000, validation error 12.280000 %
+epoch 341, minibatch 5000/7000, validation error 18.293333 %
+epoch 342, minibatch 3000/7000, validation error 15.453333 %
+epoch 343, minibatch 1000/7000, validation error 15.453333 %
+epoch 343, minibatch 6000/7000, validation error 12.426667 %
+epoch 344, minibatch 4000/7000, validation error 25.186667 %
+epoch 345, minibatch 2000/7000, validation error 20.440000 %
+epoch 345, minibatch 7000/7000, validation error 17.400000 %
+epoch 346, minibatch 5000/7000, validation error 22.040000 %
+epoch 347, minibatch 3000/7000, validation error 25.480000 %
+epoch 348, minibatch 1000/7000, validation error 11.573333 %
+epoch 348, minibatch 6000/7000, validation error 15.106667 %
+epoch 349, minibatch 4000/7000, validation error 7.880000 %
+epoch 350, minibatch 2000/7000, validation error 15.613333 %
+epoch 350, minibatch 7000/7000, validation error 24.200000 %
+epoch 351, minibatch 5000/7000, validation error 9.520000 %
+epoch 352, minibatch 3000/7000, validation error 12.480000 %
+epoch 353, minibatch 1000/7000, validation error 17.346667 %
+epoch 353, minibatch 6000/7000, validation error 21.653333 %
+epoch 354, minibatch 4000/7000, validation error 10.146667 %
+epoch 355, minibatch 2000/7000, validation error 17.666667 %
+epoch 355, minibatch 7000/7000, validation error 14.573333 %
+epoch 356, minibatch 5000/7000, validation error 14.400000 %
+epoch 357, minibatch 3000/7000, validation error 29.880000 %
+epoch 358, minibatch 1000/7000, validation error 23.106667 %
+epoch 358, minibatch 6000/7000, validation error 27.400000 %
+epoch 359, minibatch 4000/7000, validation error 15.466667 %
+epoch 360, minibatch 2000/7000, validation error 22.213333 %
+epoch 360, minibatch 7000/7000, validation error 27.400000 %
+epoch 361, minibatch 5000/7000, validation error 15.493333 %
+epoch 362, minibatch 3000/7000, validation error 13.946667 %
+epoch 363, minibatch 1000/7000, validation error 15.906667 %
+epoch 363, minibatch 6000/7000, validation error 14.026667 %
+epoch 364, minibatch 4000/7000, validation error 4.786667 %
+epoch 365, minibatch 2000/7000, validation error 17.293333 %
+epoch 365, minibatch 7000/7000, validation error 22.800000 %
+epoch 366, minibatch 5000/7000, validation error 10.453333 %
+epoch 367, minibatch 3000/7000, validation error 7.440000 %
+epoch 368, minibatch 1000/7000, validation error 6.826667 %
+epoch 368, minibatch 6000/7000, validation error 4.080000 %
+     epoch 368, minibatch 6000/7000, test error of best model 4.493333 %
+epoch 369, minibatch 4000/7000, validation error 19.373333 %
+epoch 370, minibatch 2000/7000, validation error 16.746667 %
+epoch 370, minibatch 7000/7000, validation error 14.453333 %
+epoch 371, minibatch 5000/7000, validation error 18.506667 %
+epoch 372, minibatch 3000/7000, validation error 34.346667 %
+epoch 373, minibatch 1000/7000, validation error 24.773333 %
+epoch 373, minibatch 6000/7000, validation error 19.600000 %
+epoch 374, minibatch 4000/7000, validation error 23.613333 %
+epoch 375, minibatch 2000/7000, validation error 18.360000 %
+epoch 375, minibatch 7000/7000, validation error 24.626667 %
+epoch 376, minibatch 5000/7000, validation error 18.706667 %
+epoch 377, minibatch 3000/7000, validation error 16.386667 %
+epoch 378, minibatch 1000/7000, validation error 17.480000 %
+epoch 378, minibatch 6000/7000, validation error 9.946667 %
+epoch 379, minibatch 4000/7000, validation error 4.560000 %
+epoch 380, minibatch 2000/7000, validation error 9.106667 %
+epoch 380, minibatch 7000/7000, validation error 18.493333 %
+epoch 381, minibatch 5000/7000, validation error 26.920000 %
+epoch 382, minibatch 3000/7000, validation error 17.213333 %
+epoch 383, minibatch 1000/7000, validation error 20.373333 %
+epoch 383, minibatch 6000/7000, validation error 19.253333 %
+epoch 384, minibatch 4000/7000, validation error 21.493333 %
+epoch 385, minibatch 2000/7000, validation error 15.400000 %
+epoch 385, minibatch 7000/7000, validation error 12.120000 %
+epoch 386, minibatch 5000/7000, validation error 17.973333 %
+epoch 387, minibatch 3000/7000, validation error 25.413333 %
+epoch 388, minibatch 1000/7000, validation error 20.066667 %
+epoch 388, minibatch 6000/7000, validation error 13.746667 %
+epoch 389, minibatch 4000/7000, validation error 25.480000 %
+epoch 390, minibatch 2000/7000, validation error 13.026667 %
+epoch 390, minibatch 7000/7000, validation error 31.466667 %
+epoch 391, minibatch 5000/7000, validation error 21.560000 %
+epoch 392, minibatch 3000/7000, validation error 20.986667 %
+epoch 393, minibatch 1000/7000, validation error 13.413333 %
+epoch 393, minibatch 6000/7000, validation error 11.586667 %
+epoch 394, minibatch 4000/7000, validation error 24.346667 %
+epoch 395, minibatch 2000/7000, validation error 18.320000 %
+epoch 395, minibatch 7000/7000, validation error 17.546667 %
+epoch 396, minibatch 5000/7000, validation error 18.066667 %
+epoch 397, minibatch 3000/7000, validation error 26.773333 %
+epoch 398, minibatch 1000/7000, validation error 23.426667 %
+epoch 398, minibatch 6000/7000, validation error 26.053333 %
+epoch 399, minibatch 4000/7000, validation error 24.973333 %
+epoch 400, minibatch 2000/7000, validation error 15.053333 %
+epoch 400, minibatch 7000/7000, validation error 28.440000 %
+epoch 401, minibatch 5000/7000, validation error 24.573333 %
+epoch 402, minibatch 3000/7000, validation error 31.773333 %
+epoch 403, minibatch 1000/7000, validation error 26.053333 %
+epoch 403, minibatch 6000/7000, validation error 21.720000 %
+epoch 404, minibatch 4000/7000, validation error 11.053333 %
+epoch 405, minibatch 2000/7000, validation error 9.853333 %
+epoch 405, minibatch 7000/7000, validation error 3.560000 %
+     epoch 405, minibatch 7000/7000, test error of best model 3.733333 %
+epoch 406, minibatch 5000/7000, validation error 20.800000 %
+epoch 407, minibatch 3000/7000, validation error 32.146667 %
+epoch 408, minibatch 1000/7000, validation error 13.346667 %
+epoch 408, minibatch 6000/7000, validation error 7.040000 %
+epoch 409, minibatch 4000/7000, validation error 11.946667 %
+epoch 410, minibatch 2000/7000, validation error 12.106667 %
+epoch 410, minibatch 7000/7000, validation error 11.440000 %
+epoch 411, minibatch 5000/7000, validation error 9.813333 %
+epoch 412, minibatch 3000/7000, validation error 21.760000 %
+epoch 413, minibatch 1000/7000, validation error 9.573333 %
+epoch 413, minibatch 6000/7000, validation error 15.026667 %
+epoch 414, minibatch 4000/7000, validation error 17.986667 %
+epoch 415, minibatch 2000/7000, validation error 18.840000 %
+epoch 415, minibatch 7000/7000, validation error 21.226667 %
+epoch 416, minibatch 5000/7000, validation error 14.053333 %
+epoch 417, minibatch 3000/7000, validation error 9.906667 %
+epoch 418, minibatch 1000/7000, validation error 6.320000 %
+epoch 418, minibatch 6000/7000, validation error 5.640000 %
+epoch 419, minibatch 4000/7000, validation error 12.200000 %
+epoch 420, minibatch 2000/7000, validation error 13.693333 %
+epoch 420, minibatch 7000/7000, validation error 12.240000 %
+epoch 421, minibatch 5000/7000, validation error 15.280000 %
+epoch 422, minibatch 3000/7000, validation error 14.680000 %
+epoch 423, minibatch 1000/7000, validation error 21.293333 %
+epoch 423, minibatch 6000/7000, validation error 21.586667 %
+epoch 424, minibatch 4000/7000, validation error 12.186667 %
+epoch 425, minibatch 2000/7000, validation error 25.066667 %
+epoch 425, minibatch 7000/7000, validation error 18.600000 %
+epoch 426, minibatch 5000/7000, validation error 25.506667 %
+epoch 427, minibatch 3000/7000, validation error 20.853333 %
+epoch 428, minibatch 1000/7000, validation error 12.946667 %
+epoch 428, minibatch 6000/7000, validation error 8.080000 %
+epoch 429, minibatch 4000/7000, validation error 14.706667 %
+epoch 430, minibatch 2000/7000, validation error 24.253333 %
+epoch 430, minibatch 7000/7000, validation error 17.133333 %
+epoch 431, minibatch 5000/7000, validation error 22.146667 %
+epoch 432, minibatch 3000/7000, validation error 32.080000 %
+epoch 433, minibatch 1000/7000, validation error 33.533333 %
+epoch 433, minibatch 6000/7000, validation error 29.453333 %
+epoch 434, minibatch 4000/7000, validation error 17.733333 %
+epoch 435, minibatch 2000/7000, validation error 7.733333 %
+epoch 435, minibatch 7000/7000, validation error 9.786667 %
+epoch 436, minibatch 5000/7000, validation error 8.613333 %
+epoch 437, minibatch 3000/7000, validation error 22.080000 %
+epoch 438, minibatch 1000/7000, validation error 14.066667 %
+epoch 438, minibatch 6000/7000, validation error 22.000000 %
+epoch 439, minibatch 4000/7000, validation error 19.066667 %
+epoch 440, minibatch 2000/7000, validation error 19.933333 %
+epoch 440, minibatch 7000/7000, validation error 21.213333 %
+epoch 441, minibatch 5000/7000, validation error 19.760000 %
+epoch 442, minibatch 3000/7000, validation error 18.466667 %
+epoch 443, minibatch 1000/7000, validation error 16.653333 %
+epoch 443, minibatch 6000/7000, validation error 9.293333 %
+epoch 444, minibatch 4000/7000, validation error 13.240000 %
+epoch 445, minibatch 2000/7000, validation error 26.453333 %
+epoch 445, minibatch 7000/7000, validation error 27.706667 %
+epoch 446, minibatch 5000/7000, validation error 21.440000 %
+epoch 447, minibatch 3000/7000, validation error 19.680000 %
+epoch 448, minibatch 1000/7000, validation error 17.933333 %
+epoch 448, minibatch 6000/7000, validation error 29.506667 %
+epoch 449, minibatch 4000/7000, validation error 20.293333 %
+epoch 450, minibatch 2000/7000, validation error 24.186667 %
+epoch 450, minibatch 7000/7000, validation error 12.600000 %
+epoch 451, minibatch 5000/7000, validation error 20.826667 %
+epoch 452, minibatch 3000/7000, validation error 8.800000 %
+epoch 453, minibatch 1000/7000, validation error 14.226667 %
+epoch 453, minibatch 6000/7000, validation error 16.773333 %
+epoch 454, minibatch 4000/7000, validation error 16.346667 %
+epoch 455, minibatch 2000/7000, validation error 11.173333 %
+epoch 455, minibatch 7000/7000, validation error 24.266667 %
+epoch 456, minibatch 5000/7000, validation error 25.933333 %
+epoch 457, minibatch 3000/7000, validation error 22.720000 %
+epoch 458, minibatch 1000/7000, validation error 21.666667 %
+epoch 458, minibatch 6000/7000, validation error 21.280000 %
+epoch 459, minibatch 4000/7000, validation error 22.240000 %
+epoch 460, minibatch 2000/7000, validation error 21.040000 %
+epoch 460, minibatch 7000/7000, validation error 27.560000 %
+epoch 461, minibatch 5000/7000, validation error 21.280000 %
+epoch 462, minibatch 3000/7000, validation error 18.960000 %
+epoch 463, minibatch 1000/7000, validation error 15.706667 %
+epoch 463, minibatch 6000/7000, validation error 15.160000 %
+epoch 464, minibatch 4000/7000, validation error 15.146667 %
+epoch 465, minibatch 2000/7000, validation error 8.786667 %
+epoch 465, minibatch 7000/7000, validation error 26.053333 %
+epoch 466, minibatch 5000/7000, validation error 13.973333 %
+epoch 467, minibatch 3000/7000, validation error 10.106667 %
+epoch 468, minibatch 1000/7000, validation error 14.626667 %
+epoch 468, minibatch 6000/7000, validation error 6.293333 %
+epoch 469, minibatch 4000/7000, validation error 6.226667 %
+epoch 470, minibatch 2000/7000, validation error 7.826667 %
+epoch 470, minibatch 7000/7000, validation error 22.733333 %
+epoch 471, minibatch 5000/7000, validation error 16.240000 %
+epoch 472, minibatch 3000/7000, validation error 14.600000 %
+epoch 473, minibatch 1000/7000, validation error 15.053333 %
+epoch 473, minibatch 6000/7000, validation error 14.333333 %
+epoch 474, minibatch 4000/7000, validation error 16.880000 %
+epoch 475, minibatch 2000/7000, validation error 16.773333 %
+epoch 475, minibatch 7000/7000, validation error 21.080000 %
+epoch 476, minibatch 5000/7000, validation error 7.573333 %
+epoch 477, minibatch 3000/7000, validation error 16.000000 %
+epoch 478, minibatch 1000/7000, validation error 21.360000 %
+epoch 478, minibatch 6000/7000, validation error 13.813333 %
+epoch 479, minibatch 4000/7000, validation error 14.226667 %
+epoch 480, minibatch 2000/7000, validation error 9.693333 %
+epoch 480, minibatch 7000/7000, validation error 17.413333 %
+epoch 481, minibatch 5000/7000, validation error 15.720000 %
+epoch 482, minibatch 3000/7000, validation error 14.040000 %
+epoch 483, minibatch 1000/7000, validation error 21.026667 %
+epoch 483, minibatch 6000/7000, validation error 17.373333 %
+epoch 484, minibatch 4000/7000, validation error 10.040000 %
+epoch 485, minibatch 2000/7000, validation error 11.413333 %
+epoch 485, minibatch 7000/7000, validation error 13.373333 %
+epoch 486, minibatch 5000/7000, validation error 15.346667 %
+epoch 487, minibatch 3000/7000, validation error 19.920000 %
+epoch 488, minibatch 1000/7000, validation error 15.146667 %
+epoch 488, minibatch 6000/7000, validation error 11.853333 %
+epoch 489, minibatch 4000/7000, validation error 21.320000 %
+epoch 490, minibatch 2000/7000, validation error 12.253333 %
+epoch 490, minibatch 7000/7000, validation error 16.626667 %
+epoch 491, minibatch 5000/7000, validation error 15.226667 %
+epoch 492, minibatch 3000/7000, validation error 8.360000 %
+epoch 493, minibatch 1000/7000, validation error 13.680000 %
+epoch 493, minibatch 6000/7000, validation error 6.520000 %
+epoch 494, minibatch 4000/7000, validation error 15.773333 %
+epoch 495, minibatch 2000/7000, validation error 16.493333 %
+epoch 495, minibatch 7000/7000, validation error 29.333333 %
+epoch 496, minibatch 5000/7000, validation error 20.066667 %
+epoch 497, minibatch 3000/7000, validation error 13.746667 %
+epoch 498, minibatch 1000/7000, validation error 17.160000 %
+epoch 498, minibatch 6000/7000, validation error 17.866667 %
+epoch 499, minibatch 4000/7000, validation error 18.813333 %
+epoch 500, minibatch 2000/7000, validation error 19.173333 %
+epoch 500, minibatch 7000/7000, validation error 14.893333 %
+epoch 501, minibatch 5000/7000, validation error 22.920000 %
+epoch 502, minibatch 3000/7000, validation error 15.853333 %
+epoch 503, minibatch 1000/7000, validation error 21.413333 %
+epoch 503, minibatch 6000/7000, validation error 15.560000 %
+epoch 504, minibatch 4000/7000, validation error 10.720000 %
+epoch 505, minibatch 2000/7000, validation error 6.440000 %
+epoch 505, minibatch 7000/7000, validation error 16.040000 %
+epoch 506, minibatch 5000/7000, validation error 9.733333 %
+epoch 507, minibatch 3000/7000, validation error 16.386667 %
+epoch 508, minibatch 1000/7000, validation error 12.640000 %
+epoch 508, minibatch 6000/7000, validation error 23.853333 %
+epoch 509, minibatch 4000/7000, validation error 13.706667 %
+epoch 510, minibatch 2000/7000, validation error 29.986667 %
+epoch 510, minibatch 7000/7000, validation error 29.680000 %
+epoch 511, minibatch 5000/7000, validation error 18.306667 %
+epoch 512, minibatch 3000/7000, validation error 13.360000 %
+epoch 513, minibatch 1000/7000, validation error 16.186667 %
+epoch 513, minibatch 6000/7000, validation error 11.800000 %
+epoch 514, minibatch 4000/7000, validation error 25.586667 %
+epoch 515, minibatch 2000/7000, validation error 19.480000 %
+epoch 515, minibatch 7000/7000, validation error 8.066667 %
+epoch 516, minibatch 5000/7000, validation error 16.080000 %
+epoch 517, minibatch 3000/7000, validation error 12.466667 %
+epoch 518, minibatch 1000/7000, validation error 15.493333 %
+epoch 518, minibatch 6000/7000, validation error 11.026667 %
+epoch 519, minibatch 4000/7000, validation error 10.400000 %
+epoch 520, minibatch 2000/7000, validation error 17.253333 %
+epoch 520, minibatch 7000/7000, validation error 14.866667 %
+epoch 521, minibatch 5000/7000, validation error 20.400000 %
+epoch 522, minibatch 3000/7000, validation error 16.560000 %
+epoch 523, minibatch 1000/7000, validation error 14.226667 %
+epoch 523, minibatch 6000/7000, validation error 26.426667 %
+epoch 524, minibatch 4000/7000, validation error 20.626667 %
+epoch 525, minibatch 2000/7000, validation error 20.226667 %
+epoch 525, minibatch 7000/7000, validation error 16.626667 %
+epoch 526, minibatch 5000/7000, validation error 18.666667 %
+epoch 527, minibatch 3000/7000, validation error 16.493333 %
+epoch 528, minibatch 1000/7000, validation error 25.813333 %
+epoch 528, minibatch 6000/7000, validation error 16.773333 %
+epoch 529, minibatch 4000/7000, validation error 14.960000 %
+epoch 530, minibatch 2000/7000, validation error 18.746667 %
+epoch 530, minibatch 7000/7000, validation error 20.693333 %
+epoch 531, minibatch 5000/7000, validation error 22.106667 %
+epoch 532, minibatch 3000/7000, validation error 10.520000 %
+epoch 533, minibatch 1000/7000, validation error 19.426667 %
+epoch 533, minibatch 6000/7000, validation error 20.493333 %
+epoch 534, minibatch 4000/7000, validation error 14.133333 %
+epoch 535, minibatch 2000/7000, validation error 10.120000 %
+epoch 535, minibatch 7000/7000, validation error 16.840000 %
+epoch 536, minibatch 5000/7000, validation error 15.880000 %
+epoch 537, minibatch 3000/7000, validation error 24.640000 %
+epoch 538, minibatch 1000/7000, validation error 22.000000 %
+epoch 538, minibatch 6000/7000, validation error 12.680000 %
+epoch 539, minibatch 4000/7000, validation error 11.813333 %
+epoch 540, minibatch 2000/7000, validation error 21.680000 %
+epoch 540, minibatch 7000/7000, validation error 19.026667 %
+epoch 541, minibatch 5000/7000, validation error 17.373333 %
+epoch 542, minibatch 3000/7000, validation error 15.906667 %
+epoch 543, minibatch 1000/7000, validation error 9.986667 %
+epoch 543, minibatch 6000/7000, validation error 12.546667 %
+epoch 544, minibatch 4000/7000, validation error 20.360000 %
+epoch 545, minibatch 2000/7000, validation error 16.360000 %
+epoch 545, minibatch 7000/7000, validation error 12.480000 %
+epoch 546, minibatch 5000/7000, validation error 12.080000 %
+epoch 547, minibatch 3000/7000, validation error 23.360000 %
+epoch 548, minibatch 1000/7000, validation error 17.440000 %
+epoch 548, minibatch 6000/7000, validation error 15.186667 %
+epoch 549, minibatch 4000/7000, validation error 14.013333 %
+epoch 550, minibatch 2000/7000, validation error 19.293333 %
+epoch 550, minibatch 7000/7000, validation error 24.213333 %
+epoch 551, minibatch 5000/7000, validation error 21.720000 %
+epoch 552, minibatch 3000/7000, validation error 26.480000 %
+epoch 553, minibatch 1000/7000, validation error 23.133333 %
+epoch 553, minibatch 6000/7000, validation error 20.853333 %
+epoch 554, minibatch 4000/7000, validation error 23.853333 %
+epoch 555, minibatch 2000/7000, validation error 26.493333 %
+epoch 555, minibatch 7000/7000, validation error 16.960000 %
+epoch 556, minibatch 5000/7000, validation error 30.973333 %
+epoch 557, minibatch 3000/7000, validation error 22.146667 %
+epoch 558, minibatch 1000/7000, validation error 21.693333 %
+epoch 558, minibatch 6000/7000, validation error 19.786667 %
+epoch 559, minibatch 4000/7000, validation error 21.200000 %
+epoch 560, minibatch 2000/7000, validation error 24.746667 %
+epoch 560, minibatch 7000/7000, validation error 27.066667 %
+epoch 561, minibatch 5000/7000, validation error 26.933333 %
+epoch 562, minibatch 3000/7000, validation error 21.773333 %
+epoch 563, minibatch 1000/7000, validation error 19.226667 %
+epoch 563, minibatch 6000/7000, validation error 22.733333 %
+epoch 564, minibatch 4000/7000, validation error 18.040000 %
+epoch 565, minibatch 2000/7000, validation error 11.506667 %
+epoch 565, minibatch 7000/7000, validation error 15.346667 %
+epoch 566, minibatch 5000/7000, validation error 14.466667 %
+epoch 567, minibatch 3000/7000, validation error 18.466667 %
+epoch 568, minibatch 1000/7000, validation error 26.680000 %
+epoch 568, minibatch 6000/7000, validation error 21.693333 %
+epoch 569, minibatch 4000/7000, validation error 12.986667 %
+epoch 570, minibatch 2000/7000, validation error 10.413333 %
+epoch 570, minibatch 7000/7000, validation error 18.746667 %
+epoch 571, minibatch 5000/7000, validation error 15.040000 %
+epoch 572, minibatch 3000/7000, validation error 20.106667 %
+epoch 573, minibatch 1000/7000, validation error 16.306667 %
+epoch 573, minibatch 6000/7000, validation error 25.533333 %
+epoch 574, minibatch 4000/7000, validation error 16.160000 %
+epoch 575, minibatch 2000/7000, validation error 12.186667 %
+epoch 575, minibatch 7000/7000, validation error 13.613333 %
+epoch 576, minibatch 5000/7000, validation error 14.653333 %
+epoch 577, minibatch 3000/7000, validation error 10.346667 %
+epoch 578, minibatch 1000/7000, validation error 24.626667 %
+epoch 578, minibatch 6000/7000, validation error 25.506667 %
+epoch 579, minibatch 4000/7000, validation error 18.173333 %
+epoch 580, minibatch 2000/7000, validation error 19.493333 %
+epoch 580, minibatch 7000/7000, validation error 16.640000 %
+epoch 581, minibatch 5000/7000, validation error 22.680000 %
+epoch 582, minibatch 3000/7000, validation error 13.133333 %
+epoch 583, minibatch 1000/7000, validation error 12.333333 %
+epoch 583, minibatch 6000/7000, validation error 25.133333 %
+epoch 584, minibatch 4000/7000, validation error 23.440000 %
+epoch 585, minibatch 2000/7000, validation error 33.573333 %
+epoch 585, minibatch 7000/7000, validation error 28.426667 %
+epoch 586, minibatch 5000/7000, validation error 23.333333 %
+epoch 587, minibatch 3000/7000, validation error 17.653333 %
+epoch 588, minibatch 1000/7000, validation error 26.146667 %
+epoch 588, minibatch 6000/7000, validation error 33.440000 %
+epoch 589, minibatch 4000/7000, validation error 27.520000 %
+epoch 590, minibatch 2000/7000, validation error 22.600000 %
+epoch 590, minibatch 7000/7000, validation error 19.466667 %
+epoch 591, minibatch 5000/7000, validation error 16.120000 %
+epoch 592, minibatch 3000/7000, validation error 16.906667 %
+epoch 593, minibatch 1000/7000, validation error 14.453333 %
+epoch 593, minibatch 6000/7000, validation error 12.426667 %
+epoch 594, minibatch 4000/7000, validation error 28.573333 %
+epoch 595, minibatch 2000/7000, validation error 22.853333 %
+epoch 595, minibatch 7000/7000, validation error 21.573333 %
+epoch 596, minibatch 5000/7000, validation error 20.120000 %
+epoch 597, minibatch 3000/7000, validation error 14.453333 %
+epoch 598, minibatch 1000/7000, validation error 11.386667 %
+epoch 598, minibatch 6000/7000, validation error 17.466667 %
+epoch 599, minibatch 4000/7000, validation error 15.080000 %
+epoch 600, minibatch 2000/7000, validation error 17.173333 %
+epoch 600, minibatch 7000/7000, validation error 10.600000 %
+epoch 601, minibatch 5000/7000, validation error 22.040000 %
+epoch 602, minibatch 3000/7000, validation error 18.893333 %
+epoch 603, minibatch 1000/7000, validation error 13.626667 %
+epoch 603, minibatch 6000/7000, validation error 12.333333 %
+epoch 604, minibatch 4000/7000, validation error 12.773333 %
+epoch 605, minibatch 2000/7000, validation error 13.546667 %
+epoch 605, minibatch 7000/7000, validation error 12.533333 %
+epoch 606, minibatch 5000/7000, validation error 9.400000 %
+epoch 607, minibatch 3000/7000, validation error 17.880000 %
+epoch 608, minibatch 1000/7000, validation error 11.813333 %
+epoch 608, minibatch 6000/7000, validation error 10.426667 %
+epoch 609, minibatch 4000/7000, validation error 16.493333 %
+epoch 610, minibatch 2000/7000, validation error 19.920000 %
+epoch 610, minibatch 7000/7000, validation error 12.360000 %
+epoch 611, minibatch 5000/7000, validation error 8.960000 %
+epoch 612, minibatch 3000/7000, validation error 22.786667 %
+epoch 613, minibatch 1000/7000, validation error 27.066667 %
+epoch 613, minibatch 6000/7000, validation error 18.360000 %
+epoch 614, minibatch 4000/7000, validation error 13.040000 %
+epoch 615, minibatch 2000/7000, validation error 20.600000 %
+epoch 615, minibatch 7000/7000, validation error 14.600000 %
+epoch 616, minibatch 5000/7000, validation error 17.573333 %
+epoch 617, minibatch 3000/7000, validation error 17.546667 %
+epoch 618, minibatch 1000/7000, validation error 17.293333 %
+epoch 618, minibatch 6000/7000, validation error 17.506667 %
+epoch 619, minibatch 4000/7000, validation error 19.626667 %
+epoch 620, minibatch 2000/7000, validation error 23.773333 %
+epoch 620, minibatch 7000/7000, validation error 14.480000 %
+epoch 621, minibatch 5000/7000, validation error 15.320000 %
+epoch 622, minibatch 3000/7000, validation error 13.800000 %
+epoch 623, minibatch 1000/7000, validation error 7.066667 %
+epoch 623, minibatch 6000/7000, validation error 25.826667 %
+epoch 624, minibatch 4000/7000, validation error 16.373333 %
+epoch 625, minibatch 2000/7000, validation error 19.173333 %
+epoch 625, minibatch 7000/7000, validation error 7.306667 %
+epoch 626, minibatch 5000/7000, validation error 28.533333 %
+epoch 627, minibatch 3000/7000, validation error 34.200000 %
+epoch 628, minibatch 1000/7000, validation error 31.773333 %
+epoch 628, minibatch 6000/7000, validation error 25.240000 %
+epoch 629, minibatch 4000/7000, validation error 16.853333 %
+epoch 630, minibatch 2000/7000, validation error 13.026667 %
+epoch 630, minibatch 7000/7000, validation error 15.200000 %
+epoch 631, minibatch 5000/7000, validation error 17.600000 %
+epoch 632, minibatch 3000/7000, validation error 24.893333 %
+epoch 633, minibatch 1000/7000, validation error 38.280000 %
+epoch 633, minibatch 6000/7000, validation error 31.293333 %
+epoch 634, minibatch 4000/7000, validation error 18.986667 %
+epoch 635, minibatch 2000/7000, validation error 20.013333 %
+epoch 635, minibatch 7000/7000, validation error 31.240000 %
+epoch 636, minibatch 5000/7000, validation error 28.000000 %
+epoch 637, minibatch 3000/7000, validation error 23.973333 %
+epoch 638, minibatch 1000/7000, validation error 19.573333 %
+epoch 638, minibatch 6000/7000, validation error 21.306667 %
+epoch 639, minibatch 4000/7000, validation error 17.720000 %
+epoch 640, minibatch 2000/7000, validation error 18.893333 %
+epoch 640, minibatch 7000/7000, validation error 13.320000 %
+epoch 641, minibatch 5000/7000, validation error 26.480000 %
+epoch 642, minibatch 3000/7000, validation error 19.706667 %
+epoch 643, minibatch 1000/7000, validation error 15.306667 %
+epoch 643, minibatch 6000/7000, validation error 13.293333 %
+epoch 644, minibatch 4000/7000, validation error 22.440000 %
+epoch 645, minibatch 2000/7000, validation error 14.133333 %
+epoch 645, minibatch 7000/7000, validation error 14.066667 %
+epoch 646, minibatch 5000/7000, validation error 20.386667 %
+epoch 647, minibatch 3000/7000, validation error 10.000000 %
+epoch 648, minibatch 1000/7000, validation error 11.706667 %
+epoch 648, minibatch 6000/7000, validation error 28.306667 %
+epoch 649, minibatch 4000/7000, validation error 18.666667 %
+epoch 650, minibatch 2000/7000, validation error 17.000000 %
+epoch 650, minibatch 7000/7000, validation error 13.573333 %
+epoch 651, minibatch 5000/7000, validation error 6.680000 %
+epoch 652, minibatch 3000/7000, validation error 15.586667 %
+epoch 653, minibatch 1000/7000, validation error 22.373333 %
+epoch 653, minibatch 6000/7000, validation error 16.760000 %
+epoch 654, minibatch 4000/7000, validation error 21.333333 %
+epoch 655, minibatch 2000/7000, validation error 17.360000 %
+epoch 655, minibatch 7000/7000, validation error 15.080000 %
+epoch 656, minibatch 5000/7000, validation error 18.826667 %
+epoch 657, minibatch 3000/7000, validation error 18.346667 %
+epoch 658, minibatch 1000/7000, validation error 17.426667 %
+epoch 658, minibatch 6000/7000, validation error 15.160000 %
+epoch 659, minibatch 4000/7000, validation error 12.266667 %
+epoch 660, minibatch 2000/7000, validation error 15.306667 %
+epoch 660, minibatch 7000/7000, validation error 26.133333 %
+epoch 661, minibatch 5000/7000, validation error 23.573333 %
+epoch 662, minibatch 3000/7000, validation error 21.146667 %
+epoch 663, minibatch 1000/7000, validation error 24.840000 %
+epoch 663, minibatch 6000/7000, validation error 13.826667 %
+epoch 664, minibatch 4000/7000, validation error 15.066667 %
+epoch 665, minibatch 2000/7000, validation error 17.680000 %
+epoch 665, minibatch 7000/7000, validation error 8.706667 %
+epoch 666, minibatch 5000/7000, validation error 10.933333 %
+epoch 667, minibatch 3000/7000, validation error 15.773333 %
+epoch 668, minibatch 1000/7000, validation error 16.346667 %
+epoch 668, minibatch 6000/7000, validation error 15.866667 %
+epoch 669, minibatch 4000/7000, validation error 9.626667 %
+epoch 670, minibatch 2000/7000, validation error 13.840000 %
+epoch 670, minibatch 7000/7000, validation error 8.840000 %
+epoch 671, minibatch 5000/7000, validation error 11.426667 %
+epoch 672, minibatch 3000/7000, validation error 6.760000 %
+epoch 673, minibatch 1000/7000, validation error 5.640000 %
+epoch 673, minibatch 6000/7000, validation error 29.400000 %
+epoch 674, minibatch 4000/7000, validation error 28.000000 %
+epoch 675, minibatch 2000/7000, validation error 23.426667 %
+epoch 675, minibatch 7000/7000, validation error 30.213333 %
+epoch 676, minibatch 5000/7000, validation error 30.520000 %
+epoch 677, minibatch 3000/7000, validation error 24.000000 %
+epoch 678, minibatch 1000/7000, validation error 26.160000 %
+epoch 678, minibatch 6000/7000, validation error 22.533333 %
+epoch 679, minibatch 4000/7000, validation error 26.626667 %
+epoch 680, minibatch 2000/7000, validation error 18.600000 %
+epoch 680, minibatch 7000/7000, validation error 17.133333 %
+epoch 681, minibatch 5000/7000, validation error 9.333333 %
+epoch 682, minibatch 3000/7000, validation error 28.546667 %
+epoch 683, minibatch 1000/7000, validation error 12.520000 %
+epoch 683, minibatch 6000/7000, validation error 14.680000 %
+epoch 684, minibatch 4000/7000, validation error 25.040000 %
+epoch 685, minibatch 2000/7000, validation error 23.386667 %
+epoch 685, minibatch 7000/7000, validation error 14.920000 %
+epoch 686, minibatch 5000/7000, validation error 15.226667 %
+epoch 687, minibatch 3000/7000, validation error 13.986667 %
+epoch 688, minibatch 1000/7000, validation error 19.746667 %
+epoch 688, minibatch 6000/7000, validation error 10.813333 %
+epoch 689, minibatch 4000/7000, validation error 22.093333 %
+epoch 690, minibatch 2000/7000, validation error 7.013333 %
+epoch 690, minibatch 7000/7000, validation error 13.906667 %
+epoch 691, minibatch 5000/7000, validation error 21.213333 %
+epoch 692, minibatch 3000/7000, validation error 17.986667 %
+epoch 693, minibatch 1000/7000, validation error 36.400000 %
+epoch 693, minibatch 6000/7000, validation error 34.466667 %
+epoch 694, minibatch 4000/7000, validation error 16.800000 %
+epoch 695, minibatch 2000/7000, validation error 17.933333 %
+epoch 695, minibatch 7000/7000, validation error 28.293333 %
+epoch 696, minibatch 5000/7000, validation error 31.293333 %
+epoch 697, minibatch 3000/7000, validation error 25.013333 %
+epoch 698, minibatch 1000/7000, validation error 20.373333 %
+epoch 698, minibatch 6000/7000, validation error 19.573333 %
+epoch 699, minibatch 4000/7000, validation error 18.946667 %
+epoch 700, minibatch 2000/7000, validation error 18.866667 %
+epoch 700, minibatch 7000/7000, validation error 19.573333 %
+epoch 701, minibatch 5000/7000, validation error 27.386667 %
+epoch 702, minibatch 3000/7000, validation error 21.653333 %
+epoch 703, minibatch 1000/7000, validation error 21.333333 %
+epoch 703, minibatch 6000/7000, validation error 17.786667 %
+epoch 704, minibatch 4000/7000, validation error 10.426667 %
+epoch 705, minibatch 2000/7000, validation error 10.453333 %
+epoch 705, minibatch 7000/7000, validation error 7.840000 %
+epoch 706, minibatch 5000/7000, validation error 25.253333 %
+epoch 707, minibatch 3000/7000, validation error 29.746667 %
+epoch 708, minibatch 1000/7000, validation error 14.560000 %
+epoch 708, minibatch 6000/7000, validation error 11.333333 %
+epoch 709, minibatch 4000/7000, validation error 14.120000 %
+epoch 710, minibatch 2000/7000, validation error 19.840000 %
+epoch 710, minibatch 7000/7000, validation error 10.600000 %
+epoch 711, minibatch 5000/7000, validation error 29.853333 %
+epoch 712, minibatch 3000/7000, validation error 19.280000 %
+epoch 713, minibatch 1000/7000, validation error 15.840000 %
+epoch 713, minibatch 6000/7000, validation error 19.626667 %
+epoch 714, minibatch 4000/7000, validation error 23.000000 %
+epoch 715, minibatch 2000/7000, validation error 25.800000 %
+epoch 715, minibatch 7000/7000, validation error 17.373333 %
+epoch 716, minibatch 5000/7000, validation error 5.386667 %
+epoch 717, minibatch 3000/7000, validation error 5.453333 %
+epoch 718, minibatch 1000/7000, validation error 21.986667 %
+epoch 718, minibatch 6000/7000, validation error 19.480000 %
+epoch 719, minibatch 4000/7000, validation error 19.013333 %
+epoch 720, minibatch 2000/7000, validation error 31.186667 %
+epoch 720, minibatch 7000/7000, validation error 18.706667 %
+epoch 721, minibatch 5000/7000, validation error 23.746667 %
+epoch 722, minibatch 3000/7000, validation error 23.840000 %
+epoch 723, minibatch 1000/7000, validation error 25.506667 %
+epoch 723, minibatch 6000/7000, validation error 12.560000 %
+epoch 724, minibatch 4000/7000, validation error 11.813333 %
+epoch 725, minibatch 2000/7000, validation error 15.933333 %
+epoch 725, minibatch 7000/7000, validation error 11.773333 %
+epoch 726, minibatch 5000/7000, validation error 22.026667 %
+epoch 727, minibatch 3000/7000, validation error 19.920000 %
+epoch 728, minibatch 1000/7000, validation error 13.986667 %
+epoch 728, minibatch 6000/7000, validation error 14.440000 %
+epoch 729, minibatch 4000/7000, validation error 11.746667 %
+epoch 730, minibatch 2000/7000, validation error 17.026667 %
+epoch 730, minibatch 7000/7000, validation error 10.520000 %
+epoch 731, minibatch 5000/7000, validation error 8.453333 %
+epoch 732, minibatch 3000/7000, validation error 16.066667 %
+epoch 733, minibatch 1000/7000, validation error 14.093333 %
+epoch 733, minibatch 6000/7000, validation error 10.880000 %
+epoch 734, minibatch 4000/7000, validation error 9.120000 %
+epoch 735, minibatch 2000/7000, validation error 14.466667 %
+epoch 735, minibatch 7000/7000, validation error 20.453333 %
+epoch 736, minibatch 5000/7000, validation error 17.146667 %
+epoch 737, minibatch 3000/7000, validation error 22.360000 %
+epoch 738, minibatch 1000/7000, validation error 21.480000 %
+epoch 738, minibatch 6000/7000, validation error 13.266667 %
+epoch 739, minibatch 4000/7000, validation error 19.253333 %
+epoch 740, minibatch 2000/7000, validation error 14.546667 %
+epoch 740, minibatch 7000/7000, validation error 11.600000 %
+epoch 741, minibatch 5000/7000, validation error 16.960000 %
+epoch 742, minibatch 3000/7000, validation error 8.000000 %
+epoch 743, minibatch 1000/7000, validation error 18.906667 %
+epoch 743, minibatch 6000/7000, validation error 17.306667 %
+epoch 744, minibatch 4000/7000, validation error 20.080000 %
+epoch 745, minibatch 2000/7000, validation error 16.346667 %
+epoch 745, minibatch 7000/7000, validation error 18.933333 %
+epoch 746, minibatch 5000/7000, validation error 22.853333 %
+epoch 747, minibatch 3000/7000, validation error 29.840000 %
+epoch 748, minibatch 1000/7000, validation error 30.693333 %
+epoch 748, minibatch 6000/7000, validation error 22.760000 %
+epoch 749, minibatch 4000/7000, validation error 17.666667 %
+epoch 750, minibatch 2000/7000, validation error 33.146667 %
+epoch 750, minibatch 7000/7000, validation error 35.000000 %
+epoch 751, minibatch 5000/7000, validation error 26.880000 %
+epoch 752, minibatch 3000/7000, validation error 19.933333 %
+epoch 753, minibatch 1000/7000, validation error 15.173333 %
+epoch 753, minibatch 6000/7000, validation error 13.000000 %
+epoch 754, minibatch 4000/7000, validation error 12.933333 %
+epoch 755, minibatch 2000/7000, validation error 13.946667 %
+epoch 755, minibatch 7000/7000, validation error 5.226667 %
+epoch 756, minibatch 5000/7000, validation error 16.186667 %
+epoch 757, minibatch 3000/7000, validation error 9.000000 %
+epoch 758, minibatch 1000/7000, validation error 12.226667 %
+epoch 758, minibatch 6000/7000, validation error 10.080000 %
+epoch 759, minibatch 4000/7000, validation error 8.626667 %
+epoch 760, minibatch 2000/7000, validation error 7.320000 %
+epoch 760, minibatch 7000/7000, validation error 8.680000 %
+epoch 761, minibatch 5000/7000, validation error 12.133333 %
+epoch 762, minibatch 3000/7000, validation error 21.093333 %
+epoch 763, minibatch 1000/7000, validation error 18.226667 %
+epoch 763, minibatch 6000/7000, validation error 19.613333 %
+epoch 764, minibatch 4000/7000, validation error 12.386667 %
+epoch 765, minibatch 2000/7000, validation error 25.640000 %
+epoch 765, minibatch 7000/7000, validation error 9.106667 %
+epoch 766, minibatch 5000/7000, validation error 5.360000 %
+epoch 767, minibatch 3000/7000, validation error 16.253333 %
+epoch 768, minibatch 1000/7000, validation error 18.080000 %
+epoch 768, minibatch 6000/7000, validation error 7.946667 %
+epoch 769, minibatch 4000/7000, validation error 13.773333 %
+epoch 770, minibatch 2000/7000, validation error 18.746667 %
+epoch 770, minibatch 7000/7000, validation error 14.360000 %
+epoch 771, minibatch 5000/7000, validation error 17.693333 %
+epoch 772, minibatch 3000/7000, validation error 21.546667 %
+epoch 773, minibatch 1000/7000, validation error 18.693333 %
+epoch 773, minibatch 6000/7000, validation error 23.986667 %
+epoch 774, minibatch 4000/7000, validation error 19.266667 %
+epoch 775, minibatch 2000/7000, validation error 14.640000 %
+epoch 775, minibatch 7000/7000, validation error 17.200000 %
+epoch 776, minibatch 5000/7000, validation error 15.853333 %
+epoch 777, minibatch 3000/7000, validation error 10.613333 %
+epoch 778, minibatch 1000/7000, validation error 12.253333 %
+epoch 778, minibatch 6000/7000, validation error 30.080000 %
+epoch 779, minibatch 4000/7000, validation error 26.346667 %
+epoch 780, minibatch 2000/7000, validation error 20.040000 %
+epoch 780, minibatch 7000/7000, validation error 15.146667 %
+epoch 781, minibatch 5000/7000, validation error 19.760000 %
+epoch 782, minibatch 3000/7000, validation error 15.613333 %
+epoch 783, minibatch 1000/7000, validation error 14.026667 %
+epoch 783, minibatch 6000/7000, validation error 27.080000 %
+epoch 784, minibatch 4000/7000, validation error 25.133333 %
+epoch 785, minibatch 2000/7000, validation error 24.786667 %
+epoch 785, minibatch 7000/7000, validation error 26.040000 %
+epoch 786, minibatch 5000/7000, validation error 11.400000 %
+epoch 787, minibatch 3000/7000, validation error 31.306667 %
+epoch 788, minibatch 1000/7000, validation error 30.106667 %
+epoch 788, minibatch 6000/7000, validation error 25.453333 %
+epoch 789, minibatch 4000/7000, validation error 22.973333 %
+epoch 790, minibatch 2000/7000, validation error 17.893333 %
+epoch 790, minibatch 7000/7000, validation error 17.960000 %
+epoch 791, minibatch 5000/7000, validation error 7.013333 %
+epoch 792, minibatch 3000/7000, validation error 17.106667 %
+epoch 793, minibatch 1000/7000, validation error 15.413333 %
+epoch 793, minibatch 6000/7000, validation error 23.760000 %
+epoch 794, minibatch 4000/7000, validation error 17.240000 %
+epoch 795, minibatch 2000/7000, validation error 16.386667 %
+epoch 795, minibatch 7000/7000, validation error 22.746667 %
+epoch 796, minibatch 5000/7000, validation error 16.506667 %
+epoch 797, minibatch 3000/7000, validation error 6.986667 %
+epoch 798, minibatch 1000/7000, validation error 12.893333 %
+epoch 798, minibatch 6000/7000, validation error 25.026667 %
+epoch 799, minibatch 4000/7000, validation error 22.253333 %
+epoch 800, minibatch 2000/7000, validation error 22.880000 %
+epoch 800, minibatch 7000/7000, validation error 14.920000 %
+epoch 801, minibatch 5000/7000, validation error 9.053333 %
+epoch 802, minibatch 3000/7000, validation error 7.186667 %
+epoch 803, minibatch 1000/7000, validation error 10.960000 %
+epoch 803, minibatch 6000/7000, validation error 11.986667 %
+epoch 804, minibatch 4000/7000, validation error 8.613333 %
+epoch 805, minibatch 2000/7000, validation error 25.120000 %
+epoch 805, minibatch 7000/7000, validation error 21.306667 %
+epoch 806, minibatch 5000/7000, validation error 19.560000 %
+epoch 807, minibatch 3000/7000, validation error 12.746667 %
+epoch 808, minibatch 1000/7000, validation error 23.200000 %
+epoch 808, minibatch 6000/7000, validation error 18.493333 %
+epoch 809, minibatch 4000/7000, validation error 19.880000 %
+epoch 810, minibatch 2000/7000, validation error 22.266667 %
+epoch 810, minibatch 7000/7000, validation error 19.586667 %
+epoch 811, minibatch 5000/7000, validation error 17.426667 %
+epoch 812, minibatch 3000/7000, validation error 21.360000 %
+epoch 813, minibatch 1000/7000, validation error 29.880000 %
+epoch 813, minibatch 6000/7000, validation error 26.106667 %
+epoch 814, minibatch 4000/7000, validation error 26.053333 %
+epoch 815, minibatch 2000/7000, validation error 18.520000 %
+epoch 815, minibatch 7000/7000, validation error 25.493333 %
+epoch 816, minibatch 5000/7000, validation error 15.386667 %
+epoch 817, minibatch 3000/7000, validation error 14.573333 %
+epoch 818, minibatch 1000/7000, validation error 24.040000 %
+epoch 818, minibatch 6000/7000, validation error 18.066667 %
+epoch 819, minibatch 4000/7000, validation error 13.306667 %
+epoch 820, minibatch 2000/7000, validation error 16.773333 %
+epoch 820, minibatch 7000/7000, validation error 21.480000 %
+epoch 821, minibatch 5000/7000, validation error 21.040000 %
+epoch 822, minibatch 3000/7000, validation error 19.266667 %
+epoch 823, minibatch 1000/7000, validation error 17.680000 %
+epoch 823, minibatch 6000/7000, validation error 12.546667 %
+epoch 824, minibatch 4000/7000, validation error 12.386667 %
+epoch 825, minibatch 2000/7000, validation error 18.320000 %
+epoch 825, minibatch 7000/7000, validation error 19.280000 %
+epoch 826, minibatch 5000/7000, validation error 7.986667 %
+epoch 827, minibatch 3000/7000, validation error 6.626667 %
+epoch 828, minibatch 1000/7000, validation error 14.346667 %
+epoch 828, minibatch 6000/7000, validation error 17.480000 %
+epoch 829, minibatch 4000/7000, validation error 27.693333 %
+epoch 830, minibatch 2000/7000, validation error 18.800000 %
+epoch 830, minibatch 7000/7000, validation error 10.293333 %
+epoch 831, minibatch 5000/7000, validation error 9.373333 %
+epoch 832, minibatch 3000/7000, validation error 16.413333 %
+epoch 833, minibatch 1000/7000, validation error 32.680000 %
+epoch 833, minibatch 6000/7000, validation error 25.986667 %
+epoch 834, minibatch 4000/7000, validation error 22.600000 %
+epoch 835, minibatch 2000/7000, validation error 34.440000 %
+epoch 835, minibatch 7000/7000, validation error 22.800000 %
+epoch 836, minibatch 5000/7000, validation error 14.160000 %
+epoch 837, minibatch 3000/7000, validation error 4.373333 %
+epoch 838, minibatch 1000/7000, validation error 15.853333 %
+epoch 838, minibatch 6000/7000, validation error 21.200000 %
+epoch 839, minibatch 4000/7000, validation error 10.880000 %
+epoch 840, minibatch 2000/7000, validation error 15.573333 %
+epoch 840, minibatch 7000/7000, validation error 10.320000 %
+epoch 841, minibatch 5000/7000, validation error 9.186667 %
+epoch 842, minibatch 3000/7000, validation error 18.026667 %
+epoch 843, minibatch 1000/7000, validation error 19.800000 %
+epoch 843, minibatch 6000/7000, validation error 16.160000 %
+epoch 844, minibatch 4000/7000, validation error 22.600000 %
+epoch 845, minibatch 2000/7000, validation error 13.786667 %
+epoch 845, minibatch 7000/7000, validation error 10.973333 %
+epoch 846, minibatch 5000/7000, validation error 20.466667 %
+epoch 847, minibatch 3000/7000, validation error 11.840000 %
+epoch 848, minibatch 1000/7000, validation error 7.200000 %
+epoch 848, minibatch 6000/7000, validation error 15.946667 %
+epoch 849, minibatch 4000/7000, validation error 28.133333 %
+epoch 850, minibatch 2000/7000, validation error 21.893333 %
+epoch 850, minibatch 7000/7000, validation error 23.800000 %
+epoch 851, minibatch 5000/7000, validation error 22.146667 %
+epoch 852, minibatch 3000/7000, validation error 14.360000 %
+epoch 853, minibatch 1000/7000, validation error 14.600000 %
+epoch 853, minibatch 6000/7000, validation error 13.320000 %
+epoch 854, minibatch 4000/7000, validation error 22.093333 %
+epoch 855, minibatch 2000/7000, validation error 13.853333 %
+epoch 855, minibatch 7000/7000, validation error 13.453333 %
+epoch 856, minibatch 5000/7000, validation error 10.853333 %
+epoch 857, minibatch 3000/7000, validation error 23.346667 %
+epoch 858, minibatch 1000/7000, validation error 26.160000 %
+epoch 858, minibatch 6000/7000, validation error 16.720000 %
+epoch 859, minibatch 4000/7000, validation error 16.653333 %
+epoch 860, minibatch 2000/7000, validation error 20.373333 %
+epoch 860, minibatch 7000/7000, validation error 17.093333 %
+epoch 861, minibatch 5000/7000, validation error 8.733333 %
+epoch 862, minibatch 3000/7000, validation error 19.893333 %
+epoch 863, minibatch 1000/7000, validation error 11.133333 %
+epoch 863, minibatch 6000/7000, validation error 9.680000 %
+epoch 864, minibatch 4000/7000, validation error 12.586667 %
+epoch 865, minibatch 2000/7000, validation error 8.866667 %
+epoch 865, minibatch 7000/7000, validation error 20.786667 %
+epoch 866, minibatch 5000/7000, validation error 12.826667 %
+epoch 867, minibatch 3000/7000, validation error 21.066667 %
+epoch 868, minibatch 1000/7000, validation error 16.653333 %
+epoch 868, minibatch 6000/7000, validation error 10.773333 %
+epoch 869, minibatch 4000/7000, validation error 7.253333 %
+epoch 870, minibatch 2000/7000, validation error 14.466667 %
+epoch 870, minibatch 7000/7000, validation error 16.626667 %
+epoch 871, minibatch 5000/7000, validation error 25.146667 %
+epoch 872, minibatch 3000/7000, validation error 19.066667 %
+epoch 873, minibatch 1000/7000, validation error 17.493333 %
+epoch 873, minibatch 6000/7000, validation error 7.466667 %
+epoch 874, minibatch 4000/7000, validation error 17.626667 %
+epoch 875, minibatch 2000/7000, validation error 13.280000 %
+epoch 875, minibatch 7000/7000, validation error 20.360000 %
+epoch 876, minibatch 5000/7000, validation error 22.346667 %
+epoch 877, minibatch 3000/7000, validation error 22.280000 %
+epoch 878, minibatch 1000/7000, validation error 13.773333 %
+epoch 878, minibatch 6000/7000, validation error 23.133333 %
+epoch 879, minibatch 4000/7000, validation error 16.186667 %
+epoch 880, minibatch 2000/7000, validation error 11.800000 %
+epoch 880, minibatch 7000/7000, validation error 19.760000 %
+epoch 881, minibatch 5000/7000, validation error 22.133333 %
+epoch 882, minibatch 3000/7000, validation error 25.026667 %
+epoch 883, minibatch 1000/7000, validation error 25.520000 %
+epoch 883, minibatch 6000/7000, validation error 15.786667 %
+epoch 884, minibatch 4000/7000, validation error 21.346667 %
+epoch 885, minibatch 2000/7000, validation error 13.986667 %
+epoch 885, minibatch 7000/7000, validation error 12.560000 %
+epoch 886, minibatch 5000/7000, validation error 16.160000 %
+epoch 887, minibatch 3000/7000, validation error 13.626667 %
+epoch 888, minibatch 1000/7000, validation error 17.293333 %
+epoch 888, minibatch 6000/7000, validation error 18.493333 %
+epoch 889, minibatch 4000/7000, validation error 21.013333 %
+epoch 890, minibatch 2000/7000, validation error 21.600000 %
+epoch 890, minibatch 7000/7000, validation error 13.280000 %
+epoch 891, minibatch 5000/7000, validation error 16.240000 %
+epoch 892, minibatch 3000/7000, validation error 13.000000 %
+epoch 893, minibatch 1000/7000, validation error 6.626667 %
+epoch 893, minibatch 6000/7000, validation error 9.906667 %
+epoch 894, minibatch 4000/7000, validation error 16.333333 %
+epoch 895, minibatch 2000/7000, validation error 23.720000 %
+epoch 895, minibatch 7000/7000, validation error 18.026667 %
+epoch 896, minibatch 5000/7000, validation error 8.013333 %
+epoch 897, minibatch 3000/7000, validation error 10.600000 %
+epoch 898, minibatch 1000/7000, validation error 12.546667 %
+epoch 898, minibatch 6000/7000, validation error 22.080000 %
+epoch 899, minibatch 4000/7000, validation error 13.400000 %
+epoch 900, minibatch 2000/7000, validation error 22.640000 %
+epoch 900, minibatch 7000/7000, validation error 23.933333 %
+epoch 901, minibatch 5000/7000, validation error 12.840000 %
+epoch 902, minibatch 3000/7000, validation error 12.373333 %
+epoch 903, minibatch 1000/7000, validation error 13.266667 %
+epoch 903, minibatch 6000/7000, validation error 12.760000 %
+epoch 904, minibatch 4000/7000, validation error 9.440000 %
+epoch 905, minibatch 2000/7000, validation error 8.186667 %
+epoch 905, minibatch 7000/7000, validation error 13.293333 %
+epoch 906, minibatch 5000/7000, validation error 15.600000 %
+epoch 907, minibatch 3000/7000, validation error 19.760000 %
+epoch 908, minibatch 1000/7000, validation error 22.240000 %
+epoch 908, minibatch 6000/7000, validation error 23.933333 %
+epoch 909, minibatch 4000/7000, validation error 19.346667 %
+epoch 910, minibatch 2000/7000, validation error 20.026667 %
+epoch 910, minibatch 7000/7000, validation error 15.653333 %
+epoch 911, minibatch 5000/7000, validation error 11.746667 %
+epoch 912, minibatch 3000/7000, validation error 25.826667 %
+epoch 913, minibatch 1000/7000, validation error 8.133333 %
+epoch 913, minibatch 6000/7000, validation error 29.920000 %
+epoch 914, minibatch 4000/7000, validation error 29.253333 %
+epoch 915, minibatch 2000/7000, validation error 19.706667 %
+epoch 915, minibatch 7000/7000, validation error 19.106667 %
+epoch 916, minibatch 5000/7000, validation error 17.746667 %
+epoch 917, minibatch 3000/7000, validation error 21.160000 %
+epoch 918, minibatch 1000/7000, validation error 13.226667 %
+epoch 918, minibatch 6000/7000, validation error 18.853333 %
+epoch 919, minibatch 4000/7000, validation error 15.906667 %
+epoch 920, minibatch 2000/7000, validation error 8.413333 %
+epoch 920, minibatch 7000/7000, validation error 15.946667 %
+epoch 921, minibatch 5000/7000, validation error 19.893333 %
+epoch 922, minibatch 3000/7000, validation error 26.933333 %
+epoch 923, minibatch 1000/7000, validation error 31.546667 %
+epoch 923, minibatch 6000/7000, validation error 26.893333 %
+epoch 924, minibatch 4000/7000, validation error 29.786667 %
+epoch 925, minibatch 2000/7000, validation error 18.946667 %
+epoch 925, minibatch 7000/7000, validation error 5.173333 %
+epoch 926, minibatch 5000/7000, validation error 17.040000 %
+epoch 927, minibatch 3000/7000, validation error 11.493333 %
+epoch 928, minibatch 1000/7000, validation error 20.626667 %
+epoch 928, minibatch 6000/7000, validation error 7.586667 %
+epoch 929, minibatch 4000/7000, validation error 23.000000 %
+epoch 930, minibatch 2000/7000, validation error 21.346667 %
+epoch 930, minibatch 7000/7000, validation error 15.306667 %
+epoch 931, minibatch 5000/7000, validation error 34.853333 %
+epoch 932, minibatch 3000/7000, validation error 15.653333 %
+epoch 933, minibatch 1000/7000, validation error 21.533333 %
+epoch 933, minibatch 6000/7000, validation error 10.986667 %
+epoch 934, minibatch 4000/7000, validation error 14.573333 %
+epoch 935, minibatch 2000/7000, validation error 15.613333 %
+epoch 935, minibatch 7000/7000, validation error 26.853333 %
+epoch 936, minibatch 5000/7000, validation error 13.986667 %
+epoch 937, minibatch 3000/7000, validation error 14.613333 %
+epoch 938, minibatch 1000/7000, validation error 16.133333 %
+epoch 938, minibatch 6000/7000, validation error 12.586667 %
+epoch 939, minibatch 4000/7000, validation error 10.546667 %
+epoch 940, minibatch 2000/7000, validation error 23.293333 %
+epoch 940, minibatch 7000/7000, validation error 20.573333 %
+epoch 941, minibatch 5000/7000, validation error 13.693333 %
+epoch 942, minibatch 3000/7000, validation error 27.226667 %
+epoch 943, minibatch 1000/7000, validation error 16.053333 %
+epoch 943, minibatch 6000/7000, validation error 15.746667 %
+epoch 944, minibatch 4000/7000, validation error 16.946667 %
+epoch 945, minibatch 2000/7000, validation error 17.813333 %
+epoch 945, minibatch 7000/7000, validation error 19.013333 %
+epoch 946, minibatch 5000/7000, validation error 24.346667 %
+epoch 947, minibatch 3000/7000, validation error 19.013333 %
+epoch 948, minibatch 1000/7000, validation error 20.493333 %
+epoch 948, minibatch 6000/7000, validation error 12.853333 %
+epoch 949, minibatch 4000/7000, validation error 8.200000 %
+epoch 950, minibatch 2000/7000, validation error 21.706667 %
+epoch 950, minibatch 7000/7000, validation error 17.973333 %
+epoch 951, minibatch 5000/7000, validation error 14.706667 %
+epoch 952, minibatch 3000/7000, validation error 11.453333 %
+epoch 953, minibatch 1000/7000, validation error 10.493333 %
+epoch 953, minibatch 6000/7000, validation error 14.506667 %
+epoch 954, minibatch 4000/7000, validation error 12.133333 %
+epoch 955, minibatch 2000/7000, validation error 20.986667 %
+epoch 955, minibatch 7000/7000, validation error 23.040000 %
+epoch 956, minibatch 5000/7000, validation error 17.586667 %
+epoch 957, minibatch 3000/7000, validation error 15.040000 %
+epoch 958, minibatch 1000/7000, validation error 19.386667 %
+epoch 958, minibatch 6000/7000, validation error 17.866667 %
+epoch 959, minibatch 4000/7000, validation error 19.413333 %
+epoch 960, minibatch 2000/7000, validation error 20.920000 %
+epoch 960, minibatch 7000/7000, validation error 16.266667 %
+epoch 961, minibatch 5000/7000, validation error 26.453333 %
+epoch 962, minibatch 3000/7000, validation error 26.026667 %
+epoch 963, minibatch 1000/7000, validation error 29.800000 %
+epoch 963, minibatch 6000/7000, validation error 24.600000 %
+epoch 964, minibatch 4000/7000, validation error 25.880000 %
+epoch 965, minibatch 2000/7000, validation error 35.933333 %
+epoch 965, minibatch 7000/7000, validation error 33.733333 %
+epoch 966, minibatch 5000/7000, validation error 35.706667 %
+epoch 967, minibatch 3000/7000, validation error 34.520000 %
+epoch 968, minibatch 1000/7000, validation error 28.920000 %
+epoch 968, minibatch 6000/7000, validation error 25.666667 %
+epoch 969, minibatch 4000/7000, validation error 23.786667 %
+epoch 970, minibatch 2000/7000, validation error 17.933333 %
+epoch 970, minibatch 7000/7000, validation error 16.306667 %
+epoch 971, minibatch 5000/7000, validation error 22.546667 %
+epoch 972, minibatch 3000/7000, validation error 29.213333 %
+epoch 973, minibatch 1000/7000, validation error 22.173333 %
+epoch 973, minibatch 6000/7000, validation error 16.426667 %
+epoch 974, minibatch 4000/7000, validation error 25.480000 %
+epoch 975, minibatch 2000/7000, validation error 36.826667 %
+epoch 975, minibatch 7000/7000, validation error 32.160000 %
+epoch 976, minibatch 5000/7000, validation error 32.333333 %
+epoch 977, minibatch 3000/7000, validation error 24.173333 %
+epoch 978, minibatch 1000/7000, validation error 19.533333 %
+epoch 978, minibatch 6000/7000, validation error 18.480000 %
+epoch 979, minibatch 4000/7000, validation error 17.413333 %
+epoch 980, minibatch 2000/7000, validation error 13.693333 %
+epoch 980, minibatch 7000/7000, validation error 19.026667 %
+epoch 981, minibatch 5000/7000, validation error 24.533333 %
+epoch 982, minibatch 3000/7000, validation error 13.506667 %
+epoch 983, minibatch 1000/7000, validation error 8.533333 %
+epoch 983, minibatch 6000/7000, validation error 13.493333 %
+epoch 984, minibatch 4000/7000, validation error 12.200000 %
+epoch 985, minibatch 2000/7000, validation error 9.386667 %
+epoch 985, minibatch 7000/7000, validation error 9.466667 %
+epoch 986, minibatch 5000/7000, validation error 13.093333 %
+epoch 987, minibatch 3000/7000, validation error 28.773333 %
+epoch 988, minibatch 1000/7000, validation error 20.560000 %
+epoch 988, minibatch 6000/7000, validation error 23.933333 %
+epoch 989, minibatch 4000/7000, validation error 18.786667 %
+epoch 990, minibatch 2000/7000, validation error 14.720000 %
+epoch 990, minibatch 7000/7000, validation error 19.480000 %
+epoch 991, minibatch 5000/7000, validation error 21.840000 %
+epoch 992, minibatch 3000/7000, validation error 23.493333 %
+epoch 993, minibatch 1000/7000, validation error 20.906667 %
+epoch 993, minibatch 6000/7000, validation error 13.346667 %
+epoch 994, minibatch 4000/7000, validation error 24.440000 %
+epoch 995, minibatch 2000/7000, validation error 14.040000 %
+epoch 995, minibatch 7000/7000, validation error 12.746667 %
+epoch 996, minibatch 5000/7000, validation error 12.253333 %
+epoch 997, minibatch 3000/7000, validation error 15.493333 %
+epoch 998, minibatch 1000/7000, validation error 13.666667 %
+epoch 998, minibatch 6000/7000, validation error 22.973333 %
+epoch 999, minibatch 4000/7000, validation error 19.826667 %
+epoch 1000, minibatch 2000/7000, validation error 27.800000 %
+epoch 1000, minibatch 7000/7000, validation error 30.173333 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 8) Best validation score of 3.560000 % obtained at iteration 2835000, with test performance 3.733333 %
+seed: 8, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 43.280000 %
+     epoch 1, minibatch 5000/7000, test error of best model 43.746667 %
+epoch 2, minibatch 3000/7000, validation error 30.773333 %
+     epoch 2, minibatch 3000/7000, test error of best model 29.720000 %
+epoch 3, minibatch 1000/7000, validation error 36.706667 %
+epoch 3, minibatch 6000/7000, validation error 21.493333 %
+     epoch 3, minibatch 6000/7000, test error of best model 22.000000 %
+epoch 4, minibatch 4000/7000, validation error 29.173333 %
+epoch 5, minibatch 2000/7000, validation error 18.906667 %
+     epoch 5, minibatch 2000/7000, test error of best model 19.840000 %
+epoch 5, minibatch 7000/7000, validation error 18.333333 %
+     epoch 5, minibatch 7000/7000, test error of best model 18.720000 %
+epoch 6, minibatch 5000/7000, validation error 16.013333 %
+     epoch 6, minibatch 5000/7000, test error of best model 16.173333 %
+epoch 7, minibatch 3000/7000, validation error 26.186667 %
+epoch 8, minibatch 1000/7000, validation error 27.320000 %
+epoch 8, minibatch 6000/7000, validation error 29.346667 %
+epoch 9, minibatch 4000/7000, validation error 27.893333 %
+epoch 10, minibatch 2000/7000, validation error 35.413333 %
+epoch 10, minibatch 7000/7000, validation error 22.906667 %
+epoch 11, minibatch 5000/7000, validation error 25.853333 %
+epoch 12, minibatch 3000/7000, validation error 26.120000 %
+epoch 13, minibatch 1000/7000, validation error 15.973333 %
+     epoch 13, minibatch 1000/7000, test error of best model 16.360000 %
+epoch 13, minibatch 6000/7000, validation error 21.826667 %
+epoch 14, minibatch 4000/7000, validation error 16.853333 %
+epoch 15, minibatch 2000/7000, validation error 21.866667 %
+epoch 15, minibatch 7000/7000, validation error 21.986667 %
+epoch 16, minibatch 5000/7000, validation error 23.733333 %
+epoch 17, minibatch 3000/7000, validation error 20.320000 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 8) Best validation score of 15.973333 % obtained at iteration 85000, with test performance 16.360000 %
+seed: 8, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 38.200000 %
+     epoch 1, minibatch 5000/7000, test error of best model 38.666667 %
+epoch 2, minibatch 3000/7000, validation error 32.546667 %
+     epoch 2, minibatch 3000/7000, test error of best model 32.760000 %
+epoch 3, minibatch 1000/7000, validation error 51.760000 %
+epoch 3, minibatch 6000/7000, validation error 42.306667 %
+epoch 4, minibatch 4000/7000, validation error 16.493333 %
+     epoch 4, minibatch 4000/7000, test error of best model 16.360000 %
+epoch 5, minibatch 2000/7000, validation error 16.280000 %
+     epoch 5, minibatch 2000/7000, test error of best model 17.133333 %
+epoch 5, minibatch 7000/7000, validation error 41.973333 %
+epoch 6, minibatch 5000/7000, validation error 24.786667 %
+epoch 7, minibatch 3000/7000, validation error 13.600000 %
+     epoch 7, minibatch 3000/7000, test error of best model 14.706667 %
+epoch 8, minibatch 1000/7000, validation error 19.226667 %
+epoch 8, minibatch 6000/7000, validation error 12.760000 %
+     epoch 8, minibatch 6000/7000, test error of best model 13.386667 %
+epoch 9, minibatch 4000/7000, validation error 31.880000 %
+epoch 10, minibatch 2000/7000, validation error 28.200000 %
+epoch 10, minibatch 7000/7000, validation error 18.320000 %
+epoch 11, minibatch 5000/7000, validation error 20.320000 %
+epoch 12, minibatch 3000/7000, validation error 20.466667 %
+epoch 13, minibatch 1000/7000, validation error 8.306667 %
+     epoch 13, minibatch 1000/7000, test error of best model 8.693333 %
+epoch 13, minibatch 6000/7000, validation error 30.093333 %
+epoch 14, minibatch 4000/7000, validation error 22.413333 %
+epoch 15, minibatch 2000/7000, validation error 35.466667 %
+epoch 15, minibatch 7000/7000, validation error 33.893333 %
+epoch 16, minibatch 5000/7000, validation error 26.706667 %
+epoch 17, minibatch 3000/7000, validation error 27.826667 %
+epoch 18, minibatch 1000/7000, validation error 12.320000 %
+epoch 18, minibatch 6000/7000, validation error 23.800000 %
+epoch 19, minibatch 4000/7000, validation error 23.786667 %
+epoch 20, minibatch 2000/7000, validation error 18.506667 %
+epoch 20, minibatch 7000/7000, validation error 26.066667 %
+epoch 21, minibatch 5000/7000, validation error 19.586667 %
+epoch 22, minibatch 3000/7000, validation error 20.946667 %
+epoch 23, minibatch 1000/7000, validation error 19.013333 %
+epoch 23, minibatch 6000/7000, validation error 12.146667 %
+epoch 24, minibatch 4000/7000, validation error 12.320000 %
+epoch 25, minibatch 2000/7000, validation error 15.906667 %
+epoch 25, minibatch 7000/7000, validation error 12.013333 %
+epoch 26, minibatch 5000/7000, validation error 11.093333 %
+epoch 27, minibatch 3000/7000, validation error 19.813333 %
+epoch 28, minibatch 1000/7000, validation error 25.760000 %
+epoch 28, minibatch 6000/7000, validation error 19.146667 %
+epoch 29, minibatch 4000/7000, validation error 23.840000 %
+epoch 30, minibatch 2000/7000, validation error 14.280000 %
+epoch 30, minibatch 7000/7000, validation error 24.506667 %
+epoch 31, minibatch 5000/7000, validation error 20.653333 %
+epoch 32, minibatch 3000/7000, validation error 16.026667 %
+epoch 33, minibatch 1000/7000, validation error 10.413333 %
+epoch 33, minibatch 6000/7000, validation error 22.040000 %
+epoch 34, minibatch 4000/7000, validation error 26.560000 %
+epoch 35, minibatch 2000/7000, validation error 12.906667 %
+epoch 35, minibatch 7000/7000, validation error 14.440000 %
+epoch 36, minibatch 5000/7000, validation error 23.266667 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 8) Best validation score of 8.306667 % obtained at iteration 85000, with test performance 8.693333 %
+seed: 8, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 25.893333 %
+     epoch 1, minibatch 5000/7000, test error of best model 25.933333 %
+epoch 2, minibatch 3000/7000, validation error 51.493333 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 8) Best validation score of 25.893333 % obtained at iteration 5000, with test performance 25.933333 %
+seed: 8, n_hidden: 8
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 65.920000 %
+     epoch 1, minibatch 5000/7000, test error of best model 66.826667 %
+epoch 2, minibatch 3000/7000, validation error 67.400000 %
+weight model is saved as ../model/max-small-1layer-3.dat
+Optimization complete. (with seed: 9) Best validation score of 65.920000 % obtained at iteration 5000, with test performance 66.826667 %
+seed: 9, n_hidden: 3
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 50.013333 %
+     epoch 1, minibatch 5000/7000, test error of best model 50.480000 %
+epoch 2, minibatch 3000/7000, validation error 46.293333 %
+     epoch 2, minibatch 3000/7000, test error of best model 44.893333 %
+epoch 3, minibatch 1000/7000, validation error 55.533333 %
+epoch 3, minibatch 6000/7000, validation error 53.853333 %
+epoch 4, minibatch 4000/7000, validation error 35.000000 %
+     epoch 4, minibatch 4000/7000, test error of best model 36.066667 %
+epoch 5, minibatch 2000/7000, validation error 40.146667 %
+epoch 5, minibatch 7000/7000, validation error 44.253333 %
+epoch 6, minibatch 5000/7000, validation error 39.693333 %
+epoch 7, minibatch 3000/7000, validation error 34.186667 %
+     epoch 7, minibatch 3000/7000, test error of best model 35.640000 %
+epoch 8, minibatch 1000/7000, validation error 35.773333 %
+epoch 8, minibatch 6000/7000, validation error 34.640000 %
+epoch 9, minibatch 4000/7000, validation error 41.866667 %
+epoch 10, minibatch 2000/7000, validation error 55.746667 %
+epoch 10, minibatch 7000/7000, validation error 56.986667 %
+epoch 11, minibatch 5000/7000, validation error 52.906667 %
+epoch 12, minibatch 3000/7000, validation error 51.426667 %
+epoch 13, minibatch 1000/7000, validation error 49.093333 %
+epoch 13, minibatch 6000/7000, validation error 47.293333 %
+epoch 14, minibatch 4000/7000, validation error 37.266667 %
+epoch 15, minibatch 2000/7000, validation error 35.826667 %
+epoch 15, minibatch 7000/7000, validation error 47.360000 %
+epoch 16, minibatch 5000/7000, validation error 35.133333 %
+epoch 17, minibatch 3000/7000, validation error 44.160000 %
+epoch 18, minibatch 1000/7000, validation error 36.613333 %
+epoch 18, minibatch 6000/7000, validation error 38.746667 %
+epoch 19, minibatch 4000/7000, validation error 41.200000 %
+weight model is saved as ../model/max-small-1layer-4.dat
+Optimization complete. (with seed: 9) Best validation score of 34.186667 % obtained at iteration 45000, with test performance 35.640000 %
+seed: 9, n_hidden: 4
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 39.946667 %
+     epoch 1, minibatch 5000/7000, test error of best model 41.146667 %
+epoch 2, minibatch 3000/7000, validation error 44.280000 %
+weight model is saved as ../model/max-small-1layer-5.dat
+Optimization complete. (with seed: 9) Best validation score of 39.946667 % obtained at iteration 5000, with test performance 41.146667 %
+seed: 9, n_hidden: 5
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 34.493333 %
+     epoch 1, minibatch 5000/7000, test error of best model 33.546667 %
+epoch 2, minibatch 3000/7000, validation error 39.573333 %
+weight model is saved as ../model/max-small-1layer-6.dat
+Optimization complete. (with seed: 9) Best validation score of 34.493333 % obtained at iteration 5000, with test performance 33.546667 %
+seed: 9, n_hidden: 6
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 37.266667 %
+     epoch 1, minibatch 5000/7000, test error of best model 37.440000 %
+epoch 2, minibatch 3000/7000, validation error 24.213333 %
+     epoch 2, minibatch 3000/7000, test error of best model 23.480000 %
+epoch 3, minibatch 1000/7000, validation error 23.413333 %
+     epoch 3, minibatch 1000/7000, test error of best model 22.933333 %
+epoch 3, minibatch 6000/7000, validation error 19.546667 %
+     epoch 3, minibatch 6000/7000, test error of best model 20.400000 %
+epoch 4, minibatch 4000/7000, validation error 19.586667 %
+epoch 5, minibatch 2000/7000, validation error 17.506667 %
+     epoch 5, minibatch 2000/7000, test error of best model 17.893333 %
+epoch 5, minibatch 7000/7000, validation error 13.373333 %
+     epoch 5, minibatch 7000/7000, test error of best model 13.973333 %
+epoch 6, minibatch 5000/7000, validation error 13.773333 %
+epoch 7, minibatch 3000/7000, validation error 24.800000 %
+epoch 8, minibatch 1000/7000, validation error 29.826667 %
+epoch 8, minibatch 6000/7000, validation error 24.733333 %
+epoch 9, minibatch 4000/7000, validation error 32.213333 %
+epoch 10, minibatch 2000/7000, validation error 12.173333 %
+     epoch 10, minibatch 2000/7000, test error of best model 13.053333 %
+epoch 10, minibatch 7000/7000, validation error 24.973333 %
+epoch 11, minibatch 5000/7000, validation error 30.480000 %
+epoch 12, minibatch 3000/7000, validation error 20.493333 %
+epoch 13, minibatch 1000/7000, validation error 17.320000 %
+epoch 13, minibatch 6000/7000, validation error 30.853333 %
+epoch 14, minibatch 4000/7000, validation error 23.280000 %
+epoch 15, minibatch 2000/7000, validation error 32.133333 %
+epoch 15, minibatch 7000/7000, validation error 24.813333 %
+epoch 16, minibatch 5000/7000, validation error 24.120000 %
+epoch 17, minibatch 3000/7000, validation error 35.600000 %
+epoch 18, minibatch 1000/7000, validation error 27.053333 %
+epoch 18, minibatch 6000/7000, validation error 14.853333 %
+epoch 19, minibatch 4000/7000, validation error 14.133333 %
+epoch 20, minibatch 2000/7000, validation error 13.920000 %
+epoch 20, minibatch 7000/7000, validation error 19.293333 %
+epoch 21, minibatch 5000/7000, validation error 18.826667 %
+epoch 22, minibatch 3000/7000, validation error 13.506667 %
+epoch 23, minibatch 1000/7000, validation error 24.466667 %
+epoch 23, minibatch 6000/7000, validation error 17.333333 %
+epoch 24, minibatch 4000/7000, validation error 40.880000 %
+epoch 25, minibatch 2000/7000, validation error 31.093333 %
+epoch 25, minibatch 7000/7000, validation error 28.720000 %
+epoch 26, minibatch 5000/7000, validation error 22.826667 %
+epoch 27, minibatch 3000/7000, validation error 15.213333 %
+epoch 28, minibatch 1000/7000, validation error 25.560000 %
+weight model is saved as ../model/max-small-1layer-7.dat
+Optimization complete. (with seed: 9) Best validation score of 12.173333 % obtained at iteration 65000, with test performance 13.053333 %
+seed: 9, n_hidden: 7
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 36.560000 %
+     epoch 1, minibatch 5000/7000, test error of best model 36.626667 %
+epoch 2, minibatch 3000/7000, validation error 20.453333 %
+     epoch 2, minibatch 3000/7000, test error of best model 21.000000 %
+epoch 3, minibatch 1000/7000, validation error 19.080000 %
+     epoch 3, minibatch 1000/7000, test error of best model 19.373333 %
+epoch 3, minibatch 6000/7000, validation error 30.826667 %
+epoch 4, minibatch 4000/7000, validation error 25.546667 %
+epoch 5, minibatch 2000/7000, validation error 23.440000 %
+epoch 5, minibatch 7000/7000, validation error 13.840000 %
+     epoch 5, minibatch 7000/7000, test error of best model 13.840000 %
+epoch 6, minibatch 5000/7000, validation error 23.266667 %
+epoch 7, minibatch 3000/7000, validation error 19.573333 %
+epoch 8, minibatch 1000/7000, validation error 22.960000 %
+epoch 8, minibatch 6000/7000, validation error 18.986667 %
+epoch 9, minibatch 4000/7000, validation error 15.706667 %
+epoch 10, minibatch 2000/7000, validation error 16.586667 %
+epoch 10, minibatch 7000/7000, validation error 20.120000 %
+epoch 11, minibatch 5000/7000, validation error 17.306667 %
+epoch 12, minibatch 3000/7000, validation error 21.066667 %
+epoch 13, minibatch 1000/7000, validation error 16.973333 %
+epoch 13, minibatch 6000/7000, validation error 27.226667 %
+epoch 14, minibatch 4000/7000, validation error 19.946667 %
+epoch 15, minibatch 2000/7000, validation error 18.653333 %
+weight model is saved as ../model/max-small-1layer-8.dat
+Optimization complete. (with seed: 9) Best validation score of 13.840000 % obtained at iteration 35000, with test performance 13.840000 %
+seed: 9, n_hidden: 8

@@ -1,0 +1,275 @@
+Using gpu device 0: GeForce GTX 980
+The code for file max4-2.py ran for 0.26m
+The code for file max4-2.py ran for 0.25m
+The code for file max4-2.py ran for 0.45m
+The code for file max4-2.py ran for 0.29m
+The code for file max4-2.py ran for 0.28m
+... loading data
+<CudaNdarray object at 0x7fcfee6e38f0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 7.773333 %
+     epoch 1, minibatch 1750/1750, test error of best model 8.480000 %
+epoch 2, minibatch 1750/1750, validation error 8.706667 %
+epoch 3, minibatch 1750/1750, validation error 10.613333 %
+epoch 4, minibatch 1750/1750, validation error 10.253333 %
+epoch 5, minibatch 1750/1750, validation error 9.560000 %
+Optimization complete. (with seed: 100) Best validation score of 7.773333 % obtained at iteration 1750, with test performance 8.480000 %
+... loading data
+<CudaNdarray object at 0x7fcfea1e32b0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 7.800000 %
+     epoch 1, minibatch 1750/1750, test error of best model 8.720000 %
+epoch 2, minibatch 1750/1750, validation error 10.560000 %
+epoch 3, minibatch 1750/1750, validation error 9.546667 %
+epoch 4, minibatch 1750/1750, validation error 11.866667 %
+epoch 5, minibatch 1750/1750, validation error 10.880000 %
+Optimization complete. (with seed: 101) Best validation score of 7.800000 % obtained at iteration 1750, with test performance 8.720000 %
+... loading data
+<CudaNdarray object at 0x7fcfeb4d7030>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 10.626667 %
+     epoch 1, minibatch 1750/1750, test error of best model 11.133333 %
+epoch 2, minibatch 1750/1750, validation error 9.000000 %
+     epoch 2, minibatch 1750/1750, test error of best model 10.026667 %
+epoch 3, minibatch 1750/1750, validation error 13.746667 %
+epoch 4, minibatch 1750/1750, validation error 9.733333 %
+epoch 5, minibatch 1750/1750, validation error 8.946667 %
+     epoch 5, minibatch 1750/1750, test error of best model 9.146667 %
+epoch 6, minibatch 1750/1750, validation error 9.613333 %
+epoch 7, minibatch 1750/1750, validation error 10.986667 %
+epoch 8, minibatch 1750/1750, validation error 10.053333 %
+epoch 9, minibatch 1750/1750, validation error 11.773333 %
+Optimization complete. (with seed: 102) Best validation score of 8.946667 % obtained at iteration 8750, with test performance 9.146667 %
+... loading data
+<CudaNdarray object at 0x7fcfea9f76b0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 10.266667 %
+     epoch 1, minibatch 1750/1750, test error of best model 10.706667 %
+epoch 2, minibatch 1750/1750, validation error 10.386667 %
+epoch 3, minibatch 1750/1750, validation error 8.760000 %
+     epoch 3, minibatch 1750/1750, test error of best model 9.440000 %
+epoch 4, minibatch 1750/1750, validation error 10.720000 %
+epoch 5, minibatch 1750/1750, validation error 10.333333 %
+Optimization complete. (with seed: 103) Best validation score of 8.760000 % obtained at iteration 5250, with test performance 9.440000 %
+... loading data
+<CudaNdarray object at 0x7fcfe74f8bf0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 7.520000 %
+     epoch 1, minibatch 1750/1750, test error of best model 7.933333 %
+epoch 2, minibatch 1750/1750, validation error 8.973333 %
+epoch 3, minibatch 1750/1750, validation error 9.200000 %
+epoch 4, minibatch 1750/1750, validation error 11.413333 %
+epoch 5, minibatch 1750/1750, validation error 10.986667 %
+Optimization complete. (with seed: 104) Best validation score of 7.520000 % obtained at iteration 1750, with test performance 7.933333 %
+... loading data
+<CudaNdarray object at 0x7fcfebf123f0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 10.573333 %
+     epoch 1, minibatch 1750/1750, test error of best model 11.293333 %
+epoch 2, minibatch 1750/1750, validation error 8.786667 %
+     epoch 2, minibatch 1750/1750, test error of best model 9.200000 %
+epoch 3, minibatch 1750/1750, validation error 10.653333 %
+epoch 4, minibatch 1750/1750, validation error 12.693333 %
+epoch 5, minibatch 1750/1750, validation error 11.413333 %
+Optimization complete. (with seed: 105)The code for file max4-2.py ran for 0.29m
+The code for file max4-2.py ran for 0.29m
+The code for file max4-2.py ran for 0.31m
+The code for file max4-2.py ran for 0.29m
+The code for file max4-2.py ran for 0.31m
+The code for file max4-2.py ran for 0.30m
+The code for file max4-2.py ran for 0.23m
+ Best validation score of 8.786667 % obtained at iteration 3500, with test performance 9.200000 %
+... loading data
+<CudaNdarray object at 0x7fcfee162130>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 7.266667 %
+     epoch 1, minibatch 1750/1750, test error of best model 7.826667 %
+epoch 2, minibatch 1750/1750, validation error 7.373333 %
+epoch 3, minibatch 1750/1750, validation error 9.306667 %
+epoch 4, minibatch 1750/1750, validation error 8.000000 %
+epoch 5, minibatch 1750/1750, validation error 11.653333 %
+Optimization complete. (with seed: 106) Best validation score of 7.266667 % obtained at iteration 1750, with test performance 7.826667 %
+... loading data
+<CudaNdarray object at 0x7fcfe761fc70>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 9.986667 %
+     epoch 1, minibatch 1750/1750, test error of best model 10.546667 %
+epoch 2, minibatch 1750/1750, validation error 12.106667 %
+epoch 3, minibatch 1750/1750, validation error 10.640000 %
+epoch 4, minibatch 1750/1750, validation error 10.613333 %
+epoch 5, minibatch 1750/1750, validation error 11.000000 %
+Optimization complete. (with seed: 107) Best validation score of 9.986667 % obtained at iteration 1750, with test performance 10.546667 %
+... loading data
+<CudaNdarray object at 0x7fcfebc887f0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 7.920000 %
+     epoch 1, minibatch 1750/1750, test error of best model 8.693333 %
+epoch 2, minibatch 1750/1750, validation error 8.866667 %
+epoch 3, minibatch 1750/1750, validation error 9.746667 %
+epoch 4, minibatch 1750/1750, validation error 11.053333 %
+epoch 5, minibatch 1750/1750, validation error 11.480000 %
+Optimization complete. (with seed: 108) Best validation score of 7.920000 % obtained at iteration 1750, with test performance 8.693333 %
+... loading data
+<CudaNdarray object at 0x7fcfebfb0630>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 9.506667 %
+     epoch 1, minibatch 1750/1750, test error of best model 10.120000 %
+epoch 2, minibatch 1750/1750, validation error 8.066667 %
+     epoch 2, minibatch 1750/1750, test error of best model 8.573333 %
+epoch 3, minibatch 1750/1750, validation error 11.546667 %
+epoch 4, minibatch 1750/1750, validation error 10.346667 %
+epoch 5, minibatch 1750/1750, validation error 10.773333 %
+Optimization complete. (with seed: 109) Best validation score of 8.066667 % obtained at iteration 3500, with test performance 8.573333 %
+... loading data
+<CudaNdarray object at 0x7fcff04b7e30>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 8.280000 %
+     epoch 1, minibatch 1750/1750, test error of best model 9.146667 %
+epoch 2, minibatch 1750/1750, validation error 8.306667 %
+epoch 3, minibatch 1750/1750, validation error 8.813333 %
+epoch 4, minibatch 1750/1750, validation error 9.266667 %
+epoch 5, minibatch 1750/1750, validation error 11.680000 %
+Optimization complete. (with seed: 110) Best validation score of 8.280000 % obtained at iteration 1750, with test performance 9.146667 %
+... loading data
+<CudaNdarray object at 0x7fcfebcb85f0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 9.346667 %
+     epoch 1, minibatch 1750/1750, test error of best model 9.453333 %
+epoch 2, minibatch 1750/1750, validation error 11.106667 %
+epoch 3, minibatch 1750/1750, validation error 11.133333 %
+epoch 4, minibatch 1750/1750, validation error 9.746667 %
+epoch 5, minibatch 1750/1750, validation error 11.640000 %
+Optimization complete. (with seed: 111) Best validation score of 9.346667 % obtained at iteration 1750, with test performance 9.453333 %
+... loading data
+<CudaNdarray object at 0x7fcfec03a370>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 9.826667 %
+     epoch 1, minibatch 1750/1750, test error of best model 9.853333 %
+epoch 2, minibatThe code for file max4-2.py ran for 0.29m
+The code for file max4-2.py ran for 0.27m
+The code for file max4-2.py ran for 0.26m
+The code for file max4-2.py ran for 0.30m
+The code for file max4-2.py ran for 0.31m
+The code for file max4-2.py ran for 0.32m
+ch 1750/1750, validation error 8.506667 %
+     epoch 2, minibatch 1750/1750, test error of best model 9.426667 %
+epoch 3, minibatch 1750/1750, validation error 8.120000 %
+     epoch 3, minibatch 1750/1750, test error of best model 8.333333 %
+epoch 4, minibatch 1750/1750, validation error 11.173333 %
+epoch 5, minibatch 1750/1750, validation error 9.026667 %
+Optimization complete. (with seed: 112) Best validation score of 8.120000 % obtained at iteration 5250, with test performance 8.333333 %
+... loading data
+<CudaNdarray object at 0x7fcfeb720070>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 9.080000 %
+     epoch 1, minibatch 1750/1750, test error of best model 9.440000 %
+epoch 2, minibatch 1750/1750, validation error 10.253333 %
+epoch 3, minibatch 1750/1750, validation error 11.680000 %
+epoch 4, minibatch 1750/1750, validation error 10.680000 %
+epoch 5, minibatch 1750/1750, validation error 9.573333 %
+Optimization complete. (with seed: 113) Best validation score of 9.080000 % obtained at iteration 1750, with test performance 9.440000 %
+... loading data
+<CudaNdarray object at 0x7fcfede224b0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 9.226667 %
+     epoch 1, minibatch 1750/1750, test error of best model 9.600000 %
+epoch 2, minibatch 1750/1750, validation error 13.013333 %
+epoch 3, minibatch 1750/1750, validation error 10.280000 %
+epoch 4, minibatch 1750/1750, validation error 9.800000 %
+epoch 5, minibatch 1750/1750, validation error 10.053333 %
+Optimization complete. (with seed: 114) Best validation score of 9.226667 % obtained at iteration 1750, with test performance 9.600000 %
+... loading data
+<CudaNdarray object at 0x7fcfebc03630>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 9.480000 %
+     epoch 1, minibatch 1750/1750, test error of best model 10.760000 %
+epoch 2, minibatch 1750/1750, validation error 10.080000 %
+epoch 3, minibatch 1750/1750, validation error 11.066667 %
+epoch 4, minibatch 1750/1750, validation error 10.440000 %
+epoch 5, minibatch 1750/1750, validation error 10.413333 %
+Optimization complete. (with seed: 115) Best validation score of 9.480000 % obtained at iteration 1750, with test performance 10.760000 %
+... loading data
+<CudaNdarray object at 0x7fcfebf1ec30>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 9.133333 %
+     epoch 1, minibatch 1750/1750, test error of best model 10.520000 %
+epoch 2, minibatch 1750/1750, validation error 9.773333 %
+epoch 3, minibatch 1750/1750, validation error 8.360000 %
+     epoch 3, minibatch 1750/1750, test error of best model 8.826667 %
+epoch 4, minibatch 1750/1750, validation error 8.746667 %
+epoch 5, minibatch 1750/1750, validation error 11.680000 %
+Optimization complete. (with seed: 116) Best validation score of 8.360000 % obtained at iteration 5250, with test performance 8.826667 %
+... loading data
+<CudaNdarray object at 0x7fcfebc9dbb0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 9.640000 %
+     epoch 1, minibatch 1750/1750, test error of best model 9.973333 %
+epoch 2, minibatch 1750/1750, validation error 10.280000 %
+epoch 3, minibatch 1750/1750, validation error 8.373333 %
+     epoch 3, minibatch 1750/1750, test error of best model 8.760000 %
+epoch 4, minibatch 1750/1750, validation error 11.706667 %
+epoch 5, minibatch 1750/1750, validation error 10.413333 %
+Optimization complete. (with seed: 117) Best validation score of 8.373333 % obtained at iteration 5250, with test performance 8.760000 %
+... loading data
+<CudaNdarray object at 0x7fcfee10d2f0>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 8.600000 %
+     epoch 1, minibatch 1750/1750, test error of best model 9.533333 %
+epoch 2, minibatch 1750/1750, validation error 9.093333 %
+epoch 3, minibatch 1750/1750, validation error 9.200000 %
+epoch 4, minibatch 1750/1750, validationThe code for file max4-2.py ran for 0.29m
+The code for file max4-2.py ran for 0.30m
+ error 10.746667 %
+epoch 5, minibatch 1750/1750, validation error 10.693333 %
+Optimization complete. (with seed: 118) Best validation score of 8.600000 % obtained at iteration 1750, with test performance 9.533333 %
+... loading data
+<CudaNdarray object at 0x7fcfe75ff970>
+[0 3 1 ..., 0 3 2]
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 7.560000 %
+     epoch 1, minibatch 1750/1750, test error of best model 7.493333 %
+epoch 2, minibatch 1750/1750, validation error 6.800000 %
+     epoch 2, minibatch 1750/1750, test error of best model 7.493333 %
+epoch 3, minibatch 1750/1750, validation error 9.600000 %
+epoch 4, minibatch 1750/1750, validation error 9.240000 %
+epoch 5, minibatch 1750/1750, validation error 9.866667 %
+Optimization complete. (with seed: 119) Best validation score of 6.800000 % obtained at iteration 3500, with test performance 7.493333 %

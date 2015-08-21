@@ -1,0 +1,1012 @@
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.320000 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.240000 %
+epoch 2, minibatch 1750/1750, validation error 0.266667 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.080000 %
+epoch 3, minibatch 1750/1750, validation error 0.226667 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.053333 %
+epoch 4, minibatch 1750/1750, validation error 0.213333 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.160000 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.120000 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.080000 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.080000 %
+epoch 9, minibatch 1750/1750, validation error 0.053333 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.053333 %
+epoch 11, minibatch 1750/1750, validation error 0.013333 %
+     epoch 11, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 12, minibatch 1750/1750, validation error 0.013333 %
+epoch 13, minibatch 1750/1750, validation error 0.013333 %
+epoch 14, minibatch 1750/1750, validation error 0.000000 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 15, minibatch 1750/1750, validation error 0.000000 %
+epoch 16, minibatch 1750/1750, validation error 0.000000 %
+epoch 17, minibatch 1750/1750, validation error 0.000000 %
+epoch 18, minibatch 1750/1750, validation error 0.000000 %
+epoch 19, minibatch 1750/1750, validation error 0.000000 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 100) Best validation score of 0.000000 % obtained at iteration 24500, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.360000 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.266667 %
+epoch 2, minibatch 1750/1750, validation error 0.280000 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.066667 %
+epoch 3, minibatch 1750/1750, validation error 0.226667 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.186667 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.160000 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.133333 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.093333 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.093333 %
+epoch 9, minibatch 1750/1750, validation error 0.080000 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.080000 %
+epoch 11, minibatch 1750/1750, validation error 0.080000 %
+epoch 12, minibatch 1750/1750, validation error 0.066667 %
+     epoch 12, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 13, minibatch 1750/1750, validation error 0.066667 %
+epoch 14, minibatch 1750/1750, validation error 0.066667 %
+epoch 15, minibatch 1750/1750, validation error 0.053333 %
+     epoch 15, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 16, minibatch 1750/1750, validation error 0.053333 %
+epoch 17, minibatch 1750/1750, validation error 0.040000 %
+     epoch 17, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 18, minibatch 1750/1750, validation error 0.040000 %
+epoch 19, minibatch 1750/1750, validation error 0.026667 %
+     epoch 19, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 20, minibatch 1750/1750, validation error 0.013333 %
+     epoch 20, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 21, minibatch 1750/1750, validation error 0.013333 %
+epoch 22, minibatch 1750/1750, validation error 0.013333 %
+epoch 23, minibatch 1750/1750, validation error 0.013333 %
+epoch 24, minibatch 1750/1750, validation error 0.013333 %
+epoch 25, minibatch 1750/1750, validation error 0.013333 %
+epoch 26, minibatch 1750/1750, validation error 0.013333 %
+epoch 27, minibatch 1750/1750, validation error 0.013333 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+     epoch 28, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+epoch 38, minibatch 1750/1750, validation error 0.000000 %
+epoch 39, minibatch 1750/1750, validation error 0.000000 %
+epoch 40, minibatch 1750/1750, validation error 0.000000 %
+epoch 41, minibatch 1750/1750, validation error 0.000000 %
+epoch 42, minibatch 1750/1750, validation error 0.000000 %
+epoch 43, minibatch 1750/1750, validation error 0.000000 %
+epoch 44, minibatch 1750/1750, validation error 0.000000 %
+epoch 45, minibatch 1750/1750, validation error 0.000000 %
+epoch 46, minibatch 1750/1750, validation error 0.000000 %
+epoch 47, minibatch 1750/1750, validation error 0.000000 %
+epoch 48, minibatch 1750/1750, validation error 0.000000 %
+epoch 49, minibatch 1750/1750, validation error 0.000000 %
+epoch 50, minibatch 1750/1750, validation error 0.000000 %
+epoch 51, minibatch 1750/1750, validation error 0.000000 %
+epoch 52, minibatch 1750/1750, validation error 0.000000 %
+epoch 53, minibatch 1750/1750, validation error 0.000000 %
+epoch 54, minibatch 1750/1750, validation error 0.000000 %
+epoch 55, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 101) Best validation score of 0.000000 % obtained at iteration 49000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.280000 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.200000 %
+epoch 2, minibatch 1750/1750, validation error 0.240000 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.106667 %
+epoch 3, minibatch 1750/1750, validation error 0.226667 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.053333 %
+epoch 4, minibatch 1750/1750, validation error 0.160000 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.120000 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 6, minibatch 1750/1750, validation error 0.093333 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 7, minibatch 1750/1750, validation error 0.080000 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.066667 %
+     epoch 8, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 9, minibatch 1750/1750, validation error 0.053333 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.053333 %
+epoch 11, minibatch 1750/1750, validation error 0.026667 %
+     epoch 11, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 12, minibatch 1750/1750, validation error 0.013333 %
+     epoch 12, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 13, minibatch 1750/1750, validation error 0.000000 %
+     epoch 13, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 14, minibatch 1750/1750, validation error 0.000000 %
+epoch 15, minibatch 1750/1750, validation error 0.000000 %
+epoch 16, minibatch 1750/1750, validation error 0.000000 %
+epoch 17, minibatch 1750/1750, validation error 0.000000 %
+epoch 18, minibatch 1750/1750, validation error 0.000000 %
+epoch 19, minibatch 1750/1750, validation error 0.000000 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 102) Best validation score of 0.000000 % obtained at iteration 22750, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.373333 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.240000 %
+epoch 2, minibatch 1750/1750, validation error 0.253333 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.106667 %
+epoch 3, minibatch 1750/1750, validation error 0.213333 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.173333 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 5, minibatch 1750/1750, validation error 0.133333 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 6, minibatch 1750/1750, validation error 0.106667 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.093333 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.053333 %
+     epoch 8, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 9, minibatch 1750/1750, validation error 0.053333 %
+epoch 10, minibatch 1750/1750, validation error 0.053333 %
+epoch 11, minibatch 1750/1750, validation error 0.053333 %
+epoch 12, minibatch 1750/1750, validation error 0.053333 %
+epoch 13, minibatch 1750/1750, validation error 0.040000 %
+     epoch 13, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 14, minibatch 1750/1750, validation error 0.040000 %
+epoch 15, minibatch 1750/1750, validation error 0.040000 %
+epoch 16, minibatch 1750/1750, validation error 0.026667 %
+     epoch 16, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 17, minibatch 1750/1750, validation error 0.026667 %
+epoch 18, minibatch 1750/1750, validation error 0.026667 %
+epoch 19, minibatch 1750/1750, validation error 0.026667 %
+epoch 20, minibatch 1750/1750, validation error 0.026667 %
+epoch 21, minibatch 1750/1750, validation error 0.013333 %
+     epoch 21, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 22, minibatch 1750/1750, validation error 0.013333 %
+epoch 23, minibatch 1750/1750, validation error 0.013333 %
+epoch 24, minibatch 1750/1750, validation error 0.013333 %
+epoch 25, minibatch 1750/1750, validation error 0.013333 %
+epoch 26, minibatch 1750/1750, validation error 0.013333 %
+epoch 27, minibatch 1750/1750, validation error 0.013333 %
+epoch 28, minibatch 1750/1750, validation error 0.013333 %
+epoch 29, minibatch 1750/1750, validation error 0.013333 %
+epoch 30, minibatch 1750/1750, validation error 0.013333 %
+epoch 31, minibatch 1750/1750, validation error 0.013333 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+     epoch 32, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+epoch 38, minibatch 1750/1750, validation error 0.000000 %
+epoch 39, minibatch 1750/1750, validation error 0.000000 %
+epoch 40, minibatch 1750/1750, validation error 0.000000 %
+epoch 41, minibatch 1750/1750, validation error 0.000000 %
+epoch 42, minibatch 1750/1750, validation error 0.000000 %
+epoch 43, minibatch 1750/1750, validation error 0.000000 %
+epoch 44, minibatch 1750/1750, validation error 0.000000 %
+epoch 45, minibatch 1750/1750, validation error 0.000000 %
+epoch 46, minibatch 1750/1750, validation error 0.000000 %
+epoch 47, minibatch 1750/1750, validation error 0.000000 %
+epoch 48, minibatch 1750/1750, validation error 0.000000 %
+epoch 49, minibatch 1750/1750, validation error 0.000000 %
+epoch 50, minibatch 1750/1750, validation error 0.000000 %
+epoch 51, minibatch 1750/1750, validation error 0.000000 %
+epoch 52, minibatch 1750/1750, validation error 0.000000 %
+epoch 53, minibatch 1750/1750, validation error 0.000000 %
+epoch 54, minibatch 1750/1750, validation error 0.000000 %
+epoch 55, minibatch 1750/1750, validation error 0.000000 %
+epoch 56, minibatch 1750/1750, validation error 0.000000 %
+epoch 57, minibatch 1750/1750, validation error 0.000000 %
+epoch 58, minibatch 1750/1750, validation error 0.000000 %
+epoch 59, minibatch 1750/1750, validation error 0.000000 %
+epoch 60, minibatch 1750/1750, validation error 0.000000 %
+epoch 61, minibatch 1750/1750, validation error 0.000000 %
+epoch 62, minibatch 1750/1750, validation error 0.000000 %
+epoch 63, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 103) Best validation score of 0.000000 % obtained at iteration 56000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.333333 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.200000 %
+epoch 2, minibatch 1750/1750, validation error 0.253333 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.106667 %
+epoch 3, minibatch 1750/1750, validation error 0.200000 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 4, minibatch 1750/1750, validation error 0.160000 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.120000 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 6, minibatch 1750/1750, validation error 0.093333 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.093333 %
+epoch 8, minibatch 1750/1750, validation error 0.093333 %
+epoch 9, minibatch 1750/1750, validation error 0.066667 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.053333 %
+     epoch 10, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 11, minibatch 1750/1750, validation error 0.013333 %
+     epoch 11, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 12, minibatch 1750/1750, validation error 0.013333 %
+epoch 13, minibatch 1750/1750, validation error 0.013333 %
+epoch 14, minibatch 1750/1750, validation error 0.013333 %
+epoch 15, minibatch 1750/1750, validation error 0.013333 %
+epoch 16, minibatch 1750/1750, validation error 0.013333 %
+epoch 17, minibatch 1750/1750, validation error 0.000000 %
+     epoch 17, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 18, minibatch 1750/1750, validation error 0.000000 %
+epoch 19, minibatch 1750/1750, validation error 0.000000 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 104) Best validation score of 0.000000 % obtained at iteration 29750, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.333333 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.200000 %
+epoch 2, minibatch 1750/1750, validation error 0.253333 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.106667 %
+epoch 3, minibatch 1750/1750, validation error 0.240000 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 4, minibatch 1750/1750, validation error 0.186667 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.133333 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.093333 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.080000 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.066667 %
+     epoch 8, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 9, minibatch 1750/1750, validation error 0.053333 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.053333 %
+epoch 11, minibatch 1750/1750, validation error 0.040000 %
+     epoch 11, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 12, minibatch 1750/1750, validation error 0.040000 %
+epoch 13, minibatch 1750/1750, validation error 0.040000 %
+epoch 14, minibatch 1750/1750, validation error 0.026667 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 15, minibatch 1750/1750, validation error 0.026667 %
+epoch 16, minibatch 1750/1750, validation error 0.013333 %
+     epoch 16, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 17, minibatch 1750/1750, validation error 0.013333 %
+epoch 18, minibatch 1750/1750, validation error 0.013333 %
+epoch 19, minibatch 1750/1750, validation error 0.013333 %
+epoch 20, minibatch 1750/1750, validation error 0.013333 %
+epoch 21, minibatch 1750/1750, validation error 0.013333 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+     epoch 22, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+epoch 38, minibatch 1750/1750, validation error 0.000000 %
+epoch 39, minibatch 1750/1750, validation error 0.000000 %
+epoch 40, minibatch 1750/1750, validation error 0.000000 %
+epoch 41, minibatch 1750/1750, validation error 0.000000 %
+epoch 42, minibatch 1750/1750, validation error 0.000000 %
+epoch 43, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 105) Best validation score of 0.000000 % obtained at iteration 38500, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.333333 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.213333 %
+epoch 2, minibatch 1750/1750, validation error 0.266667 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.093333 %
+epoch 3, minibatch 1750/1750, validation error 0.240000 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.226667 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 5, minibatch 1750/1750, validation error 0.186667 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 6, minibatch 1750/1750, validation error 0.120000 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.093333 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.093333 %
+epoch 9, minibatch 1750/1750, validation error 0.040000 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 10, minibatch 1750/1750, validation error 0.040000 %
+epoch 11, minibatch 1750/1750, validation error 0.040000 %
+epoch 12, minibatch 1750/1750, validation error 0.026667 %
+     epoch 12, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 13, minibatch 1750/1750, validation error 0.026667 %
+epoch 14, minibatch 1750/1750, validation error 0.026667 %
+epoch 15, minibatch 1750/1750, validation error 0.026667 %
+epoch 16, minibatch 1750/1750, validation error 0.026667 %
+epoch 17, minibatch 1750/1750, validation error 0.026667 %
+epoch 18, minibatch 1750/1750, validation error 0.026667 %
+epoch 19, minibatch 1750/1750, validation error 0.026667 %
+epoch 20, minibatch 1750/1750, validation error 0.026667 %
+epoch 21, minibatch 1750/1750, validation error 0.026667 %
+epoch 22, minibatch 1750/1750, validation error 0.026667 %
+epoch 23, minibatch 1750/1750, validation error 0.026667 %
+Optimization complete. (with seed: 106) Best validation score of 0.026667 % obtained at iteration 21000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.293333 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.200000 %
+epoch 2, minibatch 1750/1750, validation error 0.226667 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.093333 %
+epoch 3, minibatch 1750/1750, validation error 0.200000 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.053333 %
+epoch 4, minibatch 1750/1750, validation error 0.173333 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.133333 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.106667 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.093333 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.040000 %
+     epoch 8, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 9, minibatch 1750/1750, validation error 0.026667 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.013333 %
+     epoch 10, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 11, minibatch 1750/1750, validation error 0.000000 %
+     epoch 11, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 12, minibatch 1750/1750, validation error 0.000000 %
+epoch 13, minibatch 1750/1750, validation error 0.000000 %
+epoch 14, minibatch 1750/1750, validation error 0.000000 %
+epoch 15, minibatch 1750/1750, validation error 0.000000 %
+epoch 16, minibatch 1750/1750, validation error 0.000000 %
+epoch 17, minibatch 1750/1750, validation error 0.000000 %
+epoch 18, minibatch 1750/1750, validation error 0.000000 %
+epoch 19, minibatch 1750/1750, validation error 0.000000 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 107) Best validation score of 0.000000 % obtained at iteration 19250, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.373333 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.200000 %
+epoch 2, minibatch 1750/1750, validation error 0.253333 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.066667 %
+epoch 3, minibatch 1750/1750, validation error 0.226667 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.173333 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.146667 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.120000 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.106667 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.106667 %
+epoch 9, minibatch 1750/1750, validation error 0.080000 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.066667 %
+     epoch 10, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 11, minibatch 1750/1750, validation error 0.066667 %
+epoch 12, minibatch 1750/1750, validation error 0.053333 %
+     epoch 12, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 13, minibatch 1750/1750, validation error 0.053333 %
+epoch 14, minibatch 1750/1750, validation error 0.040000 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 15, minibatch 1750/1750, validation error 0.040000 %
+epoch 16, minibatch 1750/1750, validation error 0.040000 %
+epoch 17, minibatch 1750/1750, validation error 0.040000 %
+epoch 18, minibatch 1750/1750, validation error 0.040000 %
+epoch 19, minibatch 1750/1750, validation error 0.040000 %
+epoch 20, minibatch 1750/1750, validation error 0.026667 %
+     epoch 20, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.026667 %
+epoch 22, minibatch 1750/1750, validation error 0.026667 %
+epoch 23, minibatch 1750/1750, validation error 0.026667 %
+epoch 24, minibatch 1750/1750, validation error 0.026667 %
+epoch 25, minibatch 1750/1750, validation error 0.013333 %
+     epoch 25, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.013333 %
+epoch 27, minibatch 1750/1750, validation error 0.013333 %
+epoch 28, minibatch 1750/1750, validation error 0.013333 %
+epoch 29, minibatch 1750/1750, validation error 0.013333 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+     epoch 30, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+epoch 38, minibatch 1750/1750, validation error 0.000000 %
+epoch 39, minibatch 1750/1750, validation error 0.000000 %
+epoch 40, minibatch 1750/1750, validation error 0.000000 %
+epoch 41, minibatch 1750/1750, validation error 0.000000 %
+epoch 42, minibatch 1750/1750, validation error 0.000000 %
+epoch 43, minibatch 1750/1750, validation error 0.000000 %
+epoch 44, minibatch 1750/1750, validation error 0.000000 %
+epoch 45, minibatch 1750/1750, validation error 0.000000 %
+epoch 46, minibatch 1750/1750, validation error 0.000000 %
+epoch 47, minibatch 1750/1750, validation error 0.000000 %
+epoch 48, minibatch 1750/1750, validation error 0.000000 %
+epoch 49, minibatch 1750/1750, validation error 0.000000 %
+epoch 50, minibatch 1750/1750, validation error 0.000000 %
+epoch 51, minibatch 1750/1750, validation error 0.000000 %
+epoch 52, minibatch 1750/1750, validation error 0.000000 %
+epoch 53, minibatch 1750/1750, validation error 0.000000 %
+epoch 54, minibatch 1750/1750, validation error 0.000000 %
+epoch 55, minibatch 1750/1750, validation error 0.000000 %
+epoch 56, minibatch 1750/1750, validation error 0.000000 %
+epoch 57, minibatch 1750/1750, validation error 0.000000 %
+epoch 58, minibatch 1750/1750, validation error 0.000000 %
+epoch 59, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 108) Best validation score of 0.000000 % obtained at iteration 52500, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.280000 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.213333 %
+epoch 2, minibatch 1750/1750, validation error 0.266667 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.080000 %
+epoch 3, minibatch 1750/1750, validation error 0.226667 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.160000 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 5, minibatch 1750/1750, validation error 0.120000 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.093333 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.066667 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.066667 %
+epoch 9, minibatch 1750/1750, validation error 0.066667 %
+epoch 10, minibatch 1750/1750, validation error 0.066667 %
+epoch 11, minibatch 1750/1750, validation error 0.053333 %
+     epoch 11, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 12, minibatch 1750/1750, validation error 0.053333 %
+epoch 13, minibatch 1750/1750, validation error 0.053333 %
+epoch 14, minibatch 1750/1750, validation error 0.026667 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 15, minibatch 1750/1750, validation error 0.026667 %
+epoch 16, minibatch 1750/1750, validation error 0.013333 %
+     epoch 16, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 17, minibatch 1750/1750, validation error 0.013333 %
+epoch 18, minibatch 1750/1750, validation error 0.013333 %
+epoch 19, minibatch 1750/1750, validation error 0.000000 %
+     epoch 19, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 109) Best validation score of 0.000000 % obtained at iteration 33250, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.373333 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.213333 %
+epoch 2, minibatch 1750/1750, validation error 0.253333 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.106667 %
+epoch 3, minibatch 1750/1750, validation error 0.200000 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.066667 %
+epoch 4, minibatch 1750/1750, validation error 0.186667 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.160000 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.093333 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.066667 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.040000 %
+     epoch 8, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 9, minibatch 1750/1750, validation error 0.040000 %
+epoch 10, minibatch 1750/1750, validation error 0.026667 %
+     epoch 10, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 11, minibatch 1750/1750, validation error 0.026667 %
+epoch 12, minibatch 1750/1750, validation error 0.026667 %
+epoch 13, minibatch 1750/1750, validation error 0.026667 %
+epoch 14, minibatch 1750/1750, validation error 0.013333 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 15, minibatch 1750/1750, validation error 0.013333 %
+epoch 16, minibatch 1750/1750, validation error 0.013333 %
+epoch 17, minibatch 1750/1750, validation error 0.000000 %
+     epoch 17, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 18, minibatch 1750/1750, validation error 0.000000 %
+epoch 19, minibatch 1750/1750, validation error 0.000000 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 110) Best validation score of 0.000000 % obtained at iteration 29750, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.266667 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.200000 %
+epoch 2, minibatch 1750/1750, validation error 0.226667 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.053333 %
+epoch 3, minibatch 1750/1750, validation error 0.240000 %
+epoch 4, minibatch 1750/1750, validation error 0.173333 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.106667 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.093333 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.053333 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.053333 %
+epoch 9, minibatch 1750/1750, validation error 0.040000 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.040000 %
+epoch 11, minibatch 1750/1750, validation error 0.040000 %
+epoch 12, minibatch 1750/1750, validation error 0.040000 %
+epoch 13, minibatch 1750/1750, validation error 0.040000 %
+epoch 14, minibatch 1750/1750, validation error 0.026667 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 15, minibatch 1750/1750, validation error 0.026667 %
+epoch 16, minibatch 1750/1750, validation error 0.013333 %
+     epoch 16, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 17, minibatch 1750/1750, validation error 0.013333 %
+epoch 18, minibatch 1750/1750, validation error 0.013333 %
+epoch 19, minibatch 1750/1750, validation error 0.013333 %
+epoch 20, minibatch 1750/1750, validation error 0.013333 %
+epoch 21, minibatch 1750/1750, validation error 0.013333 %
+epoch 22, minibatch 1750/1750, validation error 0.013333 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+     epoch 23, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+epoch 38, minibatch 1750/1750, validation error 0.000000 %
+epoch 39, minibatch 1750/1750, validation error 0.000000 %
+epoch 40, minibatch 1750/1750, validation error 0.000000 %
+epoch 41, minibatch 1750/1750, validation error 0.000000 %
+epoch 42, minibatch 1750/1750, validation error 0.000000 %
+epoch 43, minibatch 1750/1750, validation error 0.000000 %
+epoch 44, minibatch 1750/1750, validation error 0.000000 %
+epoch 45, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 111) Best validation score of 0.000000 % obtained at iteration 40250, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.306667 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.173333 %
+epoch 2, minibatch 1750/1750, validation error 0.240000 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.106667 %
+epoch 3, minibatch 1750/1750, validation error 0.213333 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.053333 %
+epoch 4, minibatch 1750/1750, validation error 0.186667 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.160000 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 6, minibatch 1750/1750, validation error 0.146667 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.106667 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.106667 %
+epoch 9, minibatch 1750/1750, validation error 0.066667 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.053333 %
+     epoch 10, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 11, minibatch 1750/1750, validation error 0.053333 %
+epoch 12, minibatch 1750/1750, validation error 0.040000 %
+     epoch 12, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 13, minibatch 1750/1750, validation error 0.040000 %
+epoch 14, minibatch 1750/1750, validation error 0.026667 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 15, minibatch 1750/1750, validation error 0.026667 %
+epoch 16, minibatch 1750/1750, validation error 0.013333 %
+     epoch 16, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 17, minibatch 1750/1750, validation error 0.013333 %
+epoch 18, minibatch 1750/1750, validation error 0.013333 %
+epoch 19, minibatch 1750/1750, validation error 0.013333 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+     epoch 20, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+epoch 38, minibatch 1750/1750, validation error 0.000000 %
+epoch 39, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 112) Best validation score of 0.000000 % obtained at iteration 35000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.306667 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.173333 %
+epoch 2, minibatch 1750/1750, validation error 0.253333 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.093333 %
+epoch 3, minibatch 1750/1750, validation error 0.213333 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 4, minibatch 1750/1750, validation error 0.186667 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.133333 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 6, minibatch 1750/1750, validation error 0.106667 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.080000 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.066667 %
+     epoch 8, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 9, minibatch 1750/1750, validation error 0.040000 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.040000 %
+epoch 11, minibatch 1750/1750, validation error 0.040000 %
+epoch 12, minibatch 1750/1750, validation error 0.013333 %
+     epoch 12, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 13, minibatch 1750/1750, validation error 0.013333 %
+epoch 14, minibatch 1750/1750, validation error 0.000000 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 15, minibatch 1750/1750, validation error 0.000000 %
+epoch 16, minibatch 1750/1750, validation error 0.000000 %
+epoch 17, minibatch 1750/1750, validation error 0.000000 %
+epoch 18, minibatch 1750/1750, validation error 0.000000 %
+epoch 19, minibatch 1750/1750, validation error 0.000000 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 113) Best validation score of 0.000000 % obtained at iteration 24500, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.346667 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.226667 %
+epoch 2, minibatch 1750/1750, validation error 0.253333 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.066667 %
+epoch 3, minibatch 1750/1750, validation error 0.240000 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.200000 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 5, minibatch 1750/1750, validation error 0.173333 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 6, minibatch 1750/1750, validation error 0.133333 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.133333 %
+epoch 8, minibatch 1750/1750, validation error 0.093333 %
+     epoch 8, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 9, minibatch 1750/1750, validation error 0.080000 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.080000 %
+epoch 11, minibatch 1750/1750, validation error 0.066667 %
+     epoch 11, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 12, minibatch 1750/1750, validation error 0.066667 %
+epoch 13, minibatch 1750/1750, validation error 0.066667 %
+epoch 14, minibatch 1750/1750, validation error 0.053333 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 15, minibatch 1750/1750, validation error 0.053333 %
+epoch 16, minibatch 1750/1750, validation error 0.053333 %
+epoch 17, minibatch 1750/1750, validation error 0.040000 %
+     epoch 17, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 18, minibatch 1750/1750, validation error 0.013333 %
+     epoch 18, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 19, minibatch 1750/1750, validation error 0.013333 %
+epoch 20, minibatch 1750/1750, validation error 0.013333 %
+epoch 21, minibatch 1750/1750, validation error 0.013333 %
+epoch 22, minibatch 1750/1750, validation error 0.013333 %
+epoch 23, minibatch 1750/1750, validation error 0.013333 %
+epoch 24, minibatch 1750/1750, validation error 0.013333 %
+epoch 25, minibatch 1750/1750, validation error 0.013333 %
+epoch 26, minibatch 1750/1750, validation error 0.013333 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+     epoch 27, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+epoch 38, minibatch 1750/1750, validation error 0.000000 %
+epoch 39, minibatch 1750/1750, validation error 0.000000 %
+epoch 40, minibatch 1750/1750, validation error 0.000000 %
+epoch 41, minibatch 1750/1750, validation error 0.000000 %
+epoch 42, minibatch 1750/1750, validation error 0.000000 %
+epoch 43, minibatch 1750/1750, validation error 0.000000 %
+epoch 44, minibatch 1750/1750, validation error 0.000000 %
+epoch 45, minibatch 1750/1750, validation error 0.000000 %
+epoch 46, minibatch 1750/1750, validation error 0.000000 %
+epoch 47, minibatch 1750/1750, validation error 0.000000 %
+epoch 48, minibatch 1750/1750, validation error 0.000000 %
+epoch 49, minibatch 1750/1750, validation error 0.000000 %
+epoch 50, minibatch 1750/1750, validation error 0.000000 %
+epoch 51, minibatch 1750/1750, validation error 0.000000 %
+epoch 52, minibatch 1750/1750, validation error 0.000000 %
+epoch 53, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 114) Best validation score of 0.000000 % obtained at iteration 47250, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.266667 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.213333 %
+epoch 2, minibatch 1750/1750, validation error 0.200000 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.093333 %
+epoch 3, minibatch 1750/1750, validation error 0.186667 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.133333 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.120000 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 6, minibatch 1750/1750, validation error 0.093333 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.053333 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.053333 %
+epoch 9, minibatch 1750/1750, validation error 0.053333 %
+epoch 10, minibatch 1750/1750, validation error 0.053333 %
+epoch 11, minibatch 1750/1750, validation error 0.040000 %
+     epoch 11, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 12, minibatch 1750/1750, validation error 0.040000 %
+epoch 13, minibatch 1750/1750, validation error 0.040000 %
+epoch 14, minibatch 1750/1750, validation error 0.013333 %
+     epoch 14, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 15, minibatch 1750/1750, validation error 0.013333 %
+epoch 16, minibatch 1750/1750, validation error 0.013333 %
+epoch 17, minibatch 1750/1750, validation error 0.013333 %
+epoch 18, minibatch 1750/1750, validation error 0.013333 %
+epoch 19, minibatch 1750/1750, validation error 0.000000 %
+     epoch 19, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 115) Best validation score of 0.000000 % obtained at iteration 33250, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.293333 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.173333 %
+epoch 2, minibatch 1750/1750, validation error 0.253333 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.106667 %
+epoch 3, minibatch 1750/1750, validation error 0.213333 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.173333 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.106667 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.066667 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.040000 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 8, minibatch 1750/1750, validation error 0.000000 %
+     epoch 8, minibatch 1750/1750, test error of best model 0.000000 %
+epoch 9, minibatch 1750/1750, validation error 0.000000 %
+epoch 10, minibatch 1750/1750, validation error 0.000000 %
+epoch 11, minibatch 1750/1750, validation error 0.000000 %
+epoch 12, minibatch 1750/1750, validation error 0.000000 %
+epoch 13, minibatch 1750/1750, validation error 0.000000 %
+epoch 14, minibatch 1750/1750, validation error 0.000000 %
+epoch 15, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 116) Best validation score of 0.000000 % obtained at iteration 14000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.346667 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.186667 %
+epoch 2, minibatch 1750/1750, validation error 0.266667 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.093333 %
+epoch 3, minibatch 1750/1750, validation error 0.240000 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.226667 %
+     epoch 4, minibatch 1750/1750, test error of best model 1.906667 %
+epoch 5, minibatch 1750/1750, validation error 0.173333 %
+     epoch 5, minibatch 1750/1750, test error of best model 1.866667 %
+epoch 6, minibatch 1750/1750, validation error 0.106667 %
+     epoch 6, minibatch 1750/1750, test error of best model 1.853333 %
+epoch 7, minibatch 1750/1750, validation error 0.093333 %
+     epoch 7, minibatch 1750/1750, test error of best model 1.853333 %
+epoch 8, minibatch 1750/1750, validation error 0.066667 %
+     epoch 8, minibatch 1750/1750, test error of best model 1.853333 %
+epoch 9, minibatch 1750/1750, validation error 0.040000 %
+     epoch 9, minibatch 1750/1750, test error of best model 1.840000 %
+epoch 10, minibatch 1750/1750, validation error 0.040000 %
+epoch 11, minibatch 1750/1750, validation error 0.040000 %
+epoch 12, minibatch 1750/1750, validation error 0.040000 %
+epoch 13, minibatch 1750/1750, validation error 0.026667 %
+     epoch 13, minibatch 1750/1750, test error of best model 1.840000 %
+epoch 14, minibatch 1750/1750, validation error 0.026667 %
+epoch 15, minibatch 1750/1750, validation error 0.026667 %
+epoch 16, minibatch 1750/1750, validation error 0.026667 %
+epoch 17, minibatch 1750/1750, validation error 0.026667 %
+epoch 18, minibatch 1750/1750, validation error 0.013333 %
+     epoch 18, minibatch 1750/1750, test error of best model 1.813333 %
+epoch 19, minibatch 1750/1750, validation error 0.013333 %
+epoch 20, minibatch 1750/1750, validation error 0.013333 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+     epoch 21, minibatch 1750/1750, test error of best model 1.813333 %
+epoch 22, minibatch 1750/1750, validation error 0.000000 %
+epoch 23, minibatch 1750/1750, validation error 0.000000 %
+epoch 24, minibatch 1750/1750, validation error 0.000000 %
+epoch 25, minibatch 1750/1750, validation error 0.000000 %
+epoch 26, minibatch 1750/1750, validation error 0.000000 %
+epoch 27, minibatch 1750/1750, validation error 0.000000 %
+epoch 28, minibatch 1750/1750, validation error 0.000000 %
+epoch 29, minibatch 1750/1750, validation error 0.000000 %
+epoch 30, minibatch 1750/1750, validation error 0.000000 %
+epoch 31, minibatch 1750/1750, validation error 0.000000 %
+epoch 32, minibatch 1750/1750, validation error 0.000000 %
+epoch 33, minibatch 1750/1750, validation error 0.000000 %
+epoch 34, minibatch 1750/1750, validation error 0.000000 %
+epoch 35, minibatch 1750/1750, validation error 0.000000 %
+epoch 36, minibatch 1750/1750, validation error 0.000000 %
+epoch 37, minibatch 1750/1750, validation error 0.000000 %
+epoch 38, minibatch 1750/1750, validation error 0.000000 %
+epoch 39, minibatch 1750/1750, validation error 0.000000 %
+epoch 40, minibatch 1750/1750, validation error 0.000000 %
+epoch 41, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 117) Best validation score of 0.000000 % obtained at iteration 36750, with test performance 1.813333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.293333 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.200000 %
+epoch 2, minibatch 1750/1750, validation error 0.240000 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.106667 %
+epoch 3, minibatch 1750/1750, validation error 0.226667 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.200000 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 5, minibatch 1750/1750, validation error 0.173333 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 6, minibatch 1750/1750, validation error 0.120000 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.093333 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.066667 %
+     epoch 8, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 9, minibatch 1750/1750, validation error 0.026667 %
+     epoch 9, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 10, minibatch 1750/1750, validation error 0.013333 %
+     epoch 10, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 11, minibatch 1750/1750, validation error 0.000000 %
+     epoch 11, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 12, minibatch 1750/1750, validation error 0.000000 %
+epoch 13, minibatch 1750/1750, validation error 0.000000 %
+epoch 14, minibatch 1750/1750, validation error 0.000000 %
+epoch 15, minibatch 1750/1750, validation error 0.000000 %
+epoch 16, minibatch 1750/1750, validation error 0.000000 %
+epoch 17, minibatch 1750/1750, validation error 0.000000 %
+epoch 18, minibatch 1750/1750, validation error 0.000000 %
+epoch 19, minibatch 1750/1750, validation error 0.000000 %
+epoch 20, minibatch 1750/1750, validation error 0.000000 %
+epoch 21, minibatch 1750/1750, validation error 0.000000 %
+Optimization complete. (with seed: 118) Best validation score of 0.000000 % obtained at iteration 19250, with test performance 0.013333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 1750/1750, validation error 0.360000 %
+     epoch 1, minibatch 1750/1750, test error of best model 0.213333 %
+epoch 2, minibatch 1750/1750, validation error 0.280000 %
+     epoch 2, minibatch 1750/1750, test error of best model 0.066667 %
+epoch 3, minibatch 1750/1750, validation error 0.240000 %
+     epoch 3, minibatch 1750/1750, test error of best model 0.040000 %
+epoch 4, minibatch 1750/1750, validation error 0.186667 %
+     epoch 4, minibatch 1750/1750, test error of best model 0.026667 %
+epoch 5, minibatch 1750/1750, validation error 0.146667 %
+     epoch 5, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 6, minibatch 1750/1750, validation error 0.120000 %
+     epoch 6, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 7, minibatch 1750/1750, validation error 0.080000 %
+     epoch 7, minibatch 1750/1750, test error of best model 0.013333 %
+epoch 8, minibatch 1750/1750, validation error 0.080000 %
+epoch 9, minibatch 1750/1750, validation error 0.106667 %
+epoch 10, minibatch 1750/1750, validation error 0.160000 %
+epoch 11, minibatch 1750/1750, validation error 0.200000 %
+epoch 12, minibatch 1750/1750, validation error 0.253333 %
+epoch 13, minibatch 1750/1750, validation error 0.280000 %
+Optimization complete. (with seed: 119) Best validation score of 0.080000 % obtained at iteration 12250, with test performance 0.013333 %

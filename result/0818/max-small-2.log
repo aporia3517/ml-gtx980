@@ -1,0 +1,127 @@
+Using gpu device 0: GeForce GTX 980
+The code for file max-small-2.py ran for 0.38m
+The code for file max-small-2.py ran for 0.39m
+The code for file max-small-2.py ran for 0.39m
+The code for file max-small-2.py ran for 3.08m
+The code for file max-small-2.py ran for 0.38m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 52.000000 %
+     epoch 1, minibatch 5000/7000, test error of best model 52.186667 %
+epoch 2, minibatch 3000/7000, validation error 66.826667 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 0) Best validation score of 52.000000 % obtained at iteration 5000, with test performance 52.186667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 61.426667 %
+     epoch 1, minibatch 5000/7000, test error of best model 62.080000 %
+epoch 2, minibatch 3000/7000, validation error 67.813333 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 1) Best validation score of 61.426667 % obtained at iteration 5000, with test performance 62.080000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 34.546667 %
+     epoch 1, minibatch 5000/7000, test error of best model 34.693333 %
+epoch 2, minibatch 3000/7000, validation error 44.826667 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 2) Best validation score of 34.546667 % obtained at iteration 5000, with test performance 34.693333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 59.960000 %
+     epoch 1, minibatch 5000/7000, test error of best model 59.573333 %
+epoch 2, minibatch 3000/7000, validation error 52.346667 %
+     epoch 2, minibatch 3000/7000, test error of best model 52.800000 %
+epoch 3, minibatch 1000/7000, validation error 47.493333 %
+     epoch 3, minibatch 1000/7000, test error of best model 49.453333 %
+epoch 3, minibatch 6000/7000, validation error 48.880000 %
+epoch 4, minibatch 4000/7000, validation error 49.186667 %
+epoch 5, minibatch 2000/7000, validation error 54.386667 %
+epoch 5, minibatch 7000/7000, validation error 54.440000 %
+epoch 6, minibatch 5000/7000, validation error 39.720000 %
+     epoch 6, minibatch 5000/7000, test error of best model 40.466667 %
+epoch 7, minibatch 3000/7000, validation error 56.613333 %
+epoch 8, minibatch 1000/7000, validation error 40.906667 %
+epoch 8, minibatch 6000/7000, validation error 47.653333 %
+epoch 9, minibatch 4000/7000, validation error 40.733333 %
+epoch 10, minibatch 2000/7000, validation error 63.240000 %
+epoch 10, minibatch 7000/7000, validation error 44.946667 %
+epoch 11, minibatch 5000/7000, validation error 48.680000 %
+epoch 12, minibatch 3000/7000, validation error 50.066667 %
+epoch 13, minibatch 1000/7000, validation error 47.346667 %
+epoch 13, minibatch 6000/7000, validation error 44.653333 %
+epoch 14, minibatch 4000/7000, validation error 42.866667 %
+epoch 15, minibatch 2000/7000, validation error 42.893333 %
+epoch 15, minibatch 7000/7000, validation error 49.853333 %
+epoch 16, minibatch 5000/7000, validation error 44.306667 %
+epoch 17, minibatch 3000/7000, validation error 41.173333 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 3) Best validation score of 39.720000 % obtained at iteration 40000, with test performance 40.466667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 48.106667 %
+     epoch 1, minibatch 5000/7000, test error of best model 47.880000 %
+epoch 2, minibatch 3000/7000, validation error 63.813333 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 4) Best validation score of 48.106667 % obtained at iteration 5000, with test performance 47.880000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 51.586667 %
+     epoch 1, minibatch 5000/7000, test error of best model 51.800000 %
+epoch 2, minibatch 3000/7000, validation error 63.880000 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 5) Best validation score of 51.586667 % obtained at iteration 5000, with test performance 51.8000The code for file max-small-2.py ran for 0.37m
+The code for file max-small-2.py ran for 1.16m
+The code for file max-small-2.py ran for 0.77m
+The code for file max-small-2.py ran for 0.41m
+The code for file max-small-2.py ran for 0.35m
+00 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 59.400000 %
+     epoch 1, minibatch 5000/7000, test error of best model 60.200000 %
+epoch 2, minibatch 3000/7000, validation error 52.253333 %
+     epoch 2, minibatch 3000/7000, test error of best model 52.520000 %
+epoch 3, minibatch 1000/7000, validation error 39.960000 %
+     epoch 3, minibatch 1000/7000, test error of best model 39.973333 %
+epoch 3, minibatch 6000/7000, validation error 61.840000 %
+epoch 4, minibatch 4000/7000, validation error 66.533333 %
+epoch 5, minibatch 2000/7000, validation error 69.306667 %
+epoch 5, minibatch 7000/7000, validation error 58.520000 %
+epoch 6, minibatch 5000/7000, validation error 55.266667 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 6) Best validation score of 39.960000 % obtained at iteration 15000, with test performance 39.973333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 54.226667 %
+     epoch 1, minibatch 5000/7000, test error of best model 54.600000 %
+epoch 2, minibatch 3000/7000, validation error 49.000000 %
+     epoch 2, minibatch 3000/7000, test error of best model 49.253333 %
+epoch 3, minibatch 1000/7000, validation error 54.413333 %
+epoch 3, minibatch 6000/7000, validation error 60.600000 %
+epoch 4, minibatch 4000/7000, validation error 57.533333 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 7) Best validation score of 49.000000 % obtained at iteration 10000, with test performance 49.253333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 47.106667 %
+     epoch 1, minibatch 5000/7000, test error of best model 47.840000 %
+epoch 2, minibatch 3000/7000, validation error 57.506667 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 8) Best validation score of 47.106667 % obtained at iteration 5000, with test performance 47.840000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/7000, validation error 55.906667 %
+     epoch 1, minibatch 5000/7000, test error of best model 56.546667 %
+epoch 2, minibatch 3000/7000, validation error 60.026667 %
+weight model is saved as ../model/max-small-2layer-6-3.dat
+Optimization complete. (with seed: 9) Best validation score of 55.906667 % obtained at iteration 5000, with test performance 56.546667 %

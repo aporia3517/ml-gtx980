@@ -78,10 +78,13 @@ class LeNetConvPoolLayer(object):
         W_bound = numpy.sqrt(6. / (fan_in + fan_out))
 
         import scipy
-        size=2
+        size=1
         x,y = scipy.mgrid[-size:size+1,-size:size+1]
         gg = scipy.exp(-(x**2/float(size)+y**2/float(size)))
         gg /= gg.sum()
+        z = scipy.zeros((5,5))
+        z[1:4,1:4]=gg
+        gg=z
         print(gg)
 
         self.W = theano.shared(
