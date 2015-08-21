@@ -6,7 +6,7 @@ import numpy, scipy, random
 import theano
 import theano.tensor as T
 
-def generate_random_data(dim=5, interval=(0,1000), target=max, length=50000, seed=42):
+def generate_random_data(dim=5, interval=(0,1000), target=max, length=(50000,10000,10000), seed=42):
     random.seed(seed)
     train_x = []
     train_y = []
@@ -15,21 +15,21 @@ def generate_random_data(dim=5, interval=(0,1000), target=max, length=50000, see
     test_x = []
     test_y = []
 
-    for i in range(int(length*0.7)):
+    for i in range(length[0]):
         a = random.sample(range(interval[0],interval[1]), dim)
         train_x.append(a)
         #train_y.append(target(a))
         train_y.append(a.index(target(a)))
     train = (train_x, train_y)
 
-    for i in range(int(length*0.15)):
+    for i in range(length[1]):
         a = random.sample(range(interval[0],interval[1]), dim)
         valid_x.append(a)
         #valid_y.append(target(a))
         valid_y.append(a.index(target(a)))
     valid = (valid_x, valid_y)
 
-    for i in range(int(length*0.15)):
+    for i in range(length[2]):
         a = random.sample(range(interval[0],interval[1]), dim)
         test_x.append(a)
         #test_y.append(target(a))
@@ -44,5 +44,5 @@ def generate_random_data(dim=5, interval=(0,1000), target=max, length=50000, see
     return (train, valid, test)
 
 if __name__ == '__main__':
-    res = generate_random_data(dim=3, interval=(0,1000), target=max, length=50000, seed=100)
+    res = generate_random_data(dim=2, interval=(0,1000), target=max, length=(50000,10000,10000), seed=100)
     #print(res)
