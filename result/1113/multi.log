@@ -1,0 +1,164 @@
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 99.390000 %
+     epoch 1, minibatch 5000/5000, test error of best model 99.160000 %
+epoch 2, minibatch 5000/5000, validation error 97.730000 %
+     epoch 2, minibatch 5000/5000, test error of best model 97.690000 %
+epoch 3, minibatch 5000/5000, validation error 97.600000 %
+     epoch 3, minibatch 5000/5000, test error of best model 97.750000 %
+epoch 4, minibatch 5000/5000, validation error 97.170000 %
+     epoch 4, minibatch 5000/5000, test error of best model 96.720000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 105) Best validation score of 97.170000 % obtained at iteration 20000, with test performance 96.720000 %
+The code for file btdv-multi-sin.py ran for 5.49m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 99.070000 %
+     epoch 1, minibatch 5000/5000, test error of best model 99.110000 %
+epoch 2, minibatch 5000/5000, validation error 98.150000 %
+     epoch 2, minibatch 5000/5000, test error of best model 98.280000 %
+epoch 3, minibatch 5000/5000, validation error 98.770000 %
+epoch 4, minibatch 5000/5000, validation error 97.910000 %
+     epoch 4, minibatch 5000/5000, test error of best model 97.990000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 106) Best validation score of 97.910000 % obtained at iteration 20000, with test performance 97.990000 %
+The code for file btdv-multi-sin.py ran for 5.43m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 99.240000 %
+     epoch 1, minibatch 5000/5000, test error of best model 99.430000 %
+epoch 2, minibatch 5000/5000, validation error 97.070000 %
+     epoch 2, minibatch 5000/5000, test error of best model 97.620000 %
+epoch 3, minibatch 5000/5000, validation error 96.600000 %
+     epoch 3, minibatch 5000/5000, test error of best model 96.200000 %
+epoch 4, minibatch 5000/5000, validation error 96.470000 %
+     epoch 4, minibatch 5000/5000, test error of best model 96.170000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 107) Best validation score of 96.470000 % obtained at iteration 20000, with test performance 96.170000 %
+The code for file btdv-multi-sin.py ran for 5.51m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 98.300000 %
+     epoch 1, minibatch 5000/5000, test error of best model 98.220000 %
+epoch 2, minibatch 5000/5000, validation error 98.390000 %
+epoch 3, minibatch 5000/5000, validation error 98.330000 %
+epoch 4, minibatch 5000/5000, validation error 97.740000 %
+     epoch 4, minibatch 5000/5000, test error of best model 97.840000 %
+epoch 5, minibatch 5000/5000, validation error 97.770000 %
+epoch 6, minibatch 5000/5000, validation error 97.460000 %
+     epoch 6, minibatch 5000/5000, test error of best model 97.520000 %
+epoch 7, minibatch 5000/5000, validation error 97.080000 %
+     epoch 7, minibatch 5000/5000, test error of best model 97.600000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 108) Best validation score of 97.080000 % obtained at iteration 35000, with test performance 97.600000 %
+The code for file btdv-multi-sin.py ran for 10.65m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 97.750000 %
+     epoch 1, minibatch 5000/5000, test error of best model 97.760000 %
+epoch 2, minibatch 5000/5000, validation error 98.390000 %
+epoch 3, minibatch 5000/5000, validation error 97.950000 %
+epoch 4, minibatch 5000/5000, validation error 96.100000 %
+     epoch 4, minibatch 5000/5000, test error of best model 96.430000 %
+epoch 5, minibatch 5000/5000, validation error 95.440000 %
+     epoch 5, minibatch 5000/5000, test error of best model 95.260000 %
+epoch 6, minibatch 5000/5000, validation error 97.050000 %
+epoch 7, minibatch 5000/5000, validation error 97.400000 %
+epoch 8, minibatch 5000/5000, validation error 96.410000 %
+epoch 9, minibatch 5000/5000, validation error 96.340000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 109) Best validation score of 95.440000 % obtained at iteration 25000, with test performance 95.260000 %
+The code for file btdv-multi-sin.py ran for 13.16m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 98.600000 %
+     epoch 1, minibatch 5000/5000, test error of best model 98.590000 %
+epoch 2, minibatch 5000/5000, validation error 98.580000 %
+     epoch 2, minibatch 5000/5000, test error of best model 98.500000 %
+epoch 3, minibatch 5000/5000, validation error 98.070000 %
+     epoch 3, minibatch 5000/5000, test error of best model 98.180000 %
+epoch 4, minibatch 5000/5000, validation error 97.740000 %
+     epoch 4, minibatch 5000/5000, test error of best model 97.850000 %
+epoch 5, minibatch 5000/5000, validation error 95.300000 %
+     epoch 5, minibatch 5000/5000, test error of best model 95.640000 %
+epoch 6, minibatch 5000/5000, validation error 98.680000 %
+epoch 7, minibatch 5000/5000, validation error 96.350000 %
+epoch 8, minibatch 5000/5000, validation error 95.590000 %
+epoch 9, minibatch 5000/5000, validation error 95.870000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 110) Best validation score of 95.300000 % obtained at iteration 25000, with test performance 95.640000 %
+The code for file btdv-multi-sin.py ran for 13.31m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 98.310000 %
+     epoch 1, minibatch 5000/5000, test error of best model 98.340000 %
+epoch 2, minibatch 5000/5000, validation error 97.700000 %
+     epoch 2, minibatch 5000/5000, test error of best model 97.790000 %
+epoch 3, minibatch 5000/5000, validation error 97.420000 %
+     epoch 3, minibatch 5000/5000, test error of best model 97.540000 %
+epoch 4, minibatch 5000/5000, validation error 96.930000 %
+     epoch 4, minibatch 5000/5000, test error of best model 97.020000 %
+epoch 5, minibatch 5000/5000, validation error 96.060000 %
+     epoch 5, minibatch 5000/5000, test error of best model 96.240000 %
+epoch 6, minibatch 5000/5000, validation error 96.960000 %
+epoch 7, minibatch 5000/5000, validation error 97.130000 %
+epoch 8, minibatch 5000/5000, validation error 96.100000 %
+epoch 9, minibatch 5000/5000, validation error 96.760000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 111) Best validation score of 96.060000 % obtained at iteration 25000, with test performance 96.240000 %
+The code for file btdv-multi-sin.py ran for 13.32m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 99.040000 %
+     epoch 1, minibatch 5000/5000, test error of best model 98.870000 %
+epoch 2, minibatch 5000/5000, validation error 98.310000 %
+     epoch 2, minibatch 5000/5000, test error of best model 98.510000 %
+epoch 3, minibatch 5000/5000, validation error 97.100000 %
+     epoch 3, minibatch 5000/5000, test error of best model 97.590000 %
+epoch 4, minibatch 5000/5000, validation error 97.570000 %
+epoch 5, minibatch 5000/5000, validation error 96.970000 %
+     epoch 5, minibatch 5000/5000, test error of best model 96.780000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 112) Best validation score of 96.970000 % obtained at iteration 25000, with test performance 96.780000 %
+The code for file btdv-multi-sin.py ran for 8.03m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 98.760000 %
+     epoch 1, minibatch 5000/5000, test error of best model 98.890000 %
+epoch 2, minibatch 5000/5000, validation error 98.200000 %
+     epoch 2, minibatch 5000/5000, test error of best model 98.240000 %
+epoch 3, minibatch 5000/5000, validation error 98.390000 %
+epoch 4, minibatch 5000/5000, validation error 96.520000 %
+     epoch 4, minibatch 5000/5000, test error of best model 96.860000 %
+epoch 5, minibatch 5000/5000, validation error 97.610000 %
+epoch 6, minibatch 5000/5000, validation error 96.830000 %
+epoch 7, minibatch 5000/5000, validation error 96.880000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 113) Best validation score of 96.520000 % obtained at iteration 20000, with test performance 96.860000 %
+The code for file btdv-multi-sin.py ran for 10.59m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 98.040000 %
+     epoch 1, minibatch 5000/5000, test error of best model 97.850000 %
+epoch 2, minibatch 5000/5000, validation error 97.620000 %
+     epoch 2, minibatch 5000/5000, test error of best model 97.580000 %
+epoch 3, minibatch 5000/5000, validation error 97.270000 %
+     epoch 3, minibatch 5000/5000, test error of best model 97.200000 %
+epoch 4, minibatch 5000/5000, validation error 96.310000 %
+     epoch 4, minibatch 5000/5000, test error of best model 96.280000 %
+epoch 5, minibatch 5000/5000, validation error 96.800000 %
+epoch 6, minibatch 5000/5000, validation error 96.570000 %
+epoch 7, minibatch 5000/5000, validation error 97.810000 %
+[ 1.  4.  5.]
+Optimization complete. (with seed: 114) Best validation score of 96.310000 % obtained at iteration 20000, with test performance 96.280000 %
+The code for file btdv-multi-sin.py ran for 10.65m

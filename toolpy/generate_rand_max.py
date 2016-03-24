@@ -44,5 +44,5 @@ def generate_random_data(dim=5, interval=(0,1000), target=max, length=(50000,100
     return (train, valid, test)
 
 if __name__ == '__main__':
-    res = generate_random_data(dim=2, interval=(0,1000), target=max, length=(50000,10000,10000), seed=100)
+    res = generate_random_data(dim=4, interval=(0,100), target=max, length=(50000,10000,10000), seed=100)
     #print(res)

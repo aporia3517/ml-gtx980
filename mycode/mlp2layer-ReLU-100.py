@@ -247,7 +247,6 @@ class MLP(object):
             if idx+1 == len(hidden_layer_sizes)-1:
                 break
 
-
         # The logistic regression layer gets as input the hidden units
         # of the hidden layer
         self.logRegressionLayer = LogisticRegression(

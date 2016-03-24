@@ -1,0 +1,3007 @@
+Using gpu device 0: GeForce GTX 980
+The code for file btdv-tanh-15.py ran for 1.49m
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 75.706667 %
+     epoch 1, minibatch 5000/5000, test error of best model 75.860000 %
+epoch 2, minibatch 5000/5000, validation error 67.666667 %
+     epoch 2, minibatch 5000/5000, test error of best model 67.500000 %
+epoch 3, minibatch 5000/5000, validation error 65.246667 %
+     epoch 3, minibatch 5000/5000, test error of best model 65.350000 %
+epoch 4, minibatch 5000/5000, validation error 64.756667 %
+     epoch 4, minibatch 5000/5000, test error of best model 64.826667 %
+epoch 5, minibatch 5000/5000, validation error 69.463333 %
+epoch 6, minibatch 5000/5000, validation error 72.426667 %
+epoch 7, minibatch 5000/5000, validation error 68.063333 %
+[ 0.77392304  3.91683531  5.24128962]
+[ 1.  4.  5.]
+[[-0.11549455  0.04688359  1.00434816  0.47768083  0.35718483 -1.46487641
+   1.75461602 -1.52017045  0.17839153  1.27096426  0.64856076 -0.52325082
+  -0.02503659 -0.19783819 -0.3068603 ]
+ [ 0.01744878 -0.78326708  0.23292799  0.76209474 -0.32997468 -0.76966357
+  -6.67096138 -0.24565817 -0.81464994 -0.47535691 -0.33798388  1.4687258
+  -1.64885151 -0.71315193  0.04252791]
+ [ 0.28216454  0.93419218 -0.32631212  0.51069295  0.53125221  1.247962
+   4.09914541 -0.15434955  0.09505473 -0.14918357  1.09092247 -0.0759563
+   0.07358177  0.05694591  0.09271054]
+ [ 0.60280818 -1.00553846  0.22598551  0.91747427 -0.69740945  0.59447622
+  -5.55795574  0.05457136  0.12640186 -0.13739853 -0.38975927  0.63091534
+  -1.28428257 -0.33065563  0.76739812]
+ [-0.4729808   0.69191527 -0.44475958  0.56057382  1.1086024   2.0987916
+   4.7653327   0.03926135 -0.45184931  0.51971519 -0.13087416 -0.35349429
+   0.1031076   0.84063387  0.35247326]
+ [ 0.71593267  0.62733239  0.44255531  0.63610703 -0.09875132 -0.69597334
+   2.49143553  0.45620275 -0.28197926  0.51761824  0.17946689 -0.96162534
+  -0.06737149  0.35278723  0.00787271]
+ [ 0.19553114  0.04456302  0.0471164   0.49539     0.50519508  1.24515402
+   1.24066794  0.10276305  0.62376744  0.15868583  0.09499058 -0.35570091
+  -0.01865817  0.1240918   0.25999606]
+ [-0.57275009  0.14459932  0.18100901  0.42162248 -0.07890963  0.60208702
+   0.59823114  0.1059911  -0.28878474 -0.2470776   0.43412909 -0.01536144
+   0.09062283  0.23731416 -0.05933379]
+ [ 0.17472559  0.08847592 -0.08639045  0.09091926 -0.08975951 -1.17051017
+   0.03707062 -0.02088942 -0.15282735  0.02540547 -0.05871093  0.06029641
+   0.0752243   0.21976402 -0.33955789]
+ [ 0.23984873  0.0997778  -0.00799003 -0.07301576 -0.21380383 -0.02554122
+   0.03421649  0.00813756 -0.23493962 -0.03937931 -0.19254389  0.08831533
+   0.02793087 -0.05902391 -0.56399083]]
+[ 0.43728492  0.02620154 -0.04694629  0.60814828 -0.55206937 -0.44640556
+  0.55185056  0.14673918 -0.57317847 -0.1921391  -0.53275925  0.2279699
+  1.42972207  0.5095861  -0.40084526]
+[[  3.48205358e-01   1.08585799e+00   8.90667439e-01]
+ [  9.71447080e-02   1.72108567e+00   4.95144278e-02]
+ [  1.32232034e+00  -1.24701178e+00   3.82932454e-01]
+ [  1.17422688e+00   1.65218413e+00   1.23680270e+00]
+ [  5.89205980e-01   1.33599615e+00  -6.88447952e-01]
+ [  5.06578200e-03   5.13861001e-01   1.30789757e+00]
+ [  6.36487603e-01  -6.12635612e+00  -2.91887708e-02]
+ [ -2.31898189e+00  -4.50380594e-01  -4.34863150e-01]
+ [ -4.20167476e-01  -1.31747448e+00  -8.69524777e-01]
+ [  1.28245473e+00   1.03079128e+00   4.54831809e-01]
+ [  1.11674929e+00   1.38498223e+00  -3.49003971e-01]
+ [  9.73129392e-01  -1.14640152e+00   5.44010460e-01]
+ [ -2.13979769e+00   2.10431647e+00   4.99294013e-01]
+ [ -8.11557025e-02   1.19136822e+00   1.11407973e-01]
+ [ -4.32438970e-01  -3.40491235e-01  -1.26601720e+00]]
+[ 1.05588365  1.24782491  1.06167185]
+Optimization complete. (with seed: 105) Best validation score of 64.756667 % obtained at iteration 20000, with test performance 64.826667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 79.393333 %
+     epoch 1, minibatch 5000/5000, test error of best model 79.230000 %
+epoch 2, minibatch 5000/5000, validation error 70.476667 %
+     epoch 2, minibatch 5000/5000, test error of best model 70.260000 %
+epoch 3, minibatch 5000/5000, validation error 69.856667 %
+     epoch 3, minibatch 5000/5000, test error of best model 69.643333 %
+epoch 4, minibatch 5000/5000, validation error 72.333333 %
+epoch 5, minibatch 5000/5000, validation error 68.580000 %
+     epoch 5, minibatch 5000/5000, test error of best model 69.306667 %
+epoch 6, minibatch 5000/5000, validation error 62.410000 %
+     epoch 6, minibatch 5000/5000, test error of best model 62.736667 %
+epoch 7, minibatch 5000/5000, validation error 59.843333 %
+     epoch 7, minibatch 5000/5000, test error of best model 59.876667 %
+epoch 8, minibatch 5000/5000, validation error 57.126667 %
+     epoch 8, minibatch 5000/5000, test error of best model 57.346667 %
+epoch 9, minibatch 5000/5000, validation error 54.920000 %
+     epoch 9, minibatch 5000/5000, test error of best model 55.163333 %
+epoch 10, minibatch 5000/5000, validation error 54.383333 %
+     epoch 10, minibatch 5000/5000, test error of best model 54.906667 %
+epoch 11, minibatch 5000/5000, validation error 52.923333 %
+     epoch 11, minibatch 5000/5000, test error of best model 53.576667 %
+epoch 12, minibatch 5000/5000, validation error 51.483333 %
+     epoch 12, minibatch 5000/5000, test error of best model 52.140000 %
+epoch 13, minibatch 5000/5000, validation error 51.053333 %
+     epoch 13, minibatch 5000/5000, test error of best model 51.570000 %
+epoch 14, minibatch 5000/5000, validation error 48.576667 %
+     epoch 14, minibatch 5000/5000, test error of best model 48.926667 %
+epoch 15, minibatch 5000/5000, validation error 46.603333 %
+     epoch 15, minibatch 5000/5000, test error of best model 46.766667 %
+epoch 16, minibatch 5000/5000, validation error 44.890000 %
+     epoch 16, minibatch 5000/5000, test error of best model 44.856667 %
+epoch 17, minibatch 5000/5000, validation error 44.046667 %
+     epoch 17, minibatch 5000/5000, test error of best model 44.050000 %
+epoch 18, minibatch 5000/5000, validation error 42.746667 %
+     epoch 18, minibatch 5000/5000, test error of best model 42.766667 %
+epoch 19, minibatch 5000/5000, validation error 41.040000 %
+     epoch 19, minibatch 5000/5000, test error of best model 41.133333 %
+epoch 20, minibatch 5000/5000, validation error 40.563333 %
+     epoch 20, minibatch 5000/5000, test error of best model 40.720000 %
+epoch 21, minibatch 5000/5000, validation error 39.276667 %
+     epoch 21, minibatch 5000/5000, test error of best model 39.410000 %
+epoch 22, minibatch 5000/5000, validation error 37.753333 %
+     epoch 22, minibatch 5000/5000, test error of best model 37.813333 %
+epoch 23, minibatch 5000/5000, validation error 37.300000 %
+     epoch 23, minibatch 5000/5000, test error of best model 37.443333 %
+epoch 24, minibatch 5000/5000, validation error 37.543333 %
+epoch 25, minibatch 5000/5000, validation error 37.140000 %
+     epoch 25, minibatch 5000/5000, test error of best model 37.220000 %
+epoch 26, minibatch 5000/5000, validation error 36.273333 %
+     epoch 26, minibatch 5000/5000, test error of best model 36.363333 %
+epoch 27, minibatch 5000/5000, validation error 36.123333 %
+     epoch 27, minibatch 5000/5000, test error of best model 36.160000 %
+epoch 28, minibatch 5000/5000, validation error 35.206667 %
+     epoch 28, minibatch 5000/5000, test error of best model 35.220000 %
+epoch 29, minibatch 5000/5000, validation error 34.806667 %
+     epoch 29, minibatch 5000/5000, test error of best model 34.806667 %
+epoch 30, minibatch 5000/5000, validation error 33.953333 %
+     epoch 30, minibatch 5000/5000, test error of best model 33.916667 %
+epoch 31, minibatch 5000/5000, validation error 33.340000 %
+     epoch 31, minibatch 5000/5000, test error of best model 33.336667 %
+epoch 32, minibatch 5000/5000, validation error 32.423333 %
+     epoch 32, minibatch 5000/5000, test error of best model 32.350000 %
+epoch 33, minibatch 5000/5000, validation error 31.730000 %
+     epoch 33, minibatch 5000/5000, test error of best model 31.650000 %
+epoch 34, minibatch 5000/5000, validation error 31.170000 %
+     epoch 34, minibatch 5000/5000, test error of best model 31.230000 %
+epoch 35, minibatch 5000/5000, validation error 31.023333 %
+     epoch 35, minibatch 5000/5000, test error of best model 31.073333 %
+epoch 36, minibatch 5000/5000, validation error 30.793333 %
+     epoch 36, minibatch 5000/5000, test error of best model 30.870000 %
+epoch 37, minibatch 5000/5000, validation error 30.640000 %
+     epoch 37, minibatch 5000/5000, test error of best model 30.650000 %
+epoch 38, minibatch 5000/5000, validation error 30.276667 %
+     epoch 38, minibatch 5000/5000, test error of best model 30.370000 %
+epoch 39, minibatch 5000/5000, validation error 30.110000 %
+     epoch 39, minibatch 5000/5000, test error of best model 30.130000 %
+epoch 40, minibatch 5000/5000, validation error 29.713333 %
+     epoch 40, minibatch 5000/5000, test error of best model 29.843333 %
+epoch 41, minibatch 5000/5000, validation error 29.403333 %
+     epoch 41, minibatch 5000/5000, test error of best model 29.383333 %
+epoch 42, minibatch 5000/5000, validation error 29.153333 %
+     epoch 42, minibatch 5000/5000, test error of best model 29.183333 %
+epoch 43, minibatch 5000/5000, validation error 28.773333 %
+     epoch 43, minibatch 5000/5000, test error of best model 28.820000 %
+epoch 44, minibatch 5000/5000, validation error 28.703333 %
+     epoch 44, minibatch 5000/5000, test error of best model 28.656667 %
+epoch 45, minibatch 5000/5000, validation error 28.790000 %
+epoch 46, minibatch 5000/5000, validation error 28.710000 %
+epoch 47, minibatch 5000/5000, validation error 28.800000 %
+epoch 48, minibatch 5000/5000, validation error 28.720000 %
+epoch 49, minibatch 5000/5000, validation error 28.830000 %
+epoch 50, minibatch 5000/5000, validation error 28.846667 %
+epoch 51, minibatch 5000/5000, validation error 28.800000 %
+epoch 52, minibatch 5000/5000, validation error 28.580000 %
+     epoch 52, minibatch 5000/5000, test error of best model 28.703333 %
+epoch 53, minibatch 5000/5000, validation error 28.593333 %
+epoch 54, minibatch 5000/5000, validation error 28.373333 %
+     epoch 54, minibatch 5000/5000, test error of best model 28.596667 %
+epoch 55, minibatch 5000/5000, validation error 28.193333 %
+     epoch 55, minibatch 5000/5000, test error of best model 28.403333 %
+epoch 56, minibatch 5000/5000, validation error 28.100000 %
+     epoch 56, minibatch 5000/5000, test error of best model 28.286667 %
+epoch 57, minibatch 5000/5000, validation error 28.000000 %
+     epoch 57, minibatch 5000/5000, test error of best model 28.216667 %
+epoch 58, minibatch 5000/5000, validation error 27.980000 %
+     epoch 58, minibatch 5000/5000, test error of best model 28.190000 %
+epoch 59, minibatch 5000/5000, validation error 27.743333 %
+     epoch 59, minibatch 5000/5000, test error of best model 27.986667 %
+epoch 60, minibatch 5000/5000, validation error 27.623333 %
+     epoch 60, minibatch 5000/5000, test error of best model 27.893333 %
+epoch 61, minibatch 5000/5000, validation error 27.620000 %
+     epoch 61, minibatch 5000/5000, test error of best model 27.996667 %
+epoch 62, minibatch 5000/5000, validation error 27.603333 %
+     epoch 62, minibatch 5000/5000, test error of best model 28.066667 %
+epoch 63, minibatch 5000/5000, validation error 27.720000 %
+epoch 64, minibatch 5000/5000, validation error 27.646667 %
+epoch 65, minibatch 5000/5000, validation error 27.406667 %
+     epoch 65, minibatch 5000/5000, test error of best model 27.843333 %
+epoch 66, minibatch 5000/5000, validation error 27.326667 %
+     epoch 66, minibatch 5000/5000, test error of best model 27.730000 %
+epoch 67, minibatch 5000/5000, validation error 27.120000 %
+     epoch 67, minibatch 5000/5000, test error of best model 27.566667 %
+epoch 68, minibatch 5000/5000, validation error 27.123333 %
+epoch 69, minibatch 5000/5000, validation error 27.086667 %
+     epoch 69, minibatch 5000/5000, test error of best model 27.506667 %
+epoch 70, minibatch 5000/5000, validation error 27.290000 %
+epoch 71, minibatch 5000/5000, validation error 27.216667 %
+epoch 72, minibatch 5000/5000, validation error 27.216667 %
+epoch 73, minibatch 5000/5000, validation error 27.256667 %
+epoch 74, minibatch 5000/5000, validation error 27.413333 %
+epoch 75, minibatch 5000/5000, validation error 27.486667 %
+epoch 76, minibatch 5000/5000, validation error 27.500000 %
+epoch 77, minibatch 5000/5000, validation error 27.450000 %
+epoch 78, minibatch 5000/5000, validation error 27.316667 %
+epoch 79, minibatch 5000/5000, validation error 27.260000 %
+epoch 80, minibatch 5000/5000, validation error 27.026667 %
+     epoch 80, minibatch 5000/5000, test error of best model 27.180000 %
+epoch 81, minibatch 5000/5000, validation error 27.326667 %
+epoch 82, minibatch 5000/5000, validation error 27.143333 %
+epoch 83, minibatch 5000/5000, validation error 27.206667 %
+epoch 84, minibatch 5000/5000, validation error 27.366667 %
+epoch 85, minibatch 5000/5000, validation error 27.363333 %
+epoch 86, minibatch 5000/5000, validation error 27.293333 %
+epoch 87, minibatch 5000/5000, validation error 27.340000 %
+epoch 88, minibatch 5000/5000, validation error 27.233333 %
+epoch 89, minibatch 5000/5000, validation error 27.133333 %
+epoch 90, minibatch 5000/5000, validation error 26.943333 %
+     epoch 90, minibatch 5000/5000, test error of best model 26.983333 %
+epoch 91, minibatch 5000/5000, validation error 26.956667 %
+epoch 92, minibatch 5000/5000, validation error 27.010000 %
+epoch 93, minibatch 5000/5000, validation error 26.936667 %
+     epoch 93, minibatch 5000/5000, test error of best model 26.946667 %
+epoch 94, minibatch 5000/5000, validation error 26.870000 %
+     epoch 94, minibatch 5000/5000, test error of best model 26.916667 %
+epoch 95, minibatch 5000/5000, validation error 26.893333 %
+epoch 96, minibatch 5000/5000, validation error 26.806667 %
+     epoch 96, minibatch 5000/5000, test error of best model 26.983333 %
+epoch 97, minibatch 5000/5000, validation error 26.823333 %
+epoch 98, minibatch 5000/5000, validation error 26.783333 %
+     epoch 98, minibatch 5000/5000, test error of best model 26.976667 %
+epoch 99, minibatch 5000/5000, validation error 26.933333 %
+epoch 100, minibatch 5000/5000, validation error 26.863333 %
+epoch 101, minibatch 5000/5000, validation error 26.753333 %
+     epoch 101, minibatch 5000/5000, test error of best model 27.040000 %
+epoch 102, minibatch 5000/5000, validation error 26.716667 %
+     epoch 102, minibatch 5000/5000, test error of best model 27.006667 %
+epoch 103, minibatch 5000/5000, validation error 26.533333 %
+     epoch 103, minibatch 5000/5000, test error of best model 26.793333 %
+epoch 104, minibatch 5000/5000, validation error 26.610000 %
+epoch 105, minibatch 5000/5000, validation error 26.533333 %
+     epoch 105, minibatch 5000/5000, test error of best model 26.860000 %
+epoch 106, minibatch 5000/5000, validation error 26.603333 %
+epoch 107, minibatch 5000/5000, validation error 26.543333 %
+epoch 108, minibatch 5000/5000, validation error 26.780000 %
+epoch 109, minibatch 5000/5000, validation error 26.566667 %
+epoch 110, minibatch 5000/5000, validation error 26.480000 %
+     epoch 110, minibatch 5000/5000, test error of best model 26.646667 %
+epoch 111, minibatch 5000/5000, validation error 26.493333 %
+epoch 112, minibatch 5000/5000, validation error 26.700000 %
+epoch 113, minibatch 5000/5000, validation error 26.843333 %
+epoch 114, minibatch 5000/5000, validation error 26.930000 %
+epoch 115, minibatch 5000/5000, validation error 26.700000 %
+epoch 116, minibatch 5000/5000, validation error 26.603333 %
+epoch 117, minibatch 5000/5000, validation error 26.513333 %
+epoch 118, minibatch 5000/5000, validation error 26.280000 %
+     epoch 118, minibatch 5000/5000, test error of best model 26.370000 %
+epoch 119, minibatch 5000/5000, validation error 26.306667 %
+epoch 120, minibatch 5000/5000, validation error 26.283333 %
+epoch 121, minibatch 5000/5000, validation error 26.313333 %
+epoch 122, minibatch 5000/5000, validation error 26.183333 %
+     epoch 122, minibatch 5000/5000, test error of best model 26.340000 %
+epoch 123, minibatch 5000/5000, validation error 26.076667 %
+     epoch 123, minibatch 5000/5000, test error of best model 26.250000 %
+epoch 124, minibatch 5000/5000, validation error 26.123333 %
+epoch 125, minibatch 5000/5000, validation error 25.920000 %
+     epoch 125, minibatch 5000/5000, test error of best model 26.076667 %
+epoch 126, minibatch 5000/5000, validation error 25.823333 %
+     epoch 126, minibatch 5000/5000, test error of best model 25.990000 %
+epoch 127, minibatch 5000/5000, validation error 25.733333 %
+     epoch 127, minibatch 5000/5000, test error of best model 25.913333 %
+epoch 128, minibatch 5000/5000, validation error 25.623333 %
+     epoch 128, minibatch 5000/5000, test error of best model 25.773333 %
+epoch 129, minibatch 5000/5000, validation error 25.446667 %
+     epoch 129, minibatch 5000/5000, test error of best model 25.593333 %
+epoch 130, minibatch 5000/5000, validation error 25.600000 %
+epoch 131, minibatch 5000/5000, validation error 25.490000 %
+epoch 132, minibatch 5000/5000, validation error 25.400000 %
+     epoch 132, minibatch 5000/5000, test error of best model 25.443333 %
+epoch 133, minibatch 5000/5000, validation error 25.263333 %
+     epoch 133, minibatch 5000/5000, test error of best model 25.326667 %
+epoch 134, minibatch 5000/5000, validation error 25.203333 %
+     epoch 134, minibatch 5000/5000, test error of best model 25.246667 %
+epoch 135, minibatch 5000/5000, validation error 25.150000 %
+     epoch 135, minibatch 5000/5000, test error of best model 25.200000 %
+epoch 136, minibatch 5000/5000, validation error 25.193333 %
+epoch 137, minibatch 5000/5000, validation error 25.183333 %
+epoch 138, minibatch 5000/5000, validation error 25.083333 %
+     epoch 138, minibatch 5000/5000, test error of best model 25.116667 %
+epoch 139, minibatch 5000/5000, validation error 25.023333 %
+     epoch 139, minibatch 5000/5000, test error of best model 25.046667 %
+epoch 140, minibatch 5000/5000, validation error 25.023333 %
+epoch 141, minibatch 5000/5000, validation error 25.120000 %
+epoch 142, minibatch 5000/5000, validation error 24.973333 %
+     epoch 142, minibatch 5000/5000, test error of best model 25.000000 %
+epoch 143, minibatch 5000/5000, validation error 24.893333 %
+     epoch 143, minibatch 5000/5000, test error of best model 24.880000 %
+epoch 144, minibatch 5000/5000, validation error 24.756667 %
+     epoch 144, minibatch 5000/5000, test error of best model 24.716667 %
+epoch 145, minibatch 5000/5000, validation error 24.756667 %
+epoch 146, minibatch 5000/5000, validation error 24.620000 %
+     epoch 146, minibatch 5000/5000, test error of best model 24.573333 %
+epoch 147, minibatch 5000/5000, validation error 24.556667 %
+     epoch 147, minibatch 5000/5000, test error of best model 24.550000 %
+epoch 148, minibatch 5000/5000, validation error 24.390000 %
+     epoch 148, minibatch 5000/5000, test error of best model 24.396667 %
+epoch 149, minibatch 5000/5000, validation error 24.416667 %
+epoch 150, minibatch 5000/5000, validation error 24.270000 %
+     epoch 150, minibatch 5000/5000, test error of best model 24.230000 %
+epoch 151, minibatch 5000/5000, validation error 24.150000 %
+     epoch 151, minibatch 5000/5000, test error of best model 24.143333 %
+epoch 152, minibatch 5000/5000, validation error 24.173333 %
+epoch 153, minibatch 5000/5000, validation error 24.186667 %
+epoch 154, minibatch 5000/5000, validation error 24.163333 %
+epoch 155, minibatch 5000/5000, validation error 24.293333 %
+epoch 156, minibatch 5000/5000, validation error 24.373333 %
+epoch 157, minibatch 5000/5000, validation error 24.443333 %
+epoch 158, minibatch 5000/5000, validation error 24.350000 %
+epoch 159, minibatch 5000/5000, validation error 24.370000 %
+epoch 160, minibatch 5000/5000, validation error 24.306667 %
+epoch 161, minibatch 5000/5000, validation error 24.366667 %
+epoch 162, minibatch 5000/5000, validation error 24.293333 %
+epoch 163, minibatch 5000/5000, validation error 24.243333 %
+epoch 164, minibatch 5000/5000, validation error 24.313333 %
+epoch 165, minibatch 5000/5000, validation error 24.200000 %
+epoch 166, minibatch 5000/5000, validation error 24.173333 %
+epoch 167, minibatch 5000/5000, validation error 24.253333 %
+epoch 168, minibatch 5000/5000, validation error 24.216667 %
+epoch 169, minibatch 5000/5000, validation error 24.143333 %
+     epoch 169, minibatch 5000/5000, test error of best model 24.033333 %
+epoch 170, minibatch 5000/5000, validation error 24.213333 %
+epoch 171, minibatch 5000/5000, validation error 24.206667 %
+epoch 172, minibatch 5000/5000, validation error 24.026667 %
+     epoch 172, minibatch 5000/5000, test error of best model 23.916667 %
+epoch 173, minibatch 5000/5000, validation error 23.870000 %
+     epoch 173, minibatch 5000/5000, test error of best model 23.810000 %
+epoch 174, minibatch 5000/5000, validation error 23.996667 %
+epoch 175, minibatch 5000/5000, validation error 23.776667 %
+     epoch 175, minibatch 5000/5000, test error of best model 23.593333 %
+epoch 176, minibatch 5000/5000, validation error 23.746667 %
+     epoch 176, minibatch 5000/5000, test error of best model 23.463333 %
+epoch 177, minibatch 5000/5000, validation error 23.676667 %
+     epoch 177, minibatch 5000/5000, test error of best model 23.426667 %
+epoch 178, minibatch 5000/5000, validation error 23.606667 %
+     epoch 178, minibatch 5000/5000, test error of best model 23.443333 %
+epoch 179, minibatch 5000/5000, validation error 23.526667 %
+     epoch 179, minibatch 5000/5000, test error of best model 23.353333 %
+epoch 180, minibatch 5000/5000, validation error 23.506667 %
+     epoch 180, minibatch 5000/5000, test error of best model 23.330000 %
+epoch 181, minibatch 5000/5000, validation error 23.396667 %
+     epoch 181, minibatch 5000/5000, test error of best model 23.220000 %
+epoch 182, minibatch 5000/5000, validation error 23.223333 %
+     epoch 182, minibatch 5000/5000, test error of best model 23.070000 %
+epoch 183, minibatch 5000/5000, validation error 23.266667 %
+epoch 184, minibatch 5000/5000, validation error 23.266667 %
+epoch 185, minibatch 5000/5000, validation error 23.306667 %
+epoch 186, minibatch 5000/5000, validation error 23.286667 %
+epoch 187, minibatch 5000/5000, validation error 23.366667 %
+epoch 188, minibatch 5000/5000, validation error 23.306667 %
+epoch 189, minibatch 5000/5000, validation error 23.266667 %
+epoch 190, minibatch 5000/5000, validation error 23.176667 %
+     epoch 190, minibatch 5000/5000, test error of best model 22.983333 %
+epoch 191, minibatch 5000/5000, validation error 23.210000 %
+epoch 192, minibatch 5000/5000, validation error 23.153333 %
+     epoch 192, minibatch 5000/5000, test error of best model 22.983333 %
+epoch 193, minibatch 5000/5000, validation error 23.183333 %
+epoch 194, minibatch 5000/5000, validation error 23.136667 %
+     epoch 194, minibatch 5000/5000, test error of best model 23.050000 %
+epoch 195, minibatch 5000/5000, validation error 23.066667 %
+     epoch 195, minibatch 5000/5000, test error of best model 22.976667 %
+epoch 196, minibatch 5000/5000, validation error 23.060000 %
+     epoch 196, minibatch 5000/5000, test error of best model 22.996667 %
+epoch 197, minibatch 5000/5000, validation error 23.060000 %
+epoch 198, minibatch 5000/5000, validation error 23.033333 %
+     epoch 198, minibatch 5000/5000, test error of best model 22.980000 %
+epoch 199, minibatch 5000/5000, validation error 23.033333 %
+epoch 200, minibatch 5000/5000, validation error 22.976667 %
+     epoch 200, minibatch 5000/5000, test error of best model 22.823333 %
+epoch 201, minibatch 5000/5000, validation error 22.976667 %
+epoch 202, minibatch 5000/5000, validation error 22.933333 %
+     epoch 202, minibatch 5000/5000, test error of best model 22.783333 %
+epoch 203, minibatch 5000/5000, validation error 22.950000 %
+epoch 204, minibatch 5000/5000, validation error 22.950000 %
+epoch 205, minibatch 5000/5000, validation error 22.920000 %
+     epoch 205, minibatch 5000/5000, test error of best model 22.730000 %
+epoch 206, minibatch 5000/5000, validation error 22.920000 %
+epoch 207, minibatch 5000/5000, validation error 22.886667 %
+     epoch 207, minibatch 5000/5000, test error of best model 22.683333 %
+epoch 208, minibatch 5000/5000, validation error 22.856667 %
+     epoch 208, minibatch 5000/5000, test error of best model 22.653333 %
+epoch 209, minibatch 5000/5000, validation error 22.856667 %
+epoch 210, minibatch 5000/5000, validation error 22.810000 %
+     epoch 210, minibatch 5000/5000, test error of best model 22.583333 %
+epoch 211, minibatch 5000/5000, validation error 22.766667 %
+     epoch 211, minibatch 5000/5000, test error of best model 22.556667 %
+epoch 212, minibatch 5000/5000, validation error 22.716667 %
+     epoch 212, minibatch 5000/5000, test error of best model 22.500000 %
+epoch 213, minibatch 5000/5000, validation error 22.693333 %
+     epoch 213, minibatch 5000/5000, test error of best model 22.466667 %
+epoch 214, minibatch 5000/5000, validation error 22.693333 %
+epoch 215, minibatch 5000/5000, validation error 22.666667 %
+     epoch 215, minibatch 5000/5000, test error of best model 22.440000 %
+epoch 216, minibatch 5000/5000, validation error 22.603333 %
+     epoch 216, minibatch 5000/5000, test error of best model 22.386667 %
+epoch 217, minibatch 5000/5000, validation error 22.553333 %
+     epoch 217, minibatch 5000/5000, test error of best model 22.366667 %
+epoch 218, minibatch 5000/5000, validation error 22.553333 %
+epoch 219, minibatch 5000/5000, validation error 22.533333 %
+     epoch 219, minibatch 5000/5000, test error of best model 22.346667 %
+epoch 220, minibatch 5000/5000, validation error 22.533333 %
+epoch 221, minibatch 5000/5000, validation error 22.620000 %
+epoch 222, minibatch 5000/5000, validation error 22.696667 %
+epoch 223, minibatch 5000/5000, validation error 22.760000 %
+epoch 224, minibatch 5000/5000, validation error 22.820000 %
+epoch 225, minibatch 5000/5000, validation error 22.780000 %
+epoch 226, minibatch 5000/5000, validation error 22.780000 %
+epoch 227, minibatch 5000/5000, validation error 22.753333 %
+epoch 228, minibatch 5000/5000, validation error 22.753333 %
+epoch 229, minibatch 5000/5000, validation error 22.790000 %
+epoch 230, minibatch 5000/5000, validation error 22.683333 %
+epoch 231, minibatch 5000/5000, validation error 22.683333 %
+epoch 232, minibatch 5000/5000, validation error 22.723333 %
+epoch 233, minibatch 5000/5000, validation error 22.686667 %
+epoch 234, minibatch 5000/5000, validation error 22.686667 %
+epoch 235, minibatch 5000/5000, validation error 22.613333 %
+epoch 236, minibatch 5000/5000, validation error 22.640000 %
+epoch 237, minibatch 5000/5000, validation error 22.633333 %
+epoch 238, minibatch 5000/5000, validation error 22.660000 %
+epoch 239, minibatch 5000/5000, validation error 22.660000 %
+epoch 240, minibatch 5000/5000, validation error 22.686667 %
+epoch 241, minibatch 5000/5000, validation error 22.736667 %
+epoch 242, minibatch 5000/5000, validation error 22.733333 %
+epoch 243, minibatch 5000/5000, validation error 22.703333 %
+epoch 244, minibatch 5000/5000, validation error 22.703333 %
+epoch 245, minibatch 5000/5000, validation error 22.703333 %
+epoch 246, minibatch 5000/5000, validation error 22.736667 %
+epoch 247, minibatch 5000/5000, validation error 22.726667 %
+epoch 248, minibatch 5000/5000, validation error 22.726667 %
+epoch 249, minibatch 5000/5000, validation error 22.726667 %
+epoch 250, minibatch 5000/5000, validation error 22.826667 %
+epoch 251, minibatch 5000/5000, validation error 22.826667 %
+epoch 252, minibatch 5000/5000, validation error 22.826667 %
+epoch 253, minibatch 5000/5000, validation error 22.780000 %
+epoch 254, minibatch 5000/5000, validation error 22.780000 %
+epoch 255, minibatch 5000/5000, validation error 22.796667 %
+epoch 256, minibatch 5000/5000, validation error 22.796667 %
+epoch 257, minibatch 5000/5000, validation error 22.823333 %
+epoch 258, minibatch 5000/5000, validation error 22.773333 %
+epoch 259, minibatch 5000/5000, validation error 22.803333 %
+epoch 260, minibatch 5000/5000, validation error 22.873333 %
+epoch 261, minibatch 5000/5000, validation error 22.870000 %
+epoch 262, minibatch 5000/5000, validation error 22.870000 %
+epoch 263, minibatch 5000/5000, validation error 22.833333 %
+epoch 264, minibatch 5000/5000, validation error 22.826667 %
+epoch 265, minibatch 5000/5000, validation error 22.826667 %
+epoch 266, minibatch 5000/5000, validation error 22.826667 %
+epoch 267, minibatch 5000/5000, validation error 22.886667 %
+epoch 268, minibatch 5000/5000, validation error 22.846667 %
+epoch 269, minibatch 5000/5000, validation error 22.866667 %
+epoch 270, minibatch 5000/5000, validation error 22.863333 %
+epoch 271, minibatch 5000/5000, validation error 22.886667 %
+epoch 272, minibatch 5000/5000, validation error 22.833333 %
+epoch 273, minibatch 5000/5000, validation error 22.833333 %
+epoch 274, minibatch 5000/5000, validation error 22.793333 %
+epoch 275, minibatch 5000/5000, validation error 22.793333 %
+epoch 276, minibatch 5000/5000, validation error 22.740000 %
+epoch 277, minibatch 5000/5000, validation error 22.723333 %
+epoch 278, minibatch 5000/5000, validation error 22.666667 %
+epoch 279, minibatch 5000/5000, validation error 22.710000 %
+epoch 280, minibatch 5000/5000, validation error 22.710000 %
+epoch 281, minibatch 5000/5000, validation error 22.780000 %
+epoch 282, minibatch 5000/5000, validation error 22.816667 %
+epoch 283, minibatch 5000/5000, validation error 22.816667 %
+epoch 284, minibatch 5000/5000, validation error 22.796667 %
+epoch 285, minibatch 5000/5000, validation error 22.830000 %
+epoch 286, minibatch 5000/5000, validation error 22.813333 %
+epoch 287, minibatch 5000/5000, validation error 22.840000 %
+epoch 288, minibatch 5000/5000, validation error 22.873333 %
+epoch 289, minibatch 5000/5000, validation error 22.830000 %
+epoch 290, minibatch 5000/5000, validation error 22.830000 %
+epoch 291, minibatch 5000/5000, validation error 22.816667 %
+epoch 292, minibatch 5000/5000, validation error 22.753333 %
+epoch 293, minibatch 5000/5000, validation error 22.710000 %
+epoch 294, minibatch 5000/5000, validation error 22.710000 %
+epoch 295, minibatch 5000/5000, validation error 22.746667 %
+epoch 296, minibatch 5000/5000, validation error 22.780000 %
+epoch 297, minibatch 5000/5000, validation error 22.810000 %
+epoch 298, minibatch 5000/5000, validation error 22.773333 %
+epoch 299, minibatch 5000/5000, validation error 22.773333 %
+epoch 300, minibatch 5000/5000, validation error 22.773333 %
+epoch 301, minibatch 5000/5000, validation error 22.816667 %
+epoch 302, minibatch 5000/5000, validation error 22.816667 %
+epoch 303, minibatch 5000/5000, validation error 22.813333 %
+epoch 304, minibatch 5000/5000, validation error 22.813333 %
+epoch 305, minibatch 5000/5000, validation error 22.846667 %
+epoch 306, minibatch 5000/5000, validation error 22.846667 %
+epoch 307, minibatch 5000/5000, validation error 22.883333 %
+epoch 308, minibatch 5000/5000, validation error 22.863333 %
+epoch 309, minibatch 5000/5000, validation error 22.830000 %
+epoch 310, minibatch 5000/5000, validation error 22.830000 %
+epoch 311, minibatch 5000/5000, validation error 22.813333 %
+epoch 312, minibatch 5000/5000, validation error 22.886667 %
+epoch 313, minibatch 5000/5000, validation error 22.886667 %
+epoch 314, minibatch 5000/5000, validation error 22.886667 %
+epoch 315, minibatch 5000/5000, validation error 22.886667 %
+epoch 316, minibatch 5000/5000, validation error 22.886667 %
+epoch 317, minibatch 5000/5000, validation error 22.946667 %
+epoch 318, minibatch 5000/5000, validation error 22.986667 %
+epoch 319, minibatch 5000/5000, validation error 22.986667 %
+epoch 320, minibatch 5000/5000, validation error 22.986667 %
+epoch 321, minibatch 5000/5000, validation error 22.986667 %
+epoch 322, minibatch 5000/5000, validation error 23.013333 %
+epoch 323, minibatch 5000/5000, validation error 22.970000 %
+epoch 324, minibatch 5000/5000, validation error 23.033333 %
+epoch 325, minibatch 5000/5000, validation error 23.056667 %
+epoch 326, minibatch 5000/5000, validation error 23.093333 %
+epoch 327, minibatch 5000/5000, validation error 23.130000 %
+epoch 328, minibatch 5000/5000, validation error 23.166667 %
+epoch 329, minibatch 5000/5000, validation error 23.166667 %
+epoch 330, minibatch 5000/5000, validation error 23.166667 %
+epoch 331, minibatch 5000/5000, validation error 23.146667 %
+epoch 332, minibatch 5000/5000, validation error 23.133333 %
+epoch 333, minibatch 5000/5000, validation error 23.173333 %
+epoch 334, minibatch 5000/5000, validation error 23.140000 %
+epoch 335, minibatch 5000/5000, validation error 23.160000 %
+epoch 336, minibatch 5000/5000, validation error 23.133333 %
+epoch 337, minibatch 5000/5000, validation error 23.133333 %
+epoch 338, minibatch 5000/5000, validation error 23.133333 %
+epoch 339, minibatch 5000/5000, validation error 23.133333 %
+epoch 340, minibatch 5000/5000, validation error 23.133333 %
+epoch 341, minibatch 5000/5000, validation error 23.133333 %
+epoch 342, minibatch 5000/5000, validation error 23.093333 %
+epoch 343, minibatch 5000/5000, validation error 23.150000 %
+epoch 344, minibatch 5000/5000, validation error 23.120000 %
+epoch 345, minibatch 5000/5000, validation error 23.110000 %
+epoch 346, minibatch 5000/5000, validation error 23.110000 %
+epoch 347, minibatch 5000/5000, validation error 23.110000 %
+epoch 348, minibatch 5000/5000, validation error 23.110000 %
+epoch 349, minibatch 5000/5000, validation error 23.110000 %
+epoch 350, minibatch 5000/5000, validation error 23.110000 %
+epoch 351, minibatch 5000/5000, validation error 23.163333 %
+epoch 352, minibatch 5000/5000, validation error 23.163333 %
+epoch 353, minibatch 5000/5000, validation error 23.163333 %
+epoch 354, minibatch 5000/5000, validation error 23.163333 %
+epoch 355, minibatch 5000/5000, validation error 23.163333 %
+epoch 356, minibatch 5000/5000, validation error 23.163333 %
+epoch 357, minibatch 5000/5000, validation error 23.230000 %
+epoch 358, minibatch 5000/5000, validation error 23.230000 %
+epoch 359, minibatch 5000/5000, validation error 23.230000 %
+epoch 360, minibatch 5000/5000, validation error 23.230000 %
+epoch 361, minibatch 5000/5000, validation error 23.143333 %
+epoch 362, minibatch 5000/5000, validation error 23.143333 %
+epoch 363, minibatch 5000/5000, validation error 23.176667 %
+[ 1.08500648  4.00294161  4.60560608]
+[ 1.  4.  5.]
+[[ -1.95700133e+00   6.29364848e-01   1.61926818e+00   1.91381729e+00
+    1.70196152e+00   6.52870834e-01   2.26340961e+00   1.90987602e-01
+    3.85981470e-01   2.65518522e+00  -4.99365926e-01   1.38202596e+00
+    9.35074463e-02   3.57259059e+00   2.68234134e-01]
+ [ -8.52124952e-03  -1.20158160e+00   5.02210669e-02  -3.74809742e+00
+   -1.63851917e+00  -1.29656398e+00  -4.48700476e+00  -4.90180433e-01
+   -5.98738849e-01   2.57617161e-02   7.58485496e-01  -5.24634838e+00
+    2.36009431e+00  -1.33261480e+01   1.24338225e-01]
+ [ -6.03307307e-01  -6.52398229e-01   3.10256124e-01  -1.91620815e+00
+    1.77316463e+00  -7.07154095e-01  -2.30533314e+00   3.19376141e-01
+   -3.79812092e-01  -3.19811642e-01   4.94791359e-01   3.29865479e+00
+   -4.76493221e-03   8.41282082e+00  -2.10927820e+00]
+ [  1.91637618e-03   1.21270394e+00  -2.67593950e-01   3.75301480e+00
+    1.22051373e+01   1.24916673e+00   4.46060991e+00   3.20635939e+00
+    6.40096247e-01   2.79503942e-01  -8.36231589e-01  -4.36123610e+00
+    3.01384665e-02  -1.09671173e+01  -5.67600541e-02]
+ [ -8.98494944e-03   6.28539979e-01  -1.35475099e+00   1.91690016e+00
+    1.75667465e+00   6.72118664e-01   2.28752828e+00   3.57580364e-01
+    3.88802588e-01   1.31718421e+00  -5.03510475e-01   3.75406313e+00
+    1.95982173e-01   9.65227890e+00  -1.62871435e-01]
+ [ -1.54213924e-02  -1.26198912e+00  -8.52977693e-01  -3.84076786e+00
+    1.49240124e+00  -1.25258172e+00  -4.48507643e+00   1.72818691e-01
+   -7.20139980e-01   7.82634079e-01   9.31154609e-01   1.84955370e+00
+   -8.23413208e-02   4.86833048e+00   4.39657897e-01]
+ [ -2.78151222e-02  -6.13805711e-01  -2.38300622e-01  -1.91202271e+00
+    1.61375248e+00  -5.96184552e-01  -2.22392297e+00   1.59316793e-01
+   -3.75051200e-01   1.93139061e-01   4.98892814e-01   9.01638091e-01
+   -1.36697680e-01   2.38346887e+00  -1.93530157e-01]
+ [  1.77894514e-02   4.66359234e+00  -6.54266357e-01   1.35077553e+01
+    1.56701577e+00  -2.16569042e+00  -6.94747591e+00   1.31096944e-01
+    6.76495314e-01   2.09419578e-01  -7.94231355e-01   4.94260848e-01
+    1.74672484e-01   1.21177316e+00   5.14060259e-01]
+ [ -1.72083378e-02   4.29922909eThe code for file btdv-tanh-15.py ran for 66.79m
+-01   1.68397445e-02   1.80723977e+00
+    4.19745594e-03   4.02951986e-01   2.14641428e+00  -5.63695852e-04
+    4.56171244e-01  -1.85214560e-02  -5.96879423e-01   6.95147272e-03
+    5.28869554e-02   7.23449001e-03  -8.20132555e-05]
+ [ -1.67267863e-02   4.37973961e-02   7.13281110e-02   8.35002065e-02
+   -3.80752492e-03   3.24558169e-02   1.06606945e-01   4.95655183e-03
+    2.29520395e-01  -8.11542943e-02  -3.14380348e-01  -7.30920350e-03
+    1.98094547e-02   7.28637027e-03   1.88710913e-02]]
+[ 1.31155586 -2.9115541   0.20005509 -8.64973545 -9.43048859  0.52257776
+  1.21596324 -1.89450204  0.20704448 -2.10256505  2.30969715  0.35105196
+ -1.55143774  0.75679213  0.56928772]
+[[-3.43703461 -0.11872344 -0.01410433]
+ [ 0.07869453 -1.67876267  4.9002347 ]
+ [ 0.07413651 -2.29839516  0.1167019 ]
+ [ 0.02498552  0.69855613 -8.43597126]
+ [ 0.70785701 -6.80442715  0.00934955]
+ [ 0.05020441 -1.69120371  3.57914448]
+ [ 0.03343002  0.72498965 -7.39220238]
+ [-0.20497003  5.40744925  0.26511362]
+ [-0.27156609  1.16841483  5.23606873]
+ [-0.03148906  2.25392199 -0.17647161]
+ [ 0.14782567 -0.76869357 -3.88334012]
+ [-0.34570765  3.90972638  0.07737646]
+ [ 1.78656459 -2.23135018 -0.29705864]
+ [ 0.81668466 -8.4869833  -0.02311604]
+ [-0.02761132 -1.98879373 -0.02493209]]
+[ 4.66773129  4.16892385  3.53034401]
+Optimization complete. (with seed: 106) Best validation score of 22.533333 % obtained at iteration 1095000, with test performance 22.346667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 86.933333 %
+     epoch 1, minibatch 5000/5000, test error of best model 87.160000 %
+epoch 2, minibatch 5000/5000, validation error 68.890000 %
+     epoch 2, minibatch 5000/5000, test error of best model 68.780000 %
+epoch 3, minibatch 5000/5000, validation error 72.693333 %
+[ 1.36724901  2.473979    5.04740477]
+[ 1.  4.  5.]
+[[ -4.45453435e-01   8.66321743e-01   8.28306079e-01  -6.10869884e-01
+   -2.15708181e-01  -1.16295159e+00  -7.18095899e-03  -5.99950135e-01
+    1.07976921e-01   2.11419053e-02   3.35610509e-01   8.09612155e-01
+    1.19351912e+00  -1.25823677e+00   9.33622476e-03]
+ [ -2.47269177e+00  -2.37810659e+00  -1.61730096e-01  -4.57788557e-01
+    1.66293681e+00  -4.70524341e-01   5.38218737e-01  -1.04865260e-01
+    4.08209145e-01   7.88644910e-01  -5.96321151e-02   1.07253420e+00
+    5.70693493e-01   7.72684991e-01   7.23413825e-02]
+ [ -1.45399523e+00   1.92779481e+00   2.23091626e+00   3.37965965e-01
+    1.11803062e-01  -6.35529980e-02   4.11819100e-01   4.99196053e-02
+    5.89036822e-01   5.40487051e-01  -4.72095788e-01   7.31235921e-01
+    3.75710160e-01  -4.26937006e-02   9.18705225e-01]
+ [  2.75409269e+00  -2.02149177e+00   8.76172781e-01  -8.02040175e-02
+    4.07914966e-02  -7.76763447e-03   5.08323908e-01  -2.35041067e-01
+    5.55151761e-01  -5.11109412e-01  -1.01321816e+00   6.15110517e-01
+   -4.25808132e-02  -3.82169276e-01  -1.45830309e+00]
+ [ -2.17402697e+00   1.81328332e+00  -1.38232911e+00   6.48682341e-02
+    2.34910604e-02   1.70337021e-01   2.93493032e-01   8.59124213e-02
+    2.06389874e-01  -2.16714084e-01   8.91491363e-04   3.11993808e-01
+   -7.60187060e-02   8.33027661e-02  -1.79344535e+00]
+ [ -7.33740985e-01   1.18673778e+00   1.24929357e+00  -3.60453203e-02
+   -5.15026152e-01   4.60554302e-01   6.45591795e-01   1.52735144e-01
+    1.60316899e-01   1.38495028e-01  -2.35610276e-01   3.53837579e-01
+    8.99579883e-01  -7.27015361e-02   7.75173828e-02]
+ [ -4.14707154e-01   5.85861742e-01   6.06265306e-01   1.03060156e-01
+    1.40254602e-01   9.24225897e-02  -2.38347962e-01   1.95080638e-01
+    2.11153388e-01   5.93940020e-01  -3.61484706e-01   2.15732664e-01
+   -2.13498667e-01   6.57023638e-02  -2.37823308e-01]
+ [ -1.39651358e-01   2.80791581e-01   1.94155857e-01  -1.73496634e-01
+    1.87255368e-01  -5.54422922e-02   3.16584915e-01   2.81416237e-01
+    4.57710475e-01  -8.41743946e-02   1.33370608e-01  -4.28164937e-02
+   -5.59833683e-02   4.75221053e-02  -1.10962324e-01]
+ [ -4.30374453e-03  -1.84378643e-02  -8.04391876e-02  -1.48973539e-02
+   -2.99136974e-02  -2.16757618e-02   3.1The code for file btdv-tanh-15.py ran for 0.74m
+2142432e-01   4.19665761e-02
+    3.08786124e-01  -8.96418169e-02   6.82748109e-02  -5.55320866e-02
+   -5.03981076e-02  -7.15402886e-02  -1.83193926e-02]
+ [  2.59024054e-02   4.21041884e-02  -1.39934689e-01  -5.20310476e-02
+    1.60180524e-01   2.48834446e-01   2.40898449e-02  -6.42906666e-01
+    1.56574234e-01  -3.52714837e-01  -2.25079119e-01  -2.24804983e-01
+    3.23719084e-02   2.08315089e-01   5.37476987e-02]]
+[ 1.7561394  -0.30763853 -0.97707373  0.07162932 -0.44255301  0.31234226
+  0.64985496  0.15623854  0.83704299  0.14301537 -0.55998009 -1.60381556
+ -0.89001733  0.12929352 -0.59976351]
+[[-0.00514297 -3.98686361 -0.25027639]
+ [ 0.75789881 -3.26649475  0.39268777]
+ [-0.17326383  2.69679976  0.19498733]
+ [-0.95130324  0.1092117  -0.31499079]
+ [ 1.19944465 -1.60260832  0.61762369]
+ [-1.68760753 -0.34951463 -0.01298483]
+ [ 0.98950356  0.57243454  1.01507068]
+ [-0.97167313 -0.18810239 -0.80114365]
+ [ 0.54320234  0.81775224  1.10306048]
+ [ 0.53864634 -1.06639206 -0.47109622]
+ [-0.77623504 -1.1182313  -0.94054449]
+ [ 0.99567747 -1.82902193 -0.86174423]
+ [ 0.87105691 -1.33164799  0.06163676]
+ [-1.45035505 -1.35122764  0.11624797]
+ [-0.1094364  -1.84855425 -0.19031145]]
+[ 0.69284111  0.62740743  1.23500311]
+Optimization complete. (with seed: 107) Best validation score of 68.890000 % obtained at iteration 10000, with test performance 68.780000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 81.216667 %
+     epoch 1, minibatch 5000/5000, test error of best model 81.240000 %
+epoch 2, minibatch 5000/5000, validation error 70.366667 %
+     epoch 2, minibatch 5000/5000, test error of best model 70.486667 %
+epoch 3, minibatch 5000/5000, validation error 69.260000 %
+     epoch 3, minibatch 5000/5000, test error of best model 68.910000 %
+epoch 4, minibatch 5000/5000, validation error 67.323333 %
+     epoch 4, minibatch 5000/5000, test error of best model 66.950000 %
+epoch 5, minibatch 5000/5000, validation error 67.710000 %
+epoch 6, minibatch 5000/5000, validation error 72.100000 %
+epoch 7, minibatch 5000/5000, validation error 74.203333 %
+[ 0.98047161  3.46264625  5.3608799 ]
+[ 1.  4.  5.]
+[[  2.61254162e-01  -1.95540637e-01  -4.61543441e-01  -1.28598619e+00
+   -5.25336862e-01   8.00782323e-01   1.93193510e-01  -2.97984555e-02
+    5.63470244e-01  -7.63269067e-01   8.65464881e-02   9.35813665e-01
+    3.61942291e-01   6.28535390e-01  -1.58446753e+00]
+ [ -1.05753355e-02   1.14072347e+00  -1.28850624e-01   4.54803658e+00
+    3.47214639e-01  -1.68983057e-01  -5.10832965e-01   5.66452622e-01
+   -4.28549737e-01  -1.77207425e-01   1.17095165e-01   2.03787446e+00
+    9.18803930e-01   9.92533982e-01  -3.99545103e-01]
+ [ -1.55748045e+00   3.98472756e-01  -1.38295937e+00  -3.23251867e+00
+   -2.02232838e-01   2.01389623e+00  -3.69653970e-01   3.30713481e-01
+   -1.46686751e-02  -5.17793417e-01   9.99939293e-02   9.26951587e-01
+   -1.61810800e-01  -7.84576654e-01  -1.40897572e-01]
+ [  7.42026865e-01   1.26515937e+00   1.31429231e+00   3.68111205e+00
+   -6.99712694e-01   1.09936967e-01   4.37482655e-01   1.49884567e-01
+   -3.39127779e-02  -4.39140536e-02   2.32289149e-03   1.77980936e+00
+    3.04311931e-01  -3.74190331e-01   1.75725162e-01]
+ [  2.33437562e+00   9.38452303e-01  -2.32477045e+00  -3.66230583e+00
+   -7.13988662e-01  -1.56527448e+00  -8.82449746e-01   7.57084265e-02
+    3.00196707e-01  -7.89137632e-02  -2.93960780e-01   1.05674827e+00
+   -2.47608602e-01  -1.33957160e+00   1.15765579e-01]
+ [  3.23515683e-01   4.56151396e-01  -5.39984882e-01  -1.92628694e+00
+    3.90585482e-01   1.28961372e+00  -5.57441175e-01  -3.97199579e-02
+    2.49185726e-01  -2.69219518e-01   5.78518994e-02   5.01767159e-01
+   -2.32278138e-01  -4.85999510e-02   2.40710661e-01]
+ [  3.39145809e-01   6.08495437e-02  -3.20570350e-01  -9.55943704e-01
+   -6.32861674e-01   7.55844474e-01   7.32783794e-01   2.83387750e-01
+    1.34594366e-01  -1.71291158e-01  -1.15900189e-01   4.14250463e-01
+   -7.14742765e-02  -2.71696150e-01   1.37330204e-01]
+ [  3.91776085e-01  -2.67761052e-01   4.43475284e-02  -4.52440947e-01
+   -2.The code for file btdv-tanh-15.py ran for 1.48m
+79801432e-02   3.08524638e-01  -3.73367339e-01   2.20078766e-01
+   -2.46080354e-01   8.46836567e-02  -5.10389991e-02   2.30400339e-01
+    1.26325250e-01  -2.36015975e-01   4.45196331e-02]
+ [ -2.66231038e-02  -1.29038244e-01  -6.59963563e-02  -1.19173769e-02
+   -1.00015827e-01   5.18206395e-02  -1.01464882e-01   4.37113613e-01
+    6.21317178e-02  -3.05763148e-02  -1.05081543e-01  -2.39069499e-02
+   -1.62061144e-04  -7.39251822e-02   1.06676100e-02]
+ [  4.39104661e-02  -8.72842669e-02  -1.47476820e-02  -4.85438816e-02
+   -1.41004138e-02   2.02734768e-02  -1.61748901e-01   4.40363079e-01
+    2.69124180e-01   6.37336016e-01   7.47565091e-01  -6.01024888e-02
+    6.74538985e-02  -6.27413206e-03   2.29726695e-02]]
+[ 0.52273452  0.15312588  1.07946682  0.205763   -0.40537053 -0.81613946
+ -0.39047068  0.82258099  0.77433926  0.5903964   0.18105848 -3.41338086
+ -0.27467346  0.34249711  0.63952613]
+[[-0.03525125  1.50017989  0.10041945]
+ [ 0.17632467  0.97232729  0.60890841]
+ [-0.05662223 -2.34088039 -0.06848311]
+ [-0.29467204  4.39921761 -0.16355899]
+ [-0.50942892 -1.08513975 -0.07157471]
+ [ 0.05177949  2.2006588   0.14564683]
+ [-0.37993085 -1.21753824 -0.24833722]
+ [ 1.20909417  0.18168722  1.34405327]
+ [ 0.97856921  0.23773502  0.81239891]
+ [-1.22344124 -0.45963782  0.76374793]
+ [ 0.73847389  0.14925788  0.50577307]
+ [ 0.79013807 -2.85781288 -0.26850292]
+ [ 1.44172001 -0.1055157   0.59693491]
+ [ 0.16923453 -1.87539375 -0.21361259]
+ [-2.52994394 -1.10466909 -0.23816407]]
+[ 0.91959828 -0.0461612   1.31916821]
+Optimization complete. (with seed: 108) Best validation score of 67.323333 % obtained at iteration 20000, with test performance 66.950000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 76.090000 %
+     epoch 1, minibatch 5000/5000, test error of best model 76.006667 %
+epoch 2, minibatch 5000/5000, validation error 69.283333 %
+     epoch 2, minibatch 5000/5000, test error of best model 69.316667 %
+epoch 3, minibatch 5000/5000, validation error 66.660000 %
+     epoch 3, minibatch 5000/5000, test error of best model 66.756667 %
+epoch 4, minibatch 5000/5000, validation error 67.233333 %
+epoch 5, minibatch 5000/5000, validation error 68.870000 %
+[ 0.73305452  4.38417912  4.26061821]
+[ 1.  4.  5.]
+[[  2.48024389e-01   7.72671163e-01   5.93904853e-01  -9.00837839e-01
+    9.03118014e-01   2.99449079e-02   2.75666863e-01   6.84673011e-01
+    1.55148566e+00  -3.71887051e-02  -2.01692730e-01   1.52780041e-01
+    5.06753922e-01   1.05604959e+00   3.73249322e-01]
+ [  1.13690197e+00  -1.58048332e-01   1.56009316e-01  -7.03632176e-01
+   -1.84671259e+00   3.48019272e-01  -3.40226144e-01   2.16886789e-01
+   -5.65613985e+00   7.51570582e-01   1.03024375e+00   7.62686670e-01
+   -5.89903705e-02   8.13004792e-01   6.38932347e-01]
+ [ -3.94027263e-01   4.96658891e-01   7.42075801e-01   5.67188740e-01
+    5.53849697e-01  -7.94387281e-01  -3.04702312e-01   1.44151464e-01
+    3.54136634e+00  -4.54800546e-01  -4.73921262e-02   5.47802925e-01
+    1.00928977e-01   3.94625068e-01   2.67587721e-01]
+ [  5.22156775e-01   2.30454981e-01  -1.71113431e+00  -2.07535923e-01
+   -5.61197042e-01   2.02439725e-01  -7.11289704e-01   4.51027721e-01
+   -4.69598818e+00  -4.99013782e-01   4.64672089e-01   7.60159016e-01
+   -6.98360026e-01  -8.47376734e-02  -3.45556587e-02]
+ [ -5.44776678e-01   4.95720059e-02   8.36048722e-01   1.98613092e-01
+    5.59503198e-01   1.82152972e-01   9.76559222e-01  -7.85490945e-02
+    4.11365128e+00  -7.63357699e-01   4.89394516e-01   2.36134022e-01
+   -8.60115066e-02   1.38914138e-01   2.35512387e-02]
+ [ -3.48257750e-01  -1.06511146e-01   2.93447644e-01  -3.45340937e-01
+    8.17625880e-01  -4.76274610e-01  -2.87853122e-01   4.20404365e-03
+    2.19777060e+00  -4.08681422e-01   9.66749310e-01   1.85254529e-01
+   -2.43277267e-01   6.45874292e-02  -3.56531620e-01]
+ [ -5.75335436e-02   1.54609261e-02   3.02919477e-01  -8.67157727e-02
+    2.55419791e-01   4.83517461e-02  -3.67217094e-01  -1.53438315e-01
+    1.11537015e+00  -8.16031456e-01  -2.14721054e-01   2.95603186e-01
+    8.32154229e-03   The code for file btdv-tanh-15.py ran for 1.11m
+7.24576935e-02  -1.35971338e-01]
+ [ -2.29770988e-01  -4.15494181e-02   6.71343282e-02  -5.64410269e-01
+    1.39443234e-01   1.72623582e-02   4.84136879e-01  -2.25064591e-01
+    5.14576375e-01  -6.54717907e-02   6.25877917e-01   2.32473686e-01
+    2.69929737e-01  -1.88064128e-01   8.19999576e-02]
+ [ -6.24686852e-02   5.22004329e-02   3.18582878e-02  -2.24854946e-02
+    2.05792561e-02  -1.89808607e-01   8.25238824e-02  -6.40189722e-02
+    1.04523422e-02   8.07945132e-02   1.08099639e-01  -3.62408124e-02
+    3.87686417e-02  -2.67069377e-02   1.25281292e-03]
+ [  1.81014001e-01  -2.97482252e-01  -4.40063588e-02   6.90269768e-02
+    4.54073213e-02  -2.27212012e-01   1.95154890e-01   2.40359008e-01
+    2.57983170e-02   9.76989567e-02  -3.81769575e-02   5.30240178e-01
+    6.71766996e-01  -3.24967951e-02  -4.91386443e-01]]
+[-0.42058477 -0.26901335 -0.48506114  0.76479065 -0.38227579 -0.62096727
+  0.60886848 -0.33209553  0.30970863  0.05521159  0.67231953  0.57451087
+  0.36753702 -1.04921162 -0.29120675]
+[[  1.47267604e+00  -1.44417500e+00   6.89666212e-01]
+ [  1.60163081e+00   7.46896863e-01  -1.30273283e-01]
+ [ -3.90462838e-02   2.48114276e+00  -2.64971014e-02]
+ [ -1.24155104e+00   1.24798906e+00   2.67570943e-01]
+ [  7.11596236e-02   2.39370179e+00  -7.46990740e-02]
+ [ -6.38530672e-01  -1.16080630e+00  -6.76124573e-01]
+ [  4.08301592e-01   1.08828616e+00   6.22125447e-01]
+ [  1.27763402e+00  -5.92648946e-02   3.81046057e-01]
+ [  7.11883128e-01  -6.08509874e+00   4.53880914e-02]
+ [ -3.70942980e-01  -1.44349062e+00  -2.23739445e-01]
+ [  8.27927649e-01   1.19063878e+00   1.23930860e+00]
+ [  1.03231990e+00   1.11293232e+00   1.07101464e+00]
+ [  3.48474085e-01   9.06273052e-02   6.80438995e-01]
+ [  2.07323956e+00  -3.53693939e-03  -1.86598867e-01]
+ [  5.91699481e-01  -1.60904959e-01  -4.62478727e-01]]
+[ 1.08038425  0.95577705  1.1185919 ]
+Optimization complete. (with seed: 109) Best validation score of 66.660000 % obtained at iteration 15000, with test performance 66.756667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 79.936667 %
+     epoch 1, minibatch 5000/5000, test error of best model 79.870000 %
+epoch 2, minibatch 5000/5000, validation error 70.086667 %
+     epoch 2, minibatch 5000/5000, test error of best model 69.446667 %
+epoch 3, minibatch 5000/5000, validation error 71.423333 %
+[ 0.93742132  3.50355053  4.91635513]
+[ 1.  4.  5.]
+[[-1.12992787  0.56664437 -0.55046433 -0.40381259 -0.70200169  0.71307182
+   0.90143746  0.52335101  0.05014538 -0.85982263 -0.52451658 -0.5111807
+  -0.27977735 -1.35119653 -0.79453987]
+ [-0.82616889  0.22338937 -1.46434426 -0.63767827  1.81912363 -1.04190588
+  -0.46609217 -0.01791362 -0.22703844  0.98502207 -2.26385999 -0.77655745
+   0.42480728 -0.23115656 -0.33445442]
+ [-0.41706398  0.30903861 -0.37037924 -0.08498066 -1.56458223  0.46203676
+  -1.40165973  1.48023319 -0.72306949 -1.05301237 -1.73499799  0.48411477
+   0.43487275  0.18093508 -0.47143292]
+ [-0.29690459  0.49832225 -0.75778466  0.08154952  1.8318572   0.00385056
+   0.84190756  1.17795575  1.27011764  1.04897654  2.54503393  0.31706738
+  -0.08297214  0.03469512 -0.01234566]
+ [-0.00501383  0.46011612 -0.3461574   0.06533428 -1.5576973  -0.09457831
+  -1.16398072 -1.24220097  1.68803692 -1.09801459 -2.26117444  0.5158484
+   0.39244843 -0.07309816  0.00506823]
+ [-0.85820049 -0.16969132 -0.22251149  0.20380595 -1.20087862 -0.15762253
+   1.3928138   0.98221689  0.16203073 -0.84963596 -0.6871686  -0.17422323
+   0.33887047  0.15541522  0.47330907]
+ [ 0.10399545  0.1800268  -0.38462296 -0.01660719 -0.67574602  0.21139859
+   0.53993094  0.28552413  0.16252086 -0.38355023 -0.26105922 -0.0085407
+  -0.2407411   0.34773475 -0.09036291]
+ [ 0.16042858  0.21791008 -0.18063936 -0.15043996 -0.24898216 -0.08085229
+   0.17850357 -0.01316794  0.11044309 -0.06365347 -0.12466018  0.04490243
+   0.22134386 -0.05309638  0.03044858]
+ [ 0.01613565  0.00899927  0.06987083 -0.24274734  0.02529269  0.07006752
+  -0.12726016 -0.07624032  0.00432121  0.07876671 -0.02108488  0.04429435
+   0.36775509  0.03965425 -0.0The code for file btdv-tanh-15.py ran for 0.74m
+0549129]
+ [ 0.30501169  0.24676986 -0.01872393 -0.27551839  0.07900369  0.00577036
+  -0.04418771 -0.04025499  0.04170703 -0.10590564 -0.02558224 -0.39297944
+  -0.02677797 -0.16649853  0.48495251]]
+[ 1.10768247  0.80409616  1.89957952 -0.81419247  0.4277969   0.42075965
+ -1.34797347 -0.41967842  0.21447414  0.45137832  1.87921476  0.42153761
+  0.15727322  0.28613573  0.31825179]
+[[-1.06380939  1.17171788  0.62297279]
+ [ 1.08177114  0.835504    1.20733106]
+ [-1.37661099  2.11436772 -0.03948712]
+ [-1.05894148 -0.59638584 -1.05969071]
+ [ 0.36327463  2.59766173  0.40997678]
+ [ 0.89343262  1.79000998  0.14129251]
+ [-0.37784886  2.08266497 -0.45955759]
+ [ 0.06460828  2.19621515  0.43930832]
+ [ 0.18075264  1.99838042  0.38296202]
+ [-1.03420627  1.30804753 -0.71455944]
+ [ 0.32167867 -4.44557142 -0.03622657]
+ [-1.22610438  0.93189865 -0.60910469]
+ [ 0.30783525  0.29024869  0.10866556]
+ [-1.60861754 -0.34039009 -0.42634931]
+ [-1.42677283 -0.13125093  0.77274823]]
+[ 1.03867388  0.98916143  1.55659008]
+Optimization complete. (with seed: 110) Best validation score of 70.086667 % obtained at iteration 10000, with test performance 69.446667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 67.476667 %
+     epoch 1, minibatch 5000/5000, test error of best model 67.830000 %
+epoch 2, minibatch 5000/5000, validation error 72.370000 %
+[ 1.35534358  3.65397644  5.45256329]
+[ 1.  4.  5.]
+[[  4.66662794e-01  -2.82645047e-01   3.03128570e-01  -3.86676133e-01
+    1.15155168e-01  -1.14697409e+00  -9.17468846e-01   1.70787364e-01
+    3.94304335e-01  -6.82407618e-02   1.04922652e+00  -1.57381013e-01
+   -6.24881685e-01  -4.97388273e-01  -2.05866382e-01]
+ [ -1.03176928e+00   7.48561978e-01  -2.41434112e-01  -1.15802038e+00
+    9.78922963e-01   2.31329679e-01   3.16102123e+00   1.37862575e+00
+    6.55652940e-01   2.93532878e-01   6.85611725e-01   1.28408000e-01
+   -5.14554441e-01  -3.73353451e-01  -1.02937710e+00]
+ [  7.31158555e-01   3.51255476e-01   3.98942173e-01  -9.80254710e-01
+    7.75241971e-01  -2.15020850e-01  -2.13516426e+00   3.84676546e-01
+    2.25345030e-01   1.25877395e-01   2.27625102e-01  -3.28748412e-02
+    1.08989798e-01   9.96503770e-01   2.72335142e-01]
+ [  3.59759331e-01  -4.44161952e-01   3.15635473e-01   1.90588129e+00
+    1.08375382e+00  -1.21518485e-01   2.70700073e+00   6.77960813e-01
+   -3.50350857e-01   1.66883934e-02  -1.23007171e-01  -2.85084397e-01
+   -1.49066821e-01  -6.29062116e-01  -3.88733983e-01]
+ [ -9.99314114e-02  -8.96999896e-01  -2.10441679e-01  -1.35839045e+00
+    5.84999025e-01   7.11514056e-02  -2.39561796e+00   2.08882570e-01
+    4.05731872e-02   3.42898786e-01  -2.26354301e-01   5.70510566e-01
+    9.67596471e-02   8.35791588e-01   5.80213889e-02]
+ [  3.16839010e-01   1.20309837e-01   2.91740280e-02  -6.12028122e-01
+    5.36989689e-01  -1.66482344e-01  -1.27301395e+00  -2.10016340e-01
+    1.81600124e-01   1.17265873e-01   6.13234341e-02   5.05788863e-01
+    2.79176116e-01  -6.85827374e-01   5.41146219e-01]
+ [  3.82823884e-01  -2.51053125e-01   2.27248855e-03  -1.94219083e-01
+    1.59890041e-01   4.75468561e-02  -6.83733404e-01   1.76485568e-01
+   -9.45116580e-02   3.35548133e-01  -4.08512875e-02  -1.15874901e-01
+    5.41525893e-02  -1.69322178e-01   2.50419110e-01]
+ [ -1.02191932e-01  -4.82891619e-01   2.05882430e-01  -8.99011269e-02
+    1.01480924e-01   2.09946215e-01  -2.67392755e-01  -1.07262947e-01
+    2.76649207e-01   2.48321041e-01   3.13277468e-02   5.02901673e-01
+    2.61636674e-01  -3.84944618e-01  -2.14330971e-01]
+ [  1.38819069e-02  -7.12602511e-02   6.87743351e-02   6.58046529e-02
+    1.83271226e-02  -5.61938360e-02   1.69989690e-02  -1.71619684e-01
+   -7.34622180e-02   5.81889488e-02   3.83372530e-02   4.19990093e-01
+    1.82150438e-01   5.33958822e-02  -2.62156308e-01]
+ [ -7.35609501e-04   4.28682491e-02   5.74324727e-01   5.37805483e-02
+   -1.13319144e-01   2.44725451e-01  -4.11461666e-02  -2.46953204e-01
+    3.81680429e-02   2.56127298e-01  -3.55128765e-01   5.99937618e-01
+   -5.18035352e-01   6.24101423e-02  -1.09045722e-01]]
+[-0.09792178 -0The code for file btdv-tanh-15.py ran for 0.37m
+.13780263  0.64915782  0.83620405  0.18936127  0.39732492
+ -0.12384904 -0.94698733  0.13096353  0.97847265 -0.65138161  0.59472972
+  0.33975393 -0.36565748  0.25877792]
+[[  7.35434532e-01   1.58901274e+00   1.15847163e-01]
+ [ -4.54995930e-01  -1.27124035e+00   2.27887064e-01]
+ [  7.79552579e-01   5.99102080e-01   7.68198669e-01]
+ [ -2.75760174e-01  -2.38047218e+00  -9.59866792e-02]
+ [  1.05164552e+00   1.69626188e+00   7.71724224e-01]
+ [ -1.85964358e+00  -7.88461804e-01   1.46580383e-01]
+ [ -7.12031841e-01   4.21832180e+00  -2.76837379e-01]
+ [  1.06220508e+00  -1.56583011e+00  -3.72879058e-01]
+ [  1.18404472e+00   2.76995480e-01   1.58909664e-01]
+ [ -1.63194293e-03   7.06181347e-01   7.97338605e-01]
+ [  1.46525979e+00  -1.43492281e-01  -5.60649514e-01]
+ [  2.71783829e-01   6.28314435e-01   9.49136972e-01]
+ [ -1.44566023e+00   4.39651936e-01  -7.94288754e-01]
+ [ -4.87565249e-01   1.21943140e+00  -1.13838896e-01]
+ [ -1.20766497e+00   7.25184858e-01  -5.77991426e-01]]
+[ 0.63528264  1.20685673  1.23903   ]
+Optimization complete. (with seed: 111) Best validation score of 67.476667 % obtained at iteration 5000, with test performance 67.830000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 80.250000 %
+     epoch 1, minibatch 5000/5000, test error of best model 80.453333 %
+epoch 2, minibatch 5000/5000, validation error 66.313333 %
+     epoch 2, minibatch 5000/5000, test error of best model 66.263333 %
+epoch 3, minibatch 5000/5000, validation error 64.610000 %
+     epoch 3, minibatch 5000/5000, test error of best model 64.656667 %
+epoch 4, minibatch 5000/5000, validation error 68.136667 %
+epoch 5, minibatch 5000/5000, validation error 67.453333 %
+[ 0.85919774  3.57735586  3.79375243]
+[ 1.  4.  5.]
+[[  4.01747465e-01  -7.25977242e-01   1.10344148e+00  -6.44725382e-01
+    1.09646171e-01   6.87794983e-01   6.79055989e-01   2.39991456e-01
+   -1.50057900e+00  -4.43466425e-01  -7.36503541e-01   8.12503576e-01
+   -2.91850448e-01   2.36548170e-01  -6.93583071e-01]
+ [ -2.35173583e+00  -2.68459588e-01   6.12911165e-01   3.13153893e-01
+   -3.74716997e-01  -1.96098462e-01  -6.99365437e-01  -3.37686718e-01
+    5.36663151e+00  -1.16242087e+00  -1.18051720e+00  -1.95823282e-01
+    3.83123040e-01   1.58725008e-02  -5.83639108e-02]
+ [  5.57111979e-01  -5.08129716e-01   5.46854883e-02   1.17760129e-01
+   -4.73581761e-01   3.77009600e-01   1.92863166e+00  -3.92978974e-02
+   -3.45302963e+00  -7.37402260e-01  -1.04138054e-01   9.82995406e-02
+   -9.36724395e-02   9.43156192e-04  -2.63267726e-01]
+ [ -8.96061122e-01   6.64542392e-02  -2.03629032e-01  -3.17146594e-04
+   -7.67141879e-01  -2.18974631e-02  -8.42880830e-02  -5.98981500e-01
+    4.39774466e+00   1.96204257e+00  -3.68004382e-01   3.56629997e-01
+    1.11775410e+00   6.52859032e-01  -1.16587259e-01]
+ [  1.12877321e+00  -2.45884852e-03  -1.39919057e-01  -2.37634256e-01
+   -5.50480664e-01   2.32039943e-01  -6.31206155e-01  -6.03846550e-01
+   -3.85088229e+00  -1.67425489e+00   7.05435798e-02  -2.86261253e-02
+   -5.72978318e-01   9.04616773e-01  -4.21752632e-01]
+ [  4.89735454e-01  -2.89071113e-01  -9.83164310e-02  -4.29828316e-02
+   -6.72287405e-01  -2.59309113e-01   8.88491094e-01  -4.19405937e-01
+   -2.11361098e+00  -4.74379122e-01  -1.10224329e-01   1.45655796e-01
+    5.15192866e-01  -1.03961833e-01   1.13428093e-01]
+ [  1.15249261e-01   2.46910498e-01  -1.19507745e-01  -3.65549445e-01
+    7.14091165e-03  -1.25809997e-01   5.99824488e-01  -2.61461496e-01
+   -1.03159297e+00  -2.79498607e-01  -1.96881533e-01  -2.55261838e-01
+    2.46351004e-01   3.94552529e-01  -4.06380385e-01]
+ [  2.56924272e-01   1.00277603e-01  -1.45240873e-01   9.99338999e-02
+   -8.63239616e-02   3.17687422e-01   1.34841189e-01   1.36098653e-01
+   -4.99709904e-01  -1.40811443e-01  -1.89588651e-01  -3.34267527e-01
+   -6.36191666e-01   2.08862916e-01  -2.22547367e-01]
+ [  6.86688647e-02  -2.32696936e-01  -3.60121913e-02  -1.16331458e-01
+   -2.13288262e-01   2.52058506e-01  -2.20853277e-02  -3.35006714e-01
+   -9.18214675e-03  -3.62683944e-02   6.19170554e-02  -2.48307854e-01
+ The code for file btdv-tanh-15.py ran for 1.11m
+  -2.61268497e-01  -1.94507822e-01   2.07562149e-01]
+ [  1.54160857e-02   2.40904555e-01   2.22041924e-02   1.84876807e-02
+    1.86225608e-01  -5.76008521e-02  -3.43998186e-02  -4.92993921e-01
+   -4.23038304e-02   3.66375223e-02  -1.06408402e-01   3.29827428e-01
+   -3.80826145e-01   8.98132622e-02   6.16163969e-01]]
+[ 0.28463751  0.643592   -0.34788349 -0.53198218 -0.5852291  -0.20509623
+ -0.60841691 -0.72608227 -0.27843973  1.14325452  1.32217455 -0.05261966
+ -0.52579981  0.62191844  0.56414628]
+[[-0.90190864  3.07569027 -0.05900335]
+ [-1.05322528  0.11235466  0.39532441]
+ [ 1.67313373  0.11506718  0.0090633 ]
+ [-1.27775323 -0.68698508 -0.3735283 ]
+ [-0.68110013 -1.04482293 -0.9198581 ]
+ [ 0.77724993  0.3240051  -0.29968268]
+ [ 0.07551753  1.72474992  0.20374173]
+ [-0.40902489 -0.81143034 -1.18605292]
+ [-0.68295074  5.6540122   0.06657604]
+ [ 0.30717137 -2.52030253  0.0567918 ]
+ [-1.80176711  1.5156467  -0.34939486]
+ [ 1.17140234  0.302104    0.53023845]
+ [-0.35809767 -0.14163896 -1.01208329]
+ [ 0.89119238  1.42815125  0.67510277]
+ [-0.67646712  0.08832974  0.63573694]]
+[ 0.83586901  0.91261119  1.24386013]
+Optimization complete. (with seed: 112) Best validation score of 64.610000 % obtained at iteration 15000, with test performance 64.656667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 69.900000 %
+     epoch 1, minibatch 5000/5000, test error of best model 69.783333 %
+epoch 2, minibatch 5000/5000, validation error 67.376667 %
+     epoch 2, minibatch 5000/5000, test error of best model 67.473333 %
+epoch 3, minibatch 5000/5000, validation error 71.830000 %
+[ 1.15912211  3.3948555   6.98305416]
+[ 1.  4.  5.]
+[[  3.62480402e-01  -9.42159712e-01   5.23401618e-01   6.24726601e-02
+   -7.75541961e-02  -6.24126256e-01   5.20798087e-01  -1.33143628e+00
+    8.30062628e-01   4.35944885e-01  -2.60186762e-01   8.06941330e-01
+    9.00217891e-01   7.42642701e-01  -8.30729246e-01]
+ [  2.99270988e-01  -2.49156669e-01   1.99361995e-01   1.20754027e+00
+    3.96953076e-01   7.02299774e-02  -2.46799421e+00   4.77297401e+00
+   -3.01141649e-01  -2.33203933e-01  -9.27743673e-01   3.49575222e-01
+    1.04563877e-01   9.58385110e-01  -2.71043062e-01]
+ [  5.41756272e-01  -2.84294307e-01   9.14745405e-02  -2.95181274e-01
+    1.91171750e-01  -3.96594942e-01   7.84211576e-01  -3.04519796e+00
+   -1.05052257e+00  -7.78590515e-02  -5.04692674e-01   6.64332867e-01
+    8.57030898e-02  -3.02811582e-02  -4.15354013e-01]
+ [  7.62389228e-02  -3.46644640e-01   1.60342991e-01   5.00220358e-01
+    4.37007517e-01   2.99855433e-02  -3.03162992e-01   3.93770242e+00
+    5.87460458e-01  -1.38985589e-01  -9.64389145e-01  -1.56172407e+00
+    1.78138137e-01   3.12966317e-01   2.10720822e-01]
+ [ -1.24952137e-01  -2.94691473e-01  -3.61115932e-01  -2.75178682e-02
+    4.61061418e-01   1.23092055e-01   8.98606539e-01  -3.50286388e+00
+   -5.86709559e-01   2.06484526e-01  -6.32478714e-01   1.19017792e+00
+    2.69850940e-01  -2.65692472e-01   1.04328915e-01]
+ [  4.17583168e-01   2.13284239e-01   4.43728790e-02  -6.14495873e-01
+    2.53919274e-01   1.06303552e-02   3.57597917e-01  -1.77232766e+00
+   -1.70887303e+00   1.32810622e-01  -7.87153780e-01  -1.36790378e-02
+   -3.64893824e-02   6.60795331e-01   1.90881670e-01]
+ [ -8.91424492e-02  -3.16102415e-01   1.66932896e-01  -1.80515260e-01
+    4.60786492e-01  -1.83728024e-01   2.79769123e-01  -9.85026836e-01
+    4.15396273e-01   1.29947111e-01  -2.83335119e-01   5.05641043e-01
+   -2.48933941e-01  -1.53763250e-01   1.47177339e-01]
+ [ -1.78282335e-02  -4.64977250e-02  -4.30695295e-01   3.55249941e-01
+    3.66298974e-01  -9.77984294e-02   1.78642988e-01  -4.35271621e-01
+    1.56532135e-02  -6.01954572e-02  -5.28858483e-01   1.40013680e-01
+   -6.45453110e-02  -6.41448200e-02  -3.15022208e-02]
+ [  5.37291467e-01   1.00868002e-01  -1.71978325e-01   1.14816904e-01
+    1.58622310e-01  -3.31897736e-01   4.08909731e-02   4.90663480e-03
+    2.81213410e-02   1.44253960e-02   1.44079179e-01   6.12748340e-02
+   -3.19335163e-02   1.98297901e-03   2.29104251e-01]
+ [  3.33578646e-01   4.61449The code for file btdv-tanh-15.py ran for 0.74m
+474e-01   5.14099181e-01   1.15787387e-01
+    2.75617212e-01   4.21938777e-01   1.73033343e-03  -3.60823721e-02
+    7.47165270e-03   4.48993295e-01  -1.70798406e-01  -3.06712985e-02
+    1.45800442e-01  -1.34185404e-01  -7.34329224e-02]]
+[ 0.58582836  0.79773009 -0.23250075 -0.23685133  0.66034961  0.12978673
+  0.17484739 -0.24374478  0.16293877  0.30136901 -0.43166751 -0.90402037
+ -0.4946999  -0.86665034  0.20546576]
+[[  7.80649543e-01   8.03467214e-01   9.07860398e-01]
+ [ -1.28689790e+00   6.88195601e-02   6.80769384e-01]
+ [  7.08932638e-01  -2.26421177e-01   2.98165381e-01]
+ [  1.09413815e+00  -8.52668047e-01   9.62430298e-01]
+ [  5.66670120e-01   7.36246824e-01   9.57330287e-01]
+ [ -1.19119537e+00  -5.92493355e-01   2.79445678e-01]
+ [ -3.06517988e-01   2.94994712e+00   4.83666748e-01]
+ [ -5.78896344e-01   5.80100250e+00   4.21296665e-03]
+ [  1.03538157e-02  -1.60338533e+00  -2.52499469e-02]
+ [  1.10973680e+00   5.00874519e-01   7.30946660e-01]
+ [ -6.02854669e-01  -1.61123264e+00  -9.50850964e-01]
+ [  5.93573004e-02   2.65504932e+00   1.66009918e-01]
+ [  1.35418797e+00   3.16821158e-01   9.49850231e-02]
+ [  1.46133959e+00  -1.10051727e+00  -1.21035159e-01]
+ [ -1.21963155e+00  -4.64167595e-01  -2.09433034e-01]]
+[ 0.79598713  1.32448709  1.08501542]
+Optimization complete. (with seed: 113) Best validation score of 67.376667 % obtained at iteration 10000, with test performance 67.473333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 76.596667 %
+     epoch 1, minibatch 5000/5000, test error of best model 77.056667 %
+epoch 2, minibatch 5000/5000, validation error 65.970000 %
+     epoch 2, minibatch 5000/5000, test error of best model 66.430000 %
+epoch 3, minibatch 5000/5000, validation error 63.140000 %
+     epoch 3, minibatch 5000/5000, test error of best model 63.513333 %
+epoch 4, minibatch 5000/5000, validation error 61.740000 %
+     epoch 4, minibatch 5000/5000, test error of best model 61.660000 %
+epoch 5, minibatch 5000/5000, validation error 60.953333 %
+     epoch 5, minibatch 5000/5000, test error of best model 60.933333 %
+epoch 6, minibatch 5000/5000, validation error 62.306667 %
+epoch 7, minibatch 5000/5000, validation error 66.850000 %
+epoch 8, minibatch 5000/5000, validation error 67.736667 %
+epoch 9, minibatch 5000/5000, validation error 69.730000 %
+[ 1.49213314  3.53560209  3.72908592]
+[ 1.  4.  5.]
+[[ -1.52089819e-01   1.14120245e+00  -8.95006955e-02  -1.92450058e+00
+    3.18302900e-01   6.56439424e-01  -7.97311723e-01  -3.05160850e-01
+    5.36217690e-01   2.28115827e-01   1.39559358e-01  -4.39615607e-01
+   -7.82231808e-01  -1.04493403e+00   1.22788902e-02]
+ [  2.52544314e-01   3.78530212e-02  -1.13829660e+00   7.29732132e+00
+   -1.56010836e-01  -1.89079404e+00   8.40808675e-02   1.51018083e+00
+    7.60368228e-01   8.63731623e-01  -8.01586032e-01  -4.07952160e-01
+    4.56966490e-01  -2.06757292e-01   2.86171556e-01]
+ [  3.28358293e-01   1.26193985e-01   2.68348783e-01  -4.52047539e+00
+   -2.21406803e-01   1.23215926e+00  -5.82587719e-01  -6.45902753e-01
+    3.08545917e-01   2.72795469e-01   5.36102712e-01  -5.31556845e-01
+   -3.26203763e-01  -6.03739247e-02   5.29548585e-01]
+ [  1.27229959e-01   2.10709617e-01  -5.00970960e-01   6.02783918e+00
+   -7.37290800e-01  -5.54996669e-01  -1.23723857e-01   6.63932860e-02
+    5.44654608e-01  -1.19612239e-01  -1.31777072e+00  -2.62988120e-01
+    1.59337366e+00  -4.96974915e-01  -7.10145652e-01]
+ [ -1.56565264e-01   6.58008829e-02   1.23854113e+00  -5.25150204e+00
+   -2.45884195e-01   4.52816159e-01  -1.80009454e-01  -7.11148083e-01
+    3.76180232e-01  -2.40368098e-01   5.15807927e-01  -4.21944052e-01
+   -6.33158088e-01  -2.31361046e-01   3.51057976e-01]
+ [ -6.96506053e-02   6.41878545e-02   2.49272287e-01  -2.67138267e+00
+   -7.71515727e-01   6.36920094e-01   4.68602851e-02  -2.14665309e-01
+   -1.53272420e-01   8.24991334e-03   5.64530551e-01  -4.54452455e-01
+    2.61189759e-01   2.69349869e-02   5.51258445e-01]
+ [ -2.60164976e-01  -1.49648771e-01   9.60104465e-02  -1.39330268e+00
+   -4.05308574e-01   9.42114711e-01 The code for file btdv-tanh-15.py ran for 1.84m
+ -6.66358089e-03   1.48290619e-01
+    2.26863578e-01  -2.08187457e-02   6.43060505e-01  -2.80806392e-01
+   -1.80255428e-01  -1.52945846e-01  -4.14589465e-01]
+ [ -4.33887392e-02  -2.18612581e-01   6.89086676e-01  -6.48958206e-01
+    1.04825296e-01  -5.76960027e-01   1.39819920e-01  -1.21412193e-03
+    6.39071269e-03  -1.09230936e-01   2.72703003e-02  -1.44076839e-01
+   -4.06925768e-01  -3.06733668e-01   1.53946757e-01]
+ [  2.02299774e-01  -9.98226181e-03   7.24672223e-04  -3.81987430e-02
+    5.05782142e-02   1.38405129e-01  -1.62909687e-01  -3.36564258e-02
+   -4.87335585e-02  -7.38228709e-02   7.71868229e-03  -4.19440389e-01
+   -3.35966088e-02   2.44526193e-02   3.50692235e-02]
+ [  4.91268009e-01   3.24196875e-01   1.14215463e-02  -3.16975415e-02
+   -1.13625154e-01   8.96671601e-03   7.33843744e-01  -3.76809686e-02
+   -4.66541275e-02  -2.13813603e-01  -1.63440838e-01  -3.97280753e-01
+   -1.79829270e-01   3.05057578e-02  -1.20675599e-03]]
+[ 0.46386918 -0.74126786  0.16284563 -0.52365804 -0.38030404  0.51210541
+  0.26516449  0.41016349  0.49260911 -0.15195237 -0.28402284 -0.87727809
+ -0.15710795  1.23024595  0.45763746]
+[[ 0.7366522   0.37764892  0.63442224]
+ [ 2.1127212   0.40937442  0.32689229]
+ [-0.32470047  1.81259477  0.20670475]
+ [-0.58038259  6.25730276  0.2045965 ]
+ [-0.35603496 -1.12522566 -0.56090909]
+ [-0.09196953  1.56528878  0.50071269]
+ [-0.6533618  -0.478212    0.73938316]
+ [ 0.88277972 -2.04448676  0.02993709]
+ [ 1.35479093  1.15988111  1.02948821]
+ [ 1.55136883 -0.04064416 -0.16340178]
+ [ 0.07515188  1.60154355 -0.67955929]
+ [-0.64575416 -1.01223278 -1.1546433 ]
+ [-0.26438749 -1.57141447 -0.73264903]
+ [-2.50101089  0.92485863  0.12391515]
+ [ 0.47290635  1.28402996  0.18861036]]
+[ 1.30642462  0.83200014  1.0505836 ]
+Optimization complete. (with seed: 114) Best validation score of 60.953333 % obtained at iteration 25000, with test performance 60.933333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 71.093333 %
+     epoch 1, minibatch 5000/5000, test error of best model 71.476667 %
+epoch 2, minibatch 5000/5000, validation error 67.003333 %
+     epoch 2, minibatch 5000/5000, test error of best model 67.150000 %
+epoch 3, minibatch 5000/5000, validation error 63.950000 %
+     epoch 3, minibatch 5000/5000, test error of best model 63.956667 %
+epoch 4, minibatch 5000/5000, validation error 61.710000 %
+     epoch 4, minibatch 5000/5000, test error of best model 62.126667 %
+epoch 5, minibatch 5000/5000, validation error 61.450000 %
+     epoch 5, minibatch 5000/5000, test error of best model 61.866667 %
+epoch 6, minibatch 5000/5000, validation error 60.360000 %
+     epoch 6, minibatch 5000/5000, test error of best model 60.410000 %
+epoch 7, minibatch 5000/5000, validation error 61.503333 %
+epoch 8, minibatch 5000/5000, validation error 62.863333 %
+epoch 9, minibatch 5000/5000, validation error 70.280000 %
+epoch 10, minibatch 5000/5000, validation error 69.180000 %
+epoch 11, minibatch 5000/5000, validation error 63.363333 %
+[ 1.62284422  4.34777164  4.91633558]
+[ 1.  4.  5.]
+[[ -8.74197364e-01   1.41887975e+00  -3.98756802e-01  -1.84881225e-01
+   -7.85621464e-01  -1.12107241e+00   6.34458899e-01   2.50143975e-01
+    1.18300927e+00  -9.12524760e-02   2.40112126e-01  -9.12932634e-01
+   -4.12141502e-01   6.45943135e-02   1.72344804e+00]
+ [ -4.34865773e-01   1.12101622e-01  -1.70526147e+00   2.60015011e+00
+    1.06118500e+00   1.83355939e+00   9.25080836e-01  -6.13716654e-02
+    4.64720368e-01  -6.27291799e-01   5.66877246e-01   3.17990109e-02
+   -2.46927887e-01  -3.05507809e-01  -6.36754370e+00]
+ [ -7.35921204e-01  -2.40058422e+00  -1.31706941e+00  -9.47777808e-01
+   -3.09187710e-01   3.37443762e-02  -6.53455406e-02  -3.22430372e-01
+   -2.04239562e-01  -3.34673196e-01   3.04977059e-01  -4.04603869e-01
+   -2.65739948e-01  -1.55658741e-02   3.85734224e+00]
+ [ -1.72264650e-01   1.02328527e+00   1.56927466e+00   1.08868277e+00
+   -4.90869105e-01   8.52119267e-01   1.90551177e-01  -5.22787213e-01
+   -1.00447297e-01  -3.60144615e-01   2.40626991e-01  -1.29271999e-01
+   -9.9The code for file btdv-tanh-15.py ran for 2.23m
+4912311e-02  -7.07664788e-01  -5.19830132e+00]
+ [ -4.95340489e-02  -1.99848008e+00  -1.40024173e+00  -1.07504237e+00
+    3.05105239e-01  -2.44276136e-01   8.57322440e-02   5.62824458e-02
+   -1.04643684e-02  -1.48761764e-01   3.00169289e-01   4.42867912e-03
+   -2.36621588e-01  -1.27990946e-01   4.52140141e+00]
+ [ -1.62339941e-01   2.09982944e+00  -4.39838737e-01  -2.37403542e-01
+   -5.16824424e-01  -1.52212262e+00  -1.93976998e-01  -5.09809971e-01
+    5.83070852e-02  -4.23860937e-01   3.78785044e-01  -1.98294991e-03
+   -2.31982674e-02  -1.21393576e-01   2.42225695e+00]
+ [ -1.63057774e-01   9.42690432e-01  -1.68191314e-01   2.85733528e-02
+   -1.35162342e+00  -7.96189070e-01   1.56059861e-01  -4.70432907e-01
+   -2.68713683e-01  -1.47016235e-02   4.71985601e-02   1.39210463e-01
+   -4.83834594e-01  -1.83634862e-01   1.19818795e+00]
+ [  4.33528572e-01   7.59670317e-01  -3.36496532e-01  -2.92725354e-01
+    5.34130514e-01  -3.09647709e-01   4.38045144e-01  -2.65260309e-01
+   -2.75701404e-01  -3.42980534e-01   4.00347859e-01  -2.96235055e-01
+   -3.98070738e-03   2.17612699e-01   5.25641680e-01]
+ [  2.91203745e-02  -2.05071718e-02  -5.61579503e-02  -7.66883269e-02
+   -2.77472958e-02   6.25955407e-03   2.11621635e-02  -4.85215634e-02
+    2.20389813e-02  -2.72783786e-01   3.90486449e-01   3.39869559e-02
+   -7.87297338e-02   1.96449296e-03   2.39047725e-02]
+ [ -7.07118511e-02   2.81186458e-02   1.79535169e-02   1.05863893e-02
+    5.32839596e-02   4.91242819e-02   6.73446134e-02  -4.22460377e-01
+   -3.38801406e-02  -5.16355634e-01   1.57364339e-01   5.60946018e-02
+    1.42163658e+00   4.09139171e-02   3.19108628e-02]]
+[ 0.96390474  0.70630413  1.73083913 -0.71493399 -0.32638162  0.90920889
+ -1.05322742 -1.07491302 -0.4331508  -0.97476238  0.96318239  0.68182951
+  0.09714926 -0.83316511  0.4391484 ]
+[[-1.78477097  0.83983535  0.16650867]
+ [ 0.14635572 -1.10185754 -0.14003427]
+ [ 0.10686234 -2.38402247 -0.15708834]
+ [ 0.15340197 -3.05007124 -0.24656095]
+ [ 0.01796855 -1.18630803 -0.19106138]
+ [ 0.19748363 -1.61103034  0.04956511]
+ [ 1.89781582 -0.71244603  0.38772923]
+ [-0.45601067 -1.2274456  -0.77664202]
+ [ 1.74890614  0.72472954  0.24694872]
+ [-0.92569125 -1.01276135 -0.97907716]
+ [ 1.04417861  1.18822479  1.02373636]
+ [-1.44981527 -0.08381993  0.12409092]
+ [-0.121763    0.13877571  0.73779678]
+ [-0.94075632 -0.57410264 -0.71431655]
+ [ 0.51671964 -5.41690111 -0.01208751]]
+[ 0.98963159  1.29989982  1.10113752]
+Optimization complete. (with seed: 115) Best validation score of 60.360000 % obtained at iteration 30000, with test performance 60.410000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 70.460000 %
+     epoch 1, minibatch 5000/5000, test error of best model 70.520000 %
+epoch 2, minibatch 5000/5000, validation error 66.490000 %
+     epoch 2, minibatch 5000/5000, test error of best model 66.350000 %
+epoch 3, minibatch 5000/5000, validation error 68.050000 %
+[ 1.25011325  3.70011616  6.70281744]
+[ 1.  4.  5.]
+[[  3.32762003e-02   3.33037734e-01   7.44418800e-01  -1.12586451e+00
+   -2.16736421e-01  -1.43227053e+00   3.85737121e-02  -3.09706986e-01
+   -2.67622709e-01   7.27032065e-01  -1.75447538e-01   1.22235847e+00
+   -9.78993475e-02   3.53148654e-02  -7.43086398e-01]
+ [  3.63914430e-01  -9.65067819e-02  -1.73762217e-01   4.49946225e-01
+    3.47285986e-01   5.26789379e+00  -1.51624262e-01   1.30565047e+00
+    1.89793646e+00   8.81439000e-02  -1.22092366e+00   1.36104569e-01
+   -3.11642051e-01  -5.68519771e-01  -7.11642981e-01]
+ [ -1.97860032e-01  -1.10075665e+00   6.26677811e-01  -2.26846546e-01
+   -6.58507496e-02  -3.26292634e+00   2.78731376e-01  -4.19997633e-01
+   -7.57851839e-01   3.92937958e-01  -1.44468293e-01  -1.04935601e-01
+    3.87590796e-01  -6.29010856e-01  -5.65270288e-03]
+ [ -1.79097667e-01   7.47098446e-01  -9.13931131e-01   3.01731348e-01
+    1.80960178e-01   4.33445406e+00  -2.67521739e-01   9.02079582e-01
+   -2.39759777e-03   4.54319790e-02  -9.66721356e-01   3.42200488e-01
+   -3.89982574e-02  -5.49063869e-02  -1.19865827e-01]
+ [  1.02094030e+00  -6.16781414e-0The code for file btdv-tanh-15.py ran for 0.74m
+1   3.42759103e-01  -2.96803027e-01
+    3.84783477e-01  -3.80281210e+00   5.22371173e-01  -2.44568065e-01
+   -1.05542290e+00  -7.25376904e-02   1.38481379e-01  -1.28354415e-01
+    1.18642144e-01   1.10014297e-01   2.13496089e-01]
+ [ -4.27862331e-02  -1.13675332e+00  -1.56232595e-01   1.67674571e-01
+    1.47446081e-01  -1.92546904e+00  -7.31265452e-03  -8.34305525e-01
+   -3.60478312e-01  -1.71574801e-02  -3.87620889e-02   6.11314876e-03
+    4.16591257e-01   1.43175339e-02  -3.23891670e-01]
+ [ -1.62978053e-01   1.18089266e-01   1.84434727e-01  -2.18663111e-01
+    6.60122409e-02  -1.03896356e+00   4.26123679e-01  -2.69995749e-01
+   -3.07666779e-01  -4.14387770e-02   7.34494701e-02  -1.86609775e-01
+    3.70502055e-01   1.48457155e-01  -1.17914036e-01]
+ [  3.61250997e-01  -9.98846516e-02   1.91333398e-01   6.86638802e-02
+   -1.55854240e-01  -4.68747646e-01   1.35371596e-01   2.78030068e-01
+   -1.43873125e-01  -3.34863394e-01   1.25388622e-01   2.65438437e-01
+    1.32560477e-01  -2.72984922e-01  -4.60725307e-04]
+ [ -4.16726954e-02   7.45434081e-03   3.85068133e-02  -1.41501293e-01
+    3.27343434e-01  -2.19110306e-03   3.05565923e-01   1.18656442e-01
+   -1.45233376e-02  -1.73993289e-01   4.50034700e-02   2.20804941e-02
+    2.71972120e-01  -2.31689095e-01   1.04153398e-02]
+ [  7.89545253e-02  -4.22978140e-02  -1.75423577e-01  -8.67094919e-02
+    4.63981003e-01  -3.99054550e-02  -8.38936388e-01  -3.98136266e-02
+   -3.78187336e-02   1.81727409e-01   1.27245888e-01  -9.29455608e-02
+    2.82844543e-01  -4.38033402e-01   6.20439015e-02]]
+[ 0.50122362  0.31341851 -0.36001122 -0.26372206  0.57335919 -0.36885917
+ -0.09160212  0.16889024  0.12986818 -0.23770647  1.3150599  -0.24073215
+  0.6332534  -0.57003075  0.59185261]
+[[  8.41996670e-01   1.62986183e+00   6.99149668e-01]
+ [  1.55863866e-01  -1.85692203e+00   3.15158889e-02]
+ [  8.17586899e-01   1.50825632e+00  -1.80620458e-02]
+ [ -1.13628960e+00  -1.27121460e+00  -4.44646515e-02]
+ [  6.32165253e-01   5.43010473e-01   8.89812589e-01]
+ [ -5.76953232e-01   6.02087688e+00   3.85558489e-03]
+ [  1.58470839e-01   7.05585539e-01  -5.86497724e-01]
+ [  4.66591716e-01  -1.28566933e+00   6.45994961e-01]
+ [  1.19703367e-01  -1.93011642e+00  -2.46002823e-01]
+ [  1.74454963e+00   6.82985961e-01   4.14309382e-01]
+ [ -1.43610263e+00   1.68508923e+00   7.79242575e-01]
+ [  1.59503949e+00  -2.16610327e-01  -1.98542118e-01]
+ [  8.52099955e-02   7.77653635e-01   9.86012876e-01]
+ [ -9.34489429e-01  -6.52549922e-01  -9.61156011e-01]
+ [ -2.00582266e+00   6.82709813e-01  -3.33503246e-01]]
+[ 0.88974196  1.20836997  1.19503546]
+Optimization complete. (with seed: 116) Best validation score of 66.490000 % obtained at iteration 10000, with test performance 66.350000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 75.373333 %
+     epoch 1, minibatch 5000/5000, test error of best model 75.826667 %
+epoch 2, minibatch 5000/5000, validation error 75.440000 %
+[ 0.98168826  3.62680268  5.50433159]
+[ 1.  4.  5.]
+[[  2.98365593e-01  -3.82828116e-01  -6.20720983e-01   6.43288374e-01
+   -1.36221975e-01   5.81919432e-01  -9.34196115e-01  -3.14163893e-01
+   -2.15832040e-01  -7.29521751e-01  -2.96198815e-01   1.32041097e+00
+   -8.03513452e-02   8.07080925e-01  -9.18872654e-02]
+ [  4.62170243e-01  -2.71818429e-01   1.61287889e-01  -1.26632357e+00
+   -2.83848464e-01  -1.28615141e-01  -9.82526779e-01  -1.87941265e+00
+   -8.13935041e-01  -1.24189782e+00  -1.97357684e-01   6.62116036e-02
+    6.81560457e-01   8.76730755e-02   2.16576070e-01]
+ [  6.87297225e-01  -3.69911849e-01   5.88651419e-01   1.12571061e+00
+    9.65564370e-01   3.13534528e-01  -1.65394902e-01  -1.19885051e+00
+    3.02682132e-01  -8.61215591e-02  -6.05177581e-01   4.91419882e-02
+   -9.53861400e-02   3.82334106e-02  -7.50802219e-01]
+ [  3.31386805e-01  -1.40401021e-01   5.50379902e-02  -1.24592626e+00
+   -8.44058275e-01   3.72994781e-01   8.61344412e-02   2.05025458e+00
+    9.75904763e-01  -4.56058174e-01  -3.55391622e-01   1.11652009e-01
+   -6.01314843e-01   3.69869530e-01  -3.59167665e-01]
+ [ -3.47189307e-02   The code for file btdv-tanh-15.py ran for 0.37m
+5.21030724e-02  -5.33937633e-01   1.22412503e+00
+    8.97588909e-01   2.38013253e-01   3.01755667e-01  -1.43192828e+00
+    3.20160657e-01  -1.58201844e-01  -1.75832033e-01   1.05410581e-02
+    1.14852982e-02  -3.94375890e-01   5.03630817e-01]
+ [  2.89057046e-01   1.80690244e-01   6.25508022e-04   7.03499317e-01
+   -3.80560786e-01   3.79975170e-01  -2.00258732e-01  -6.67476237e-01
+    2.89177120e-01  -2.22055212e-01  -1.37368292e-02  -5.63034058e-01
+    2.85883814e-01  -1.96926668e-01  -2.29514584e-01]
+ [  2.75566168e-02  -1.00510873e-01  -7.91164339e-02   4.19029027e-01
+    1.23992048e-01   4.29389149e-01  -1.50806651e-01  -1.60493627e-01
+    1.92827001e-01   6.42145723e-02  -5.50365448e-01  -1.07524283e-01
+   -2.74598688e-01  -2.85073549e-01  -1.93608493e-01]
+ [  7.85282180e-02   1.89908206e-01   1.42585769e-01   1.24849625e-01
+    1.32367939e-01  -1.32036150e-01   1.42028916e-03  -6.01629727e-02
+   -1.24523275e-01   3.36913653e-02  -1.71731755e-01   8.97507221e-02
+   -4.55820054e-01   4.24236134e-02  -4.05450426e-02]
+ [  2.88737088e-01   1.08115198e-02  -3.03533882e-01   2.49190629e-02
+   -7.65269846e-02   2.20021576e-01   1.16844801e-02   9.74824727e-02
+   -7.28292065e-03   1.79999366e-01  -5.99063814e-01   1.14487568e-02
+   -1.14855781e-01   2.99036019e-02   1.79931954e-01]
+ [  2.01626778e-01   7.16274023e-01   6.37326464e-02   1.90457106e-02
+    2.43735328e-01   1.85249627e-01   6.50590509e-02   1.04563333e-01
+   -1.24644771e-01   7.73115754e-02  -6.13947868e-01  -1.49201065e-01
+   -8.33738446e-02   2.82814771e-01  -3.30839574e-01]]
+[ 0.35394463  0.28154519 -0.21013795 -0.35013106  0.34200469  0.47445139
+  0.97685456  1.07382202 -0.02944009  1.00160956 -0.88585585 -0.08532353
+ -0.12726577 -0.34834313 -0.55791903]
+[[  9.96427476e-01   8.75993431e-01   4.10951734e-01]
+ [ -3.12949151e-01   1.40695915e-01   8.62783790e-01]
+ [ -6.23821557e-01  -5.35199642e-01  -3.75618398e-01]
+ [  6.96974814e-01  -1.82429898e+00  -2.42358014e-01]
+ [  5.63692927e-01  -1.21157789e+00   5.16206384e-01]
+ [  8.47646356e-01   4.61474180e-01   7.12363183e-01]
+ [ -1.89890015e+00   6.86391830e-01   3.34088087e-01]
+ [  1.74726010e-03  -2.93872285e+00  -5.58096096e-02]
+ [  3.01025897e-01   1.35044467e+00  -1.15774147e-01]
+ [ -1.71149683e+00   1.09713113e+00  -1.41243920e-01]
+ [ -5.87603569e-01  -1.07287610e+00  -1.38783455e+00]
+ [  1.23418105e+00   8.10563207e-01  -5.23166265e-03]
+ [  2.42860354e-02  -5.88993192e-01   3.85811865e-01]
+ [  1.33451891e+00   4.48573828e-01   4.42312658e-01]
+ [ -4.16099131e-01  -9.66020763e-01  -6.35711074e-01]]
+[ 0.81865513  0.9412964   1.29074776]
+Optimization complete. (with seed: 117) Best validation score of 75.373333 % obtained at iteration 5000, with test performance 75.826667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 74.520000 %
+     epoch 1, minibatch 5000/5000, test error of best model 74.686667 %
+epoch 2, minibatch 5000/5000, validation error 69.370000 %
+     epoch 2, minibatch 5000/5000, test error of best model 69.613333 %
+epoch 3, minibatch 5000/5000, validation error 68.600000 %
+     epoch 3, minibatch 5000/5000, test error of best model 68.893333 %
+epoch 4, minibatch 5000/5000, validation error 67.696667 %
+     epoch 4, minibatch 5000/5000, test error of best model 67.816667 %
+epoch 5, minibatch 5000/5000, validation error 66.520000 %
+     epoch 5, minibatch 5000/5000, test error of best model 66.646667 %
+epoch 6, minibatch 5000/5000, validation error 66.520000 %
+epoch 7, minibatch 5000/5000, validation error 69.846667 %
+epoch 8, minibatch 5000/5000, validation error 67.230000 %
+epoch 9, minibatch 5000/5000, validation error 68.433333 %
+[ 1.20176172  4.20621586  4.0518918 ]
+[ 1.  4.  5.]
+[[  8.40789199e-01   5.46416128e-03   1.69526029e+00   3.16051513e-01
+    8.64527822e-01   1.47666073e+00  -1.01162004e+00  -8.79098117e-01
+   -3.94903600e-01   9.88132477e-01  -6.64375275e-02   5.82365692e-01
+    1.11415341e-01   1.09074152e+00   9.14712727e-01]
+ [  7.32273638e-01   6.84635267e-02  -6.40844393e+00   4.76170480e-01
+   -1.68500945e-01  -9.7957843The code for file btdv-tanh-15.py ran for 1.86m
+5e-01  -8.16725731e-01   1.03242421e+00
+    4.41309005e-01   3.46548140e-01  -6.97736621e-01  -2.25403711e-01
+   -6.26774251e-01  -8.23948920e-01   9.45386231e-01]
+ [  1.70293584e-01  -3.12641203e-01   4.00887346e+00  -2.47169986e-01
+    1.14318497e-01   5.95888197e-02  -1.43979818e-01  -5.92506886e-01
+   -5.87468982e-01   3.39785933e-01  -2.25633293e-01  -1.49165082e+00
+    2.74871796e-01   8.62687767e-01  -7.47100294e-01]
+ [ -4.68618870e-02   4.46210206e-01  -5.33551359e+00   1.56437233e-01
+   -8.40915620e-01   3.49134117e-01  -5.22616625e-01  -4.88108158e-01
+    2.10883999e+00   7.77291283e-02  -7.63121307e-01   3.91016006e-01
+   -4.06335026e-01  -7.54936993e-01  -1.81108490e-02]
+ [ -3.34527910e-01   2.78026819e-01   4.65256834e+00  -4.17288728e-02
+    9.07956243e-01   3.44996125e-01  -7.05235481e-01  -2.94019766e-02
+   -9.40274060e-01   5.17558679e-02  -2.25884944e-01  -1.24805295e+00
+   -4.27177042e-01   2.62508281e-02  -1.63241351e+00]
+ [  6.86590374e-02  -1.16447523e-01   2.40250564e+00  -2.86754727e-01
+   -6.44421995e-01   1.14678454e+00   3.58180910e-01  -3.56581174e-02
+   -4.96507883e-01   1.89866960e-01   9.75579321e-02   1.36385691e+00
+   -5.94253778e-01   2.23282531e-01  -3.39676976e-01]
+ [  1.14590727e-01   3.50086212e-01   1.29539835e+00   5.60747199e-02
+   -5.78711271e-01   7.15497881e-03  -1.56261533e-01  -1.26682436e+00
+   -4.80986983e-01  -8.96512866e-02   2.18186915e-01   3.08197528e-01
+   -3.35911423e-01   2.25621954e-01  -3.94103974e-01]
+ [ -2.59453114e-02  -1.22273594e-01   6.04716778e-01  -2.89166477e-02
+    3.29972446e-01  -1.17600866e-01  -3.06223065e-01   5.73720396e-01
+    9.27268341e-02  -1.56869769e-01   2.14207590e-01   4.86570209e-01
+   -3.51982325e-01   9.03940439e-01  -4.89333779e-01]
+ [ -4.01734486e-02  -8.96770805e-02   2.28198748e-02  -4.90017757e-02
+    5.81494495e-02   3.99558060e-02   4.12700586e-02   1.12966234e-02
+   -4.78440076e-02   4.52395827e-02  -3.08971964e-02   5.36462350e-04
+   -7.38693774e-02  -2.04844959e-02  -1.30507480e-02]
+ [  1.66534349e-01  -7.33690679e-01   2.06838995e-02   5.32349646e-01
+    2.21945457e-02  -5.77149875e-02  -2.04566363e-02  -2.46263929e-02
+    1.03358105e-02  -4.72590566e-01  -2.65771598e-02   2.68881097e-02
+   -4.05253530e-01  -8.46719891e-02   2.01174263e-02]]
+[-0.67722684 -0.59560782  0.39718542  0.07926171  0.74685705 -0.86077958
+  1.80629814 -0.04699348 -0.0854109  -0.52860922 -0.61963278  0.9376722
+ -0.82560319 -0.82696897  0.34102079]
+[[ 2.0905757  -0.58165246  0.35154909]
+ [-0.56210512 -0.5662511  -0.75583649]
+ [ 0.5175541  -5.84604073 -0.11144781]
+ [ 0.5355134  -0.06719336  0.53080881]
+ [ 0.26792714  1.3533771   0.57023364]
+ [ 0.0808012   1.8216908   0.24517395]
+ [-1.47385514  1.92152274  0.23375557]
+ [-0.22698119 -1.34279656 -0.21481261]
+ [ 0.23155077 -2.06613445 -0.00854204]
+ [ 2.22355986  0.12718245 -0.59862721]
+ [-1.30351138 -1.00157714 -1.06484902]
+ [ 0.15395087 -1.10318053  0.08126728]
+ [-1.25094402 -1.49997389 -1.15111995]
+ [ 0.17171301  1.52948833 -0.08740694]
+ [ 0.2629545  -2.00954461 -0.32152441]]
+[ 1.23618042  1.2778616   1.33404064]
+Optimization complete. (with seed: 118) Best validation score of 66.520000 % obtained at iteration 25000, with test performance 66.646667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 81.246667 %
+     epoch 1, minibatch 5000/5000, test error of best model 81.616667 %
+epoch 2, minibatch 5000/5000, validation error 67.170000 %
+     epoch 2, minibatch 5000/5000, test error of best model 67.046667 %
+epoch 3, minibatch 5000/5000, validation error 65.360000 %
+     epoch 3, minibatch 5000/5000, test error of best model 65.146667 %
+epoch 4, minibatch 5000/5000, validation error 65.300000 %
+     epoch 4, minibatch 5000/5000, test error of best model 65.830000 %
+epoch 5, minibatch 5000/5000, validation error 70.460000 %
+[ 1.39620614  3.77575731  3.61506391]
+[ 1.  4.  5.]
+[[  7.28171527e-01   5.76900780e-01  -6.51224852e-02   4.06500846e-01
+    1.02775142e-01  -1.01512432e+00  -8.74498546e-01  -5.24724554e-03
+   -6.41398057e-02  -1.16909444e+00  -5.8122The code for file btdv-tanh-15.py ran for 1.12m
+1461e-01  -1.54309012e-02
+    1.81269062e+00   7.30828047e-02  -5.68544686e-01]
+ [ -1.67479360e+00  -8.87291253e-01  -1.25904655e+00   5.21214724e-01
+   -2.24216685e-01  -2.46183559e-01  -4.96338665e-01   4.91730660e-01
+    1.70871830e+00  -4.09185708e-01   1.11195631e-01   3.18080395e-01
+   -6.65503597e+00  -6.85984731e-01   4.15368341e-02]
+ [  3.79372150e-01   7.08463371e-01   6.99869812e-01   3.27766806e-01
+   -7.87634790e-01  -3.77384812e-01   9.02235508e-02   4.40913826e-01
+   -4.32514071e-01  -1.59574330e-01   2.92715758e-01  -4.92919654e-01
+    4.07004833e+00   4.89504710e-02  -3.55610579e-01]
+ [ -9.83182967e-01   6.91254213e-02  -5.18558800e-01   1.85747743e-02
+    2.93335944e-01   4.38262187e-02  -2.36372754e-01   3.62056702e-01
+    5.32200396e-01  -2.32599542e-01   2.07704246e-01   1.22850396e-01
+   -5.50692749e+00  -4.16153163e-01   1.51687288e+00]
+ [  5.75324774e-01   2.38127738e-01   1.05596371e-02   4.78313833e-01
+   -1.48774862e-01   6.86405525e-02  -1.15031349e-02  -9.31477249e-02
+   -8.16109657e-01  -3.50475833e-02  -1.78132802e-01  -8.10744524e-01
+    4.75298786e+00  -5.86690187e-01  -9.24190700e-01]
+ [  1.24199855e+00  -1.62096843e-01   1.22570360e+00   4.06045258e-01
+   -3.63637984e-01   2.27646753e-02   2.45681822e-01  -2.37292856e-01
+    2.06666201e-01  -1.57879405e-02  -2.37879843e-01  -2.45508492e-01
+    2.45655990e+00  -6.04823470e-01   1.58448860e-01]
+ [  4.78124678e-01   7.68172622e-01   6.80671453e-01   2.21971303e-01
+    4.50362027e-01   2.79500276e-01   1.73670799e-01   3.53444934e-01
+    7.16625601e-02  -3.30875069e-01   6.57699332e-02   1.27223119e-01
+    1.26980543e+00   5.33452742e-02  -4.12384033e-01]
+ [  1.90333217e-01  -6.00584075e-02  -6.02491260e-01   4.41234082e-01
+   -1.30334660e-01   4.99896221e-02  -3.50300893e-02  -3.04566137e-02
+   -2.44163707e-01  -6.65896386e-02  -1.58181682e-01   1.44261464e-01
+    5.82148850e-01  -3.72640371e-01  -1.98423475e-01]
+ [  2.64107324e-02  -6.55243099e-02  -3.94745953e-02   3.35502744e-01
+   -4.47033532e-03  -3.05679487e-03   4.08049347e-03   2.97261447e-01
+   -5.74351773e-02   2.90932674e-02  -1.75264608e-02  -1.45308465e-01
+    1.95181724e-02   1.79712445e-01  -3.73087302e-02]
+ [ -3.42240743e-02  -1.00678302e-01   2.40537897e-01  -6.08163513e-02
+   -2.90354574e-03   1.74540997e-01  -4.58444983e-01   5.10418832e-01
+   -9.43997651e-02   2.53984034e-01  -4.38434005e-01   3.95798087e-01
+    3.43673341e-02  -1.48623645e-01  -5.46143875e-02]]
+[-0.48453841  0.14620489  0.74828774  0.75509256 -0.40390411  0.33726457
+  0.76389402  0.52438557 -0.56604481  0.99900359 -0.02180966  0.28111872
+  0.47106019 -0.5079267   0.30523559]
+[[-0.44647563  1.89863539 -0.5448131 ]
+ [ 0.46313184  1.33628571 -0.25637603]
+ [ 0.00634794  0.8735584   0.77413923]
+ [ 1.36876416  0.94776797  1.00708878]
+ [-0.77212983 -1.57298768 -0.2115999 ]
+ [-1.4990468  -0.58777559  0.18286355]
+ [-1.54042363  0.05134039 -0.74890101]
+ [ 0.7404592   0.7021926   0.97389972]
+ [ 1.18881619 -2.11506844 -0.59646291]
+ [-2.36510897  0.87464964  0.31663182]
+ [-0.63798153 -0.04067968 -0.48436201]
+ [-0.45459738 -1.09294391  0.30230293]
+ [ 0.74775201 -6.27090788 -0.12688039]
+ [-0.46809313 -1.01550782 -0.99195999]
+ [ 0.11025013 -2.14895916 -0.25549501]]
+[ 0.94434881  1.00418115  1.14961171]
+Optimization complete. (with seed: 119) Best validation score of 65.300000 % obtained at iteration 20000, with test performance 65.830000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 75.530000 %
+     epoch 1, minibatch 5000/5000, test error of best model 75.876667 %
+epoch 2, minibatch 5000/5000, validation error 70.830000 %
+     epoch 2, minibatch 5000/5000, test error of best model 70.253333 %
+epoch 3, minibatch 5000/5000, validation error 70.366667 %
+     epoch 3, minibatch 5000/5000, test error of best model 70.056667 %
+epoch 4, minibatch 5000/5000, validation error 67.890000 %
+     epoch 4, minibatch 5000/5000, test error of best model 68.780000 %
+epoch 5, minibatch 5000/5000, validation error 66.173333 %
+     epoch 5, minibatch 5000/5000, test error of best model 66.206667 %
+epoch 6, minibatch 5000/5000, validation error 70.493333 %
+epoch 7, minibatch 5000/5000, validation error 65.346667 %
+     epoch 7, minibatch 5000/5000, test error of best model 66.090000 %
+epoch 8, minibatch 5000/5000, validation error 57.026667 %
+     epoch 8, minibatch 5000/5000, test error of best model 57.156667 %
+epoch 9, minibatch 5000/5000, validation error 52.416667 %
+     epoch 9, minibatch 5000/5000, test error of best model 52.193333 %
+epoch 10, minibatch 5000/5000, validation error 49.723333 %
+     epoch 10, minibatch 5000/5000, test error of best model 49.546667 %
+epoch 11, minibatch 5000/5000, validation error 48.240000 %
+     epoch 11, minibatch 5000/5000, test error of best model 48.163333 %
+epoch 12, minibatch 5000/5000, validation error 47.530000 %
+     epoch 12, minibatch 5000/5000, test error of best model 47.203333 %
+epoch 13, minibatch 5000/5000, validation error 47.070000 %
+     epoch 13, minibatch 5000/5000, test error of best model 46.903333 %
+epoch 14, minibatch 5000/5000, validation error 45.590000 %
+     epoch 14, minibatch 5000/5000, test error of best model 45.393333 %
+epoch 15, minibatch 5000/5000, validation error 43.736667 %
+     epoch 15, minibatch 5000/5000, test error of best model 43.683333 %
+epoch 16, minibatch 5000/5000, validation error 42.193333 %
+     epoch 16, minibatch 5000/5000, test error of best model 42.543333 %
+epoch 17, minibatch 5000/5000, validation error 40.916667 %
+     epoch 17, minibatch 5000/5000, test error of best model 41.293333 %
+epoch 18, minibatch 5000/5000, validation error 38.700000 %
+     epoch 18, minibatch 5000/5000, test error of best model 39.106667 %
+epoch 19, minibatch 5000/5000, validation error 37.843333 %
+     epoch 19, minibatch 5000/5000, test error of best model 37.970000 %
+epoch 20, minibatch 5000/5000, validation error 36.150000 %
+     epoch 20, minibatch 5000/5000, test error of best model 36.556667 %
+epoch 21, minibatch 5000/5000, validation error 35.190000 %
+     epoch 21, minibatch 5000/5000, test error of best model 35.620000 %
+epoch 22, minibatch 5000/5000, validation error 34.633333 %
+     epoch 22, minibatch 5000/5000, test error of best model 35.323333 %
+epoch 23, minibatch 5000/5000, validation error 34.016667 %
+     epoch 23, minibatch 5000/5000, test error of best model 34.826667 %
+epoch 24, minibatch 5000/5000, validation error 33.120000 %
+     epoch 24, minibatch 5000/5000, test error of best model 34.000000 %
+epoch 25, minibatch 5000/5000, validation error 32.466667 %
+     epoch 25, minibatch 5000/5000, test error of best model 33.446667 %
+epoch 26, minibatch 5000/5000, validation error 32.020000 %
+     epoch 26, minibatch 5000/5000, test error of best model 32.886667 %
+epoch 27, minibatch 5000/5000, validation error 31.626667 %
+     epoch 27, minibatch 5000/5000, test error of best model 32.436667 %
+epoch 28, minibatch 5000/5000, validation error 31.100000 %
+     epoch 28, minibatch 5000/5000, test error of best model 31.933333 %
+epoch 29, minibatch 5000/5000, validation error 30.580000 %
+     epoch 29, minibatch 5000/5000, test error of best model 31.516667 %
+epoch 30, minibatch 5000/5000, validation error 29.836667 %
+     epoch 30, minibatch 5000/5000, test error of best model 30.710000 %
+epoch 31, minibatch 5000/5000, validation error 29.343333 %
+     epoch 31, minibatch 5000/5000, test error of best model 30.173333 %
+epoch 32, minibatch 5000/5000, validation error 28.786667 %
+     epoch 32, minibatch 5000/5000, test error of best model 29.596667 %
+epoch 33, minibatch 5000/5000, validation error 28.303333 %
+     epoch 33, minibatch 5000/5000, test error of best model 29.110000 %
+epoch 34, minibatch 5000/5000, validation error 27.860000 %
+     epoch 34, minibatch 5000/5000, test error of best model 28.576667 %
+epoch 35, minibatch 5000/5000, validation error 27.640000 %
+     epoch 35, minibatch 5000/5000, test error of best model 28.400000 %
+epoch 36, minibatch 5000/5000, validation error 27.196667 %
+     epoch 36, minibatch 5000/5000, test error of best model 27.930000 %
+epoch 37, minibatch 5000/5000, validation error 26.956667 %
+     epoch 37, minibatch 5000/5000, test error of best model 27.596667 %
+epoch 38, minibatch 5000/5000, validation error 26.610000 %
+     epoch 38, minibatch 5000/5000, test error of best model 27.236667 %
+epoch 39, minibatch 5000/5000, validation error 26.403333 %
+     epoch 39, minibatch 5000/5000, test error of best model 27.013333 %
+epoch 40, minibatch 5000/5000, validation error 26.293333 %
+     epoch 40, minibatch 5000/5000, test error of best model 26.950000 %
+epoch 41, minibatch 5000/5000, validation error 26.083333 %
+     epoch 41, minibatch 5000/5000, test error of best model 26.750000 %
+epoch 42, minibatch 5000/5000, validation error 25.913333 %
+     epoch 42, minibatch 5000/5000, test error of best model 26.606667 %
+epoch 43, minibatch 5000/5000, validation error 25.906667 %
+     epoch 43, minibatch 5000/5000, test error of best model 26.626667 %
+epoch 44, minibatch 5000/5000, validation error 25.753333 %
+     epoch 44, minibatch 5000/5000, test error of best model 26.513333 %
+epoch 45, minibatch 5000/5000, validation error 25.733333 %
+     epoch 45, minibatch 5000/5000, test error of best model 26.446667 %
+epoch 46, minibatch 5000/5000, validation error 25.676667 %
+     epoch 46, minibatch 5000/5000, test error of best model 26.300000 %
+epoch 47, minibatch 5000/5000, validation error 25.643333 %
+     epoch 47, minibatch 5000/5000, test error of best model 26.216667 %
+epoch 48, minibatch 5000/5000, validation error 25.536667 %
+     epoch 48, minibatch 5000/5000, test error of best model 26.086667 %
+epoch 49, minibatch 5000/5000, validation error 25.450000 %
+     epoch 49, minibatch 5000/5000, test error of best model 25.996667 %
+epoch 50, minibatch 5000/5000, validation error 25.436667 %
+     epoch 50, minibatch 5000/5000, test error of best model 25.963333 %
+epoch 51, minibatch 5000/5000, validation error 25.393333 %
+     epoch 51, minibatch 5000/5000, test error of best model 25.936667 %
+epoch 52, minibatch 5000/5000, validation error 25.153333 %
+     epoch 52, minibatch 5000/5000, test error of best model 25.663333 %
+epoch 53, minibatch 5000/5000, validation error 25.146667 %
+     epoch 53, minibatch 5000/5000, test error of best model 25.673333 %
+epoch 54, minibatch 5000/5000, validation error 25.203333 %
+epoch 55, minibatch 5000/5000, validation error 25.223333 %
+epoch 56, minibatch 5000/5000, validation error 25.183333 %
+epoch 57, minibatch 5000/5000, validation error 25.040000 %
+     epoch 57, minibatch 5000/5000, test error of best model 25.510000 %
+epoch 58, minibatch 5000/5000, validation error 25.176667 %
+epoch 59, minibatch 5000/5000, validation error 25.120000 %
+epoch 60, minibatch 5000/5000, validation error 25.076667 %
+epoch 61, minibatch 5000/5000, validation error 25.346667 %
+epoch 62, minibatch 5000/5000, validation error 25.663333 %
+epoch 63, minibatch 5000/5000, validation error 25.653333 %
+epoch 64, minibatch 5000/5000, validation error 25.376667 %
+epoch 65, minibatch 5000/5000, validation error 25.276667 %
+epoch 66, minibatch 5000/5000, validation error 25.330000 %
+epoch 67, minibatch 5000/5000, validation error 25.306667 %
+epoch 68, minibatch 5000/5000, validation error 25.356667 %
+epoch 69, minibatch 5000/5000, validation error 25.303333 %
+epoch 70, minibatch 5000/5000, validation error 25.206667 %
+epoch 71, minibatch 5000/5000, validation error 25.100000 %
+epoch 72, minibatch 5000/5000, validation error 25.150000 %
+epoch 73, minibatch 5000/5000, validation error 25.046667 %
+epoch 74, minibatch 5000/5000, validation error 25.000000 %
+     epoch 74, minibatch 5000/5000, test error of best model 25.506667 %
+epoch 75, minibatch 5000/5000, validation error 25.063333 %
+epoch 76, minibatch 5000/5000, validation error 25.086667 %
+epoch 77, minibatch 5000/5000, validation error 25.006667 %
+epoch 78, minibatch 5000/5000, validation error 25.003333 %
+epoch 79, minibatch 5000/5000, validation error 24.983333 %
+     epoch 79, minibatch 5000/5000, test error of best model 25.550000 %
+epoch 80, minibatch 5000/5000, validation error 25.003333 %
+epoch 81, minibatch 5000/5000, validation error 24.910000 %
+     epoch 81, minibatch 5000/5000, test error of best model 25.460000 %
+epoch 82, minibatch 5000/5000, validation error 24.916667 %
+epoch 83, minibatch 5000/5000, validation error 24.873333 %
+     epoch 83, minibatch 5000/5000, test error of best model 25.466667 %
+epoch 84, minibatch 5000/5000, validation error 24.896667 %
+epoch 85, minibatch 5000/5000, validation error 24.823333 %
+     epoch 85, minibatch 5000/5000, test error of best model 25.396667 %
+epoch 86, minibatch 5000/5000, validation error 24.826667 %
+epoch 87, minibatch 5000/5000, validation error 24.893333 %
+epoch 88, minibatch 5000/5000, validation error 24.906667 %
+epoch 89, minibatch 5000/5000, validation error 25.010000 %
+epoch 90, minibatch 5000/5000, validation error 24.946667 %
+epoch 91, minibatch 5000/5000, validation error 25.080000 %
+epoch 92, minibatch 5000/5000, validation error 25.040000 %
+epoch 93, minibatch 5000/5000, validation error 24.926667 %
+epoch 94, minibatch 5000/5000, validation error 25.040000 %
+epoch 95, minibatch 5000/5000, validation error 24.973333 %
+epoch 96, minibatch 5000/5000, validation error 24.873333 %
+epoch 97, minibatch 5000/5000, validation error 24.796667 %
+     epoch 97, minibatch 5000/5000, test error of best model 25.350000 %
+epoch 98, minibatch 5000/5000, validation error 24.770000 %
+     epoch 98, minibatch 5000/5000, test error of best model 25.340000 %
+epoch 99, minibatch 5000/5000, validation error 24.520000 %
+     epoch 99, minibatch 5000/5000, test error of best model 24.976667 %
+epoch 100, minibatch 5000/5000, validation error 24.466667 %
+     epoch 100, minibatch 5000/5000, test error of best model 24.886667 %
+epoch 101, minibatch 5000/5000, validation error 24.480000 %
+epoch 102, minibatch 5000/5000, validation error 24.523333 %
+epoch 103, minibatch 5000/5000, validation error 24.596667 %
+epoch 104, minibatch 5000/5000, validation error 24.760000 %
+epoch 105, minibatch 5000/5000, validation error 24.693333 %
+epoch 106, minibatch 5000/5000, validation error 24.666667 %
+epoch 107, minibatch 5000/5000, validation error 24.593333 %
+epoch 108, minibatch 5000/5000, validation error 24.530000 %
+epoch 109, minibatch 5000/5000, validation error 24.536667 %
+epoch 110, minibatch 5000/5000, validation error 24.526667 %
+epoch 111, minibatch 5000/5000, validation error 24.466667 %
+epoch 112, minibatch 5000/5000, validation error 24.360000 %
+     epoch 112, minibatch 5000/5000, test error of best model 24.890000 %
+epoch 113, minibatch 5000/5000, validation error 24.286667 %
+     epoch 113, minibatch 5000/5000, test error of best model 24.860000 %
+epoch 114, minibatch 5000/5000, validation error 24.283333 %
+     epoch 114, minibatch 5000/5000, test error of best model 24.876667 %
+epoch 115, minibatch 5000/5000, validation error 24.236667 %
+     epoch 115, minibatch 5000/5000, test error of best model 24.816667 %
+epoch 116, minibatch 5000/5000, validation error 24.256667 %
+epoch 117, minibatch 5000/5000, validation error 24.176667 %
+     epoch 117, minibatch 5000/5000, test error of best model 24.753333 %
+epoch 118, minibatch 5000/5000, validation error 24.040000 %
+     epoch 118, minibatch 5000/5000, test error of best model 24.600000 %
+epoch 119, minibatch 5000/5000, validation error 23.960000 %
+     epoch 119, minibatch 5000/5000, test error of best model 24.503333 %
+epoch 120, minibatch 5000/5000, validation error 23.890000 %
+     epoch 120, minibatch 5000/5000, test error of best model 24.440000 %
+epoch 121, minibatch 5000/5000, validation error 23.853333 %
+     epoch 121, minibatch 5000/5000, test error of best model 24.370000 %
+epoch 122, minibatch 5000/5000, validation error 23.893333 %
+epoch 123, minibatch 5000/5000, validation error 23.933333 %
+epoch 124, minibatch 5000/5000, validation error 23.873333 %
+epoch 125, minibatch 5000/5000, validation error 23.756667 %
+     epoch 125, minibatch 5000/5000, test error of best model 24.280000 %
+epoch 126, minibatch 5000/5000, validation error 23.723333 %
+     epoch 126, minibatch 5000/5000, test error of best model 24.223333 %
+epoch 127, minibatch 5000/5000, validation error 23.753333 %
+epoch 128, minibatch 5000/5000, validation error 23.780000 %
+epoch 129, minibatch 5000/5000, validation error 23.753333 %
+epoch 130, minibatch 5000/5000, validation error 23.803333 %
+epoch 131, minibatch 5000/5000, validation error 23.730000 %
+epoch 132, minibatch 5000/5000, validation error 23.616667 %
+     epoch 132, minibatch 5000/5000, test error of best model 24.226667 %
+epoch 133, minibatch 5000/5000, validation error 23.450000 %
+     epoch 133, minibatch 5000/5000, test error of best model 24.046667 %
+epoch 134, minibatch 5000/5000, validation error 23.460000 %
+epoch 135, minibatch 5000/5000, validation error 23.413333 %
+     epoch 135, minibatch 5000/5000, test error of best model 23.976667 %
+epoch 136, minibatch 5000/5000, validation error 23.106667 %
+     epoch 136, minibatch 5000/5000, test error of best model 23.523333 %
+epoch 137, minibatch 5000/5000, validation error 23.096667 %
+     epoch 137, minibatch 5000/5000, test error of best model 23.546667 %
+epoch 138, minibatch 5000/5000, validation error 22.673333 %
+     epoch 138, minibatch 5000/5000, test error of best model 23.213333 %
+epoch 139, minibatch 5000/5000, validation error 22.660000 %
+     epoch 139, minibatch 5000/5000, test error of best model 23.273333 %
+epoch 140, minibatch 5000/5000, validation error 22.630000 %
+     epoch 140, minibatch 5000/5000, test error of best model 23.273333 %
+epoch 141, minibatch 5000/5000, validation error 22.533333 %
+     epoch 141, minibatch 5000/5000, test error of best model 23.230000 %
+epoch 142, minibatch 5000/5000, validation error 22.486667 %
+     epoch 142, minibatch 5000/5000, test error of best model 23.250000 %
+epoch 143, minibatch 5000/5000, validation error 22.596667 %
+epoch 144, minibatch 5000/5000, validation error 22.583333 %
+epoch 145, minibatch 5000/5000, validation error 22.670000 %
+epoch 146, minibatch 5000/5000, validation error 22.593333 %
+epoch 147, minibatch 5000/5000, validation error 22.576667 %
+epoch 148, minibatch 5000/5000, validation error 22.590000 %
+epoch 149, minibatch 5000/5000, validation error 22.623333 %
+epoch 150, minibatch 5000/5000, validation error 22.566667 %
+epoch 151, minibatch 5000/5000, validation error 22.680000 %
+epoch 152, minibatch 5000/5000, validation error 22.723333 %
+epoch 153, minibatch 5000/5000, validation error 22.716667 %
+epoch 154, minibatch 5000/5000, validation error 22.733333 %
+epoch 155, minibatch 5000/5000, validation error 22.703333 %
+epoch 156, minibatch 5000/5000, validation error 22.610000 %
+epoch 157, minibatch 5000/5000, validation error 22.583333 %
+epoch 158, minibatch 5000/5000, validation error 22.576667 %
+epoch 159, minibatch 5000/5000, validation error 22.676667 %
+epoch 160, minibatch 5000/5000, validation error 22.630000 %
+epoch 161, minibatch 5000/5000, validation error 22.593333 %
+epoch 162, minibatch 5000/5000, validation error 22.550000 %
+epoch 163, minibatch 5000/5000, validation error 22.490000 %
+epoch 164, minibatch 5000/5000, validation error 22.506667 %
+epoch 165, minibatch 5000/5000, validation error 22.536667 %
+epoch 166, minibatch 5000/5000, validation error 22.576667 %
+epoch 167, minibatch 5000/5000, validation error 22.520000 %
+epoch 168, minibatch 5000/5000, validation error 22.536667 %
+epoch 169, minibatch 5000/5000, validation error 22.460000 %
+     epoch 169, minibatch 5000/5000, test error of best model 23.086667 %
+epoch 170, minibatch 5000/5000, validation error 22.456667 %
+     epoch 170, minibatch 5000/5000, test error of best model 23.066667 %
+epoch 171, minibatch 5000/5000, validation error 22.430000 %
+     epoch 171, minibatch 5000/5000, test error of best model 23.056667 %
+epoch 172, minibatch 5000/5000, validation error 22.446667 %
+epoch 173, minibatch 5000/5000, validation error 22.436667 %
+epoch 174, minibatch 5000/5000, validation error 22.370000 %
+     epoch 174, minibatch 5000/5000, test error of best model 23.013333 %
+epoch 175, minibatch 5000/5000, validation error 22.366667 %
+     epoch 175, minibatch 5000/5000, test error of best model 22.973333 %
+epoch 176, minibatch 5000/5000, validation error 22.263333 %
+     epoch 176, minibatch 5000/5000, test error of best model 22.846667 %
+epoch 177, minibatch 5000/5000, validation error 22.216667 %
+     epoch 177, minibatch 5000/5000, test error of best model 22.770000 %
+epoch 178, minibatch 5000/5000, validation error 22.273333 %
+epoch 179, minibatch 5000/5000, validation error 22.320000 %
+epoch 180, minibatch 5000/5000, validation error 22.153333 %
+     epoch 180, minibatch 5000/5000, test error of best model 22.763333 %
+epoch 181, minibatch 5000/5000, validation error 22.133333 %
+     epoch 181, minibatch 5000/5000, test error of best model 22.723333 %
+epoch 182, minibatch 5000/5000, validation error 22.330000 %
+epoch 183, minibatch 5000/5000, validation error 22.293333 %
+epoch 184, minibatch 5000/5000, validation error 22.346667 %
+epoch 185, minibatch 5000/5000, validation error 22.423333 %
+epoch 186, minibatch 5000/5000, validation error 22.566667 %
+epoch 187, minibatch 5000/5000, validation error 22.480000 %
+epoch 188, minibatch 5000/5000, validation error 22.463333 %
+epoch 189, minibatch 5000/5000, validation error 22.496667 %
+epoch 190, minibatch 5000/5000, validation error 22.463333 %
+epoch 191, minibatch 5000/5000, validation error 22.436667 %
+epoch 192, minibatch 5000/5000, validation error 22.433333 %
+epoch 193, minibatch 5000/5000, validation error 22.400000 %
+epoch 194, minibatch 5000/5000, validation error 22.533333 %
+epoch 195, minibatch 5000/5000, validation error 22.560000 %
+epoch 196, minibatch 5000/5000, validation error 22.546667 %
+epoch 197, minibatch 5000/5000, validation error 22.576667 %
+epoch 198, minibatch 5000/5000, validation error 22.576667 %
+epoch 199, minibatch 5000/5000, validation error 22.456667 %
+epoch 200, minibatch 5000/5000, validation error 22.456667 %
+epoch 201, minibatch 5000/5000, validation error 22.486667 %
+epoch 202, minibatch 5000/5000, validation error 22.460000 %
+epoch 203, minibatch 5000/5000, validation error 22.216667 %
+epoch 204, minibatch 5000/5000, validation error 22.233333 %
+epoch 205, minibatch 5000/5000, validation error 22.170000 %
+epoch 206, minibatch 5000/5000, validation error 22.086667 %
+     epoch 206, minibatch 5000/5000, test error of best model 22.586667 %
+epoch 207, minibatch 5000/5000, validation error 22.173333 %
+epoch 208, minibatch 5000/5000, validation error 22.186667 %
+epoch 209, minibatch 5000/5000, validation error 22.326667 %
+epoch 210, minibatch 5000/5000, validation error 22.306667 %
+epoch 211, minibatch 5000/5000, validation error 22.313333 %
+epoch 212, minibatch 5000/5000, validation error 22.280000 %
+epoch 213, minibatch 5000/5000, validation error 22.250000 %
+epoch 214, minibatch 5000/5000, validation error 22.290000 %
+epoch 215, minibatch 5000/5000, validation error 22.306667 %
+epoch 216, minibatch 5000/5000, validation error 22.396667 %
+epoch 217, minibatch 5000/5000, validation error 22.356667 %
+epoch 218, minibatch 5000/5000, validation error 22.350000 %
+epoch 219, minibatch 5000/5000, validation error 22.266667 %
+epoch 220, minibatch 5000/5000, validation error 22.323333 %
+epoch 221, minibatch 5000/5000, validation error 22.403333 %
+epoch 222, minibatch 5000/5000, validation error 22.403333 %
+epoch 223, minibatch 5000/5000, validation error 22.376667 %
+epoch 224, minibatch 5000/5000, validation error 22.433333 %
+epoch 225, minibatch 5000/5000, validation error 22.433333 %
+epoch 226, minibatch 5000/5000, validation error 22.420000 %
+epoch 227, minibatch 5000/5000, validation error 22.390000 %
+epoch 228, minibatch 5000/5000, validation error 22.360000 %
+epoch 229, minibatch 5000/5000, validation error 22.346667 %
+epoch 230, minibatch 5000/5000, validation error 22.346667 %
+epoch 231, minibatch 5000/5000, validation error 22.240000 %
+epoch 232, minibatch 5000/5000, validation error 22.220000 %
+epoch 233, minibatch 5000/5000, validation error 22.220000 %
+epoch 234, minibatch 5000/5000, validation error 22.250000 %
+epoch 235, minibatch 5000/5000, validation error 22.330000 %
+epoch 236, minibatch 5000/5000, validation error 22.353333 %
+epoch 237, minibatch 5000/5000, validation error 22.353333 %
+epoch 238, minibatch 5000/5000, validation error 22.353333 %
+epoch 239, minibatch 5000/5000, validation error 22.413333 %
+epoch 240, minibatch 5000/5000, validation error 22.363333 %
+epoch 241, minibatch 5000/5000, validation error 22.316667 %
+epoch 242, minibatch 5000/5000, validation error 22.333333 %
+epoch 243, minibatch 5000/5000, validation error 22.366667 %
+epoch 244, minibatch 5000/5000, validation error 22.366667 %
+epoch 245, minibatch 5000/5000, validation error 22.400000 %
+epoch 246, minibatch 5000/5000, validation error 22.400000 %
+epoch 247, minibatch 5000/5000, validation error 22.443333 %
+epoch 248, minibatch 5000/5000, validation error 22.443333 %
+epoch 249, minibatch 5000/5000, validation error 22.443333 %
+epoch 250, minibatch 5000/5000, validation error 22.443333 %
+epoch 251, minibatch 5000/5000, validation error 22.443333 %
+epoch 252, minibatch 5000/5000, validation error 22.440000 %
+epoch 253, minibatch 5000/5000, validation error 22.413333 %
+epoch 254, minibatch 5000/5000, validation error 22.413333 %
+epoch 255, minibatch 5000/5000, validation error 22.396667 %
+epoch 256, minibatch 5000/5000, validation error 22.360000 %
+epoch 257, minibatch 5000/5000, validation error 22.423333 %
+epoch 258, minibatch 5000/5000, validation error 22.423333 %
+epoch 259, minibatch 5000/5000, validation error 22.443333 %
+epoch 260, minibatch 5000/5000, validation error 22.443333 %
+epoch 261, minibatch 5000/5000, validation error 22.443333 %
+epoch 262, minibatch 5000/5000, validation error 22.443333 %
+epoch 263, minibatch 5000/5000, validation error 22.443333 %
+epoch 264, minibatch 5000/5000, validation error 22.470000 %
+epoch 265, minibatch 5000/5000, validation error 22.470000 %
+epoch 266, minibatch 5000/5000, validation error 22.470000 %
+epoch 267, minibatch 5000/5000, validation error 22.470000 %
+epoch 268, minibatch 5000/5000, validation error 22.470000 %
+epoch 269, minibatch 5000/5000, validation error 22.470000 %
+epoch 270, minibatch 5000/5000, validation error 22.490000 %
+epoch 271, minibatch 5000/5000, validation error 22.433333 %
+epoch 272, minibatch 5000/5000, validation error 22.433333 %
+epoch 273, minibatch 5000/5000, validation error 22.433333 %
+epoch 274, minibatch 5000/5000, validation error 22.386667 %
+epoch 275, minibatch 5000/5000, validation error 22.423333 %
+[ 1.04804516  3.72502136  4.71954155]
+[ 1.  4.  5.]
+[[ -1.28013504e+00   1.61612117e+00   4.27264661e-01  -3.42851305e+00
+   -5.22515953e-01   2.57513833e+00  -2.95499973e-02   1.76062536e+00
+    2.46503219e-01  -2.07683265e-01   2.29442239e+00  -5.54107726e-01
+    4.54770446e-01   1.99725628e-02  -3.32407594e-01]
+ [  4.90166283e+00  -1.59907055e+00  -7.36734748e-01   1.30044041e+01
+   -1.97483504e+00  -5.05546761e+00  -7.90500734e-03   2.65392847e-02
+   -5.02754748e-01  -1.97122589e-01  -4.52195358e+00   2.22566649e-02
+   -7.68710256e-01  -6.34613261e-02  -2.17090464e+00]
+ [ -3.06640577e+00   1.68794167e+00  -4.39205408e-01  -8.18126011e+00
+    7.20418930e-01  -2.58466721e+00   4.92200047e-01   6.34948313e-01
+    3.55955839e-01   2.35265470e+00  -2.30870581e+00   4.96420830e-01
+   -4.67624903e-01   4.19472493e-02   7.36402497e-02]
+ [  4.09840441e+00   1.20396624e+01  -1.57856393e+00   1.07241125e+01
+   -4.63725537e-01   5.04070187e+00  -3.76539081e-01   3.80657148e-03
+    2.85325027e+00  -7.13832825e-02   4.54092216e+00  -3.28561097e-01
+    3.25958872e+00  -1.87061214e+00   1.42750129e-01]
+ [ -3.54465079e+00   1.76442230e+00   4.40665573e-01  -9.39414501e+00
+   -1.33482599e+00   2.58213854e+00  -1.22404969e+00   1.39297396e-02
+    4.11879897e-01  -1.89110786e-02   2.33086681e+00  -1.59549034e+00
+    4.57358599e-01   2.85861284e-01   1.21947318e-01]
+ [ -1.72230279e+00   1.44530737e+00  -8.29868317e-01  -4.79252005e+00
+    1.46098578e+00  -5.12899160e+00  -6.90398037e-01   2.78761256e-02
+    1.45243466e-01  -4.25315976e-01  -4.59035349e+00  -9.93296444e-01
+   -8.87635708e-01   1.14381157e-01   1.95249379e-01]
+ [ -7.98999190e-01   1.50135660e+00  -4.29310620e-01  -2.26387453e+00
+    1.51249814e+00  -2.57567The code for file btdv-tanh-15.py ran for 50.96m
+763e+00  -1.14433616e-01  -3.85724865e-02
+    1.93742752e-01   1.31756112e-01  -2.33605719e+00  -1.43075272e-01
+   -4.48515236e-01  -2.44248003e-01  -1.33776620e-01]
+ [ -5.20581663e-01   1.65467787e+00   8.29000354e-01  -1.18682826e+00
+   -2.05946374e+00   5.12258005e+00  -2.04948139e+00  -1.09764263e-02
+    1.01239130e-01  -7.54904568e-01   4.58933592e+00   2.19817209e+00
+    8.79451752e-01   1.16921164e-01  -1.02480315e-02]
+ [ -3.62609923e-02   1.65897254e-02   4.20695245e-01  -3.36030088e-02
+    1.18157052e-01   2.57837868e+00  -3.56608480e-02   7.35358009e-03
+    1.08839041e-02   7.02042272e-03   2.30296779e+00  -2.68449262e-02
+    4.53493297e-01  -9.52849537e-03  -1.18422518e-02]
+ [  8.35187361e-03  -1.19980983e-02   1.75841287e-01  -5.56058763e-03
+   -2.73357965e-02   1.74896941e-01   1.21267103e-02   8.56979191e-03
+    8.90106149e-03  -7.63945654e-03   1.33801043e-01   2.11281199e-02
+    1.92268729e-01  -4.39031571e-02   1.37873332e-03]]
+[ -0.318167    -9.21049404   0.30261222  -0.78913748   2.81957364
+   1.32249165   1.53760493  -1.2179898   -1.69724083  -0.51512122
+ -10.49873447  -0.12514389  -2.14730883   0.5803256    1.02996647]
+[[ 0.34932235 -3.76186728 -0.10456709]
+ [ 0.71411335 -7.06904125  0.03441675]
+ [-0.11101661 -0.15572512  7.68532753]
+ [-0.81874448  8.30303097  0.03751314]
+ [-0.05769334  0.43986052 -0.07014896]
+ [ 0.02964736  0.34504917 -6.49040985]
+ [-0.06820575 -2.70338655  0.03527926]
+ [ 3.55816889  0.61373496  0.01043764]
+ [-0.15058963  3.9475162   0.083308  ]
+ [-0.04687781  2.03447866  0.02501581]
+ [ 0.02783341  0.38524345 -6.71925354]
+ [-0.05952775 -1.94691026  0.09537213]
+ [-0.09940127 -0.05177501  7.16290092]
+ [ 0.06383137 -2.17520571 -0.60204124]
+ [-1.82046163  1.95726645  0.39167669]]
+[ 4.47503662  4.12434149  3.8525188 ]
+Optimization complete. (with seed: 120) Best validation score of 22.086667 % obtained at iteration 1030000, with test performance 22.586667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 78.863333 %
+     epoch 1, minibatch 5000/5000, test error of best model 79.346667 %
+epoch 2, minibatch 5000/5000, validation error 65.950000 %
+     epoch 2, minibatch 5000/5000, test error of best model 65.746667 %
+epoch 3, minibatch 5000/5000, validation error 63.326667 %
+     epoch 3, minibatch 5000/5000, test error of best model 63.546667 %
+epoch 4, minibatch 5000/5000, validation error 61.233333 %
+     epoch 4, minibatch 5000/5000, test error of best model 61.153333 %
+epoch 5, minibatch 5000/5000, validation error 61.893333 %
+epoch 6, minibatch 5000/5000, validation error 61.486667 %
+epoch 7, minibatch 5000/5000, validation error 63.056667 %
+[ 1.10732377  3.54296374  5.29163742]
+[ 1.  4.  5.]
+[[ -1.49747658e+00  -4.46229249e-01  -4.46905077e-01   1.10725902e-01
+    1.49029231e+00   3.12348962e-01  -5.74532092e-01  -2.45556802e-01
+    4.72122878e-01   5.57368517e-01   4.57206547e-01  -1.26574731e+00
+   -1.66174936e+00   6.48743570e-01   2.05188945e-01]
+ [  1.08574951e+00  -5.71907341e-01   2.32218480e+00   5.81901670e-02
+   -5.54979372e+00   1.77661523e-01  -3.05954099e-01  -1.29007065e+00
+    4.91319388e-01   4.55244452e-01   1.14523697e+00   1.01976943e+00
+    2.16411240e-02   5.36878884e-01   1.52673483e-01]
+ [  3.48853439e-01  -3.67450923e-01  -8.05544138e-01   5.87730885e-01
+    3.45194316e+00  -7.35653102e-01  -8.42440486e-01   2.67861355e-02
+    5.68677425e-01   2.60509066e-02   5.68891287e-01  -1.26145852e+00
+   -6.93912059e-02   2.64623284e-01  -7.25485921e-01]
+ [ -3.14780325e-02  -6.14718795e-01   6.40371799e-01  -2.67466098e-01
+   -4.56985283e+00  -8.79723847e-01   1.16773808e+00  -9.27795768e-01
+    4.68114495e-01   2.44573861e-01   1.13511789e+00   4.51541454e-01
+    3.83128375e-02  -3.56156081e-01   7.65267074e-01]
+ [ -1.26374438e-01  -5.23748994e-01  -1.77438807e+00   5.65583766e-01
+    3.96636510e+00   1.85436308e-01  -1.71719491e+00  -2.27593526e-01
+   -6.86009824e-02  -2.46396989e-01   6.62944555e-01   1.40835106e+00
+    5.38920388e-02  -5.75085059e-02   1.35467339e+00]
+ [  1.74660814e+00  -1.01885296e-01  -3.260110The code for file btdv-tanh-15.py ran for 1.48m
+32e-01  -5.26116043e-02
+    2.06370616e+00  -4.66009885e-01  -2.41615757e-01   2.13221431e-01
+    4.18372452e-01   3.19860876e-01   9.83621716e-01  -1.54946253e-01
+    4.42965329e-02  -1.79428682e-01  -1.91284657e-01]
+ [ -1.04656827e+00   6.40135109e-02  -1.24246173e-01  -1.04467884e-01
+    1.04951811e+00  -6.42200112e-01  -4.48975801e-01   9.83576626e-02
+    2.63890445e-01   9.08376649e-03   4.79365081e-01  -6.40468419e-01
+    3.13269459e-02  -1.12983286e-01   3.59108537e-01]
+ [ -4.07653779e-01  -7.17508644e-02  -2.86777705e-01   6.33766130e-02
+    5.11471331e-01   3.51036698e-01  -1.27217412e-01  -3.60711142e-02
+    4.35035452e-02   1.37192249e-01   7.46956348e-01  -5.30112386e-01
+    1.24469891e-01  -3.92147005e-02   1.44847795e-01]
+ [ -1.62178315e-02  -1.30892619e-01  -3.85786332e-02   2.92376935e-01
+    1.37544721e-02  -5.02742566e-02  -3.74454856e-02   8.40623956e-03
+    7.07250647e-03  -1.35295272e-01  -8.14307481e-02   6.23593922e-04
+    3.83796506e-02   6.61497861e-02  -1.36782113e-03]
+ [ -1.80982389e-02  -2.03328043e-01  -2.11443044e-02   3.19523156e-01
+    2.54780501e-02  -9.77755263e-02   2.79912911e-02  -3.51514295e-02
+   -7.95374632e-01   5.64135492e-01  -1.39753427e-02   1.97032988e-02
+    1.27743930e-01  -8.69006366e-02   4.47399318e-02]]
+[ 0.40923581 -0.71543568  0.174082    0.73680049  0.40660167 -0.52420759
+  1.22430122  1.28292    -0.75471109 -0.72866076  0.43710649  0.11882766
+  0.37522063 -0.36810121  0.96749973]
+[[-0.08180882  1.27716208  0.09938996]
+ [-0.89113659 -0.60798252 -0.43665531]
+ [ 0.19998328 -2.83102703 -0.06743616]
+ [ 1.18792784 -0.00833661  1.0730685 ]
+ [ 0.62986743 -5.9766283  -0.010354  ]
+ [-0.3299033  -1.06061125 -0.37290102]
+ [-0.02762877 -2.71472073 -0.07325574]
+ [-1.51671362  1.82153964 -0.17249157]
+ [ 0.753461   -0.88691056 -0.87038535]
+ [ 1.22754622 -0.94795799  0.48782963]
+ [ 0.42583576  1.20001435  1.33708775]
+ [-0.04993489 -1.81970298 -0.1455501 ]
+ [-2.20511389 -0.50721002  0.03432288]
+ [ 1.625193    0.4058499   0.0671116 ]
+ [ 0.49798217  1.5628196   0.36127779]]
+[ 0.99213642  0.55106121  1.12929177]
+Optimization complete. (with seed: 121) Best validation score of 61.233333 % obtained at iteration 20000, with test performance 61.153333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 78.783333 %
+     epoch 1, minibatch 5000/5000, test error of best model 78.883333 %
+epoch 2, minibatch 5000/5000, validation error 67.336667 %
+     epoch 2, minibatch 5000/5000, test error of best model 67.786667 %
+epoch 3, minibatch 5000/5000, validation error 65.656667 %
+     epoch 3, minibatch 5000/5000, test error of best model 66.060000 %
+epoch 4, minibatch 5000/5000, validation error 64.113333 %
+     epoch 4, minibatch 5000/5000, test error of best model 64.430000 %
+epoch 5, minibatch 5000/5000, validation error 63.596667 %
+     epoch 5, minibatch 5000/5000, test error of best model 63.910000 %
+epoch 6, minibatch 5000/5000, validation error 63.566667 %
+     epoch 6, minibatch 5000/5000, test error of best model 63.846667 %
+epoch 7, minibatch 5000/5000, validation error 68.110000 %
+epoch 8, minibatch 5000/5000, validation error 68.380000 %
+epoch 9, minibatch 5000/5000, validation error 64.970000 %
+[ 1.37811387  3.43786526  5.18063879]
+[ 1.  4.  5.]
+[[ -2.03212190e+00   9.93060321e-02  -4.32651997e-01  -7.19910786e-02
+    4.77586724e-02   2.22249284e-01   3.33673835e-01  -9.88039017e-01
+    1.44569710e-01  -1.15075208e-01  -5.79694629e-01  -4.22403157e-01
+   -5.37634909e-01  -1.45470572e+00  -5.74820578e-01]
+ [  7.51952362e+00  -9.44954634e-01  -8.45821500e-01   9.03959453e-01
+    3.08867723e-01   4.65357184e-01  -1.55438936e+00   3.64889532e-01
+   -4.02763963e-01  -5.82865357e-01  -5.27030289e-01  -5.66758990e-01
+    2.34385300e+00  -6.83196902e-01  -9.98119235e-01]
+ [ -4.63033199e+00  -4.14844871e-01  -6.56147599e-01   4.08399254e-01
+    2.17306763e-01  -4.59678203e-01   1.06112802e+00  -6.66715801e-01
+   -1.15243062e-01  -6.19842172e-01  -4.91212994e-01  -2.93105155e-01
+   -6.89359128e-01  -2.08953351e-01   6.02933645e-01]
+ [  6.2055892The code for file btdv-tanh-15.py ran for 1.87m
+9e+00   4.16402817e-01  -7.21090615e-01   8.48919690e-01
+    3.18632245e-01   1.27967700e-01  -4.19671953e-01   8.55966732e-02
+   -1.34802461e-01  -2.16428444e-01  -1.36809155e-01   1.20509720e+00
+    1.54395032e+00  -6.69867322e-02  -2.80551821e-01]
+ [ -5.31995392e+00  -7.72302896e-02  -5.64147353e-01   1.39012247e-01
+    2.56630421e-01  -6.55357763e-02   2.34724700e-01  -2.58356258e-02
+    1.66126347e+00  -4.40343678e-01  -6.10963665e-02  -9.56870854e-01
+   -1.10697985e+00  -1.18474690e-02   6.14523403e-02]
+ [ -2.82427096e+00   1.01282370e+00  -2.94116884e-01   6.94540501e-01
+    3.45047772e-01  -9.68065709e-02   7.30885863e-01  -1.56896293e-01
+    3.68281268e-02  -5.84284365e-01   1.04952365e-01  -1.68313354e-01
+   -6.94957912e-01  -2.93654613e-02  -4.49513972e-01]
+ [ -1.42796886e+00  -2.88096935e-01  -5.08664012e-01   1.79762214e-01
+   -4.18809295e-01  -1.02243021e-01   8.35050821e-01   9.19851139e-02
+   -1.43265398e-02  -2.06249148e-01  -3.01997095e-01  -3.14622998e-01
+   -3.33407849e-01   4.03552912e-02  -1.64302737e-01]
+ [ -6.77817822e-01   2.84279138e-01  -2.99604237e-01   7.25991905e-01
+   -2.83603072e-01   1.45014539e-01  -5.29290855e-01  -2.60818154e-01
+    4.43185657e-01  -4.83003110e-01   3.19733173e-01  -1.12075545e-01
+   -4.11184222e-01   7.58589134e-02  -5.72402239e-01]
+ [ -2.72135083e-02   8.02777559e-02  -1.10775508e-01  -2.29831859e-01
+    6.61699772e-02   5.22955041e-03   1.03747129e-01  -2.59577669e-02
+   -3.26253660e-02  -4.79168713e-01   7.61599466e-03  -3.11440174e-02
+   -5.16161062e-02  -2.82061612e-03   2.90420931e-02]
+ [ -4.16974612e-02  -1.08791895e-01   2.47551799e-02  -2.55804546e-02
+   -4.25985120e-02   6.67245209e-01   7.13299811e-02  -4.20704708e-02
+   -2.58626901e-02  -4.77209032e-01   5.63431621e-01  -5.63719356e-03
+   -3.30399796e-02  -9.64749530e-02   2.33022362e-01]]
+[-0.49512738 -0.80351931 -0.32433927  0.61908889  0.52596408 -0.40313795
+  0.48952374  0.81882936  0.92981035 -0.80418885  0.42584777  0.74841231
+ -0.15950531  1.22242332  0.78421199]
+[[-0.66429949  6.3798914   0.10764088]
+ [-0.61928141  0.68424404 -0.60642904]
+ [-0.22943991 -1.26600826 -0.39025936]
+ [ 0.41052997  1.18132937  1.02777827]
+ [ 0.95457548  0.43062869  0.56511062]
+ [ 0.96344036 -0.58758956  0.7138266 ]
+ [ 0.04876992  1.25144744  0.54696184]
+ [-1.37652433 -1.75248063 -0.04685298]
+ [ 0.591717    1.59598196  0.15862356]
+ [-1.04486787 -0.99053866 -1.07461369]
+ [-1.40983701  0.13885799  0.82598925]
+ [ 0.37540898 -2.66263008 -0.04845838]
+ [ 0.52127308 -2.84256196 -0.04054574]
+ [-2.50847077  0.74536252 -0.21231063]
+ [-0.87303507  1.56103683  0.13969198]]
+[ 1.11514473  0.6532684   1.07053506]
+Optimization complete. (with seed: 122) Best validation score of 63.566667 % obtained at iteration 30000, with test performance 63.846667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 82.690000 %
+     epoch 1, minibatch 5000/5000, test error of best model 83.523333 %
+epoch 2, minibatch 5000/5000, validation error 70.080000 %
+     epoch 2, minibatch 5000/5000, test error of best model 70.023333 %
+epoch 3, minibatch 5000/5000, validation error 71.413333 %
+[ 1.3423562   2.6606369   4.43678188]
+[ 1.  4.  5.]
+[[ 0.02254248 -0.63854009  0.25486508 -0.12274129  1.04257619  0.22840008
+   1.0480572   0.74317062  0.92097294 -1.11408806 -0.04077491  0.2166822
+  -0.75960129 -0.39139938 -1.02420211]
+ [-0.18225424 -0.48903063 -2.09040117  0.51277554 -0.36590299  0.77909929
+   0.37431061 -0.21185501  0.80400467  0.63424468 -1.05572701  0.09321991
+  -0.582919   -1.28865147  2.56360769]
+ [-1.01784754 -0.09004758  0.89914209  0.15268987  0.11044371 -0.23390721
+  -0.16720609  1.76610875  0.77004373  0.17897241 -0.01611962 -0.54104197
+  -0.285748   -1.45460093 -2.25386596]
+ [ 0.04024534  0.09047589  1.36591995 -0.24389154  0.16452141  0.11155098
+   0.02103057  0.4827098   0.96982306  0.01389253 -1.09746683 -0.04216892
+   0.06645924  1.95374179  1.99524462]
+ [-0.46718535  0.08710621  1.60120463  0.24793476  0.10972624 -0.68434316
+   0.14718254 -1.49232161  0.39311552 -0.02058521 -1.18451381  0.The code for file btdv-tanh-15.py ran for 0.74m
+22793201
+   0.27019206 -1.58196795 -2.34964252]
+ [ 0.37754408  0.23080009  0.57343888 -0.10244668  0.95128512 -0.01254175
+  -0.22194162  0.94739473  0.16314495  0.85428756 -0.20455597  0.03859419
+  -0.23689128 -0.89786929 -1.33499861]
+ [ 0.09891502  0.61881763  0.34338272  0.10393114  0.28621736  0.40550286
+  -0.30696568  0.52861464  0.21473755 -0.47977701 -0.12816267 -0.02426358
+  -0.17491677 -0.36370757 -0.67730564]
+ [ 0.1580586   0.03849818  0.16415986  0.49867019  0.22933735  0.28678259
+  -0.17199762  0.10392752  0.02708209 -0.15003312  0.04110222 -0.14400393
+   0.00977375 -0.20975325 -0.28683946]
+ [ 0.1227504  -0.12788685  0.00285016  0.25746754  0.0646695   0.09080327
+  -0.03595595 -0.07310081 -0.08748355 -0.14097768  0.02857527 -0.1223527
+   0.01265928 -0.07496195  0.03362175]
+ [-0.50464755 -0.16226776 -0.014       0.34614423  0.08939662  0.11045325
+  -0.28845844 -0.01489538 -0.10725238 -0.02031271  0.02610187  0.51989114
+   0.24661408 -0.0636013  -0.00425674]]
+[ 0.00241114 -0.16844212 -0.81692541  0.47138152 -0.17791232  0.14732134
+  0.02351011 -0.39320961 -1.83825433 -1.04871094 -0.16344766  0.39317638
+  0.63279712  1.44833422  0.72955155]
+[[-0.61022812  0.82914966 -0.62903696]
+ [-1.13259053 -0.53951895 -0.48200417]
+ [-0.2113546   2.85978818  0.15772501]
+ [ 0.43325484  0.21632804  1.11410272]
+ [ 1.0451827  -0.89632267  0.29423332]
+ [ 0.83642423 -0.72556859  0.41984206]
+ [ 1.5969255   0.77995634  0.02814421]
+ [ 0.07414166  2.23751187  0.34902447]
+ [ 1.39265764 -1.97075844 -0.60335922]
+ [-0.8775754  -1.51772106  0.02989428]
+ [-0.35547462 -1.69780481 -0.97451645]
+ [ 0.7680198   0.47702038  0.90812349]
+ [-1.7448746   0.25950533  0.350191  ]
+ [ 0.033633   -3.22536898  0.12181128]
+ [-0.47502118  3.8467505  -0.11478316]]
+[ 0.67838418  1.07399929  1.39991784]
+Optimization complete. (with seed: 123) Best validation score of 70.080000 % obtained at iteration 10000, with test performance 70.023333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 72.550000 %
+     epoch 1, minibatch 5000/5000, test error of best model 72.606667 %
+epoch 2, minibatch 5000/5000, validation error 67.296667 %
+     epoch 2, minibatch 5000/5000, test error of best model 66.850000 %
+epoch 3, minibatch 5000/5000, validation error 72.980000 %
+[ 0.89574718  3.31588221  6.36929178]
+[ 1.  4.  5.]
+[[ -9.16371465e-01   1.11740792e+00   3.01654607e-01  -1.04770817e-01
+    4.27989691e-01  -3.76051158e-01   1.00361490e+00  -9.50672865e-01
+    3.09879422e-01   5.93659282e-01   1.09153748e-01  -4.90130454e-01
+   -1.38320327e+00   5.39653480e-01  -3.09489965e-01]
+ [ -7.95435548e-01  -2.63017982e-01   1.07258856e+00  -3.33143383e-01
+    1.22271824e+00   1.70201987e-01  -7.29017034e-02   7.69486139e-03
+   -2.99554735e-01  -1.68372726e+00   1.33643910e-01  -2.96345465e-02
+    4.93554640e+00   6.46509290e-01   1.25827181e+00]
+ [ -3.07540536e-01   7.33413026e-02  -2.41018444e-01   1.57121476e-02
+   -1.55843943e-01   1.84028760e-01   1.09365262e-01  -4.97426063e-01
+    4.38594729e-01   6.98563755e-01  -5.06147265e-01   6.90777421e-01
+   -3.15437007e+00   6.87032282e-01  -7.74925888e-01]
+ [ -1.98481709e-01   1.56487420e-01   2.69651264e-01   2.43452680e-03
+    3.34075540e-02  -5.20018339e-01   3.83927077e-02   1.88024372e-01
+    3.92797172e-01  -7.52478182e-01  -3.45819704e-02   1.04160696e-01
+    4.07151508e+00  -2.10490823e+00   3.55471909e-01]
+ [  2.64200687e-01   3.98920059e-01   3.70774721e-03  -6.82434320e-01
+    5.15118800e-02  -8.10978830e-01  -1.54238790e-01   7.80838579e-02
+    3.81092988e-02   9.44362342e-01   1.58294693e-01   3.84610087e-01
+   -3.56839585e+00   1.37417006e+00  -1.14768647e-01]
+ [ -2.42929474e-01   2.25307167e-01  -3.30861092e-01  -2.31759876e-01
+    1.40568987e-01   3.34346622e-01   2.22260490e-01   3.06729347e-01
+   -4.37848210e-01   6.03570759e-01  -2.69172579e-01   9.61508453e-01
+   -1.92854369e+00   2.20483437e-01  -3.52756530e-01]
+ [ -1.61948711e-01   3.99698392e-02  -9.93885919e-02   1.20308019e-01
+    1.68478027e-01  -4.19749200e-01  -8.63163397e-02   1.68045044e-01
+    1.63533151eThe code for file btdv-tanh-15.py ran for 0.74m
+-01   2.03090310e-01   1.50183409e-01   9.03069749e-02
+   -1.00338376e+00   2.83280641e-01  -6.23015046e-01]
+ [  2.60293722e-01  -2.27641061e-01   2.19873190e-01  -3.23903382e-01
+    1.93512484e-01  -1.15409210e-01  -7.75488690e-02  -4.87518832e-02
+    3.24005038e-01   3.63389790e-01  -2.69715816e-01   4.82941121e-02
+   -4.40833390e-01   1.34172276e-01   3.69615763e-01]
+ [ -1.03872316e-02  -1.35987103e-01   9.73434094e-03  -1.79856330e-01
+   -4.42597531e-02  -1.22439314e-03  -3.05690896e-02  -7.15016946e-02
+    1.62652880e-01   9.34785903e-02  -2.48224497e-01  -4.27328460e-02
+   -1.26921879e-02   4.62173373e-02  -4.06370908e-02]
+ [  1.18479684e-01  -2.79272169e-01   5.07447541e-01  -4.10743833e-01
+   -5.01297593e-01   2.73719262e-02   3.32838506e-01   5.73909096e-02
+   -1.60984680e-01   6.97755218e-02  -5.87906241e-01  -1.26301363e-01
+   -4.00030240e-02  -3.50238495e-02  -6.90305904e-02]]
+[ 0.99986583 -0.21199134 -0.57210112 -0.78376335 -0.34804836 -0.83230507
+ -0.21705741  0.19145411  0.00179422 -0.50252956 -0.47279334  0.06988396
+ -0.23944969 -0.69764954 -0.64756608]
+[[-1.64987504  0.95591068  0.66056162]
+ [ 1.09661639  0.58458841 -0.06597719]
+ [ 1.26242912 -0.95490009  0.89287251]
+ [-1.08196425 -1.30822444 -1.27572525]
+ [ 0.91902208 -0.92528886 -0.25230494]
+ [-1.05933368 -1.34372067 -0.76736832]
+ [ 1.47601521  0.23332578  0.50837106]
+ [-1.58665144 -0.74698544 -0.17005239]
+ [ 0.63672179  0.38111645 -0.43901139]
+ [-0.5119049   2.27712607 -0.28399011]
+ [ 0.03833029 -0.39176518 -0.66694933]
+ [ 0.60317963  1.63162994  0.12569998]
+ [-0.70378315  5.95550489 -0.01045448]
+ [-0.05138135  2.39792061  0.0941484 ]
+ [ 0.34829882 -1.41483724 -0.59042233]]
+[ 0.67604649  1.17462933  1.60461509]
+Optimization complete. (with seed: 124) Best validation score of 67.296667 % obtained at iteration 10000, with test performance 66.850000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 79.460000 %
+     epoch 1, minibatch 5000/5000, test error of best model 79.673333 %
+epoch 2, minibatch 5000/5000, validation error 70.776667 %
+     epoch 2, minibatch 5000/5000, test error of best model 70.636667 %
+epoch 3, minibatch 5000/5000, validation error 71.473333 %
+[ 0.56547451  4.04425907  5.0304327 ]
+[ 1.  4.  5.]
+[[-0.74768645 -0.31818658 -0.17440975 -1.09260714 -0.88834178  0.15193197
+  -0.5790624   0.00353023 -0.97598284 -0.01192646  0.59616709  0.55160731
+   0.31150815 -0.32394952  1.09423077]
+ [-0.2705391  -0.43050224  1.5615294  -0.63303566 -0.55271971 -0.16556832
+   0.93386203  0.89023614 -1.0147258  -0.53584069 -0.34111476  1.60185158
+   0.25500956 -0.57092136 -1.93503547]
+ [-0.23444775 -0.59319293 -1.14080596 -0.04059381  0.02313415 -0.30473515
+  -0.09561248  0.42933559 -0.2238356  -0.0894964  -1.70688736  1.66805351
+   0.13397004 -0.22619891  1.99433017]
+ [ 0.00545726 -0.49642792 -1.39998174  0.07217704  0.00529389 -0.68399155
+  -0.27118179  0.86737728 -0.33118325  0.31785914  0.66086721 -2.59584975
+  -0.00965678 -0.56888276 -1.46455956]
+ [ 0.33502626 -0.20462021 -1.18385351  0.04179635  0.07806187 -0.12513651
+  -0.02689631  0.17315806 -0.15243202 -0.14302287 -1.44593668  1.87163615
+   0.09904617 -0.47351453  2.34915876]
+ [ 0.08359425 -0.45130581 -0.59106785  0.76226366 -0.29678467 -0.3299548
+   0.5054813   0.414873   -0.55411267  0.06826898  1.06448817  0.7740773
+   0.2719034  -0.26059034  1.26527762]
+ [-0.03834784  0.0527314  -0.23898716  0.35481083 -0.08484622 -0.1295324
+  -0.16370654  0.10329736 -0.10332957 -0.50663662  0.41617996  0.3845841
+   0.17602906 -0.3358956   0.68686146]
+ [ 0.15941224 -0.27402395 -0.09238993  0.082906   -0.06991437  0.34761071
+  -0.12121956  0.38524854 -0.04156573 -0.23334105  0.13332067  0.19766839
+   0.33923846 -0.24368228  0.28061751]
+ [-0.21713679  0.06984865  0.10669186  0.07447909  0.10540093 -0.48733553
+  -0.14232469  0.04753336  0.08246075  0.226218   -0.14763233  0.0536181
+   0.51811159 -0.47518361 -0.03674901]
+ [ 0.48344013 -0.01011411  0.0864777  -0.03469369 -0.64492333 -0.36491787
+  -0.01741674 -0.09289582  0.36008453  0.27503535 -0.128994    0.035The code for file btdv-tanh-15.py ran for 0.74m
+31644
+   0.50749695 -0.34329906 -0.00510789]]
+[ 0.2012801  -0.61251307  1.08582139  0.10429654  1.04367471 -0.67012787
+ -0.95461649  0.42971542  1.2344538  -0.25538543 -0.54569703 -1.5454036
+  0.66626745 -0.73765248 -1.13405669]
+[[-1.27157664 -0.11817346  0.39283976]
+ [-0.27157655 -0.57268029 -0.53833675]
+ [-0.01304996 -2.85431457  0.00468814]
+ [-1.53943515 -0.851991   -0.38116729]
+ [-1.87070024  0.60701019 -0.7193079 ]
+ [-0.4707368  -0.73860228 -0.89479083]
+ [-0.75074041 -1.45470285  0.32846063]
+ [ 0.96972328  0.84426355  0.8040269 ]
+ [-2.0150075   1.10525668  0.77963525]
+ [-0.20578845  0.69281095  0.17550214]
+ [-0.45897943  2.13511968 -0.02615446]
+ [-0.39694577  4.14914894  0.0541893 ]
+ [ 0.61914366  0.50830537  0.54709983]
+ [-0.20937106 -0.96404839 -1.14128864]
+ [ 0.6501565  -3.7124033   0.11672851]]
+[ 0.78252822  1.02452588  1.01240456]
+Optimization complete. (with seed: 125) Best validation score of 70.776667 % obtained at iteration 10000, with test performance 70.636667 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 83.963333 %
+     epoch 1, minibatch 5000/5000, test error of best model 84.203333 %
+epoch 2, minibatch 5000/5000, validation error 68.996667 %
+     epoch 2, minibatch 5000/5000, test error of best model 68.703333 %
+epoch 3, minibatch 5000/5000, validation error 69.356667 %
+[ 1.21818423  3.82453513  5.24215555]
+[ 1.  4.  5.]
+[[ -4.03211534e-01   2.63462365e-01  -3.30123901e-01  -6.11372352e-01
+    3.64649296e-01  -1.14893365e+00   1.21038961e+00  -2.78054714e-01
+   -1.99632809e-01   1.13505852e+00   1.35647774e+00  -3.86703938e-01
+   -3.33345085e-01  -5.06258249e-01  -2.79094934e-01]
+ [ -9.14920807e-01   2.12516904e-01  -6.11667514e-01   6.60888910e-01
+    9.64099646e-01   3.62131643e+00   1.64942280e-03   2.92200714e-01
+   -5.53886406e-02   5.02935410e-01   8.00797164e-01  -2.40031630e-01
+    2.19069079e-01   2.33674335e+00  -2.38072366e-01]
+ [ -5.43636754e-02   4.31532115e-01  -3.31337422e-01  -1.65648073e-01
+    1.22967517e+00  -2.61263180e+00  -1.49128318e-01  -7.09416568e-01
+   -2.54563749e-01   1.50263160e-01   2.34379917e-01  -4.02193278e-01
+   -1.16186404e+00  -8.54325891e-01  -7.11234629e-01]
+ [ -5.25137603e-01   5.11844084e-02  -4.80124056e-01  -1.71715438e-01
+   -1.86054075e+00   2.92954922e+00  -4.05896842e-01  -3.63067895e-01
+    1.97137117e-01  -9.57210734e-02   3.15474868e-01  -4.69813272e-02
+   -2.23425925e-02  -4.57586735e-01  -5.04866779e-01]
+ [  4.51532565e-02   4.34132069e-02  -6.42255247e-01   8.16597492e-02
+    1.36725199e+00  -2.93670368e+00   1.15811862e-01   8.37592721e-01
+    1.90885395e-01   9.45835281e-03  -4.80546281e-02  -2.88958788e-01
+    8.17388594e-01  -1.21203554e+00  -1.07489876e-01]
+ [  3.93796593e-01   6.14918210e-02  -5.38270295e-01  -1.71481296e-01
+    8.40143323e-01  -1.52499199e+00  -3.88474762e-01   4.69852574e-02
+   -2.11667910e-01  -2.90170889e-02   8.69466066e-01   9.39272419e-02
+   -6.80573225e-01  -4.48171556e-01  -4.82509941e-01]
+ [ -6.59126043e-02  -1.76133990e-01  -1.46443725e-01  -1.49977371e-01
+    3.59046847e-01  -7.79123425e-01  -6.43564612e-02  -4.92052823e-01
+    7.10937977e-02   1.55351562e-02  -2.47986645e-01  -2.42626682e-01
+   -2.66105413e-01  -2.50468343e-01  -3.48208472e-02]
+ [ -1.43080816e-01   3.91204596e-01  -3.68455887e-01   5.14457762e-01
+    1.52545854e-01  -3.53639901e-01   8.41063559e-02   3.14963758e-01
+   -5.18660605e-01  -4.67167906e-02  -1.32744357e-01   7.26894960e-02
+    8.37283432e-02  -2.23894641e-01   1.48118541e-01]
+ [  1.58136692e-02  -2.73380697e-01  -2.67103851e-01   6.73806816e-02
+   -8.26786272e-04   1.27525581e-02   4.93598990e-02   1.31992221e-01
+   -4.71252471e-01  -4.70172651e-02  -1.10191982e-02  -1.10207148e-01
+   -1.12150840e-01  -3.23622823e-02  -1.46564767e-01]
+ [ -4.38630879e-01  -1.35310352e-01  -1.24529622e-01  -4.23892319e-01
+   -5.15061729e-02  -4.58299406e-02  -3.28021273e-02   4.15909767e-01
+   -4.15283978e-01  -2.59803712e-01  -1.96443889e-02   3.51379186e-01
+    8.75593349e-02   5.29480800e-02  -3.05917680e-01]]
+[  8.92877698e-01   4.93334264e-01  The code for file btdv-tanh-15.py ran for 0.74m
+-5.06955981e-01  -1.11433022e-01
+  -1.17464995e+00   1.82387069e-01   3.70327055e-01   7.27831364e-01
+  -8.11185598e-01  -8.40516686e-01  -1.26253128e+00   2.40739137e-01
+  -6.37830381e-05   4.48409140e-01  -5.27326882e-01]
+[[ -1.55908644e+00   7.52114177e-01  -5.88285625e-01]
+ [  9.54947531e-01   2.90003806e-01   3.09875935e-01]
+ [ -4.78135884e-01  -1.13252938e+00  -1.14468658e+00]
+ [ -4.59509581e-01  -8.18149090e-01  -6.92607582e-01]
+ [ -2.82466024e-01   2.82985020e+00   1.41204372e-01]
+ [ -4.67583179e-01   4.85723352e+00  -1.26052782e-01]
+ [  1.02922177e+00   9.00233924e-01   3.36979866e-01]
+ [  9.96594951e-02   1.03258085e+00   5.19648731e-01]
+ [ -6.81992114e-01  -4.32910949e-01  -9.75452185e-01]
+ [  1.73935401e+00   3.06468546e-01  -4.92874086e-01]
+ [  1.42499959e+00  -1.15105200e+00  -2.06691742e-01]
+ [ -1.35007632e+00  -8.23787376e-02   4.21239614e-01]
+ [ -1.13577075e-01  -1.14986920e+00  -8.80130741e-04]
+ [  2.90612072e-01  -2.77496648e+00   1.36431679e-01]
+ [ -8.54151845e-01  -9.50949967e-01  -8.15306067e-01]]
+[ 0.87240297  0.76636183  0.94986457]
+Optimization complete. (with seed: 126) Best validation score of 68.996667 % obtained at iteration 10000, with test performance 68.703333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 72.446667 %
+     epoch 1, minibatch 5000/5000, test error of best model 72.926667 %
+epoch 2, minibatch 5000/5000, validation error 69.203333 %
+     epoch 2, minibatch 5000/5000, test error of best model 69.136667 %
+epoch 3, minibatch 5000/5000, validation error 68.686667 %
+     epoch 3, minibatch 5000/5000, test error of best model 68.910000 %
+epoch 4, minibatch 5000/5000, validation error 73.773333 %
+epoch 5, minibatch 5000/5000, validation error 74.250000 %
+[ 1.24093914  4.27765703  4.0140214 ]
+[ 1.  4.  5.]
+[[ -3.92388046e-01  -6.33341491e-01  -1.11400592e+00   8.35248351e-01
+    3.83197404e-02  -5.86592972e-01  -1.10359706e-01  -4.72571343e-01
+    1.50808021e-01  -2.46404901e-01   1.66011822e+00  -1.27678859e+00
+   -1.30173814e+00   3.18434425e-02   7.35012889e-01]
+ [ -2.10563779e+00  -8.61603975e-01   1.86528111e+00  -1.15205061e+00
+   -1.17214358e+00  -4.35954183e-01  -4.35456425e-01   1.56981513e-01
+   -3.34214121e-01  -2.26261094e-01  -6.16887426e+00  -3.66782874e-01
+   -8.03986907e-01   8.46092343e-01  -1.67282212e+00]
+ [  8.84906650e-01   3.61708462e-01   7.76822865e-01   6.61595762e-01
+    2.62752384e-01  -2.35531017e-01  -5.42619705e-01  -4.97781634e-01
+   -2.83312351e-01  -4.26562130e-01   3.75014520e+00  -1.86993510e-01
+    2.56841853e-02   3.72963727e-01   3.01030278e-01]
+ [ -1.21365178e+00   2.92712003e-02   2.87252069e+00  -1.45948455e-01
+   -8.48596871e-01  -4.27222848e-01   2.33408630e-01   1.40472889e+00
+   -7.43751466e-01  -2.76550353e-01  -5.13345671e+00   7.29251206e-01
+   -2.18818024e-01  -1.67587921e-01  -9.83763993e-01]
+ [ -4.30497468e-01   1.05850589e+00  -1.11406350e+00   2.27337509e-01
+    3.46625149e-01  -1.77682385e-01  -2.08879709e-01  -1.04821432e+00
+    2.85245548e-03  -1.66612655e-01   4.34281874e+00  -6.65497556e-02
+    6.74034432e-02   2.57203370e-01   5.85006833e-01]
+ [  1.63936663e+00   4.06363100e-01   1.88134933e+00   4.77935784e-02
+   -1.83356389e-01   2.18385249e-01  -4.99722809e-01  -2.19516233e-02
+   -5.86321726e-02  -8.37616846e-02   2.27866507e+00   3.23210388e-01
+   -4.55334634e-02   5.03178537e-01   9.28533554e-01]
+ [  8.21201503e-01   3.27707469e-01   8.37520838e-01   1.53066605e-01
+   -9.86905321e-02  -9.48520526e-02   2.28150725e-01  -3.86161029e-01
+   -6.06691763e-02  -4.25710171e-01   1.18786895e+00   7.98102021e-02
+   -1.99469980e-02  -3.08837175e-01   3.65930945e-01]
+ [ -1.29129946e+00   7.21388519e-01  -2.04438496e+00   1.06460311e-01
+    2.26415217e-01   1.52417272e-01   1.67307675e-01   2.18140539e-02
+    7.33281732e-01  -4.01879042e-01   5.48067629e-01  -1.24476515e-01
+   -2.05654219e-01   4.21378464e-01   1.35736808e-01]
+ [ -4.07489598e-01  -8.01572129e-02  -1.07161748e+00   8.71230885e-02
+    1.78379595e-01   1.29037157e-01  -1.66832343e-01  -3.25319394e-02
+    2.01653093eThe code for file btdv-tanh-15.py ran for 1.10m
+-01  -2.17682570e-01   1.50356200e-02  -1.42465889e-01
+   -6.45624772e-02  -6.28134534e-02   1.60976890e-02]
+ [  2.07401797e-01  -1.51612684e-02  -1.35766417e-01   1.55340345e-03
+    2.11804360e-02   1.90798983e-01   1.81256995e-01   1.34838428e-02
+   -3.35290074e-01  -1.81214944e-01   3.38559188e-02   1.68413952e-01
+   -4.36194092e-02   2.53530025e-01  -6.84870631e-02]]
+[ 2.40156317 -0.08031001 -2.43009782  0.0632157   0.90144014  0.02445428
+ -0.29880482  0.3961339   0.37957549 -0.48812056  0.52816647  0.2767185
+  1.22079957  0.16449381 -0.18892482]
+[[ 0.03424043  0.6938706   2.00593257]
+ [-0.01939662  1.50053239  0.47269279]
+ [-0.11782659 -0.16701293 -2.95581317]
+ [ 1.20677698  1.98877132 -0.23000634]
+ [-1.33236384  1.43293035 -1.40425634]
+ [-1.07239974 -0.38855013 -0.47067329]
+ [-0.65760201 -1.30214334 -0.12536754]
+ [ 0.20652971 -1.90016174  0.47242308]
+ [-0.68290317 -0.68568802 -1.52923477]
+ [-0.90538299 -0.74499941 -0.87856263]
+ [ 0.73115945 -6.28947306 -0.23972981]
+ [-1.52080655 -0.81378722  0.81835335]
+ [-2.54038215  1.28696334 -0.76852894]
+ [ 0.91477358  1.46293736  1.09201002]
+ [-0.44028699  1.82546902 -0.57434636]]
+[ 1.53583777  1.16232979  0.94605225]
+Optimization complete. (with seed: 127) Best validation score of 68.686667 % obtained at iteration 15000, with test performance 68.910000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 66.920000 %
+     epoch 1, minibatch 5000/5000, test error of best model 67.106667 %
+epoch 2, minibatch 5000/5000, validation error 65.086667 %
+     epoch 2, minibatch 5000/5000, test error of best model 65.070000 %
+epoch 3, minibatch 5000/5000, validation error 62.100000 %
+     epoch 3, minibatch 5000/5000, test error of best model 62.410000 %
+epoch 4, minibatch 5000/5000, validation error 62.490000 %
+epoch 5, minibatch 5000/5000, validation error 62.930000 %
+[ 1.1168083   3.44965935  3.19444942]
+[ 1.  4.  5.]
+[[  6.31963730e-01  -6.91476285e-01   3.12917978e-01  -1.43628538e+00
+   -9.34884489e-01   4.80097443e-01   4.83402967e-01   4.14582565e-02
+   -2.78241545e-01  -3.78782719e-01  -8.21614712e-02  -1.66782522e+00
+    3.33005339e-01  -4.53197986e-01  -1.06031120e+00]
+ [  1.34340167e-01   1.31220150e+00   1.16398919e+00  -4.06610906e-01
+    4.03329343e-01   7.47550666e-01  -5.23445368e-01  -2.35829456e-03
+    1.47882164e+00   2.41536990e-01   3.27538729e-01   5.99479151e+00
+    5.22552907e-01  -1.98239163e-01  -5.30056715e-01]
+ [  2.96174157e-02  -5.24773121e-01  -3.01086545e-01  -3.02768320e-01
+   -4.26615506e-01   2.36259431e-01   3.38722020e-01  -1.38871660e-02
+   -3.54850173e-01   9.24269021e-01   1.73093840e-01  -3.68373394e+00
+    2.45494574e-01   9.45392489e-01  -9.42980573e-02]
+ [  4.66650248e-01   3.68948251e-01   2.34280095e-01   3.21408510e-01
+    1.59430492e+00   6.44187510e-01   2.80268565e-02  -6.72282279e-01
+    6.03399932e-01  -5.81781983e-01   5.49790084e-01   4.97713757e+00
+    9.11907434e-01  -4.24058624e-02   4.68114130e-02]
+ [  7.51809895e-01  -3.70183706e-01  -8.21346939e-01  -4.45564017e-02
+   -8.17939937e-01   2.90626675e-01  -8.12295303e-02   2.97568262e-01
+   -6.98345184e-01   5.68937659e-01  -1.56788602e-01  -4.32866001e+00
+    4.62382704e-01   8.18543971e-01   1.40187517e-01]
+ [ -1.67246610e-02  -6.03596449e-01  -6.46410957e-02   7.81163126e-02
+    2.99435169e-01  -1.29123241e-01   1.10344075e-01  -1.29320025e-01
+   -5.09061873e-01   1.23614538e+00  -2.14677691e-01  -2.19537473e+00
+    1.77880898e-01  -7.21195877e-01  -1.56429693e-01]
+ [  5.11362851e-01  -2.46471807e-01  -6.09585166e-01  -6.68929145e-02
+   -2.91817427e-01   1.21417202e-01   3.83685678e-01  -1.61535889e-01
+    8.76227953e-03  -2.55622715e-01  -4.46092576e-01  -1.18860793e+00
+    2.61963606e-01  -7.44050443e-02   1.57448277e-01]
+ [  5.91233075e-01  -1.17170043e-01  -3.89250934e-01   1.73477642e-03
+   -3.59518886e-01   1.44521937e-01  -4.58702773e-01   3.90399963e-01
+   -2.07384452e-01   1.54033139e-01  -3.36875468e-01  -5.60367942e-01
+   -1.19743764e-01  -6.26326025e-01   1.57626048e-02]
+ [  1.66532397e-01  -4.17671204e-02  -8.8172674The code for file btdv-tanh-15.py ran for 1.08m
+2e-02   3.87991872e-03
+    2.92952564e-02  -1.42544154e-02   7.01175556e-02   1.96151942e-01
+    2.52198633e-02   7.28044752e-03  -1.43992588e-01  -1.01956790e-02
+   -2.06812192e-02   6.95027411e-02  -1.08277585e-04]
+ [ -7.46890679e-02   1.19146548e-01   6.32357225e-02   2.65428931e-01
+   -2.29582423e-04  -7.49358460e-02   1.93398297e-01   7.18449831e-01
+   -1.31272689e-01   1.36185270e-02   6.46311164e-01  -3.45780142e-02
+    1.74556568e-01  -2.50841975e-02  -1.02384794e-04]]
+[ 0.5578413   0.26432985 -0.3013165   0.83422786 -0.03067916 -1.2662797
+  0.75474131  0.53759396  0.01496548 -0.50084555  0.27473339 -0.40900958
+  0.64712733 -0.1929096   0.44344386]
+[[ 0.88548094  1.49593806  0.63279456]
+ [-0.67366791 -1.7266283   0.01835041]
+ [ 0.50678498 -1.26375389  0.03347493]
+ [-1.72322261 -0.74590737  0.73603642]
+ [-0.08376156 -1.69874001 -0.5001508 ]
+ [ 2.10000634 -1.13469434  0.21226829]
+ [ 0.78725904  1.16580462  0.7810626 ]
+ [ 0.37267002  0.45407358  0.91223401]
+ [ 0.75483727 -1.60142505 -0.14692353]
+ [ 0.05862131  1.67508054 -0.05854294]
+ [ 0.5268417  -0.29264861  0.63173407]
+ [-0.56705761  6.16358662  0.15738444]
+ [ 1.5087477   1.30575836  1.26264715]
+ [-0.22754015  1.29611766 -0.25114387]
+ [-1.8741883   0.36628565 -0.29008663]]
+[ 1.04239178  1.13481176  1.19918251]
+Optimization complete. (with seed: 128) Best validation score of 62.100000 % obtained at iteration 15000, with test performance 62.410000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 80.970000 %
+     epoch 1, minibatch 5000/5000, test error of best model 81.080000 %
+epoch 2, minibatch 5000/5000, validation error 68.183333 %
+     epoch 2, minibatch 5000/5000, test error of best model 67.923333 %
+epoch 3, minibatch 5000/5000, validation error 67.593333 %
+     epoch 3, minibatch 5000/5000, test error of best model 67.810000 %
+epoch 4, minibatch 5000/5000, validation error 69.890000 %
+epoch 5, minibatch 5000/5000, validation error 69.246667 %
+[ 1.01041722  3.70979357  4.38750458]
+[ 1.  4.  5.]
+[[  3.10903996e-01  -1.60169065e-01   7.54507244e-01  -1.38867342e+00
+    3.90652627e-01  -2.22232863e-01  -3.50645721e-01  -4.42804158e-01
+   -5.71174502e-01  -6.59282506e-01  -2.85281055e-02  -1.74662948e+00
+   -6.08127832e-01  -8.74700304e-03  -1.03203285e+00]
+ [ -1.53120005e+00   1.11039174e+00  -9.20691550e-01   4.85825586e+00
+    1.73819795e-01  -1.12597466e+00   9.08071995e-02  -5.50842941e-01
+   -6.39547229e-01  -5.45883715e-01   4.46216047e-01  -3.48321557e-01
+   -9.54931200e-01  -6.15617156e-01   4.37032431e-01]
+ [  9.45581496e-02  -3.34243268e-01   9.66715634e-01  -3.18491912e+00
+    1.56218663e-01  -6.92778766e-01  -1.64351583e+00  -1.51474014e-01
+   -2.40424752e-01  -3.13141435e-01  -6.71208322e-01  -3.92861813e-02
+   -8.47847521e-01  -7.81624615e-01   8.36401246e-03]
+ [ -7.41175830e-01  -1.98229328e-02  -6.12326443e-01   3.97932744e+00
+    7.61874914e-02   5.66088080e-01  -2.21489683e-01   3.78945529e-01
+   -4.72833902e-01  -3.04355562e-01  -3.04328710e-01  -2.52573043e-02
+    2.56797838e+00  -5.16215861e-01  -4.81741458e-01]
+ [  3.01553071e-01  -5.01581788e-01  -5.75238943e-01  -3.49817109e+00
+    3.91122103e-01   2.20981702e-01   6.06657505e-01   1.15179396e+00
+   -2.30050877e-01  -1.24872243e-02  -8.73148799e-01   9.94193628e-02
+   -1.31115437e+00  -3.14056039e-01  -6.69434667e-01]
+ [  5.65602303e-01  -1.82160884e-01   2.06785291e-01  -1.95001674e+00
+   -8.20331797e-02  -5.37598789e-01  -9.25395966e-01   6.97173655e-01
+   -4.71290588e-01  -1.22356117e-01   2.44011916e-02  -1.84114620e-01
+   -3.84113818e-01  -6.03892505e-01   9.84288216e-01]
+ [  3.31971258e-01   3.18158329e-01   6.60905093e-02  -9.86034930e-01
+    1.48065194e-01  -7.75200486e-01  -7.18571544e-01   3.72703373e-01
+   -1.47027284e-01  -5.93485609e-02   1.10129207e-01   1.40759021e-01
+   -4.29250747e-01   8.37278888e-02  -4.58304375e-01]
+ [  5.96202761e-02   9.46474969e-02   8.10355321e-02  -4.61455166e-01
+   -3.75410616e-01   4.73485559e-01   1.48471385e-01   3.19727242e-01
+   -1.02815241e-01  -1.19046025e-01   5.29048406e-02   4.346178The code for file btdv-tanh-15.py ran for 1.09m
+10e-02
+   -2.88795098e-03  -2.43861988e-01  -2.15106770e-01]
+ [ -2.06773449e-02  -1.25695169e-01   1.55937225e-02   1.01602818e-04
+    6.76541328e-02   7.74294510e-02   4.92056757e-02   1.32535882e-02
+   -1.98111355e-01  -2.05183048e-02   3.93135026e-02   2.13587731e-02
+   -6.31011128e-02  -9.16735455e-02  -1.18784517e-01]
+ [ -7.22427815e-02   3.83904696e-01   2.62141526e-01  -1.93543341e-02
+    3.46880406e-01   2.02484608e-01   1.88177958e-01   3.87408920e-02
+    1.09120913e-01   6.57320619e-01   3.30489427e-02  -2.29513034e-01
+   -3.85348336e-03  -1.49847150e-01   3.87331769e-02]]
+[ 0.30931133 -0.14893378  0.34788516 -0.17646936  0.62921172  0.02950466
+  0.34615332  0.16069029 -0.69803339  0.64207017  0.37690714  1.01128697
+  0.64189744 -0.48299962 -1.01196933]
+[[-1.5100652   1.62838495 -0.41143829]
+ [ 0.73423958 -1.22422695  0.50449038]
+ [ 0.38233823  0.99737734  0.41577449]
+ [-0.72261167  5.21775103 -0.07768328]
+ [ 0.63053483  0.18880522  1.09225821]
+ [-0.30677909  1.21567774  0.81857729]
+ [-0.03250657 -1.63885701 -0.07647321]
+ [ 0.21510412  1.45837677  0.44885844]
+ [-1.22700036 -0.33310464 -1.13662195]
+ [-1.3459686   0.43197381  0.69424802]
+ [-0.57601589 -0.95213282  0.01756476]
+ [-3.03900146  0.18543629 -0.2324357 ]
+ [ 0.00526279 -2.67088103 -0.24848874]
+ [-0.32170191 -1.13285875 -1.14475667]
+ [-0.71079212 -1.6682322   0.12172282]]
+[ 0.95751196  0.9025504   1.3950758 ]
+Optimization complete. (with seed: 129) Best validation score of 67.593333 % obtained at iteration 15000, with test performance 67.810000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 82.120000 %
+     epoch 1, minibatch 5000/5000, test error of best model 82.496667 %
+epoch 2, minibatch 5000/5000, validation error 74.056667 %
+     epoch 2, minibatch 5000/5000, test error of best model 74.213333 %
+epoch 3, minibatch 5000/5000, validation error 74.953333 %
+[ 1.1735096   4.7104702   4.88656282]
+[ 1.  4.  5.]
+[[ -1.71295211e-01   3.93935218e-02  -1.32744908e-01  -7.69184411e-01
+    3.29187691e-01   3.55229825e-01  -5.33290923e-01  -6.70034230e-01
+    1.04337466e+00   3.24696004e-01   9.59058821e-01  -1.64444542e+00
+    3.01241398e-01  -1.41811371e+00  -1.60521075e-01]
+ [ -1.22784972e+00  -3.02741900e-02   2.04916745e-02   1.33507788e+00
+    8.92202616e-01   7.31431186e-01  -1.54005086e+00  -6.44167662e-01
+    8.45745862e-01  -1.60125792e-01  -2.85872221e+00  -9.03764307e-01
+    4.08255234e-02   8.94411027e-01  -3.87548506e-01]
+ [ -6.99458957e-01   8.85055423e-01  -6.00586653e-01  -1.71420082e-01
+    6.11904621e-01  -6.48992538e-01  -1.38125050e+00  -3.29865552e-02
+   -1.89201590e-02   6.39350235e-01   2.19472957e+00  -3.24888498e-01
+   -1.11127722e+00  -6.69799268e-01   1.77738056e-01]
+ [ -2.67443687e-01   4.21296179e-01   5.74112773e-01  -4.76319313e-01
+    9.84160781e-01   1.66335687e-01   2.47783375e+00   2.87181050e-01
+    1.28229842e-01  -1.31804779e-01  -2.39044499e+00  -9.68080610e-02
+   -4.13786739e-01  -8.92889276e-02   8.99134219e-01]
+ [ -3.71939242e-01  -4.48209673e-01  -4.79809433e-01  -7.77631462e-01
+    6.39930785e-01  -4.07076776e-01  -1.64718795e+00  -7.43967108e-03
+   -4.78258692e-02  -7.50208139e-01   2.37672591e+00  -4.62582946e-04
+    7.18083620e-01   7.52853155e-01   4.67320472e-01]
+ [  3.64299536e-01   7.22637475e-01   3.15980613e-01  -2.45623350e-01
+    4.68813449e-01  -5.88019863e-02  -8.47207546e-01   8.52794796e-02
+   -3.95132363e-01  -6.63144365e-02   1.27056825e+00  -1.25326169e+00
+   -5.13818085e-01   1.58548858e-02   2.56570548e-01]
+ [ -2.35198483e-01   4.88544628e-02   1.72772303e-01   8.76176059e-02
+    2.17975378e-01   2.94198632e-01  -3.83566231e-01   5.41295171e-01
+    4.80757281e-02   2.27994367e-01   6.82465255e-01   4.26067293e-01
+   -1.90307666e-02  -4.49300826e-01   4.24233764e-01]
+ [  1.61687378e-02   1.03479438e-02  -1.69110969e-02  -9.90318581e-02
+    1.01669997e-01   3.23912710e-01  -1.72343880e-01   1.11221917e-01
+   -8.15771893e-02  -9.52124000e-02   2.89736539e-01   2.47097909e-01
+    3.08582801e-02  -8.10143352e-02  -2.26643741e-01]
+ [  5.95413754e-03  The code for file btdv-tanh-15.py ran for 0.74m
+ 2.69096226e-01  -2.67728022e-03  -3.94841544e-02
+    6.83262274e-02   8.51761252e-02  -1.85901802e-02  -5.44679817e-03
+   -4.23316956e-02  -1.96296334e-01  -2.95119528e-02   6.73520416e-02
+   -1.44881904e-01   8.44282955e-02  -2.30464667e-01]
+ [  1.40069574e-01  -4.13325250e-01  -7.53864229e-01   5.20719551e-02
+   -1.61883801e-01   2.13102669e-01  -4.68812175e-02  -8.64046216e-02
+   -1.90049440e-01  -3.97868216e-01   2.29094247e-03   7.09542930e-02
+   -1.72507584e-01   4.12747003e-02   6.90248609e-02]]
+[ 0.76747757  0.01917516 -0.37539923  0.35617885  0.35881937  0.04672794
+  1.47698939 -0.39066991 -0.75620759 -0.48927292 -0.23149711  1.39617634
+ -0.72941369  0.09164904  0.22153199]
+[[ -1.59633958e+00   1.21557391e+00   1.99338943e-01]
+ [ -1.08926363e-01   6.82899654e-01  -3.71764630e-01]
+ [ -3.24472547e-01   5.12689531e-01  -9.27509546e-01]
+ [ -8.27469766e-01  -2.14700246e+00   2.25059256e-01]
+ [  9.10204470e-01   1.49376416e+00   1.32759345e+00]
+ [  1.40870035e+00  -6.83351457e-01   4.47235078e-01]
+ [  2.38016933e-01  -3.54602456e+00   4.37912792e-02]
+ [ -1.28694057e+00  -9.06658173e-01  -3.15388441e-01]
+ [  1.78183365e+00   8.37338914e-04  -2.88286477e-01]
+ [ -1.55268222e-01  -8.56826186e-01  -8.59959006e-01]
+ [  6.15741730e-01  -4.00100708e+00   2.66565606e-02]
+ [ -1.30887747e+00   1.64631474e+00   3.76724428e-03]
+ [ -5.39813221e-01  -1.38494766e+00  -6.70211852e-01]
+ [ -9.65585351e-01  -1.46561873e+00  -3.98895115e-01]
+ [  7.01786876e-02   1.14311850e+00   3.08221161e-01]]
+[ 0.94697452  0.94794786  1.37914944]
+Optimization complete. (with seed: 130) Best validation score of 74.056667 % obtained at iteration 10000, with test performance 74.213333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 83.010000 %
+     epoch 1, minibatch 5000/5000, test error of best model 83.760000 %
+epoch 2, minibatch 5000/5000, validation error 69.840000 %
+     epoch 2, minibatch 5000/5000, test error of best model 70.030000 %
+epoch 3, minibatch 5000/5000, validation error 69.986667 %
+[ 0.97612226  3.71497512  5.13849401]
+[ 1.  4.  5.]
+[[  4.48469639e-01   1.05742788e+00   8.74141395e-01  -4.33169693e-01
+    1.59288466e+00  -1.12254286e+00   3.48960757e-01   3.89021307e-01
+   -3.78584146e-01   6.97661877e-01  -9.34534252e-01   5.06902814e-01
+   -6.11377284e-02  -7.33525813e-01  -5.94473839e-01]
+ [ -1.97480202e+00  -3.35758984e-01  -7.49743938e-01  -1.86038941e-01
+    4.80090499e-01   3.66505980e+00  -6.95558667e-01   8.61720815e-02
+   -5.66670537e-01   8.25128853e-01  -2.84362650e+00   1.27448952e+00
+    6.02559388e-01   8.65092993e-01  -4.67471093e-01]
+ [  3.81920427e-01  -5.26832104e-01   1.63089895e+00  -4.87397283e-01
+    1.54385313e-01  -2.59790659e+00  -7.93057680e-02  -5.43060660e-01
+   -5.77925563e-01   2.86136687e-01   9.96599197e-01   1.14647114e+00
+    2.13386416e-01   3.30959231e-01   8.97506345e-03]
+ [  3.47373724e-01   3.21814455e-02   1.06129095e-01  -7.98542649e-02
+   -2.74872612e-02   3.11779404e+00   6.98008060e-01   3.12219977e-01
+   -5.19958854e-01   5.57380021e-01  -1.92380404e+00  -2.33041978e+00
+    2.86770165e-01   1.47715211e+00  -1.27009988e-01]
+ [  6.34451628e-01  -4.38629866e-01  -1.00824082e+00  -3.84536326e-01
+   -1.72912329e-01  -2.81299973e+00   7.73963809e-01   7.13389814e-01
+   -4.67064172e-01   5.14784515e-01  -8.46429527e-01   1.63280845e+00
+    1.06510714e-01  -7.42806196e-01   4.48127568e-01]
+ [  3.21766704e-01  -1.25957406e+00   6.62021339e-01  -1.51494831e-01
+   -2.45739400e-01  -1.54805923e+00  -7.12279618e-01  -4.19086903e-01
+   -5.90453029e-01  -3.28636825e-01   2.05625701e+00   6.24174178e-01
+    1.44545600e-01   8.73641670e-01  -4.26413298e-01]
+ [  2.82589167e-01   4.24353898e-01   6.13057554e-01   3.78784053e-02
+   -6.97587058e-02  -7.60155737e-01  -3.80904257e-01   6.42599240e-02
+   -4.03290801e-02  -1.39400840e-01   9.95329261e-01   4.67444181e-01
+    6.70143902e-01   2.51526743e-01  -2.35659882e-01]
+ [ -2.58123875e-01   1.61083519e-01   4.95081246e-02   6.31760359e-01
+   -8.70474279e-02  -3.88402849e-01   7.70181537e-01   3.07338029e-01
+The code for file btdv-tanh-15.py ran for 0.74m
+   -2.86737606e-02   8.67010772e-01  -1.93006492e+00   7.55495355e-02
+   -1.98040865e-02  -1.00466907e+00   2.48283148e-01]
+ [ -1.43327475e-01   1.81807548e-01  -8.82126838e-02   4.16439846e-02
+    5.36836572e-02   1.85057276e-03   4.12625402e-01   2.11083770e-01
+   -2.14962959e-01   1.91715956e-01  -8.98608804e-01   2.59244791e-03
+    2.56472379e-01  -4.26809371e-01   3.10442775e-01]
+ [  1.14839420e-01  -3.60483006e-02  -1.09476015e-01  -1.29132956e-01
+   -1.10812612e-01  -5.43901920e-02  -5.17313518e-02  -2.10410342e-01
+   -7.23989382e-02  -2.14908138e-01   3.85593288e-02  -2.40625329e-02
+    2.81923056e-01  -2.35500082e-01  -2.16713607e-01]]
+[ 0.15876545 -0.18031718 -0.23720203  0.19265503 -0.84463859 -0.00421443
+  0.06550597  0.40453646 -0.65999627 -1.35992301  1.6316725  -1.23234117
+  0.6708464  -1.02381659  0.17262328]
+[[ -5.03954887e-01   2.08778834e+00   1.27023196e+00]
+ [ -1.73065454e-01  -1.36090553e+00  -5.82190275e-01]
+ [  1.90630153e-01   1.87443113e+00   5.21119893e-01]
+ [ -1.19248271e+00   2.87032574e-01  -6.57927454e-01]
+ [  2.52284884e+00   3.49325061e-01  -6.74676836e-01]
+ [ -4.86703962e-01   4.58438158e+00  -2.61241682e-02]
+ [  1.37960121e-01   1.34455144e+00  -9.61672187e-01]
+ [  2.82775998e-01   9.04858410e-01  -6.98950231e-01]
+ [ -1.02418554e+00  -1.36719108e+00  -1.01928031e+00]
+ [  1.35470986e+00  -1.10222518e+00  -1.60038471e+00]
+ [ -2.87477206e-02  -1.77003245e-03  -3.01500702e+00]
+ [ -1.01569280e-01   2.78253603e+00   1.74093507e-02]
+ [  1.05937040e+00   1.79809794e-01   1.06864476e+00]
+ [ -3.11762746e-02  -7.45848835e-01  -1.32968211e+00]
+ [ -1.67677569e+00   4.87482846e-01  -9.11873460e-01]]
+[ 1.23957002  1.26964056  1.19787192]
+Optimization complete. (with seed: 131) Best validation score of 69.840000 % obtained at iteration 10000, with test performance 70.030000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 82.413333 %
+     epoch 1, minibatch 5000/5000, test error of best model 82.416667 %
+epoch 2, minibatch 5000/5000, validation error 75.450000 %
+     epoch 2, minibatch 5000/5000, test error of best model 75.213333 %
+epoch 3, minibatch 5000/5000, validation error 74.903333 %
+     epoch 3, minibatch 5000/5000, test error of best model 74.966667 %
+epoch 4, minibatch 5000/5000, validation error 71.523333 %
+     epoch 4, minibatch 5000/5000, test error of best model 71.983333 %
+epoch 5, minibatch 5000/5000, validation error 67.550000 %
+     epoch 5, minibatch 5000/5000, test error of best model 67.756667 %
+epoch 6, minibatch 5000/5000, validation error 63.473333 %
+     epoch 6, minibatch 5000/5000, test error of best model 64.290000 %
+epoch 7, minibatch 5000/5000, validation error 65.680000 %
+epoch 8, minibatch 5000/5000, validation error 65.353333 %
+epoch 9, minibatch 5000/5000, validation error 66.370000 %
+epoch 10, minibatch 5000/5000, validation error 66.500000 %
+epoch 11, minibatch 5000/5000, validation error 65.613333 %
+[ 1.06713319  4.49468565  4.26547527]
+[ 1.  4.  5.]
+[[  7.18992770e-01  -2.11054730e+00   4.83456552e-02   5.73561251e-01
+    8.30335021e-01   5.86093962e-01   2.09622884e+00  -4.74806994e-01
+    5.98912954e-01   2.20643902e+00  -1.25972843e+00  -2.23141694e+00
+    6.27796829e-01  -9.22740638e-01   3.75332534e-01]
+ [ -2.97308326e-01  -9.83078599e-01  -5.41133881e-01   2.26358104e+00
+   -1.54896235e+00  -1.18387926e+00   5.19880593e-01   7.61992753e-01
+   -1.42339206e+00  -8.27823520e-01  -8.01145732e-01   4.35397291e+00
+   -1.55960429e+00  -5.10339737e-01  -7.02565610e-01]
+ [  2.23464823e+00   7.98014477e-02   1.73705742e-01   1.44464719e+00
+    1.69689465e+00  -6.15233898e-01   3.14597398e-01   4.73911434e-01
+   -1.54907569e-01  -2.49600604e-01  -3.16604328e+00   2.23537445e+00
+    1.51077759e+00  -3.14449996e-01   3.06675375e-01]
+ [  5.61354995e-01  -9.38341096e-02  -2.23152582e-02  -1.02047408e+00
+   -8.24128747e-01  -1.39873719e+00   3.14029366e-01   1.58320642e+00
+   -6.13513924e-02   2.01835299e+00  -1.79725528e+00   6.50482512e+00
+    2.30600095e+00  -3.89287882e-02   1.57638401e-01]
+ [ -1.31622326e+00   3.281The code for file btdv-tanh-15.py ran for 2.23m
+76647e-01   1.53491855e-01   1.54363668e+00
+   -2.81897616e+00   4.37637657e-01   7.90090635e-02  -5.39772093e-01
+   -4.16208088e-01  -1.10739577e+00  -3.52098203e+00  -2.15806723e+00
+    1.77064693e+00  -1.84004933e-01  -7.27385283e-02]
+ [  1.48181438e+00   1.32801473e+00   1.60890713e-01   7.47733414e-01
+    9.80432570e-01  -8.77003908e-01   7.06833839e-01   1.27225590e+00
+   -7.81974494e-01   1.10816443e+00  -1.76581311e+00   4.39805698e+00
+    9.73572254e-01   4.65009719e-01   1.06748247e+00]
+ [  6.68258488e-01   7.34955132e-01  -1.34224743e-01   4.74351138e-01
+    6.93988621e-01  -4.83299613e-01  -4.64333564e-01   5.21688819e-01
+    4.50046986e-01  -7.04997122e-01  -8.94057751e-01   2.18279743e+00
+    4.91263300e-01  -3.46363127e-01   8.59823599e-02]
+ [  5.56173734e-02   5.54942608e-01  -1.28969833e-01   2.06149593e-01
+    3.01650256e-01   9.35771942e-01  -9.15500522e-02  -9.43121910e-01
+   -1.04883753e-01  -6.72561765e-01  -3.61064225e-01  -4.29598141e+00
+    2.34884977e-01  -1.01023711e-01   7.10199773e-02]
+ [ -1.01883642e-01  -5.63314073e-02   5.08600324e-02   1.79916993e-02
+    1.58458594e-02   5.00174284e-01   4.09382991e-02  -4.74284977e-01
+   -9.83861163e-02   5.68412058e-02   1.52997347e-02  -2.14773750e+00
+    2.21763626e-02  -2.81328000e-02  -6.51954487e-02]
+ [  1.13012485e-01   6.45458549e-02  -6.08464718e-01  -2.35838685e-02
+   -3.56834941e-02   1.32811278e-01  -3.14017124e-02   7.78087927e-03
+    6.41285628e-02  -4.09157649e-02   1.33944955e-02  -1.13379613e-01
+    3.99197830e-04   1.48365572e-01   3.11228842e-01]]
+[-2.72714305 -0.42930636 -0.5829798  -2.30922818  0.02457016  0.19748594
+ -1.41791034 -0.32098687 -0.12088864 -0.89337093  5.48024702 -1.02389991
+ -2.48863077  0.67742151  0.66598803]
+[[ 0.29547256 -2.24427605  0.51886892]
+ [-0.42533103 -1.62524366 -0.23168762]
+ [-1.21792364 -0.6181674  -1.72679722]
+ [-0.48658904  4.86421394  0.28689179]
+ [-0.11442621  2.10731506 -0.27781278]
+ [-1.0695008   0.18931982  5.35323381]
+ [ 2.2820704  -2.0991354  -0.56348878]
+ [-0.61051506  0.10354167 -4.62826395]
+ [-0.89533079 -1.20661461 -0.30408251]
+ [-0.18821803  1.36362422  0.21650346]
+ [-0.43241253  4.20371532  0.06015703]
+ [-0.17981926  0.13245758  7.795156  ]
+ [-0.428837    4.89341974  0.09090579]
+ [-2.56381869  0.61329204  0.14805555]
+ [ 1.37777734 -0.37543312  1.79635346]]
+[ 1.39537787  1.72086024  2.12323117]
+Optimization complete. (with seed: 132) Best validation score of 63.473333 % obtained at iteration 30000, with test performance 64.290000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 73.850000 %
+     epoch 1, minibatch 5000/5000, test error of best model 73.813333 %
+epoch 2, minibatch 5000/5000, validation error 70.000000 %
+     epoch 2, minibatch 5000/5000, test error of best model 70.053333 %
+epoch 3, minibatch 5000/5000, validation error 73.196667 %
+[ 0.38294113  3.78796768  3.92194176]
+[ 1.  4.  5.]
+[[  6.14318192e-01  -2.31035933e-01   3.85442853e-01  -1.41238117e+00
+    5.49179673e-01  -3.32755178e-01  -2.92932570e-01  -9.27688777e-01
+    3.71474564e-01   4.69757579e-02  -8.03600132e-01   9.63695765e-01
+   -6.43603921e-01   1.45060018e-01   6.45498812e-01]
+ [  4.20052826e-01  -8.14328849e-01   3.63401920e-01   4.83012724e+00
+   -6.12880409e-01  -6.03761747e-02   2.71875530e-01  -4.04795796e-01
+   -1.71991062e+00  -7.86992088e-02   1.84302971e-01   8.71697128e-01
+    1.77873373e+00   6.58808827e-01   1.58946887e-01]
+ [ -9.04604018e-01  -1.42435372e-01   9.59972084e-01  -3.03525662e+00
+   -3.07116956e-01  -3.70230287e-01   3.69984210e-01  -1.90625831e-01
+    7.54499197e-01   4.18091357e-01  -4.37012345e-01   2.66364843e-01
+    1.78693105e-02   1.01631144e-02   1.00912400e-01]
+ [  3.62233788e-01  -5.88061631e-01  -1.63536584e+00   4.01381302e+00
+   -1.06854427e+00  -2.91447580e-01   2.23145589e-01  -3.97667773e-02
+    1.76455360e-02  -4.10179079e-01  -1.76074520e-01   2.39042699e-01
+    6.96768403e-01   6.93670571e-01   1.68132573e-01]
+ [ -6.12412870e-01  -5.79372108e-01   1.04728878e+00  -3.53663945e+00
+    6.78642035e-01   1.39609456e-01  The code for file btdv-tanh-15.py ran for 0.74m
+ 1.85356498e-01   2.00214423e-02
+    6.44900799e-01  -1.63146600e-01  -2.66887277e-01   3.05560194e-02
+   -2.40434423e-01   8.31815839e-01  -2.96913143e-02]
+ [  7.91464865e-01  -6.70126796e-01   5.75746953e-01  -1.91390455e+00
+   -6.02493167e-01   6.16336428e-02   7.41697907e-01   7.12457523e-02
+    5.21386981e-01   4.17036951e-01   2.75835916e-02  -1.23885185e-01
+   -1.21051264e+00   3.30151290e-01   2.25592449e-01]
+ [  1.96618348e-01  -1.39170229e-01   3.11617613e-01  -1.01303899e+00
+   -1.79153070e-01  -3.50413650e-01  -5.24960505e-03   1.45034090e-01
+    7.12240040e-01  -3.42155159e-01   1.66215692e-02   1.21348500e-01
+   -4.00561959e-01   2.41387039e-01  -3.03138234e-02]
+ [  5.44883370e-01  -2.98733741e-01   1.02469601e-01  -4.27924573e-01
+    7.15784192e-01   2.22440392e-01   3.94773811e-01   2.64948402e-02
+   -9.76037607e-02   1.74237803e-01  -2.19231114e-01  -3.80688049e-02
+   -1.33562207e-01   2.25836217e-01  -5.07868230e-01]
+ [  3.45397741e-02  -1.41873330e-01   8.69773049e-03  -1.93347165e-03
+    2.57672399e-01   3.78125161e-03   1.05691209e-01   2.43796259e-01
+    1.78210605e-02   1.39408201e-01  -1.10047691e-01  -1.39868993e-04
+    3.82948108e-02  -1.34581402e-01   4.62774038e-02]
+ [  4.64304648e-02  -3.74202460e-01  -6.12691529e-02  -3.72449756e-02
+    1.55116200e-01  -2.86929339e-01  -8.15475807e-02  -3.25586945e-01
+   -2.19798647e-02   4.46498930e-01   5.27080595e-01  -2.11301923e-01
+    6.96737170e-02   3.10964305e-02   2.21248344e-02]]
+[-0.22131434 -0.40047097 -0.73365885 -0.2315641   0.75632662 -0.00726009
+  0.48855212  0.50350881  0.11962935  0.39841378  0.2868602  -1.07645369
+  0.23979174  0.4397324  -0.1540186 ]
+[[ 1.04996693 -1.75557375  0.01398635]
+ [-0.56462836 -1.17577195 -1.13579309]
+ [ 0.13497452  2.11953521 -0.16730931]
+ [-0.54113948  5.73843288  0.09188111]
+ [ 0.5270642   1.23863196  0.91671038]
+ [-1.0893966  -0.3805463  -0.41749182]
+ [ 0.56588781  1.17828202  0.70395917]
+ [-1.7010715  -0.14234769 -0.46168908]
+ [-0.14714664  1.90680969  0.39183626]
+ [ 0.38585618  0.79657716  0.55590582]
+ [-1.40029371 -0.77848387  0.70675129]
+ [ 1.88532305 -0.75830096 -0.47444451]
+ [ 0.80972821 -2.16369772  0.4480094 ]
+ [ 0.30796796  1.21965349  0.85606164]
+ [ 1.46046555  0.16727601  0.45901579]]
+[ 0.96411562  0.94921237  0.98597085]
+Optimization complete. (with seed: 133) Best validation score of 70.000000 % obtained at iteration 10000, with test performance 70.053333 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 5000/5000, validation error 81.350000 %
+     epoch 1, minibatch 5000/5000, test error of best model 81.723333 %
+epoch 2, minibatch 5000/5000, validation error 68.800000 %
+     epoch 2, minibatch 5000/5000, test error of best model 68.743333 %
+epoch 3, minibatch 5000/5000, validation error 70.083333 %
+[ 0.8755573   4.01801872  4.92602825]
+[ 1.  4.  5.]
+[[ 0.46829697 -0.79606336  1.04688919  0.94713885  0.38447258  0.57119358
+   0.68697619 -0.05878442 -1.09787238 -1.38176489 -0.41250163 -0.32444245
+  -0.3307735  -0.36145887  0.18019792]
+ [ 1.23954272  0.16540249 -0.23056133 -0.173142   -0.34297356  0.81591487
+   0.11519763  0.01989469  1.74818861 -0.83308572 -2.31300879  1.69660759
+   0.24482863 -0.9689042   0.28946581]
+ [ 0.4184089   2.05932879  0.2448235   0.08731333  1.04010105  0.14251782
+  -0.13490665 -0.01964953 -1.75199628  0.05445266 -1.73550498 -0.7061792
+  -0.03992321 -0.34035948  0.70086157]
+ [ 0.2881034  -1.24100173  0.28673178 -0.32807848  0.56356519  0.10373647
+   0.30922925  0.06787536  1.58593392 -0.14729413  2.4100914  -0.74364799
+   0.77073044 -1.05440187  0.25313729]
+ [-0.0380788   1.90672457 -0.16094615  0.06853722 -0.8318873   0.05717106
+   0.23986204  0.03559488 -1.94079983  0.2006287  -1.95619953 -1.13766873
+   0.39474869 -0.83588624  0.05468753]
+ [ 0.03453611 -1.25972736 -0.08896207 -0.30816671  0.67595881 -0.25521949
+  -0.25083902  0.03408601 -1.40783703 -1.1173712  -0.62415773 -0.34410581
+   0.67263311 -0.30443642  0.52323204]
+ [ 0.7243076  -0.52699316 -0.20024607 -0.09320666  0.50996339 -0.17026806
+   0.02956211 -0.22671825 -0.70189083  0.25411934The code for file btdv-tanh-15.py ran for 0.74m
+ -0.30773386 -0.06385472
+   0.02174084 -0.23219837 -0.23249839]
+ [-0.02417297 -0.23699032 -0.14297795  0.19762878 -0.20069748  0.19090946
+  -0.22540732 -0.06292111 -0.29761055  0.00573915 -0.11888102 -0.14204155
+   0.00534706 -0.35706812  0.17388935]
+ [-0.10222791  0.05299043  0.17461954 -0.20798923 -0.18136863  0.03262914
+   0.06011921 -0.52700728  0.05750091  0.09838274 -0.01806597 -0.0063535
+  -0.18731137 -0.09416723  0.56809354]
+ [-0.19854164  0.04336336 -0.54943448  0.21512409  0.00730602 -0.0795854
+   0.41027883 -0.60402     0.00417935 -0.00618751 -0.00777969  0.08994143
+   0.17167817  0.00328211  0.21569088]]
+[-1.06881058  1.07850194  0.06451838  0.27233097  0.02682579 -0.70004708
+ -0.29678786 -0.6359272   1.04688728  1.21620893  1.78347421  0.46546879
+  0.67319542 -0.3458094   0.65542626]
+[[  1.21787238e+00  -1.31189334e+00  -5.84315896e-01]
+ [  3.98747504e-01  -2.64200830e+00   1.94277421e-01]
+ [  1.28109658e+00   1.12922287e+00  -5.50759554e-01]
+ [  1.25998747e+00   6.87829375e-01   5.39645433e-01]
+ [  2.88562328e-01   1.34034216e+00   3.17740560e-01]
+ [  1.60756004e+00  -2.86030531e-01   1.07935838e-01]
+ [  1.34588528e+00   3.14298332e-01   6.05687022e-01]
+ [ -5.47889769e-01  -3.70017201e-01  -9.23109770e-01]
+ [ -5.72567403e-01   3.24722481e+00  -8.06804188e-03]
+ [ -1.29670286e+00   1.70525873e+00   3.02277971e-03]
+ [  2.55681276e-01  -4.43373966e+00  -3.92981917e-02]
+ [  3.50706011e-01  -2.11842513e+00   2.92028755e-01]
+ [  2.80707181e-01   1.14427364e+00   1.10472155e+00]
+ [ -8.39853346e-01  -1.27607036e+00  -4.56251621e-01]
+ [  8.00317466e-01   9.30816472e-01   8.91157389e-01]]
+[ 0.57256573  0.81876552  1.16101253]
+Optimization complete. (with seed: 134) Best validation score of 68.800000 % obtained at iteration 10000, with test performance 68.743333 %

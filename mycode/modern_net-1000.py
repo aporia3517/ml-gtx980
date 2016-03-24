@@ -454,9 +454,9 @@ def test_mlp(rng, srng, dataset='mnist.pkl.gz', model='mlp.dat', batch_size=128,
         n_out=10
     )
 
-    #with open(model, 'r') as f:
-    #    for i, param in enumerate(classifier.params):
-    #        classifier.params[i].set_value(cPickle.load(f), borrow=True)
+    with open(model, 'r') as f:
+        for i, param in enumerate(classifier.params):
+            classifier.params[i].set_value(cPickle.load(f), borrow=True)
 
 
     test_model = theano.function(
@@ -476,14 +476,14 @@ def test_mlp(rng, srng, dataset='mnist.pkl.gz', model='mlp.dat', batch_size=128,
 
 
 if __name__ == '__main__':
-    hidden_layer_sizes = [1000, 1000, 1000]
-    dropout_p = [.2, .5, .5, .5]
-    n_epochs = 5000
+    hidden_layer_sizes = [500]
+    dropout_p = [.2, .2]
+    n_epochs = 1000
     batch_size = 256 
     patience_increase = 2
 
-    for seed in range(42,52):
-        model = '../model/modern-1000-1000-1000-seed-' + str(seed) + '.dat'
+    for seed in range(22,23):
+        model = '../model/modern-1000-seed-' + str(seed) + '.dat'
         rng = np.random.RandomState(seed)
         srng = RandomStreams(seed=seed)
 

@@ -164,7 +164,9 @@ class LogisticRegression(object):
             return T.mean(T.neq(self.y_pred, y))
         else:
             raise NotImplementedError()
-
+	
+	def output(self, y):
+		return self.p_y_given_x
 
 def load_data(dataset, allow_flip=False, binary_image=False):
     ''' Loads the dataset

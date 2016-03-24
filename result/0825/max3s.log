@@ -1,0 +1,719 @@
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 1.250000 %
+     epoch 1, minibatch 2500/2500, test error of best model 1.220000 %
+epoch 2, minibatch 2500/2500, validation error 0.310000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.340000 %
+epoch 3, minibatch 2500/2500, validation error 0.040000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 4, minibatch 2500/2500, validation error 0.030000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 5, minibatch 2500/2500, validation error 0.020000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 6, minibatch 2500/2500, validation error 0.010000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 7, minibatch 2500/2500, validation error 0.000000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 8, minibatch 2500/2500, validation error 0.000000 %
+epoch 9, minibatch 2500/2500, validation error 0.000000 %
+epoch 10, minibatch 2500/2500, validation error 0.000000 %
+epoch 11, minibatch 2500/2500, validation error 0.000000 %
+epoch 12, minibatch 2500/2500, validation error 0.000000 %
+epoch 13, minibatch 2500/2500, validation error 0.000000 %
+Optimization complete. (with seed: 100) Best validation score of 0.000000 % obtained at iteration 17500, with test performance 0.010000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.620000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.790000 %
+epoch 2, minibatch 2500/2500, validation error 0.430000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.370000 %
+epoch 3, minibatch 2500/2500, validation error 0.360000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.330000 %
+epoch 4, minibatch 2500/2500, validation error 0.340000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.310000 %
+epoch 5, minibatch 2500/2500, validation error 0.320000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.280000 %
+epoch 6, minibatch 2500/2500, validation error 0.300000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.270000 %
+epoch 7, minibatch 2500/2500, validation error 0.270000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.250000 %
+epoch 8, minibatch 2500/2500, validation error 0.240000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.220000 %
+epoch 9, minibatch 2500/2500, validation error 0.180000 %
+     epoch 9, minibatch 2500/2500, test error of best model 0.220000 %
+epoch 10, minibatch 2500/2500, validation error 0.160000 %
+     epoch 10, minibatch 2500/2500, test error of best model 0.200000 %
+epoch 11, minibatch 2500/2500, validation error 0.140000 %
+     epoch 11, minibatch 2500/2500, test error of best model 0.180000 %
+epoch 12, minibatch 2500/2500, validation error 0.080000 %
+     epoch 12, minibatch 2500/2500, test error of best model 0.120000 %
+epoch 13, minibatch 2500/2500, validation error 0.040000 %
+     epoch 13, minibatch 2500/2500, test error of best model 0.090000 %
+epoch 14, minibatch 2500/2500, validation error 0.030000 %
+     epoch 14, minibatch 2500/2500, test error of best model 0.060000 %
+epoch 15, minibatch 2500/2500, validation error 0.000000 %
+     epoch 15, minibatch 2500/2500, test error of best model 0.050000 %
+epoch 16, minibatch 2500/2500, validation error 0.000000 %
+epoch 17, minibatch 2500/2500, validation error 0.000000 %
+epoch 18, minibatch 2500/2500, validation error 0.000000 %
+epoch 19, minibatch 2500/2500, validation error 0.000000 %
+epoch 20, minibatch 2500/2500, validation error 0.000000 %
+epoch 21, minibatch 2500/2500, validation error 0.000000 %
+epoch 22, minibatch 2500/2500, validation error 0.000000 %
+epoch 23, minibatch 2500/2500, validation error 0.000000 %
+epoch 24, minibatch 2500/2500, validation error 0.000000 %
+epoch 25, minibatch 2500/2500, validation error 0.000000 %
+epoch 26, minibatch 2500/2500, validation error 0.000000 %
+epoch 27, minibatch 2500/2500, validation error 0.000000 %
+epoch 28, minibatch 2500/2500, validation error 0.010000 %
+epoch 29, minibatch 2500/2500, validation error 0.010000 %
+Optimization complete. (with seed: 101) Best validation score of 0.000000 % obtained at iteration 37500, with test performance 0.050000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.390000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.350000 %
+epoch 2, minibatch 2500/2500, validation error 0.090000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.060000 %
+epoch 3, minibatch 2500/2500, validation error 0.070000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 4, minibatch 2500/2500, validation error 0.060000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 5, minibatch 2500/2500, validation error 0.060000 %
+epoch 6, minibatch 2500/2500, validation error 0.030000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 7, minibatch 2500/2500, validation error 0.030000 %
+epoch 8, minibatch 2500/2500, validation error 0.030000 %
+epoch 9, minibatch 2500/2500, validation error 0.030000 %
+epoch 10, minibatch 2500/2500, validation error 0.030000 %
+epoch 11, minibatch 2500/2500, validation error 0.030000 %
+Optimization complete. (with seed: 102) Best validation score of 0.030000 % obtained at iteration 15000, with test performance 0.010000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.390000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.350000 %
+epoch 2, minibatch 2500/2500, validation error 0.390000 %
+epoch 3, minibatch 2500/2500, validation error 0.320000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.240000 %
+epoch 4, minibatch 2500/2500, validation error 0.290000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.180000 %
+epoch 5, minibatch 2500/2500, validation error 0.240000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.140000 %
+epoch 6, minibatch 2500/2500, validation error 0.220000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.090000 %
+epoch 7, minibatch 2500/2500, validation error 0.150000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.050000 %
+epoch 8, minibatch 2500/2500, validation error 0.050000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 9, minibatch 2500/2500, validation error 0.050000 %
+epoch 10, minibatch 2500/2500, validation error 0.050000 %
+epoch 11, minibatch 2500/2500, validation error 0.040000 %
+     epoch 11, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 12, minibatch 2500/2500, validation error 0.020000 %
+     epoch 12, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 13, minibatch 2500/2500, validation error 0.030000 %
+epoch 14, minibatch 2500/2500, validation error 0.030000 %
+epoch 15, minibatch 2500/2500, validation error 0.030000 %
+epoch 16, minibatch 2500/2500, validation error 0.030000 %
+epoch 17, minibatch 2500/2500, validation error 0.030000 %
+epoch 18, minibatch 2500/2500, validation error 0.030000 %
+epoch 19, minibatch 2500/2500, validation error 0.020000 %
+epoch 20, minibatch 2500/2500, validation error 0.010000 %
+     epoch 20, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 21, minibatch 2500/2500, validation error 0.010000 %
+epoch 22, minibatch 2500/2500, validation error 0.010000 %
+epoch 23, minibatch 2500/2500, validation error 0.010000 %
+epoch 24, minibatch 2500/2500, validation error 0.010000 %
+epoch 25, minibatch 2500/2500, validation error 0.010000 %
+epoch 26, minibatch 2500/2500, validation error 0.010000 %
+epoch 27, minibatch 2500/2500, validation error 0.010000 %
+epoch 28, minibatch 2500/2500, validation error 0.010000 %
+epoch 29, minibatch 2500/2500, validation error 0.000000 %
+     epoch 29, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 30, minibatch 2500/2500, validation error 0.000000 %
+epoch 31, minibatch 2500/2500, validation error 0.000000 %
+epoch 32, minibatch 2500/2500, validation error 0.000000 %
+epoch 33, minibatch 2500/2500, validation error 0.000000 %
+epoch 34, minibatch 2500/2500, validation error 0.000000 %
+epoch 35, minibatch 2500/2500, validation error 0.000000 %
+epoch 36, minibatch 2500/2500, validation error 0.000000 %
+epoch 37, minibatch 2500/2500, validation error 0.000000 %
+epoch 38, minibatch 2500/2500, validation error 0.000000 %
+epoch 39, minibatch 2500/2500, validation error 0.000000 %
+epoch 40, minibatch 2500/2500, validation error 0.000000 %
+epoch 41, minibatch 2500/2500, validation error 0.000000 %
+epoch 42, minibatch 2500/2500, validation error 0.000000 %
+epoch 43, minibatch 2500/2500, validation error 0.000000 %
+epoch 44, minibatch 2500/2500, validation error 0.000000 %
+epoch 45, minibatch 2500/2500, validation error 0.000000 %
+epoch 46, minibatch 2500/2500, validation error 0.000000 %
+epoch 47, minibatch 2500/2500, validation error 0.000000 %
+epoch 48, minibatch 2500/2500, validation error 0.000000 %
+epoch 49, minibatch 2500/2500, validation error 0.000000 %
+epoch 50, minibatch 2500/2500, validation error 0.000000 %
+epoch 51, minibatch 2500/2500, validation error 0.000000 %
+epoch 52, minibatch 2500/2500, validation error 0.000000 %
+epoch 53, minibatch 2500/2500, validation error 0.000000 %
+epoch 54, minibatch 2500/2500, validation error 0.000000 %
+epoch 55, minibatch 2500/2500, validation error 0.000000 %
+epoch 56, minibatch 2500/2500, validation error 0.000000 %
+epoch 57, minibatch 2500/2500, validation error 0.000000 %
+Optimization complete. (with seed: 103) Best validation score of 0.000000 % obtained at iteration 72500, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.340000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.280000 %
+epoch 2, minibatch 2500/2500, validation error 0.110000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.050000 %
+epoch 3, minibatch 2500/2500, validation error 0.090000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 4, minibatch 2500/2500, validation error 0.090000 %
+epoch 5, minibatch 2500/2500, validation error 0.070000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 6, minibatch 2500/2500, validation error 0.060000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 7, minibatch 2500/2500, validation error 0.060000 %
+epoch 8, minibatch 2500/2500, validation error 0.050000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 9, minibatch 2500/2500, validation error 0.050000 %
+epoch 10, minibatch 2500/2500, validation error 0.020000 %
+     epoch 10, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 11, minibatch 2500/2500, validation error 0.020000 %
+epoch 12, minibatch 2500/2500, validation error 0.020000 %
+epoch 13, minibatch 2500/2500, validation error 0.010000 %
+     epoch 13, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 14, minibatch 2500/2500, validation error 0.000000 %
+     epoch 14, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 15, minibatch 2500/2500, validation error 0.000000 %
+epoch 16, minibatch 2500/2500, validation error 0.000000 %
+epoch 17, minibatch 2500/2500, validation error 0.000000 %
+epoch 18, minibatch 2500/2500, validation error 0.000000 %
+epoch 19, minibatch 2500/2500, validation error 0.000000 %
+epoch 20, minibatch 2500/2500, validation error 0.000000 %
+epoch 21, minibatch 2500/2500, validation error 0.000000 %
+epoch 22, minibatch 2500/2500, validation error 0.000000 %
+epoch 23, minibatch 2500/2500, validation error 0.000000 %
+epoch 24, minibatch 2500/2500, validation error 0.000000 %
+epoch 25, minibatch 2500/2500, validation error 0.000000 %
+epoch 26, minibatch 2500/2500, validation error 0.000000 %
+epoch 27, minibatch 2500/2500, validation error 0.000000 %
+Optimization complete. (with seed: 104) Best validation score of 0.000000 % obtained at iteration 35000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.810000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.830000 %
+epoch 2, minibatch 2500/2500, validation error 0.180000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.170000 %
+epoch 3, minibatch 2500/2500, validation error 0.170000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.140000 %
+epoch 4, minibatch 2500/2500, validation error 0.120000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.100000 %
+epoch 5, minibatch 2500/2500, validation error 0.110000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.080000 %
+epoch 6, minibatch 2500/2500, validation error 0.100000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 7, minibatch 2500/2500, validation error 0.070000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 8, minibatch 2500/2500, validation error 0.070000 %
+epoch 9, minibatch 2500/2500, validation error 0.040000 %
+     epoch 9, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 10, minibatch 2500/2500, validation error 0.040000 %
+epoch 11, minibatch 2500/2500, validation error 0.030000 %
+     epoch 11, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 12, minibatch 2500/2500, validation error 0.030000 %
+epoch 13, minibatch 2500/2500, validation error 0.030000 %
+epoch 14, minibatch 2500/2500, validation error 0.020000 %
+     epoch 14, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 15, minibatch 2500/2500, validation error 0.020000 %
+epoch 16, minibatch 2500/2500, validation error 0.020000 %
+epoch 17, minibatch 2500/2500, validation error 0.020000 %
+epoch 18, minibatch 2500/2500, validation error 0.010000 %
+     epoch 18, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 19, minibatch 2500/2500, validation error 0.000000 %
+     epoch 19, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 20, minibatch 2500/2500, validation error 0.000000 %
+epoch 21, minibatch 2500/2500, validation error 0.000000 %
+epoch 22, minibatch 2500/2500, validation error 0.000000 %
+epoch 23, minibatch 2500/2500, validation error 0.000000 %
+epoch 24, minibatch 2500/2500, validation error 0.000000 %
+epoch 25, minibatch 2500/2500, validation error 0.000000 %
+epoch 26, minibatch 2500/2500, validation error 0.000000 %
+epoch 27, minibatch 2500/2500, validation error 0.000000 %
+epoch 28, minibatch 2500/2500, validation error 0.000000 %
+epoch 29, minibatch 2500/2500, validation error 0.000000 %
+epoch 30, minibatch 2500/2500, validation error 0.000000 %
+epoch 31, minibatch 2500/2500, validation error 0.000000 %
+epoch 32, minibatch 2500/2500, validation error 0.000000 %
+epoch 33, minibatch 2500/2500, validation error 0.000000 %
+epoch 34, minibatch 2500/2500, validation error 0.000000 %
+epoch 35, minibatch 2500/2500, validation error 0.000000 %
+epoch 36, minibatch 2500/2500, validation error 0.000000 %
+epoch 37, minibatch 2500/2500, validation error 0.000000 %
+Optimization complete. (with seed: 105) Best validation score of 0.000000 % obtained at iteration 47500, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.120000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.120000 %
+epoch 2, minibatch 2500/2500, validation error 0.060000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.090000 %
+epoch 3, minibatch 2500/2500, validation error 0.030000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 4, minibatch 2500/2500, validation error 0.010000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 5, minibatch 2500/2500, validation error 0.010000 %
+epoch 6, minibatch 2500/2500, validation error 0.010000 %
+epoch 7, minibatch 2500/2500, validation error 0.010000 %
+Optimization complete. (with seed: 106) Best validation score of 0.010000 % obtained at iteration 10000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.890000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.880000 %
+epoch 2, minibatch 2500/2500, validation error 0.370000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.360000 %
+epoch 3, minibatch 2500/2500, validation error 0.130000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.100000 %
+epoch 4, minibatch 2500/2500, validation error 0.080000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 5, minibatch 2500/2500, validation error 0.050000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 6, minibatch 2500/2500, validation error 0.030000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 7, minibatch 2500/2500, validation error 0.040000 %
+epoch 8, minibatch 2500/2500, validation error 0.040000 %
+epoch 9, minibatch 2500/2500, validation error 0.040000 %
+epoch 10, minibatch 2500/2500, validation error 0.030000 %
+epoch 11, minibatch 2500/2500, validation error 0.030000 %
+Optimization complete. (with seed: 107) Best validation score of 0.030000 % obtained at iteration 15000, with test performance 0.010000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 1.260000 %
+     epoch 1, minibatch 2500/2500, test error of best model 1.370000 %
+epoch 2, minibatch 2500/2500, validation error 0.240000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.240000 %
+epoch 3, minibatch 2500/2500, validation error 0.050000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.050000 %
+epoch 4, minibatch 2500/2500, validation error 0.080000 %
+epoch 5, minibatch 2500/2500, validation error 0.080000 %
+Optimization complete. (with seed: 108) Best validation score of 0.050000 % obtained at iteration 7500, with test performance 0.050000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.760000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.820000 %
+epoch 2, minibatch 2500/2500, validation error 0.180000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.140000 %
+epoch 3, minibatch 2500/2500, validation error 0.070000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 4, minibatch 2500/2500, validation error 0.070000 %
+epoch 5, minibatch 2500/2500, validation error 0.050000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 6, minibatch 2500/2500, validation error 0.050000 %
+epoch 7, minibatch 2500/2500, validation error 0.050000 %
+epoch 8, minibatch 2500/2500, validation error 0.050000 %
+epoch 9, minibatch 2500/2500, validation error 0.050000 %
+Optimization complete. (with seed: 109) Best validation score of 0.050000 % obtained at iteration 12500, with test performance 0.020000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 1.360000 %
+     epoch 1, minibatch 2500/2500, test error of best model 1.480000 %
+epoch 2, minibatch 2500/2500, validation error 0.460000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.410000 %
+epoch 3, minibatch 2500/2500, validation error 0.180000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.170000 %
+epoch 4, minibatch 2500/2500, validation error 0.160000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.130000 %
+epoch 5, minibatch 2500/2500, validation error 0.120000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.090000 %
+epoch 6, minibatch 2500/2500, validation error 0.100000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.050000 %
+epoch 7, minibatch 2500/2500, validation error 0.070000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 8, minibatch 2500/2500, validation error 0.050000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 9, minibatch 2500/2500, validation error 0.040000 %
+     epoch 9, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 10, minibatch 2500/2500, validation error 0.040000 %
+epoch 11, minibatch 2500/2500, validation error 0.040000 %
+epoch 12, minibatch 2500/2500, validation error 0.020000 %
+     epoch 12, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 13, minibatch 2500/2500, validation error 0.020000 %
+epoch 14, minibatch 2500/2500, validation error 0.020000 %
+epoch 15, minibatch 2500/2500, validation error 0.020000 %
+epoch 16, minibatch 2500/2500, validation error 0.020000 %
+epoch 17, minibatch 2500/2500, validation error 0.010000 %
+     epoch 17, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 18, minibatch 2500/2500, validation error 0.010000 %
+epoch 19, minibatch 2500/2500, validation error 0.010000 %
+epoch 20, minibatch 2500/2500, validation error 0.000000 %
+     epoch 20, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 21, minibatch 2500/2500, validation error 0.000000 %
+epoch 22, minibatch 2500/2500, validation error 0.000000 %
+epoch 23, minibatch 2500/2500, validation error 0.000000 %
+epoch 24, minibatch 2500/2500, validation error 0.000000 %
+epoch 25, minibatch 2500/2500, validation error 0.000000 %
+epoch 26, minibatch 2500/2500, validation error 0.000000 %
+epoch 27, minibatch 2500/2500, validation error 0.000000 %
+epoch 28, minibatch 2500/2500, validation error 0.000000 %
+epoch 29, minibatch 2500/2500, validation error 0.000000 %
+epoch 30, minibatch 2500/2500, validation error 0.000000 %
+epoch 31, minibatch 2500/2500, validation error 0.000000 %
+epoch 32, minibatch 2500/2500, validation error 0.000000 %
+epoch 33, minibatch 2500/2500, validation error 0.000000 %
+epoch 34, minibatch 2500/2500, validation error 0.000000 %
+epoch 35, minibatch 2500/2500, validation error 0.000000 %
+epoch 36, minibatch 2500/2500, validation error 0.000000 %
+epoch 37, minibatch 2500/2500, validation error 0.000000 %
+epoch 38, minibatch 2500/2500, validation error 0.000000 %
+epoch 39, minibatch 2500/2500, validation error 0.000000 %
+Optimization complete. (with seed: 110) Best validation score of 0.000000 % obtained at iteration 50000, with test performance 0.010000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.330000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.230000 %
+epoch 2, minibatch 2500/2500, validation error 0.110000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.070000 %
+epoch 3, minibatch 2500/2500, validation error 0.060000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 4, minibatch 2500/2500, validation error 0.030000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 5, minibatch 2500/2500, validation error 0.020000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 6, minibatch 2500/2500, validation error 0.020000 %
+epoch 7, minibatch 2500/2500, validation error 0.020000 %
+epoch 8, minibatch 2500/2500, validation error 0.010000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 9, minibatch 2500/2500, validation error 0.010000 %
+epoch 10, minibatch 2500/2500, validation error 0.020000 %
+epoch 11, minibatch 2500/2500, validation error 0.020000 %
+epoch 12, minibatch 2500/2500, validation error 0.020000 %
+epoch 13, minibatch 2500/2500, validation error 0.020000 %
+epoch 14, minibatch 2500/2500, validation error 0.020000 %
+epoch 15, minibatch 2500/2500, validation error 0.020000 %
+Optimization complete. (with seed: 111) Best validation score of 0.010000 % obtained at iteration 20000, with test performance 0.020000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.810000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.790000 %
+epoch 2, minibatch 2500/2500, validation error 0.270000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.230000 %
+epoch 3, minibatch 2500/2500, validation error 0.250000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.240000 %
+epoch 4, minibatch 2500/2500, validation error 0.220000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.220000 %
+epoch 5, minibatch 2500/2500, validation error 0.180000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.180000 %
+epoch 6, minibatch 2500/2500, validation error 0.140000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.160000 %
+epoch 7, minibatch 2500/2500, validation error 0.120000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.130000 %
+epoch 8, minibatch 2500/2500, validation error 0.090000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.120000 %
+epoch 9, minibatch 2500/2500, validation error 0.070000 %
+     epoch 9, minibatch 2500/2500, test error of best model 0.090000 %
+epoch 10, minibatch 2500/2500, validation error 0.060000 %
+     epoch 10, minibatch 2500/2500, test error of best model 0.060000 %
+epoch 11, minibatch 2500/2500, validation error 0.050000 %
+     epoch 11, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 12, minibatch 2500/2500, validation error 0.020000 %
+     epoch 12, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 13, minibatch 2500/2500, validation error 0.010000 %
+     epoch 13, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 14, minibatch 2500/2500, validation error 0.010000 %
+epoch 15, minibatch 2500/2500, validation error 0.010000 %
+epoch 16, minibatch 2500/2500, validation error 0.000000 %
+     epoch 16, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 17, minibatch 2500/2500, validation error 0.000000 %
+epoch 18, minibatch 2500/2500, validation error 0.000000 %
+epoch 19, minibatch 2500/2500, validation error 0.000000 %
+epoch 20, minibatch 2500/2500, validation error 0.000000 %
+epoch 21, minibatch 2500/2500, validation error 0.000000 %
+epoch 22, minibatch 2500/2500, validation error 0.000000 %
+epoch 23, minibatch 2500/2500, validation error 0.000000 %
+epoch 24, minibatch 2500/2500, validation error 0.000000 %
+epoch 25, minibatch 2500/2500, validation error 0.000000 %
+epoch 26, minibatch 2500/2500, validation error 0.000000 %
+epoch 27, minibatch 2500/2500, validation error 0.000000 %
+epoch 28, minibatch 2500/2500, validation error 0.000000 %
+epoch 29, minibatch 2500/2500, validation error 0.000000 %
+epoch 30, minibatch 2500/2500, validation error 0.000000 %
+epoch 31, minibatch 2500/2500, validation error 0.000000 %
+Optimization complete. (with seed: 112) Best validation score of 0.000000 % obtained at iteration 40000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.730000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.620000 %
+epoch 2, minibatch 2500/2500, validation error 0.310000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.190000 %
+epoch 3, minibatch 2500/2500, validation error 0.170000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.080000 %
+epoch 4, minibatch 2500/2500, validation error 0.130000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.070000 %
+epoch 5, minibatch 2500/2500, validation error 0.120000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.070000 %
+epoch 6, minibatch 2500/2500, validation error 0.110000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.070000 %
+epoch 7, minibatch 2500/2500, validation error 0.100000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.060000 %
+epoch 8, minibatch 2500/2500, validation error 0.080000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.050000 %
+epoch 9, minibatch 2500/2500, validation error 0.050000 %
+     epoch 9, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 10, minibatch 2500/2500, validation error 0.030000 %
+     epoch 10, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 11, minibatch 2500/2500, validation error 0.020000 %
+     epoch 11, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 12, minibatch 2500/2500, validation error 0.010000 %
+     epoch 12, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 13, minibatch 2500/2500, validation error 0.010000 %
+epoch 14, minibatch 2500/2500, validation error 0.010000 %
+epoch 15, minibatch 2500/2500, validation error 0.010000 %
+epoch 16, minibatch 2500/2500, validation error 0.000000 %
+     epoch 16, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 17, minibatch 2500/2500, validation error 0.000000 %
+epoch 18, minibatch 2500/2500, validation error 0.000000 %
+epoch 19, minibatch 2500/2500, validation error 0.000000 %
+epoch 20, minibatch 2500/2500, validation error 0.000000 %
+epoch 21, minibatch 2500/2500, validation error 0.000000 %
+epoch 22, minibatch 2500/2500, validation error 0.000000 %
+epoch 23, minibatch 2500/2500, validation error 0.000000 %
+epoch 24, minibatch 2500/2500, validation error 0.000000 %
+epoch 25, minibatch 2500/2500, validation error 0.000000 %
+epoch 26, minibatch 2500/2500, validation error 0.000000 %
+epoch 27, minibatch 2500/2500, validation error 0.000000 %
+epoch 28, minibatch 2500/2500, validation error 0.000000 %
+epoch 29, minibatch 2500/2500, validation error 0.000000 %
+epoch 30, minibatch 2500/2500, validation error 0.000000 %
+epoch 31, minibatch 2500/2500, validation error 0.000000 %
+Optimization complete. (with seed: 113) Best validation score of 0.000000 % obtained at iteration 40000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.690000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.730000 %
+epoch 2, minibatch 2500/2500, validation error 0.230000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.170000 %
+epoch 3, minibatch 2500/2500, validation error 0.150000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.120000 %
+epoch 4, minibatch 2500/2500, validation error 0.100000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.060000 %
+epoch 5, minibatch 2500/2500, validation error 0.060000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 6, minibatch 2500/2500, validation error 0.040000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 7, minibatch 2500/2500, validation error 0.030000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 8, minibatch 2500/2500, validation error 0.020000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 9, minibatch 2500/2500, validation error 0.020000 %
+epoch 10, minibatch 2500/2500, validation error 0.020000 %
+epoch 11, minibatch 2500/2500, validation error 0.020000 %
+epoch 12, minibatch 2500/2500, validation error 0.030000 %
+epoch 13, minibatch 2500/2500, validation error 0.030000 %
+epoch 14, minibatch 2500/2500, validation error 0.030000 %
+epoch 15, minibatch 2500/2500, validation error 0.030000 %
+Optimization complete. (with seed: 114) Best validation score of 0.020000 % obtained at iteration 20000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.840000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.800000 %
+epoch 2, minibatch 2500/2500, validation error 0.190000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.120000 %
+epoch 3, minibatch 2500/2500, validation error 0.080000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 4, minibatch 2500/2500, validation error 0.070000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 5, minibatch 2500/2500, validation error 0.070000 %
+epoch 6, minibatch 2500/2500, validation error 0.080000 %
+epoch 7, minibatch 2500/2500, validation error 0.090000 %
+Optimization complete. (with seed: 115) Best validation score of 0.070000 % obtained at iteration 10000, with test performance 0.030000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 2.030000 %
+     epoch 1, minibatch 2500/2500, test error of best model 2.300000 %
+epoch 2, minibatch 2500/2500, validation error 0.820000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.800000 %
+epoch 3, minibatch 2500/2500, validation error 0.290000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.200000 %
+epoch 4, minibatch 2500/2500, validation error 0.140000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.110000 %
+epoch 5, minibatch 2500/2500, validation error 0.120000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.080000 %
+epoch 6, minibatch 2500/2500, validation error 0.090000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 7, minibatch 2500/2500, validation error 0.080000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 8, minibatch 2500/2500, validation error 0.070000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 9, minibatch 2500/2500, validation error 0.050000 %
+     epoch 9, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 10, minibatch 2500/2500, validation error 0.050000 %
+epoch 11, minibatch 2500/2500, validation error 0.050000 %
+epoch 12, minibatch 2500/2500, validation error 0.050000 %
+epoch 13, minibatch 2500/2500, validation error 0.050000 %
+epoch 14, minibatch 2500/2500, validation error 0.050000 %
+epoch 15, minibatch 2500/2500, validation error 0.050000 %
+epoch 16, minibatch 2500/2500, validation error 0.050000 %
+epoch 17, minibatch 2500/2500, validation error 0.030000 %
+     epoch 17, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 18, minibatch 2500/2500, validation error 0.030000 %
+epoch 19, minibatch 2500/2500, validation error 0.020000 %
+     epoch 19, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 20, minibatch 2500/2500, validation error 0.020000 %
+epoch 21, minibatch 2500/2500, validation error 0.010000 %
+     epoch 21, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 22, minibatch 2500/2500, validation error 0.000000 %
+     epoch 22, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 23, minibatch 2500/2500, validation error 0.000000 %
+epoch 24, minibatch 2500/2500, validation error 0.000000 %
+epoch 25, minibatch 2500/2500, validation error 0.000000 %
+epoch 26, minibatch 2500/2500, validation error 0.000000 %
+epoch 27, minibatch 2500/2500, validation error 0.000000 %
+epoch 28, minibatch 2500/2500, validation error 0.000000 %
+epoch 29, minibatch 2500/2500, validation error 0.000000 %
+epoch 30, minibatch 2500/2500, validation error 0.000000 %
+epoch 31, minibatch 2500/2500, validation error 0.000000 %
+epoch 32, minibatch 2500/2500, validation error 0.000000 %
+epoch 33, minibatch 2500/2500, validation error 0.000000 %
+epoch 34, minibatch 2500/2500, validation error 0.000000 %
+epoch 35, minibatch 2500/2500, validation error 0.000000 %
+epoch 36, minibatch 2500/2500, validation error 0.000000 %
+epoch 37, minibatch 2500/2500, validation error 0.000000 %
+epoch 38, minibatch 2500/2500, validation error 0.000000 %
+epoch 39, minibatch 2500/2500, validation error 0.000000 %
+epoch 40, minibatch 2500/2500, validation error 0.000000 %
+epoch 41, minibatch 2500/2500, validation error 0.000000 %
+epoch 42, minibatch 2500/2500, validation error 0.000000 %
+epoch 43, minibatch 2500/2500, validation error 0.000000 %
+Optimization complete. (with seed: 116) Best validation score of 0.000000 % obtained at iteration 55000, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 1.120000 %
+     epoch 1, minibatch 2500/2500, test error of best model 1.250000 %
+epoch 2, minibatch 2500/2500, validation error 0.250000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.260000 %
+epoch 3, minibatch 2500/2500, validation error 0.170000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.080000 %
+epoch 4, minibatch 2500/2500, validation error 0.120000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.060000 %
+epoch 5, minibatch 2500/2500, validation error 0.110000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.050000 %
+epoch 6, minibatch 2500/2500, validation error 0.100000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.050000 %
+epoch 7, minibatch 2500/2500, validation error 0.090000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 8, minibatch 2500/2500, validation error 0.090000 %
+epoch 9, minibatch 2500/2500, validation error 0.080000 %
+     epoch 9, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 10, minibatch 2500/2500, validation error 0.080000 %
+epoch 11, minibatch 2500/2500, validation error 0.060000 %
+     epoch 11, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 12, minibatch 2500/2500, validation error 0.040000 %
+     epoch 12, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 13, minibatch 2500/2500, validation error 0.040000 %
+epoch 14, minibatch 2500/2500, validation error 0.040000 %
+epoch 15, minibatch 2500/2500, validation error 0.030000 %
+     epoch 15, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 16, minibatch 2500/2500, validation error 0.030000 %
+epoch 17, minibatch 2500/2500, validation error 0.020000 %
+     epoch 17, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 18, minibatch 2500/2500, validation error 0.020000 %
+epoch 19, minibatch 2500/2500, validation error 0.010000 %
+     epoch 19, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 20, minibatch 2500/2500, validation error 0.010000 %
+epoch 21, minibatch 2500/2500, validation error 0.010000 %
+epoch 22, minibatch 2500/2500, validation error 0.010000 %
+epoch 23, minibatch 2500/2500, validation error 0.010000 %
+epoch 24, minibatch 2500/2500, validation error 0.010000 %
+epoch 25, minibatch 2500/2500, validation error 0.010000 %
+epoch 26, minibatch 2500/2500, validation error 0.010000 %
+epoch 27, minibatch 2500/2500, validation error 0.010000 %
+epoch 28, minibatch 2500/2500, validation error 0.010000 %
+epoch 29, minibatch 2500/2500, validation error 0.010000 %
+epoch 30, minibatch 2500/2500, validation error 0.010000 %
+epoch 31, minibatch 2500/2500, validation error 0.010000 %
+epoch 32, minibatch 2500/2500, validation error 0.010000 %
+epoch 33, minibatch 2500/2500, validation error 0.010000 %
+epoch 34, minibatch 2500/2500, validation error 0.010000 %
+epoch 35, minibatch 2500/2500, validation error 0.010000 %
+epoch 36, minibatch 2500/2500, validation error 0.010000 %
+epoch 37, minibatch 2500/2500, validation error 0.010000 %
+Optimization complete. (with seed: 117) Best validation score of 0.010000 % obtained at iteration 47500, with test performance 0.010000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 1.990000 %
+     epoch 1, minibatch 2500/2500, test error of best model 1.820000 %
+epoch 2, minibatch 2500/2500, validation error 0.820000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.720000 %
+epoch 3, minibatch 2500/2500, validation error 0.370000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.420000 %
+epoch 4, minibatch 2500/2500, validation error 0.280000 %
+     epoch 4, minibatch 2500/2500, test error of best model 0.280000 %
+epoch 5, minibatch 2500/2500, validation error 0.250000 %
+     epoch 5, minibatch 2500/2500, test error of best model 0.170000 %
+epoch 6, minibatch 2500/2500, validation error 0.220000 %
+     epoch 6, minibatch 2500/2500, test error of best model 0.140000 %
+epoch 7, minibatch 2500/2500, validation error 0.200000 %
+     epoch 7, minibatch 2500/2500, test error of best model 0.110000 %
+epoch 8, minibatch 2500/2500, validation error 0.140000 %
+     epoch 8, minibatch 2500/2500, test error of best model 0.090000 %
+epoch 9, minibatch 2500/2500, validation error 0.130000 %
+     epoch 9, minibatch 2500/2500, test error of best model 0.070000 %
+epoch 10, minibatch 2500/2500, validation error 0.110000 %
+     epoch 10, minibatch 2500/2500, test error of best model 0.030000 %
+epoch 11, minibatch 2500/2500, validation error 0.090000 %
+     epoch 11, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 12, minibatch 2500/2500, validation error 0.060000 %
+     epoch 12, minibatch 2500/2500, test error of best model 0.020000 %
+epoch 13, minibatch 2500/2500, validation error 0.060000 %
+epoch 14, minibatch 2500/2500, validation error 0.060000 %
+epoch 15, minibatch 2500/2500, validation error 0.040000 %
+     epoch 15, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 16, minibatch 2500/2500, validation error 0.020000 %
+     epoch 16, minibatch 2500/2500, test error of best model 0.010000 %
+epoch 17, minibatch 2500/2500, validation error 0.000000 %
+     epoch 17, minibatch 2500/2500, test error of best model 0.000000 %
+epoch 18, minibatch 2500/2500, validation error 0.000000 %
+epoch 19, minibatch 2500/2500, validation error 0.000000 %
+epoch 20, minibatch 2500/2500, validation error 0.000000 %
+epoch 21, minibatch 2500/2500, validation error 0.000000 %
+epoch 22, minibatch 2500/2500, validation error 0.000000 %
+epoch 23, minibatch 2500/2500, validation error 0.000000 %
+epoch 24, minibatch 2500/2500, validation error 0.000000 %
+epoch 25, minibatch 2500/2500, validation error 0.000000 %
+epoch 26, minibatch 2500/2500, validation error 0.000000 %
+epoch 27, minibatch 2500/2500, validation error 0.000000 %
+epoch 28, minibatch 2500/2500, validation error 0.000000 %
+epoch 29, minibatch 2500/2500, validation error 0.000000 %
+epoch 30, minibatch 2500/2500, validation error 0.000000 %
+epoch 31, minibatch 2500/2500, validation error 0.000000 %
+epoch 32, minibatch 2500/2500, validation error 0.000000 %
+epoch 33, minibatch 2500/2500, validation error 0.000000 %
+Optimization complete. (with seed: 118) Best validation score of 0.000000 % obtained at iteration 42500, with test performance 0.000000 %
+... loading data
+... building the model
+... training
+epoch 1, minibatch 2500/2500, validation error 0.240000 %
+     epoch 1, minibatch 2500/2500, test error of best model 0.180000 %
+epoch 2, minibatch 2500/2500, validation error 0.140000 %
+     epoch 2, minibatch 2500/2500, test error of best model 0.050000 %
+epoch 3, minibatch 2500/2500, validation error 0.090000 %
+     epoch 3, minibatch 2500/2500, test error of best model 0.040000 %
+epoch 4, minibatch 2500/2500, validation error 0.090000 %
+epoch 5, minibatch 2500/2500, validation error 0.090000 %
+Optimization complete. (with seed: 119) Best validation score of 0.090000 % obtained at iteration 7500, with test performance 0.040000 %
